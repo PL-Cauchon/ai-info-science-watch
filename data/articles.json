@@ -1,0 +1,767 @@
+[
+  {
+    "id": "36e1c99e0a2f",
+    "title": "Sam Altman’s Orb Company Promoted a Bruno Mars Partnership That Doesn't Exist",
+    "url": "https://www.wired.com/story/sam-altman-orb-company-bruno-mars-partnership-fake/",
+    "source": "Wired AI",
+    "date": "2026-04-22T22:11:15+00:00",
+    "summary": "“To be clear, we were never approached … nor were we in any discussions regarding a partnership or tour access,” a spokesperson for the artist tells WIRED.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c83a6a2499e9",
+    "title": "FPF on the Securing and Establishing Consumer Uniform Rights and Enforcement Over Data (“SECURE Data”) Act",
+    "url": "https://fpf.org/press-releases/fpf-on-the-securing-and-establishing-consumer-uniform-rights-and-enforcement-over-data-secure-data-act/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-04-22T20:45:27+00:00",
+    "summary": "The U.S. is overdue to adopt comprehensive federal consumer privacy legislation. Baseline protections for personal information in a federal privacy law would provide an essential foundation for progress on other Congressional priorities, including AI governance and youth online safety, and it’s encouraging to see Congress renewing its attention to this topic. In the absence of [&#8230;]",
+    "category": "AI & Information Governance"
+  },
+  {
+    "id": "0c8329c0f2a9",
+    "title": "5 AI Models Tried to Scam Me. Some of Them Were Scary Good",
+    "url": "https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/",
+    "source": "Wired AI",
+    "date": "2026-04-22T18:00:00+00:00",
+    "summary": "The cyber capabilities of AI models have experts rattled. AI’s social skills may be just as dangerous.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "6474979cc2ef",
+    "title": "AI Tools Are Helping Mediocre North Korean Hackers Steal Millions",
+    "url": "https://www.wired.com/story/ai-tools-are-helping-mediocre-north-korean-hackers-steal-millions/",
+    "source": "Wired AI",
+    "date": "2026-04-22T16:00:00+00:00",
+    "summary": "One group of hackers used AI for everything from vibe coding their malware to creating fake company websites—and stole as much as $12 million in three months.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a3af3b112b13",
+    "title": "AI needs a strong data fabric to deliver business value",
+    "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
+    "source": "MIT Tech Review",
+    "date": "2026-04-22T10:05:06+00:00",
+    "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least three business functions, according to a recent survey. But as AI becomes&#8230;",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "53d80670c65f",
+    "title": "Join Our Livestream: Musk v. Altman and the Future of OpenAI",
+    "url": "https://www.wired.com/story/livestream-musk-v-altman-trial/",
+    "source": "Wired AI",
+    "date": "2026-04-22T10:00:00+00:00",
+    "summary": "On May 8, we’re going live to answer your questions about the Musk v. Altman trial that could determine the fate of OpenAI.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b1e42d184583",
+    "title": "The Pope’s Warnings About AI Were AI-Generated, a Detection Tool Claims",
+    "url": "https://www.wired.com/story/pope-tweets-ai-generated-pangram-chrome-extension/",
+    "source": "Wired AI",
+    "date": "2026-04-22T09:30:00+00:00",
+    "summary": "Pangram Labs’ updated Chrome extension puts warning labels on AI slop as you scroll your social feeds.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2feba573b344",
+    "title": "10 Things That Matter in AI Right Now",
+    "url": "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/",
+    "source": "MIT Tech Review",
+    "date": "2026-04-21T20:45:00+00:00",
+    "summary": "",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "9945d76c9dec",
+    "title": "LLMs+",
+    "url": "https://www.technologyreview.com/2026/04/21/1135645/llm-large-language-models-ai/",
+    "source": "MIT Tech Review",
+    "date": "2026-04-21T20:45:00+00:00",
+    "summary": "When ChatGPT launched as an experimental prototype in late 2022, OpenAI’s chatbot became an everyday everything app for hundreds of millions of people. LLMs like ChatGPT were the new future: The entire tech industry was consumed by the inferno, with companies racing to spin up rival products. The ashes of the old tech world still&#8230;",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "4214d2493438",
+    "title": "Supercharged scams",
+    "url": "https://www.technologyreview.com/2026/04/21/1135647/supercharged-scams-ai-artificial-intelligence/",
+    "source": "MIT Tech Review",
+    "date": "2026-04-21T20:45:00+00:00",
+    "summary": "When ChatGPT was released to the public in late 2022, it opened people’s eyes to how easily generative AI could churn out vast amounts of human-seeming text from simple prompts. This quickly caught the attention of criminals, who soon began using large language models to produce malicious emails—both the untargeted spam kind and more sophisticated,&#8230;",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "6e6b17c22c9b",
+    "title": "World models",
+    "url": "https://www.technologyreview.com/2026/04/21/1135650/world-models-ai-artificial-intelligence/",
+    "source": "MIT Tech Review",
+    "date": "2026-04-21T20:45:00+00:00",
+    "summary": "AI systems have already gained impressive mastery over the digital world, but the physical world is still humanity’s domain. As it turns out, building an AI system that can compose a novel or code an app is far easier than developing one that can fold laundry or navigate a city street. To get there, many&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a3e77af4f699",
+    "title": "Weaponized deepfakes",
+    "url": "https://www.technologyreview.com/2026/04/21/1135652/weaponized-deepfakes-ai-artificial-intelligence/",
+    "source": "MIT Tech Review",
+    "date": "2026-04-21T20:45:00+00:00",
+    "summary": "For years, experts have warned that deepfakes—AI-generated videos, images, or audio recordings of people doing or saying things they haven’t actually done in real life—could be deployed in malicious ways.&#160; These dangers are now here. Improvements in deepfake technology, and the widespread availability of easy-to-use and cheap (or free) generative models, have made it easier&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "fe03ce8c5833",
+    "title": "Agent orchestration",
+    "url": "https://www.technologyreview.com/2026/04/21/1135654/agent-orchestration-ai-artificial-intelligence/",
+    "source": "MIT Tech Review",
+    "date": "2026-04-21T20:45:00+00:00",
+    "summary": "When people say AI will speed up drug development or fear that it will bring about mass layoffs, what they have in mind—whether they know it or not—are AI agents. ChatGPT made large language models a mass consumer product. But to change the world, AI needs to do more than just talk back: It needs&#8230;",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "bd1359967bb4",
+    "title": "Humanoid data",
+    "url": "https://www.technologyreview.com/2026/04/21/1135656/humanoid-data-robot-training-ai-artificial-intelligence/",
+    "source": "MIT Tech Review",
+    "date": "2026-04-21T20:45:00+00:00",
+    "summary": "I was recently invited to join an app that would pay me cryptocurrency to film myself doing tasks like putting food into a bowl, microwaving it, and then taking it out. Another website suggested I try a new game in which I&#8217;d remotely control a robotic arm in Shenzhen, China, as it completed puzzles and&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5db0fd385e74",
+    "title": "China’s open-source bet",
+    "url": "https://www.technologyreview.com/2026/04/21/1135658/china-open-source-models-ai-artificial-intelligence/",
+    "source": "MIT Tech Review",
+    "date": "2026-04-21T20:45:00+00:00",
+    "summary": "Silicon Valley AI companies follow a familiar playbook: Keep the secret sauce behind an API, and charge for every drop. China’s leading AI labs are playing a different game: They ship models as downloadable “open-weight” packages. This lets developers adapt the models and run them on their own hardware to build products without negotiating a&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "df679c69e1e3",
+    "title": "Artificial scientists",
+    "url": "https://www.technologyreview.com/2026/04/21/1135663/artificial-scientists-ai-artificial-intelligence/",
+    "source": "MIT Tech Review",
+    "date": "2026-04-21T20:45:00+00:00",
+    "summary": "AI companies frequently invoke the possibility of AI-enabled scientific discovery as a justification for their existence: If the technology eventually cures cancer and solves climate change, then all the carbon emissions and slop videos will have been well worth it.&#160; Already, LLMs can assist scientists in all sorts of ways. They can point people to&#8230;",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "1ac48a627487",
+    "title": "OpenAI Beefs Up ChatGPT’s Image Generation Model",
+    "url": "https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model/",
+    "source": "Wired AI",
+    "date": "2026-04-21T19:00:00+00:00",
+    "summary": "The ChatGPT Images 2.0 model is here. Our testing shows it’s better at creating more detailed images and rendering text, but it still struggles with languages other than English.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "64b4184895b3",
+    "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox",
+    "url": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/",
+    "source": "Wired AI",
+    "date": "2026-04-21T18:30:00+00:00",
+    "summary": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a5c6c20ab409",
+    "title": "Tim Cook’s Legacy Is Turning Apple Into a Subscription",
+    "url": "https://www.wired.com/story/apple-tim-cook-subscription-business/",
+    "source": "Wired AI",
+    "date": "2026-04-21T17:35:12+00:00",
+    "summary": "The soon-to-exit Apple CEO went all in on services. Now, the incoming CEO, John Ternus, will need to embrace the AI era.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "13820fb55ec5",
+    "title": "This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men",
+    "url": "https://www.wired.com/story/ai-generated-maga-girls/",
+    "source": "Wired AI",
+    "date": "2026-04-21T11:00:00+00:00",
+    "summary": "A med student says he’s made thousands of dollars selling photos and videos of a young conservative woman he created using generative tools. He’s not alone.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "6ba5e9a80fc6",
+    "title": "A Humanoid Robot Set a Half-Marathon Record in China",
+    "url": "https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/",
+    "source": "Wired AI",
+    "date": "2026-04-20T22:33:27+00:00",
+    "summary": "An autonomous robot from the company Honor ran a half marathon in 50:26, beating the human record by 7 minutes.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b52d6f1894e3",
+    "title": "The Alabama Personal Data Protection Act Brings Consumer Privacy to the Heart of Dixie",
+    "url": "https://fpf.org/blog/the-alabama-personal-data-protection-act-brings-consumer-privacy-to-the-heart-of-dixie/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-04-17T16:03:44+00:00",
+    "summary": "We had to wait almost two years between when the 19th and 20th state comprehensive privacy laws were enacted, but the gap between the 20th and 21st proved to be a mere month. Governor Ivey signed HB 351, the Alabama Personal Data Protection Act (APDPA) into law on April 16. While this law is based [&#8230;]",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b59e72acfe35",
+    "title": "Relentless Curiosity: An Interview with Seth Langer",
+    "url": "https://blogs.loc.gov/thesignal/2026/04/relentless-curiosity-an-interview-with-seth-langer/",
+    "source": "LOC Signal",
+    "date": "2026-04-16T17:42:58+00:00",
+    "summary": "Today’s blog post is an interview with Seth Langer, a Digital Collections Technician here at the Library of Congress. You can read other interviews with digital collections staff here. Hi Seth, could you tell us a bit about what you do in the Digital Services Directorate? How would you explain your job to someone outside &#8230;",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "39622852f43f",
+    "title": "Content Authenticity and Provenance in the Age of Artificial Intelligence: A Call to Action for the Libraries, Archives and Museums Community",
+    "url": "https://blogs.loc.gov/thesignal/2026/04/content-authenticity-and-provenance-in-the-age-of-artificial-intelligence-a-call-to-action-for-the-libraries-archives-and-museums-community/",
+    "source": "LOC Signal",
+    "date": "2026-04-14T15:04:32+00:00",
+    "summary": "Today’s guest post is from Kate Murray of the Digital Collections Management &#38; Services Division and co-founder of the C2PA for G+LAM Community of Practice. Released in February 2026 as a product of the C2PA for G+LAM Community of Practice, the white paper &#8220;Content Authenticity and Provenance in the Age of Artificial Intelligence: A Call-to-Action &#8230;",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "feccbb20a0a7",
+    "title": "Fix-It+ Interview: Volunteer-powered Human-In-The-Loop transcription for the American Archive of Public Broadcasting",
+    "url": "https://blogs.loc.gov/thesignal/2026/04/aapb-sorenson-interview/",
+    "source": "LOC Signal",
+    "date": "2026-04-09T13:55:10+00:00",
+    "summary": "We just celebrated seven years of 'By the People,' which invites virtual volunteers to transcribe historic texts, but did you know there is another crowdsourced transcription program for Library of Congress collections? Fix-It+ volunteers review and edit AI-generated transcripts for video and audio from the American Archive of Public Broadcasting (AAPB), a collaboration between GBH and The Library of Congress to preserve public television and radio. Learn how Fix-It+ enhances Library collections…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "965608059748",
+    "title": "The Price is Right: Responsible Uses of Personal Data in Pricing",
+    "url": "https://fpf.org/blog/the-price-is-right-responsible-uses-of-personal-data-in-pricing/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-04-09T09:38:00+00:00",
+    "summary": "The way prices are set is changing: more accessible data, sophisticated algorithms, and ubiquitous online shopping have given retailers the ability to automatically tailor offers to customers in real-time or near-real-time based on increasing amounts of data about markets and consumers. A number of pricing strategies involving personal data, market data, and advanced machine learning—what [&#8230;]",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "782b7d9fe072",
+    "title": "Red Lines under the EU AI Act: Restricting Real-time Remote Biometric Identification Systems for Law Enforcement Purposes",
+    "url": "https://fpf.org/blog/red-lines-under-the-eu-ai-act-restricting-real-time-remote-biometric-identification-systems-for-law-enforcement-purposes/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-04-08T01:06:59+00:00",
+    "summary": "Blog 8 &#124; Red Lines under the EU AI Act Series This blog is the eighth of a series that explores prohibited AI practices under the EU AI Act and their interplay with existing EU law. You can find the whole series here. The eighth blog in the “Red lines under the EU AI Act” series [&#8230;]",
+    "category": "AI & Information Governance"
+  },
+  {
+    "id": "b848502e2cdd",
+    "title": "Anywhere Adventures Story Submission Extended!",
+    "url": "https://blogs.loc.gov/thesignal/2026/04/anywhere-adventures-story-submission-extended/",
+    "source": "LOC Signal",
+    "date": "2026-04-07T16:15:24+00:00",
+    "summary": "Anywhere Adventures is a mobile-first website that brings local history to users through comics and travel logs. In the first year, 2025-2026 Innovator in Residence Vivian Li developed stories for three locations: Seattle, Washington, Chicago, Illinois, and Southeast Wyoming. She is now seeking story submissions from readers for two new locations: Pittsburgh, Pennsylvania and the &#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "6a9bb6596e1a",
+    "title": "The Rest of the West: Oregon and Washington Build on California Chatbot Law",
+    "url": "https://fpf.org/blog/the-rest-of-the-west-oregon-and-washington-build-on-california-chatbot-law/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-04-07T12:46:34+00:00",
+    "summary": "Introduction The West Coast now has a full set of chatbot laws on the books. Following California’s SB 243 (signed in 2025 and effective January 1, 2026) both Oregon (SB 1546) and Washington (HB 2225) enacted companion chatbot laws that will take effect on January 1, 2027. Together, these laws establish a new framework for [&#8230;]",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "17ecf9741223",
+    "title": "Thalia Lightstone: Reflections on Being a Librarian-in-Residence",
+    "url": "https://blogs.loc.gov/thesignal/2026/04/lightstone-reflections/",
+    "source": "LOC Signal",
+    "date": "2026-04-02T13:45:09+00:00",
+    "summary": "Thalia Lightstone joined the Digital Content Processing Section last year as a 2025-26 Librarian-in-Residence. As she wraps up her time at the Library of Congress, Thalia shares about her experiences in Washington, D.C., reflects on lessons learned, and looks forward to the next steps in her career.",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "5c3956839588",
+    "title": "Red Lines under the EU AI Act: Understanding the prohibition of biometric categorization for certain sensitive characteristics",
+    "url": "https://fpf.org/blog/red-lines-under-the-eu-ai-act-understanding-the-prohibition-of-biometric-categorization-for-certain-sensitive-characteristics/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-04-01T00:51:07+00:00",
+    "summary": "Blog 7 &#124; Red Lines under the EU AI Act Series This blog is the seventh of a series that explores prohibited AI practices under the EU AI Act and their interplay with existing EU law. You can find the whole series here. The EU AI Act provides for rules on prohibited AI practices that the [&#8230;]",
+    "category": "AI & Information Governance"
+  },
+  {
+    "id": "7200ae7d10cf",
+    "title": "Data-driven workflows and the art of informational collaboration",
+    "url": "https://hangingtogether.org/data-driven-workflows-and-the-art-of-informational-collaboration/",
+    "source": "OCLC Research",
+    "date": "2026-03-31T14:28:24+00:00",
+    "summary": "Informational collaboration - sharing, aggregating, and analyzing data - drives stewardship at scale. Just ask shared print practitioners. The post Data-driven workflows and the art of informational collaboration appeared first on Hanging Together.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "cd56e9b24b3b",
+    "title": "Join us for a By the People Orientation Webinar on April 9",
+    "url": "https://blogs.loc.gov/thesignal/2026/03/btp-orientation/",
+    "source": "LOC Signal",
+    "date": "2026-03-31T13:15:28+00:00",
+    "summary": "The By the People crowdsourced transcription program will host a virtual orientation webinar on Thursday, April 9, from 3:00 PM to 4:00 PM EDT. Registration is required. During the orientation webinar, By the People Community Managers will cover the basics of the transcription lifecycle and guidelines for how to transcribe and review - and more! Click through to learn more about registration,",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "84bb8ce5bdfe",
+    "title": "2026 Chatbot Legislation Tracker",
+    "url": "https://fpf.org/blog/2026-chatbot-legislation-tracker/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-03-26T18:36:12+00:00",
+    "summary": "Co-authored by Rafal Fryc With nearly 100 chatbot-specific bills introduced across states in 2026, a complex and increasingly fragmented compliance landscape is quickly emerging. This tracker helps stakeholders understand that landscape by highlighting chatbot legislation advancing through initial chambers in state legislatures and Congress, and organizing key provisions across proposals to show what is coming [&#8230;]",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "cef4e1fd41ac",
+    "title": "Using Open Source Tools to Capture Closed Captions and Timecode",
+    "url": "https://blogs.loc.gov/thesignal/2026/03/open-source-tools-captions-timecode/",
+    "source": "LOC Signal",
+    "date": "2026-03-26T14:30:45+00:00",
+    "summary": "Vrecord is open source video capture software used by video preservation labs across the nation, with one of its most notable features being the ability to natively capture and encode FFV1 Matroska files. Until recently, the NAVCC Video Lab has not been able to capture all tapes into FFV1 Matroska due to some of vrecord’s limitations. This blog post describes a number of FADGI funded updates to vrecord which expanded the tool’s ability to digitize various video tape formats from the Library of C…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "79027eb5146f",
+    "title": "Encountering ICE",
+    "url": "https://americanlibrariesmagazine.org/2026/03/26/encountering-ice/?utm_source=rss&utm_medium=rss&utm_campaign=encountering-ice",
+    "source": "American Libraries",
+    "date": "2026-03-26T13:08:39+00:00",
+    "summary": "As ICE has raided homes, businesses, and public facilities in communities across the country, public libraries are grappling with how to prepare staff, protect patrons, respond to incidents, and develop resources for in-the-moment de-escalation and long-term recovery. In February, the Public Library Association (PLA) convened a webinar called “Responding to ICE at the Library: Real &#8230; Continue reading Encountering ICE &#8594; The post Encountering ICE appeared first on American Libraries Ma…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "c41820c42d4f",
+    "title": "Red Lines under EU AI Act: Unpacking the prohibition of emotion recognition in the workplace and education institutions",
+    "url": "https://fpf.org/blog/red-lines-under-eu-ai-act-unpacking-the-prohibition-of-emotion-recognition-in-the-workplace-and-education-institutions/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-03-24T23:11:54+00:00",
+    "summary": "Blog 6 &#124; Red Lines under the EU AI Act Series This blog is the sixth of a series that explores prohibited AI practices under the EU AI Act and their interplay with existing EU law. You can find the whole series here. The sixth blog in the “Red lines under the EU AI Act” [&#8230;]",
+    "category": "AI & Information Governance"
+  },
+  {
+    "id": "db58068a2975",
+    "title": "What’s New Online at the Library of Congress: March 2026",
+    "url": "https://blogs.loc.gov/thesignal/2026/03/new-loc-march-2026/",
+    "source": "LOC Signal",
+    "date": "2026-03-23T13:20:36+00:00",
+    "summary": "In our Spring 2026 edition of \"What’s New Online at the Library of Congress,\" we share updates to the Library's digital collections, web archives, datasets, and more. Click through to read all about it!",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "acc75e33ac98",
+    "title": "Privacy Protections Coming Sooner Rather Than Later to the Sooner State",
+    "url": "https://fpf.org/blog/privacy-protections-coming-sooner-rather-than-later-to-the-sooner-state/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-03-23T13:03:42+00:00",
+    "summary": "Oklahoma has become the latest U.S. state to enact a comprehensive consumer privacy law after Governor Stitt signed SB 546 into law on March 20. This ends two long legislative droughts: First, this is the long-awaited 20th state comprehensive privacy law and the first since the Rhode Island Data Transparency and Privacy Protection Act was [&#8230;]",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "564fa2258622",
+    "title": "Reflections from the Second NIST Cyber AI Profile Workshop",
+    "url": "https://www.nist.gov/blogs/cybersecurity-insights/reflections-second-nist-cyber-ai-profile-workshop",
+    "source": "NIST",
+    "date": "2026-03-23T12:00:00+00:00",
+    "summary": "Thank you to everyone who participated in the Cybersecurity Framework Profile for Artificial Intelligence (Cyber AI Profile) Workshop in January! The input we received on the Preliminary Draft during this workshop has been invaluable and is informing the development of the next draft of the NIST Cyber AI Profile. We are working toward publishing a full workshop summary soon that captures themes and highlights from the event. In the interim, we would like to share a preview of what we heard… Back…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "01a934a15da2",
+    "title": "All aboard: the NIST Cybersecurity for IoT Program is headed to our next stop! Share your input on where we’re headed during our Future Directions Two-Day Workshop on March 31st.",
+    "url": "https://www.nist.gov/blogs/cybersecurity-insights/all-aboard-nist-cybersecurity-iot-program-headed-our-next-stop-share",
+    "source": "NIST",
+    "date": "2026-03-20T12:00:00+00:00",
+    "summary": "Workshop Details… We’re looking forward to hearing from the community during our “Future Directions” Workshop! Date: March 31 - April 1, 2026 Where: NIST’s Gaithersburg campus! Registration and Details: HERE Can’t make it? We still want to hear from you – email us at IoTSecurity [at] nist.gov (IoTSecurity[at]nist[dot]gov). All Aboard for Product Cybersecurity The NIST Cybersecurity for Internet of Things (IoT) Program was established to help real-world practitioners navigate the gray areas betwe…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "16bb5a385120",
+    "title": "Navigating Autonomy and Privacy in Emerging AgeTech: Insights from the FPF Roundtable",
+    "url": "https://fpf.org/blog/navigating-autonomy-and-privacy-in-emerging-agetech-insights-from-the-fpf-roundtable/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-03-19T17:09:16+00:00",
+    "summary": "As AgeTech expands into homes across the country—seeking to enable older adults to live independently longer—fundamental questions about autonomy, privacy, and trust are coming into sharper focus. How do we balance caregiver support with individual privacy? Should data pertaining to older adults be treated as “sensitive?” And in a fragmented privacy and consumer protection landscape, [&#8230;]",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c27504d429c6",
+    "title": "Celebrating Seven Years of By the People",
+    "url": "https://blogs.loc.gov/thesignal/2026/03/by-the-people-turns-7/",
+    "source": "LOC Signal",
+    "date": "2026-03-12T14:07:00+00:00",
+    "summary": "The ‘By the People’ crowdsourced transcription program recently turned 7. We’re celebrating this anniversary by marking another major occasion: our volunteers have officially completed over one million transcriptions! Click through to learn more about what the program has planned as we enter another exciting year.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "fab6b60b9ef9",
+    "title": "Stories Everywhere: An Interview with David Neil",
+    "url": "https://blogs.loc.gov/thesignal/2026/03/david-neil-interview/",
+    "source": "LOC Signal",
+    "date": "2026-03-10T18:12:39+00:00",
+    "summary": "In this interview, David Neil discusses his experience working as a User Experience Designer in Design and Development at the Library of Congress. He shares behind-the-scenes insights about some favorite Library products, advice for practitioners, reflections on the past and future of technology, and his own near-term plans as he retires.",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "178f61c34e9e",
+    "title": "Newsmaker: Mychal Threets",
+    "url": "https://americanlibrariesmagazine.org/2026/03/02/newsmaker-mychal-threets/?utm_source=rss&utm_medium=rss&utm_campaign=newsmaker-mychal-threets",
+    "source": "American Libraries",
+    "date": "2026-03-02T14:00:49+00:00",
+    "summary": "You’ve talked about being a library kid long before you ever worked at the library. How did you start to see it as a career path? It took a lot of failure. It took a lot of mistakes, a lot of careers not panning out. My dream job was to be in the military. Even &#8230; Continue reading Newsmaker: Mychal Threets &#8594; The post Newsmaker: Mychal Threets appeared first on American Libraries Magazine.",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "525ed90f591b",
+    "title": "5 Library Wins Worth Celebrating",
+    "url": "https://americanlibrariesmagazine.org/2026/03/02/5-library-wins-worth-celebrating/?utm_source=rss&utm_medium=rss&utm_campaign=5-library-wins-worth-celebrating",
+    "source": "American Libraries",
+    "date": "2026-03-02T13:58:41+00:00",
+    "summary": "But in 2025, there were notable examples of voters, courts, and candidates across the country affirming the profession’s core values of intellectual freedom and inclusive access. Below we highlight five recent victories for libraries, library workers, and their communities. 1. California voters rein in city council overreach Huntington Beach, California, has become a flashpoint in &#8230; Continue reading 5 Library Wins Worth Celebrating &#8594; The post 5 Library Wins Worth Celebrating appeared…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "d434daa6063c",
+    "title": "Finding Your Heroes on the Hill",
+    "url": "https://americanlibrariesmagazine.org/2026/03/02/finding-your-heroes-on-the-hill/?utm_source=rss&utm_medium=rss&utm_campaign=finding-your-heroes-on-the-hill",
+    "source": "American Libraries",
+    "date": "2026-03-02T13:56:57+00:00",
+    "summary": "To help equip and energize advocates in an environment of heightened stakes, the American Library Association’s (ALA) Public Policy and Advocacy Office launched a webinar series as part of its Show Up for Our Libraries campaign. The sixth installment, “Turning Congressmembers into Library Champions,” brought together voices from the library side and the congressional side &#8230; Continue reading Finding Your Heroes on the Hill &#8594; The post Finding Your Heroes on the Hill appeared first on A…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "dd7f88e37d04",
+    "title": "Getting Started with Web Accessibility",
+    "url": "https://americanlibrariesmagazine.org/2026/03/02/getting-started-with-web-accessibility/?utm_source=rss&utm_medium=rss&utm_campaign=getting-started-with-web-accessibility",
+    "source": "American Libraries",
+    "date": "2026-03-02T13:54:48+00:00",
+    "summary": "A good approach is to look at the most high-impact changes you can make early in the process to improve accessibility for users, even if the entire site is not fully accessible. The following sections outline several changes that can have a significant impact without requiring the wholesale redesign of a website. Structural elements Structuring &#8230; Continue reading Getting Started with Web Accessibility &#8594; The post Getting Started with Web Accessibility appeared first on American Librar…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "996584cd6c83",
+    "title": "Meet the Candidates for ALA President: Tamika Barnes",
+    "url": "https://americanlibrariesmagazine.org/2026/03/02/meet-the-candidates-for-ala-president-tamika-barnes/?utm_source=rss&utm_medium=rss&utm_campaign=meet-the-candidates-for-ala-president-tamika-barnes",
+    "source": "American Libraries",
+    "date": "2026-03-02T13:52:41+00:00",
+    "summary": "ALA’s mission has guided my work from the beginning. Whether serving on the ALA Executive Board, chairing the Budget Analysis and Review Committee, supporting the Spectrum Scholar community, or leading state and divisional organizations, I have seen firsthand how ALA’s values of equity, diversity, inclusion, intellectual freedom, and social responsibility are lived out every day &#8230; Continue reading Meet the Candidates for ALA President: Tamika Barnes &#8594; The post Meet the Candidates for…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "53544d1d7cd4",
+    "title": "Meet the Candidates for ALA President: Becky Calzada",
+    "url": "https://americanlibrariesmagazine.org/2026/03/02/meet-the-candidates-for-ala-president-becky-calzada/?utm_source=rss&utm_medium=rss&utm_campaign=meet-the-candidates-for-ala-president-becky-calzada",
+    "source": "American Libraries",
+    "date": "2026-03-02T13:50:40+00:00",
+    "summary": "We have been navigating rigorous, unyielding times, yet through it all, library workers have stepped up and answered the call to lead and serve. We remain resilient, dedicated, and hopeful in every microinteraction that occurs daily in the many vibrant library spaces across the country. In my own work and leadership, I am grounded in &#8230; Continue reading Meet the Candidates for ALA President: Becky Calzada &#8594; The post Meet the Candidates for ALA President: Becky Calzada appeared first o…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "031f0091646b",
+    "title": "Airport Libraries Take Off",
+    "url": "https://americanlibrariesmagazine.org/2026/03/02/airport-libraries-take-off/?utm_source=rss&utm_medium=rss&utm_campaign=airport-libraries-take-off",
+    "source": "American Libraries",
+    "date": "2026-03-02T13:48:40+00:00",
+    "summary": "Traveling alone through ­Cincinnati/Northern Kentucky ­International Airport (CVG), a woman wandered the concourse looking to pass the time. Then she spotted a sign for the Airport Library. When she arrived, she sat down, plugged in her devices, and picked up a historical biography she said she never would have chosen under normal circumstances. Before she &#8230; Continue reading Airport Libraries Take Off &#8594; The post Airport Libraries Take Off appeared first on American Libraries Magazine…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "e3dce0e587c4",
+    "title": "By the Numbers: National Parks",
+    "url": "https://americanlibrariesmagazine.org/2026/03/02/by-the-numbers-national-parks/?utm_source=rss&utm_medium=rss&utm_campaign=by-the-numbers-national-parks",
+    "source": "American Libraries",
+    "date": "2026-03-02T13:46:11+00:00",
+    "summary": "400 Approximate number of libraries operated by the National Park Service (NPS). 3.5 million Number of materials housed in the NPS History Collection at the Harpers Ferry (W.Va.) Center for Media Services. The collection includes art, documents, photos, sound recordings, uniforms, and other objects. 25 Number of parks represented in the Open Parks Network, a collaboration &#8230; Continue reading By the Numbers: National Parks &#8594; The post By the Numbers: National Parks appeared first on Ame…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "b26e7d3cfad6",
+    "title": "The Rules of Law",
+    "url": "https://americanlibrariesmagazine.org/2026/03/02/the-rules-of-law/?utm_source=rss&utm_medium=rss&utm_campaign=the-rules-of-law",
+    "source": "American Libraries",
+    "date": "2026-03-02T13:44:23+00:00",
+    "summary": "Within these limitations, though, library workers can develop their legal reference skills and provide appropriate referrals. The American Association of Law Libraries’ (AALL) 2014 report Law Libraries and Access to Justice offers tips for how to do this. In the decade since this report was released, demand for services has remained high, with many low-income &#8230; Continue reading The Rules of Law &#8594; The post The Rules of Law appeared first on American Libraries Magazine.",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "80d07b03b0a6",
+    "title": "Listening to library leaders: Surveys capture real-time perspectives shaping decisions across the field",
+    "url": "https://hangingtogether.org/listening-to-library-leaders-surveys-capture-real-time-perspectives-shaping-decisions-across-the-field/",
+    "source": "OCLC Research",
+    "date": "2026-02-28T19:24:15+00:00",
+    "summary": "Funding and resourcing, technology, staffing, community needs and expectations—the pace of change library leaders now need to navigate and lead their organizations through is nothing short of breathtaking. Trends that &#8230; The post Listening to library leaders: Surveys capture real-time perspectives shaping decisions across the field appeared first on Hanging Together.",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "e30975c2304d",
+    "title": "Celebrating Two Years of CSF 2.0!",
+    "url": "https://www.nist.gov/blogs/cybersecurity-insights/celebrating-two-years-csf-20",
+    "source": "NIST",
+    "date": "2026-02-24T12:00:00+00:00",
+    "summary": "Celebrate this milestone with us! Email us at csf [at] nist.gov (csf[at]nist[dot]gov) or tag @NISTcyber on X telling us what your favorite CSF 2.0 resource is (or how your organization has benefitted from implementing the CSF 2.0). Today marks two years since the publication of the Cybersecurity Framework (CSF) 2.0! Published in 2024, the CSF 2.0 included the addition of a Govern Function, increased emphasis on cybersecurity supply chain risk management, updated categories and subcategories to a…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e256d06b56fb",
+    "title": "Celebrating Data Privacy Week with NIST’s Privacy Engineering Program",
+    "url": "https://www.nist.gov/blogs/cybersecurity-insights/celebrating-data-privacy-week-nists-privacy-engineering-program",
+    "source": "NIST",
+    "date": "2026-01-27T12:00:00+00:00",
+    "summary": "Grab your party hats – it’s Data Privacy Week! Data Privacy Week is a global initiative led by the National Cybersecurity Alliance to spread awareness about online privacy and empower individuals and businesses to respect privacy, safeguard data, and enable trust. In celebration of this week, the NIST Privacy Engineering Program is reflecting on recent work and looking ahead to what’s coming in the new year. Throughout 2026, we plan to continue collaborating with our privacy stakeholder communit…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1e66758d30e1",
+    "title": "Scaling research support at Monash University Library",
+    "url": "https://hangingtogether.org/scaling-research-support-at-monash-university-library/",
+    "source": "OCLC Research",
+    "date": "2026-01-09T15:55:20+00:00",
+    "summary": "Learn from efforts at Monash University Library to reimagine operational structures and service models to scale research support and better align with institutional needs. The post Scaling research support at Monash University Library appeared first on Hanging Together.",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "0820cf926d39",
+    "title": "Digital Identities: Getting to Know the Verifiable Digital Credential Ecosystem",
+    "url": "https://www.nist.gov/blogs/cybersecurity-insights/digital-identities-getting-know-verifiable-digital-credential-0",
+    "source": "NIST",
+    "date": "2026-01-07T12:00:00+00:00",
+    "summary": "Understanding mDL credential formats Standards in the VDC Ecosystem In our first blog post in this series, we highlighted that VDCs can represent a wide range of credentials, from a driver’s license to a diploma to proof of age. The ability to use VDCs in a wide variety of use cases is a major reason why many are looking at the VDC ecosystem as technology that can change how we present identity and attributes (both in person and online). While credential variety is a good thing, interoperability…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "afd6be402a1d",
+    "title": "A NICE Retrospective on Shaping Cybersecurity’s Future",
+    "url": "https://www.nist.gov/blogs/cybersecurity-insights/nice-retrospective-shaping-cybersecuritys-future",
+    "source": "NIST",
+    "date": "2025-12-02T12:00:00+00:00",
+    "summary": "Rodney Petersen has served as the Director of NICE at the National Institute for Standards and Technology (NIST) for the past eleven years where his focus has been on advancing cybersecurity education and workforce development. He will be retiring from federal government service at the end of the 2025 calendar year. Prior to his role at NIST, he has worked in various technology policy and leadership roles with EDUCAUSE and the University of Maryland. The NICE program, led by the National Institu…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e25f8231f5bf",
+    "title": "Building effective workflows for oral history projects: Collaboration, structure, and AI innovation",
+    "url": "https://hangingtogether.org/building-effective-workflows-for-oral-history-projects-collaboration-structure-and-ai-innovation/",
+    "source": "OCLC Research",
+    "date": "2025-11-07T00:18:49+00:00",
+    "summary": "How can libraries develop effective oral history workflows? University of Washington and Montana State University share insights on developing partnerships, and integrating integrating human expertise with emerging technologies to created and preserve cultural narratives, The post Building effective workflows for oral history projects: Collaboration, structure, and AI innovation appeared first on Hanging Together.",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "d363c2c1de01",
+    "title": "Werewolves in WorldCat",
+    "url": "https://hangingtogether.org/werewolves-in-worldcat/",
+    "source": "OCLC Research",
+    "date": "2025-10-31T12:53:49+00:00",
+    "summary": "If you enjoy a good werewolf story, read on for a description of some resources that will leave you howling for more—all available in WorldCat, of course! The post Werewolves in WorldCat appeared first on Hanging Together.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "cf1dfaa3f16a",
+    "title": "Autonomy to alliance: Unpacking the motivations for library partnership",
+    "url": "https://hangingtogether.org/autonomy-to-alliance-unpacking-the-motivations-for-library-partnership/",
+    "source": "OCLC Research",
+    "date": "2025-10-30T14:31:21+00:00",
+    "summary": "Why collaborate? Here's some evidence on why libraries band together to steward their collective print book collection. The post Autonomy to alliance: Unpacking the motivations for library partnership appeared first on Hanging Together.",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "d2f191344c24",
+    "title": "Striking the right balance: Opportunities and challenges of AI in metadata workflows",
+    "url": "https://hangingtogether.org/striking-the-right-balance-opportunities-and-challenges-of-ai-in-metadata-workflows/",
+    "source": "OCLC Research",
+    "date": "2025-10-20T15:46:39+00:00",
+    "summary": "AI can enhance metadata work—but only with care. Learn how libraries can balance innovation with quality and ethical practice. The post Striking the right balance: Opportunities and challenges of AI in metadata workflows appeared first on Hanging Together.",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "8e4bbea1e231",
+    "title": "Examining the role of AI in institutional repository workflows",
+    "url": "https://hangingtogether.org/examining-the-role-of-ai-in-institutional-repository-workflows/",
+    "source": "OCLC Research",
+    "date": "2025-10-16T15:03:00+00:00",
+    "summary": "Can AI help to manage institutional repository metadata? From improving deposit workflows to cleaning up legacy data, explore how AI might support IRs while keeping human expertise front and center. The post Examining the role of AI in institutional repository workflows appeared first on Hanging Together.",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "2e9db66c935d",
+    "title": "Exploring AI uses in archives and special collections: Integration, entities, and addressing need",
+    "url": "https://hangingtogether.org/exploring-ai-uses-in-archives-and-special-collections-integration-entities-and-addressing-need/",
+    "source": "OCLC Research",
+    "date": "2025-10-14T14:03:28+00:00",
+    "summary": "Learn how archives and special collections are exploring using AI responsibly to meet accessibility requirements and improve access to unique resources. The post Exploring AI uses in archives and special collections: Integration, entities, and addressing need appeared first on Hanging Together.",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "8cfe3dc57c8b",
+    "title": "Backlogs and beyond: AI in primary cataloging workflows",
+    "url": "https://hangingtogether.org/backlogs-and-beyond-ai-in-primary-cataloging-workflows/",
+    "source": "OCLC Research",
+    "date": "2025-10-09T15:01:00+00:00",
+    "summary": "Facing cataloging backlogs, legacy metadata issues, and language challenges, libraries are exploring how AI may offer practical support—while keeping human expertise central. The post Backlogs and beyond: AI in primary cataloging workflows appeared first on Hanging Together.",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "5f95442cb801",
+    "title": "Sharpening the Focus on Product Requirements and Cybersecurity Risks: Updating Foundational Activities for IoT Product Manufacturers",
+    "url": "https://www.nist.gov/blogs/cybersecurity-insights/sharpening-focus-product-requirements-and-cybersecurity-risks-updating",
+    "source": "NIST",
+    "date": "2025-09-30T12:00:00+00:00",
+    "summary": "Update: The comment period for your feedback on the second public draft of NIST IR 8259 has been extended through December 10, 2025. Over the past few months, NIST has been revising and updating Foundational Activities for IoT Product Manufacturers (NIST IR 8259 Revision 1 Initial Public Draft), which describes recommended pre-market and post-market activities for manufacturers to develop products that meet their customers’ cybersecurity needs and expectations. Thank you so much for the thoughtf…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a28b7886cfa0",
+    "title": "Let’s get Digital! Updated Digital Identity Guidelines are Here!",
+    "url": "https://www.nist.gov/blogs/cybersecurity-insights/lets-get-digital-updated-digital-identity-guidelines-are-here",
+    "source": "NIST",
+    "date": "2025-08-01T12:00:00+00:00",
+    "summary": "Today is the day! Digital Identity Guidelines, Revision 4 is finally here...it’s been an exciting journey and NIST is honored to be a part of it. What can we expect? Serving as a culmination of a nearly four-year collaborative process that included foundational research, two public drafts, and about 6,000 individual comments from the public, Revision 4 of Special Publication 800-63, Digital Identity Guidelines, intends to respond to the changing digital landscape that has emerged since the last …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f470d4959b2b",
+    "title": "Reflections from the First Cyber AI Profile Workshop",
+    "url": "https://www.nist.gov/blogs/cybersecurity-insights/reflections-first-cyber-ai-profile-workshop",
+    "source": "NIST",
+    "date": "2025-07-31T12:00:00+00:00",
+    "summary": "Thank you to everyone who participated in the Cyber AI Profile Workshop NIST hosted this past April! This work intends to support the cybersecurity and AI communities — and the input you provided during this workshop is critical. We are working to publish a Workshop Summary that captures themes and highlights from the event. In the interim, we would like to share a preview of what we heard. Background on the Cyber AI Profile Workshop ( watch the workshop introduction video) As NIST began explori…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "79174afc108c",
+    "title": "Nine Years and Counting: NICE RAMPS Communities Keep Expanding Opportunities in Cybersecurity Work and Learning",
+    "url": "https://www.nist.gov/blogs/cybersecurity-insights/nine-years-and-counting-nice-ramps-communities-keep-expanding",
+    "source": "NIST",
+    "date": "2025-07-07T12:00:00+00:00",
+    "summary": "A lot has changed in America’s cybersecurity workforce development ecosystem since 2016: employment in cybersecurity occupations has grown by more than 300,000 [1]; the number of information security degrees awarded annually has more than tripled to nearly 35,000 [2]; and a wide array of new technologies and risks have emerged. Five regional cybersecurity workforce partnerships supported by the 2016 RAMPS program pilot, administered by NIST’s NICE Program Office, have weathered the changes in cy…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c03730aa3cde",
+    "title": "The Impact of Artificial Intelligence on the Cybersecurity Workforce",
+    "url": "https://www.nist.gov/blogs/cybersecurity-insights/impact-artificial-intelligence-cybersecurity-workforce",
+    "source": "NIST",
+    "date": "2025-06-12T12:00:00+00:00",
+    "summary": "The NICE Workforce Framework for Cybersecurity ( NICE Framework) was revised in November 2020 as NIST Special Publication 800-181 rev.1 to enable more effective and rapid updates to the NICE Framework Components, including how the advent of emerging technologies would impact cybersecurity work. NICE has been actively engaging in conversations with: federal departments and agencies; industry; education, training, and certification providers; and international representatives to understand how Art…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "891572cacf0a",
+    "title": "Cybersecurity and AI: Integrating and Building on Existing NIST Guidelines",
+    "url": "https://www.nist.gov/blogs/cybersecurity-insights/cybersecurity-and-ai-integrating-and-building-existing-nist-guidelines",
+    "source": "NIST",
+    "date": "2025-05-22T12:00:00+00:00",
+    "summary": "What is NIST up to? On April 3, 2025, NIST hosted a Cybersecurity and AI Profile Workshop at our National Cybersecurity Center of Excellence (NCCoE) to hear feedback on our concept paper which presented opportunities to create profiles of the NIST Cybersecurity Framework (CSF) and the NIST AI Risk Management Framework (AI RMF). These would serve to support the cybersecurity community as they adopt AI for cybersecurity, need to defend against AI-enabled cybersecurity attacks, as well as protect A…",
+    "category": "AI & Information Governance"
+  },
+  {
+    "id": "4ad47aa53f17",
+    "title": "Five Years Later: Evolving IoT Cybersecurity Guidelines",
+    "url": "https://www.nist.gov/blogs/cybersecurity-insights/five-years-later-evolving-iot-cybersecurity-guidelines",
+    "source": "NIST",
+    "date": "2025-05-13T12:00:00+00:00",
+    "summary": "The Background…and NIST’s Plan for Improving IoT Cybersecurity The passage of the Internet of Things (IoT) Cybersecurity Improvement Act in 2020 marked a pivotal step in enhancing the cybersecurity of IoT products. Recognizing the increasing internet connectivity of physical devices, this legislation tasked NIST with developing cybersecurity guidelines to manage and secure IoT effectively. As an early building block, we developed NIST IR 8259, Foundational Cybersecurity Activities for IoT Device…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "100e4c4324fd",
+    "title": "Small Businesses Create Big Impact: NIST Celebrates 2025 National Small Business Week",
+    "url": "https://www.nist.gov/blogs/cybersecurity-insights/small-businesses-create-big-impact-nist-celebrates-2025-national-small",
+    "source": "NIST",
+    "date": "2025-05-05T12:00:00+00:00",
+    "summary": "This week we’re celebrating National Small Business Week—which recognizes and celebrates the small and medium-sized business (SMB) community’s significant contributions to the nation. SMBs are a substantial and critical part of the U.S. and global economic and cybersecurity infrastructure. According to the U.S. Small Business Administration’s Office of Advocacy, [1] there are 34.8 million SMBs in the United States (making up 99% of all U.S. businesses). Of those, 81.7% are non-employer firms wit…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5a917ab809ed",
+    "title": "Celebrating 1 Year of CSF 2.0",
+    "url": "https://www.nist.gov/blogs/cybersecurity-insights/celebrating-1-year-csf-20",
+    "source": "NIST",
+    "date": "2025-02-26T12:00:00+00:00",
+    "summary": "It has been one year since the release of the NIST Cybersecurity Framework (CSF) 2.0 ! To make improving your security posture even easier, in this blog we are: Sharing new CSF 2.0 resources; Taking a retrospective look at some resources and applications you may have missed; and Highlighting ways you can stay involved in our work, helping us help you implement better cybersecurity. NIST’s subject matter experts have worked over the last year to continue expanding the CSF 2.0 implementation resou…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "893939f85113",
+    "title": "Privacy-Preserving Federated Learning – Future Collaboration and Continued Research",
+    "url": "https://www.nist.gov/blogs/cybersecurity-insights/privacy-preserving-federated-learning-future-collaboration-and",
+    "source": "NIST",
+    "date": "2025-01-27T12:00:00+00:00",
+    "summary": "This post is the final blog in a series on privacy-preserving federated learning . The series is a collaboration between NIST and the UK government’s Responsible Technology Adoption Unit (RTA), previously known as the Centre for Data Ethics and Innovation. Learn more and read all the posts published to date at NIST’s Privacy Engineering Collaboration Space or RTA’s blog . Reflections and Wider Considerations This is the final post in the series that began with reflections and learnings from the …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2bf2b0ce320d",
+    "title": "NIST’s International Cybersecurity and Privacy Engagement Update – New Translations",
+    "url": "https://www.nist.gov/blogs/cybersecurity-insights/nists-international-cybersecurity-and-privacy-engagement-update-new",
+    "source": "NIST",
+    "date": "2024-12-19T12:00:00+00:00",
+    "summary": "As the year comes to a close, NIST continues to engage with our international partners to strengthen cybersecurity, including sharing over ten new international translations in over six languages as resources for our stakeholders around the world. These efforts were complemented by discussions on opportunities for future enhanced international collaboration and resource sharing. Here are some updates from the past few months: Our international engagement continues through our support to the Depa…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "93941b449312",
+    "title": "Data Pipeline Challenges of Privacy-Preserving Federated Learning",
+    "url": "https://www.nist.gov/blogs/cybersecurity-insights/data-pipeline-challenges-privacy-preserving-federated-learning",
+    "source": "NIST",
+    "date": "2024-12-05T12:00:00+00:00",
+    "summary": "This post is part of a series on privacy-preserving federated learning. The series is a collaboration between NIST and the UK government’s Responsible Technology Adoption Unit (RTA), previously known as the Centre for Data Ethics and Innovation. Learn more and read all the posts published to date at NIST’s Privacy Engineering Collaboration Space or RTA’s blog . Introduction In this post, we talk with Dr. Xiaowei Huang and Dr. Yi Dong (University of Liverpool) and Sikha Pentyala (University of Wa…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5e04b21cf3de",
+    "title": "Kicking-Off with a December 4th Workshop, NIST is Revisiting and Revising Foundational Cybersecurity Activities for IoT Device Manufacturers, NIST IR 8259!",
+    "url": "https://www.nist.gov/blogs/cybersecurity-insights/kicking-december-4th-workshop-nist-revisiting-and-revising-foundational",
+    "source": "NIST",
+    "date": "2024-11-21T12:00:00+00:00",
+    "summary": "In May 2020, NIST published Foundational Cybersecurity Activities for IoT Device Manufacturers (NIST IR 8259), which describes recommended cybersecurity activities that manufacturers should consider performing before their IoT devices are sold to customers. These foundational cybersecurity activities can help manufacturers lessen the cybersecurity-related efforts needed by customers, which in turn can reduce the prevalence and severity of IoT device compromises and the attacks performed using co…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "46e0918b52b2",
+    "title": "Unlocking Cybersecurity Talent: The Power of Apprenticeships",
+    "url": "https://www.nist.gov/blogs/cybersecurity-insights/unlocking-cybersecurity-talent-power-apprenticeships",
+    "source": "NIST",
+    "date": "2024-11-18T12:00:00+00:00",
+    "summary": "Cybersecurity is a fast-growing field, with a constant need for skilled professionals. But unlike other professions — like medicine or aviation — there’s no clear-cut pathway to qualifying for cybersecurity positions. For employers and job seekers alike, this can make the journey to building a team (or entering a successful cybersecurity career) feel uncertain. Enter the registered apprenticeship program — a proven method for developing skilled talent in cybersecurity that benefits both the empl…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ab5b268acfdd",
+    "title": "Digital Identities: Getting to Know the Verifiable Digital Credential Ecosystem",
+    "url": "https://www.nist.gov/blogs/cybersecurity-insights/digital-identities-getting-know-verifiable-digital-credential-ecosystem",
+    "source": "NIST",
+    "date": "2024-11-13T12:00:00+00:00",
+    "summary": "If you are interested in the world of digital identities, you have probably heard some of the buzzwords that have been floating around for a few years now… “verifiable credential,” “digital wallet,” “mobile driver’s license” or “mDL.” These terms, among others, all reference a growing ecosystem around what we are calling “verifiable digital credentials.” But what exactly is a verifiable digital credential? Take any physical credential you use in everyday life – your driver’s license, your medica…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "90d30cb3d752",
+    "title": "Staff Stories Spotlight Series: Cybersecurity Awareness Month 2024",
+    "url": "https://www.nist.gov/blogs/cybersecurity-insights/staff-stories-spotlight-series-cybersecurity-awareness-month-2024",
+    "source": "NIST",
+    "date": "2024-10-28T12:00:00+00:00",
+    "summary": "This blog is part of a larger NIST series during the month of October for Cybersecurity Awareness Month , called 'Staff Stories Spotlight.' Throughout the month of October this year, Q&amp;A style blogs will be published featuring some of our unique staff members who have interesting backgrounds, stories to tell, and projects in the world of cybersecurity. This year’s Cybersecurity Awareness Month theme is ‘Secure our World.’ How does this theme resonate with you, as someone working in cybersecu…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "33cfe668a588",
+    "title": "Staff Stories Spotlight Series: Cybersecurity Awareness Month 2024",
+    "url": "https://www.nist.gov/blogs/cybersecurity-insights/staff-stories-spotlight-series-cybersecurity-awareness-month-2024-0",
+    "source": "NIST",
+    "date": "2024-10-23T12:00:00+00:00",
+    "summary": "This blog is part of a larger NIST series during the month of October for Cybersecurity Awareness Month , called 'Staff Stories Spotlight.' Throughout the month of October this year, Q&amp;A style blogs will be published featuring some of our unique staff members who have interesting backgrounds, stories to tell, and projects in the world of cybersecurity. This year’s Cybersecurity Awareness Month theme is ‘Secure our World.’ How does this theme resonate with you, as someone working in cybersecu…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "db5b7d18ac62",
+    "title": "IoT Assignment Completed! Report on Barriers to U.S. IoT Adoption",
+    "url": "https://www.nist.gov/blogs/cybersecurity-insights/iot-assignment-completed-report-barriers-us-iot-adoption",
+    "source": "NIST",
+    "date": "2024-10-22T12:00:00+00:00",
+    "summary": "The 16 members of the NIST-managed Internet of Things (IoT) Advisory Board have completed their report on barriers to the U.S. receiving the benefits of IoT adoption, along with their recommendations for overcoming those barriers. As Benson Chan (Chair) and Dan Caprio (Vice Chair) of the IoT Advisory Board state in the report: “The United States is in the early stages of a profound transformation, one that is driven by economic, societal, and cultural innovations brought about by the IoT. These …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1486087b5346",
+    "title": "Staff Stories Spotlight Series: Cybersecurity Awareness Month 2024",
+    "url": "https://www.nist.gov/blogs/cybersecurity-insights/staff-stories-spotlight-series-cybersecurity-awareness-month-2024-4",
+    "source": "NIST",
+    "date": "2024-10-17T12:00:00+00:00",
+    "summary": "This blog is part of a larger NIST series during the month of October for Cybersecurity Awareness Month , called 'Staff Stories Spotlight.' Throughout the month of October this year, Q&amp;A style blogs will be published featuring some of our unique staff members who have interesting backgrounds, stories to tell, and projects in the world of cybersecurity. This year’s Cybersecurity Awareness Month theme is ‘Secure our World.’ How does this theme resonate with you, as someone working in cybersecu…",
+    "category": "AI & Information Sciences"
+  }
+]

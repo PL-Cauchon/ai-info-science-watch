@@ -1,0 +1,1171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI & Information Sciences Watch</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Inter',-apple-system,BlinkMacSystemFont,sans-serif;background:#F8FAFC;color:#1E293B;min-height:100vh}
+
+/* ── Header ── */
+header{background:linear-gradient(135deg,#0F172A 0%,#1A3356 100%);color:#fff;padding:2.5rem 1.5rem}
+.header-inner{max-width:1200px;margin:0 auto;display:flex;justify-content:space-between;align-items:flex-end;gap:1.5rem;flex-wrap:wrap}
+.header-eyebrow{font-size:.7rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:#60A5FA;margin-bottom:.5rem}
+header h1{font-size:1.875rem;font-weight:700;line-height:1.2;margin-bottom:.4rem}
+.header-subtitle{color:#94A3B8;font-size:.875rem;max-width:520px;line-height:1.5}
+.header-stats{display:flex;gap:2rem;align-items:flex-end}
+.stat{text-align:right}
+.stat-value{display:block;font-size:1.75rem;font-weight:700;line-height:1}
+.stat-label{font-size:.7rem;color:#94A3B8;text-transform:uppercase;letter-spacing:.05em}
+
+/* ── Main ── */
+main{max-width:1200px;margin:0 auto;padding:2rem 1.5rem}
+
+/* ── Controls ── */
+.controls{margin-bottom:2rem;display:flex;flex-direction:column;gap:.875rem}
+.search-wrap{position:relative}
+.search-icon{position:absolute;left:.875rem;top:50%;transform:translateY(-50%);color:#94A3B8;pointer-events:none}
+.search-input{width:100%;padding:.75rem 1rem .75rem 2.5rem;border:1px solid #E2E8F0;border-radius:10px;font-size:.9375rem;font-family:inherit;background:#fff;color:#1E293B;outline:none;box-shadow:0 1px 3px rgba(0,0,0,.05);transition:border-color .2s,box-shadow .2s}
+.search-input:focus{border-color:#3B82F6;box-shadow:0 0 0 3px rgba(59,130,246,.12)}
+.search-input::placeholder{color:#94A3B8}
+.filters{display:flex;flex-wrap:wrap;gap:.4rem}
+.filter-btn{padding:.35rem .875rem;border-radius:20px;border:1px solid #E2E8F0;background:#fff;color:#64748B;font-size:.78rem;font-weight:500;cursor:pointer;font-family:inherit;transition:all .15s;line-height:1.5}
+.filter-btn:hover{border-color:#94A3B8;color:#1E293B}
+.filter-btn.active{background:#0F172A;color:#fff;border-color:#0F172A}
+
+/* ── Grid ── */
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:1.125rem}
+
+/* ── Card ── */
+.card{background:#fff;border-radius:12px;border:1px solid #E2E8F0;box-shadow:0 1px 4px rgba(0,0,0,.04);transition:box-shadow .2s,transform .2s;display:flex}
+.card:hover{box-shadow:0 8px 28px rgba(0,0,0,.1);transform:translateY(-2px)}
+.card-inner{padding:1.125rem 1.25rem;display:flex;flex-direction:column;gap:.625rem;width:100%}
+.badge{display:inline-block;padding:.2rem .625rem;border-radius:20px;font-size:.68rem;font-weight:700;letter-spacing:.03em;align-self:flex-start;line-height:1.5}
+.card-title{font-size:.9rem;font-weight:600;line-height:1.45}
+.card-title a{color:#1E293B;text-decoration:none;transition:color .15s}
+.card-title a:hover{color:#3B82F6}
+.card-excerpt{font-size:.8rem;line-height:1.65;color:#64748B;flex:1;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
+.card-meta{display:flex;align-items:center;gap:.35rem;font-size:.72rem;color:#94A3B8;padding-top:.625rem;border-top:1px solid #F1F5F9;margin-top:auto}
+.card-source{font-weight:600;color:#64748B}
+.sep{opacity:.5}
+
+/* ── Empty state ── */
+.no-results{display:none;text-align:center;padding:5rem 2rem;color:#94A3B8;font-size:.9375rem}
+
+/* ── Footer ── */
+footer{text-align:center;padding:2rem 1.5rem;color:#94A3B8;font-size:.78rem;border-top:1px solid #E2E8F0;line-height:2}
+
+@media(max-width:640px){
+  header h1{font-size:1.4rem}
+  .header-inner{flex-direction:column;align-items:flex-start}
+  .header-stats{flex-direction:row;gap:1.5rem}
+  .stat{text-align:left}
+  .grid{grid-template-columns:1fr}
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <div>
+      <div class="header-eyebrow">Ubisoft &mdash; Knowledge Management &amp; Content Strategy</div>
+      <h1>AI &amp; Information Sciences Watch</h1>
+      <p class="header-subtitle">Daily intelligence on AI in libraries, archives, records management &amp; knowledge management</p>
+    </div>
+    <div class="header-stats">
+      <div class="stat">
+        <span class="stat-value">85</span>
+        <span class="stat-label">articles</span>
+      </div>
+      <div class="stat">
+        <span class="stat-value">5</span>
+        <span class="stat-label">categories</span>
+      </div>
+    </div>
+  </div>
+</header>
+
+<main>
+  <div class="controls">
+    <div class="search-wrap">
+      <svg class="search-icon" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+      <input type="text" id="search" class="search-input" placeholder="Search articles by title, source or keyword&hellip;" autocomplete="off">
+    </div>
+    <div class="filters" id="filters">
+  <button class="filter-btn active" data-filter="all">All</button>
+  <button class="filter-btn" data-filter="AI & Information Governance">AI & Information Governance</button>
+  <button class="filter-btn" data-filter="AI & Information Sciences">AI & Information Sciences</button>
+  <button class="filter-btn" data-filter="AI & Knowledge Management">AI & Knowledge Management</button>
+  <button class="filter-btn" data-filter="Information Retrieval & Search">Information Retrieval & Search</button>
+  <button class="filter-btn" data-filter="Libraries & Archives">Libraries & Archives</button>
+    </div>
+  </div>
+
+  <div class="grid" id="grid">
+<article class="card" data-category="AI & Information Sciences" data-text="sam altman’s orb company promoted a bruno mars partnership that doesn't exist “to be clear, we were never approached … nor were we in any discussions regarding a partnership or tour access,” a spokesperson for the artist tells wired. wired ai">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://www.wired.com/story/sam-altman-orb-company-bruno-mars-partnership-fake/" target="_blank" rel="noopener noreferrer">Sam Altman’s Orb Company Promoted a Bruno Mars Partnership That Doesn't Exist</a></h3>
+    <p class="card-excerpt">“To be clear, we were never approached … nor were we in any discussions regarding a partnership or tour access,” a spokesperson for the artist tells WIRED.</p>
+    <div class="card-meta">
+      <span class="card-source">Wired AI</span>
+      <span class="sep">·</span>
+      <span class="card-date">Apr 22, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Governance" data-text="fpf on the securing and establishing consumer uniform rights and enforcement over data (“secure data”) act the u.s. is overdue to adopt comprehensive federal consumer privacy legislation. baseline protections for personal information in a federal privacy law would provide an essential foundation for progress on other congressional priorities, including ai governance and youth online safety, and it’s encouraging to see congress renewing its attention to this topic. in the absence of [&#8230;] future of privacy forum">
+  <div class="card-inner">
+    <span class="badge" style="background:#FEE2E2;color:#B91C1C;border:1px solid #FCA5A5">AI & Information Governance</span>
+    <h3 class="card-title"><a href="https://fpf.org/press-releases/fpf-on-the-securing-and-establishing-consumer-uniform-rights-and-enforcement-over-data-secure-data-act/" target="_blank" rel="noopener noreferrer">FPF on the Securing and Establishing Consumer Uniform Rights and Enforcement Over Data (“SECURE Data”) Act</a></h3>
+    <p class="card-excerpt">The U.S. is overdue to adopt comprehensive federal consumer privacy legislation. Baseline protections for personal information in a federal privacy law would provide an essential foundation for progress on other Congressional priorities, including AI governance and youth online safety, and it’s encouraging to see Congress renewing its attention to this topic. In the absence of [&#8230;]</p>
+    <div class="card-meta">
+      <span class="card-source">Future of Privacy Forum</span>
+      <span class="sep">·</span>
+      <span class="card-date">Apr 22, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="5 ai models tried to scam me. some of them were scary good the cyber capabilities of ai models have experts rattled. ai’s social skills may be just as dangerous. wired ai">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/" target="_blank" rel="noopener noreferrer">5 AI Models Tried to Scam Me. Some of Them Were Scary Good</a></h3>
+    <p class="card-excerpt">The cyber capabilities of AI models have experts rattled. AI’s social skills may be just as dangerous.</p>
+    <div class="card-meta">
+      <span class="card-source">Wired AI</span>
+      <span class="sep">·</span>
+      <span class="card-date">Apr 22, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="ai tools are helping mediocre north korean hackers steal millions one group of hackers used ai for everything from vibe coding their malware to creating fake company websites—and stole as much as $12 million in three months. wired ai">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://www.wired.com/story/ai-tools-are-helping-mediocre-north-korean-hackers-steal-millions/" target="_blank" rel="noopener noreferrer">AI Tools Are Helping Mediocre North Korean Hackers Steal Millions</a></h3>
+    <p class="card-excerpt">One group of hackers used AI for everything from vibe coding their malware to creating fake company websites—and stole as much as $12 million in three months.</p>
+    <div class="card-meta">
+      <span class="card-source">Wired AI</span>
+      <span class="sep">·</span>
+      <span class="card-date">Apr 22, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Knowledge Management" data-text="ai needs a strong data fabric to deliver business value artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. by the end of 2025, half of companies used ai in at least three business functions, according to a recent survey. but as ai becomes&#8230; mit tech review">
+  <div class="card-inner">
+    <span class="badge" style="background:#DBEAFE;color:#1D4ED8;border:1px solid #93C5FD">AI & Knowledge Management</span>
+    <h3 class="card-title"><a href="https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/" target="_blank" rel="noopener noreferrer">AI needs a strong data fabric to deliver business value</a></h3>
+    <p class="card-excerpt">Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least three business functions, according to a recent survey. But as AI becomes&#8230;</p>
+    <div class="card-meta">
+      <span class="card-source">MIT Tech Review</span>
+      <span class="sep">·</span>
+      <span class="card-date">Apr 22, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="join our livestream: musk v. altman and the future of openai on may 8, we’re going live to answer your questions about the musk v. altman trial that could determine the fate of openai. wired ai">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://www.wired.com/story/livestream-musk-v-altman-trial/" target="_blank" rel="noopener noreferrer">Join Our Livestream: Musk v. Altman and the Future of OpenAI</a></h3>
+    <p class="card-excerpt">On May 8, we’re going live to answer your questions about the Musk v. Altman trial that could determine the fate of OpenAI.</p>
+    <div class="card-meta">
+      <span class="card-source">Wired AI</span>
+      <span class="sep">·</span>
+      <span class="card-date">Apr 22, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="the pope’s warnings about ai were ai-generated, a detection tool claims pangram labs’ updated chrome extension puts warning labels on ai slop as you scroll your social feeds. wired ai">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://www.wired.com/story/pope-tweets-ai-generated-pangram-chrome-extension/" target="_blank" rel="noopener noreferrer">The Pope’s Warnings About AI Were AI-Generated, a Detection Tool Claims</a></h3>
+    <p class="card-excerpt">Pangram Labs’ updated Chrome extension puts warning labels on AI slop as you scroll your social feeds.</p>
+    <div class="card-meta">
+      <span class="card-source">Wired AI</span>
+      <span class="sep">·</span>
+      <span class="card-date">Apr 22, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="10 things that matter in ai right now  mit tech review">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/" target="_blank" rel="noopener noreferrer">10 Things That Matter in AI Right Now</a></h3>
+    <p class="card-excerpt"></p>
+    <div class="card-meta">
+      <span class="card-source">MIT Tech Review</span>
+      <span class="sep">·</span>
+      <span class="card-date">Apr 21, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Knowledge Management" data-text="llms+ when chatgpt launched as an experimental prototype in late 2022, openai’s chatbot became an everyday everything app for hundreds of millions of people. llms like chatgpt were the new future: the entire tech industry was consumed by the inferno, with companies racing to spin up rival products. the ashes of the old tech world still&#8230; mit tech review">
+  <div class="card-inner">
+    <span class="badge" style="background:#DBEAFE;color:#1D4ED8;border:1px solid #93C5FD">AI & Knowledge Management</span>
+    <h3 class="card-title"><a href="https://www.technologyreview.com/2026/04/21/1135645/llm-large-language-models-ai/" target="_blank" rel="noopener noreferrer">LLMs+</a></h3>
+    <p class="card-excerpt">When ChatGPT launched as an experimental prototype in late 2022, OpenAI’s chatbot became an everyday everything app for hundreds of millions of people. LLMs like ChatGPT were the new future: The entire tech industry was consumed by the inferno, with companies racing to spin up rival products. The ashes of the old tech world still&#8230;</p>
+    <div class="card-meta">
+      <span class="card-source">MIT Tech Review</span>
+      <span class="sep">·</span>
+      <span class="card-date">Apr 21, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Knowledge Management" data-text="supercharged scams when chatgpt was released to the public in late 2022, it opened people’s eyes to how easily generative ai could churn out vast amounts of human-seeming text from simple prompts. this quickly caught the attention of criminals, who soon began using large language models to produce malicious emails—both the untargeted spam kind and more sophisticated,&#8230; mit tech review">
+  <div class="card-inner">
+    <span class="badge" style="background:#DBEAFE;color:#1D4ED8;border:1px solid #93C5FD">AI & Knowledge Management</span>
+    <h3 class="card-title"><a href="https://www.technologyreview.com/2026/04/21/1135647/supercharged-scams-ai-artificial-intelligence/" target="_blank" rel="noopener noreferrer">Supercharged scams</a></h3>
+    <p class="card-excerpt">When ChatGPT was released to the public in late 2022, it opened people’s eyes to how easily generative AI could churn out vast amounts of human-seeming text from simple prompts. This quickly caught the attention of criminals, who soon began using large language models to produce malicious emails—both the untargeted spam kind and more sophisticated,&#8230;</p>
+    <div class="card-meta">
+      <span class="card-source">MIT Tech Review</span>
+      <span class="sep">·</span>
+      <span class="card-date">Apr 21, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="world models ai systems have already gained impressive mastery over the digital world, but the physical world is still humanity’s domain. as it turns out, building an ai system that can compose a novel or code an app is far easier than developing one that can fold laundry or navigate a city street. to get there, many&#8230; mit tech review">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://www.technologyreview.com/2026/04/21/1135650/world-models-ai-artificial-intelligence/" target="_blank" rel="noopener noreferrer">World models</a></h3>
+    <p class="card-excerpt">AI systems have already gained impressive mastery over the digital world, but the physical world is still humanity’s domain. As it turns out, building an AI system that can compose a novel or code an app is far easier than developing one that can fold laundry or navigate a city street. To get there, many&#8230;</p>
+    <div class="card-meta">
+      <span class="card-source">MIT Tech Review</span>
+      <span class="sep">·</span>
+      <span class="card-date">Apr 21, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="weaponized deepfakes for years, experts have warned that deepfakes—ai-generated videos, images, or audio recordings of people doing or saying things they haven’t actually done in real life—could be deployed in malicious ways.&#160; these dangers are now here. improvements in deepfake technology, and the widespread availability of easy-to-use and cheap (or free) generative models, have made it easier&#8230; mit tech review">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://www.technologyreview.com/2026/04/21/1135652/weaponized-deepfakes-ai-artificial-intelligence/" target="_blank" rel="noopener noreferrer">Weaponized deepfakes</a></h3>
+    <p class="card-excerpt">For years, experts have warned that deepfakes—AI-generated videos, images, or audio recordings of people doing or saying things they haven’t actually done in real life—could be deployed in malicious ways.&#160; These dangers are now here. Improvements in deepfake technology, and the widespread availability of easy-to-use and cheap (or free) generative models, have made it easier&#8230;</p>
+    <div class="card-meta">
+      <span class="card-source">MIT Tech Review</span>
+      <span class="sep">·</span>
+      <span class="card-date">Apr 21, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Knowledge Management" data-text="agent orchestration when people say ai will speed up drug development or fear that it will bring about mass layoffs, what they have in mind—whether they know it or not—are ai agents. chatgpt made large language models a mass consumer product. but to change the world, ai needs to do more than just talk back: it needs&#8230; mit tech review">
+  <div class="card-inner">
+    <span class="badge" style="background:#DBEAFE;color:#1D4ED8;border:1px solid #93C5FD">AI & Knowledge Management</span>
+    <h3 class="card-title"><a href="https://www.technologyreview.com/2026/04/21/1135654/agent-orchestration-ai-artificial-intelligence/" target="_blank" rel="noopener noreferrer">Agent orchestration</a></h3>
+    <p class="card-excerpt">When people say AI will speed up drug development or fear that it will bring about mass layoffs, what they have in mind—whether they know it or not—are AI agents. ChatGPT made large language models a mass consumer product. But to change the world, AI needs to do more than just talk back: It needs&#8230;</p>
+    <div class="card-meta">
+      <span class="card-source">MIT Tech Review</span>
+      <span class="sep">·</span>
+      <span class="card-date">Apr 21, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="humanoid data i was recently invited to join an app that would pay me cryptocurrency to film myself doing tasks like putting food into a bowl, microwaving it, and then taking it out. another website suggested i try a new game in which i&#8217;d remotely control a robotic arm in shenzhen, china, as it completed puzzles and&#8230; mit tech review">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://www.technologyreview.com/2026/04/21/1135656/humanoid-data-robot-training-ai-artificial-intelligence/" target="_blank" rel="noopener noreferrer">Humanoid data</a></h3>
+    <p class="card-excerpt">I was recently invited to join an app that would pay me cryptocurrency to film myself doing tasks like putting food into a bowl, microwaving it, and then taking it out. Another website suggested I try a new game in which I&#8217;d remotely control a robotic arm in Shenzhen, China, as it completed puzzles and&#8230;</p>
+    <div class="card-meta">
+      <span class="card-source">MIT Tech Review</span>
+      <span class="sep">·</span>
+      <span class="card-date">Apr 21, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="china’s open-source bet silicon valley ai companies follow a familiar playbook: keep the secret sauce behind an api, and charge for every drop. china’s leading ai labs are playing a different game: they ship models as downloadable “open-weight” packages. this lets developers adapt the models and run them on their own hardware to build products without negotiating a&#8230; mit tech review">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://www.technologyreview.com/2026/04/21/1135658/china-open-source-models-ai-artificial-intelligence/" target="_blank" rel="noopener noreferrer">China’s open-source bet</a></h3>
+    <p class="card-excerpt">Silicon Valley AI companies follow a familiar playbook: Keep the secret sauce behind an API, and charge for every drop. China’s leading AI labs are playing a different game: They ship models as downloadable “open-weight” packages. This lets developers adapt the models and run them on their own hardware to build products without negotiating a&#8230;</p>
+    <div class="card-meta">
+      <span class="card-source">MIT Tech Review</span>
+      <span class="sep">·</span>
+      <span class="card-date">Apr 21, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Knowledge Management" data-text="artificial scientists ai companies frequently invoke the possibility of ai-enabled scientific discovery as a justification for their existence: if the technology eventually cures cancer and solves climate change, then all the carbon emissions and slop videos will have been well worth it.&#160; already, llms can assist scientists in all sorts of ways. they can point people to&#8230; mit tech review">
+  <div class="card-inner">
+    <span class="badge" style="background:#DBEAFE;color:#1D4ED8;border:1px solid #93C5FD">AI & Knowledge Management</span>
+    <h3 class="card-title"><a href="https://www.technologyreview.com/2026/04/21/1135663/artificial-scientists-ai-artificial-intelligence/" target="_blank" rel="noopener noreferrer">Artificial scientists</a></h3>
+    <p class="card-excerpt">AI companies frequently invoke the possibility of AI-enabled scientific discovery as a justification for their existence: If the technology eventually cures cancer and solves climate change, then all the carbon emissions and slop videos will have been well worth it.&#160; Already, LLMs can assist scientists in all sorts of ways. They can point people to&#8230;</p>
+    <div class="card-meta">
+      <span class="card-source">MIT Tech Review</span>
+      <span class="sep">·</span>
+      <span class="card-date">Apr 21, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="openai beefs up chatgpt’s image generation model the chatgpt images 2.0 model is here. our testing shows it’s better at creating more detailed images and rendering text, but it still struggles with languages other than english. wired ai">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model/" target="_blank" rel="noopener noreferrer">OpenAI Beefs Up ChatGPT’s Image Generation Model</a></h3>
+    <p class="card-excerpt">The ChatGPT Images 2.0 model is here. Our testing shows it’s better at creating more detailed images and rendering text, but it still struggles with languages other than English.</p>
+    <div class="card-meta">
+      <span class="card-source">Wired AI</span>
+      <span class="sep">·</span>
+      <span class="card-date">Apr 21, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="mozilla used anthropic’s mythos to find and fix 271 bugs in firefox the firefox team doesn’t think emerging ai capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition. wired ai">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/" target="_blank" rel="noopener noreferrer">Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox</a></h3>
+    <p class="card-excerpt">The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.</p>
+    <div class="card-meta">
+      <span class="card-source">Wired AI</span>
+      <span class="sep">·</span>
+      <span class="card-date">Apr 21, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="tim cook’s legacy is turning apple into a subscription the soon-to-exit apple ceo went all in on services. now, the incoming ceo, john ternus, will need to embrace the ai era. wired ai">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://www.wired.com/story/apple-tim-cook-subscription-business/" target="_blank" rel="noopener noreferrer">Tim Cook’s Legacy Is Turning Apple Into a Subscription</a></h3>
+    <p class="card-excerpt">The soon-to-exit Apple CEO went all in on services. Now, the incoming CEO, John Ternus, will need to embrace the AI era.</p>
+    <div class="card-meta">
+      <span class="card-source">Wired AI</span>
+      <span class="sep">·</span>
+      <span class="card-date">Apr 21, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="this scammer used an ai-generated maga girl to grift ‘super dumb’ men a med student says he’s made thousands of dollars selling photos and videos of a young conservative woman he created using generative tools. he’s not alone. wired ai">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://www.wired.com/story/ai-generated-maga-girls/" target="_blank" rel="noopener noreferrer">This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men</a></h3>
+    <p class="card-excerpt">A med student says he’s made thousands of dollars selling photos and videos of a young conservative woman he created using generative tools. He’s not alone.</p>
+    <div class="card-meta">
+      <span class="card-source">Wired AI</span>
+      <span class="sep">·</span>
+      <span class="card-date">Apr 21, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="a humanoid robot set a half-marathon record in china an autonomous robot from the company honor ran a half marathon in 50:26, beating the human record by 7 minutes. wired ai">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/" target="_blank" rel="noopener noreferrer">A Humanoid Robot Set a Half-Marathon Record in China</a></h3>
+    <p class="card-excerpt">An autonomous robot from the company Honor ran a half marathon in 50:26, beating the human record by 7 minutes.</p>
+    <div class="card-meta">
+      <span class="card-source">Wired AI</span>
+      <span class="sep">·</span>
+      <span class="card-date">Apr 20, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="the alabama personal data protection act brings consumer privacy to the heart of dixie we had to wait almost two years between when the 19th and 20th state comprehensive privacy laws were enacted, but the gap between the 20th and 21st proved to be a mere month. governor ivey signed hb 351, the alabama personal data protection act (apdpa) into law on april 16. while this law is based [&#8230;] future of privacy forum">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://fpf.org/blog/the-alabama-personal-data-protection-act-brings-consumer-privacy-to-the-heart-of-dixie/" target="_blank" rel="noopener noreferrer">The Alabama Personal Data Protection Act Brings Consumer Privacy to the Heart of Dixie</a></h3>
+    <p class="card-excerpt">We had to wait almost two years between when the 19th and 20th state comprehensive privacy laws were enacted, but the gap between the 20th and 21st proved to be a mere month. Governor Ivey signed HB 351, the Alabama Personal Data Protection Act (APDPA) into law on April 16. While this law is based [&#8230;]</p>
+    <div class="card-meta">
+      <span class="card-source">Future of Privacy Forum</span>
+      <span class="sep">·</span>
+      <span class="card-date">Apr 17, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="Libraries & Archives" data-text="relentless curiosity: an interview with seth langer today’s blog post is an interview with seth langer, a digital collections technician here at the library of congress. you can read other interviews with digital collections staff here. hi seth, could you tell us a bit about what you do in the digital services directorate? how would you explain your job to someone outside &#8230; loc signal">
+  <div class="card-inner">
+    <span class="badge" style="background:#D1FAE5;color:#065F46;border:1px solid #6EE7B7">Libraries & Archives</span>
+    <h3 class="card-title"><a href="https://blogs.loc.gov/thesignal/2026/04/relentless-curiosity-an-interview-with-seth-langer/" target="_blank" rel="noopener noreferrer">Relentless Curiosity: An Interview with Seth Langer</a></h3>
+    <p class="card-excerpt">Today’s blog post is an interview with Seth Langer, a Digital Collections Technician here at the Library of Congress. You can read other interviews with digital collections staff here. Hi Seth, could you tell us a bit about what you do in the Digital Services Directorate? How would you explain your job to someone outside &#8230;</p>
+    <div class="card-meta">
+      <span class="card-source">LOC Signal</span>
+      <span class="sep">·</span>
+      <span class="card-date">Apr 16, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="Libraries & Archives" data-text="content authenticity and provenance in the age of artificial intelligence: a call to action for the libraries, archives and museums community today’s guest post is from kate murray of the digital collections management &#38; services division and co-founder of the c2pa for g+lam community of practice. released in february 2026 as a product of the c2pa for g+lam community of practice, the white paper &#8220;content authenticity and provenance in the age of artificial intelligence: a call-to-action &#8230; loc signal">
+  <div class="card-inner">
+    <span class="badge" style="background:#D1FAE5;color:#065F46;border:1px solid #6EE7B7">Libraries & Archives</span>
+    <h3 class="card-title"><a href="https://blogs.loc.gov/thesignal/2026/04/content-authenticity-and-provenance-in-the-age-of-artificial-intelligence-a-call-to-action-for-the-libraries-archives-and-museums-community/" target="_blank" rel="noopener noreferrer">Content Authenticity and Provenance in the Age of Artificial Intelligence: A Call to Action for the Libraries, Archives and Museums Community</a></h3>
+    <p class="card-excerpt">Today’s guest post is from Kate Murray of the Digital Collections Management &#38; Services Division and co-founder of the C2PA for G+LAM Community of Practice. Released in February 2026 as a product of the C2PA for G+LAM Community of Practice, the white paper &#8220;Content Authenticity and Provenance in the Age of Artificial Intelligence: A Call-to-Action &#8230;</p>
+    <div class="card-meta">
+      <span class="card-source">LOC Signal</span>
+      <span class="sep">·</span>
+      <span class="card-date">Apr 14, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="Libraries & Archives" data-text="fix-it+ interview: volunteer-powered human-in-the-loop transcription for the american archive of public broadcasting we just celebrated seven years of 'by the people,' which invites virtual volunteers to transcribe historic texts, but did you know there is another crowdsourced transcription program for library of congress collections? fix-it+ volunteers review and edit ai-generated transcripts for video and audio from the american archive of public broadcasting (aapb), a collaboration between gbh and the library of congress to preserve public television and radio. learn how fix-it+ enhances library collections… loc signal">
+  <div class="card-inner">
+    <span class="badge" style="background:#D1FAE5;color:#065F46;border:1px solid #6EE7B7">Libraries & Archives</span>
+    <h3 class="card-title"><a href="https://blogs.loc.gov/thesignal/2026/04/aapb-sorenson-interview/" target="_blank" rel="noopener noreferrer">Fix-It+ Interview: Volunteer-powered Human-In-The-Loop transcription for the American Archive of Public Broadcasting</a></h3>
+    <p class="card-excerpt">We just celebrated seven years of 'By the People,' which invites virtual volunteers to transcribe historic texts, but did you know there is another crowdsourced transcription program for Library of Congress collections? Fix-It+ volunteers review and edit AI-generated transcripts for video and audio from the American Archive of Public Broadcasting (AAPB), a collaboration between GBH and The Library of Congress to preserve public television and radio. Learn how Fix-It+ enhances Library collections…</p>
+    <div class="card-meta">
+      <span class="card-source">LOC Signal</span>
+      <span class="sep">·</span>
+      <span class="card-date">Apr 09, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="the price is right: responsible uses of personal data in pricing the way prices are set is changing: more accessible data, sophisticated algorithms, and ubiquitous online shopping have given retailers the ability to automatically tailor offers to customers in real-time or near-real-time based on increasing amounts of data about markets and consumers. a number of pricing strategies involving personal data, market data, and advanced machine learning—what [&#8230;] future of privacy forum">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://fpf.org/blog/the-price-is-right-responsible-uses-of-personal-data-in-pricing/" target="_blank" rel="noopener noreferrer">The Price is Right: Responsible Uses of Personal Data in Pricing</a></h3>
+    <p class="card-excerpt">The way prices are set is changing: more accessible data, sophisticated algorithms, and ubiquitous online shopping have given retailers the ability to automatically tailor offers to customers in real-time or near-real-time based on increasing amounts of data about markets and consumers. A number of pricing strategies involving personal data, market data, and advanced machine learning—what [&#8230;]</p>
+    <div class="card-meta">
+      <span class="card-source">Future of Privacy Forum</span>
+      <span class="sep">·</span>
+      <span class="card-date">Apr 09, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Governance" data-text="red lines under the eu ai act: restricting real-time remote biometric identification systems for law enforcement purposes blog 8 &#124; red lines under the eu ai act series this blog is the eighth of a series that explores prohibited ai practices under the eu ai act and their interplay with existing eu law. you can find the whole series here. the eighth blog in the “red lines under the eu ai act” series [&#8230;] future of privacy forum">
+  <div class="card-inner">
+    <span class="badge" style="background:#FEE2E2;color:#B91C1C;border:1px solid #FCA5A5">AI & Information Governance</span>
+    <h3 class="card-title"><a href="https://fpf.org/blog/red-lines-under-the-eu-ai-act-restricting-real-time-remote-biometric-identification-systems-for-law-enforcement-purposes/" target="_blank" rel="noopener noreferrer">Red Lines under the EU AI Act: Restricting Real-time Remote Biometric Identification Systems for Law Enforcement Purposes</a></h3>
+    <p class="card-excerpt">Blog 8 &#124; Red Lines under the EU AI Act Series This blog is the eighth of a series that explores prohibited AI practices under the EU AI Act and their interplay with existing EU law. You can find the whole series here. The eighth blog in the “Red lines under the EU AI Act” series [&#8230;]</p>
+    <div class="card-meta">
+      <span class="card-source">Future of Privacy Forum</span>
+      <span class="sep">·</span>
+      <span class="card-date">Apr 08, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="anywhere adventures story submission extended! anywhere adventures is a mobile-first website that brings local history to users through comics and travel logs. in the first year, 2025-2026 innovator in residence vivian li developed stories for three locations: seattle, washington, chicago, illinois, and southeast wyoming. she is now seeking story submissions from readers for two new locations: pittsburgh, pennsylvania and the &#8230; loc signal">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://blogs.loc.gov/thesignal/2026/04/anywhere-adventures-story-submission-extended/" target="_blank" rel="noopener noreferrer">Anywhere Adventures Story Submission Extended!</a></h3>
+    <p class="card-excerpt">Anywhere Adventures is a mobile-first website that brings local history to users through comics and travel logs. In the first year, 2025-2026 Innovator in Residence Vivian Li developed stories for three locations: Seattle, Washington, Chicago, Illinois, and Southeast Wyoming. She is now seeking story submissions from readers for two new locations: Pittsburgh, Pennsylvania and the &#8230;</p>
+    <div class="card-meta">
+      <span class="card-source">LOC Signal</span>
+      <span class="sep">·</span>
+      <span class="card-date">Apr 07, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Knowledge Management" data-text="the rest of the west: oregon and washington build on california chatbot law introduction the west coast now has a full set of chatbot laws on the books. following california’s sb 243 (signed in 2025 and effective january 1, 2026) both oregon (sb 1546) and washington (hb 2225) enacted companion chatbot laws that will take effect on january 1, 2027. together, these laws establish a new framework for [&#8230;] future of privacy forum">
+  <div class="card-inner">
+    <span class="badge" style="background:#DBEAFE;color:#1D4ED8;border:1px solid #93C5FD">AI & Knowledge Management</span>
+    <h3 class="card-title"><a href="https://fpf.org/blog/the-rest-of-the-west-oregon-and-washington-build-on-california-chatbot-law/" target="_blank" rel="noopener noreferrer">The Rest of the West: Oregon and Washington Build on California Chatbot Law</a></h3>
+    <p class="card-excerpt">Introduction The West Coast now has a full set of chatbot laws on the books. Following California’s SB 243 (signed in 2025 and effective January 1, 2026) both Oregon (SB 1546) and Washington (HB 2225) enacted companion chatbot laws that will take effect on January 1, 2027. Together, these laws establish a new framework for [&#8230;]</p>
+    <div class="card-meta">
+      <span class="card-source">Future of Privacy Forum</span>
+      <span class="sep">·</span>
+      <span class="card-date">Apr 07, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="Libraries & Archives" data-text="thalia lightstone: reflections on being a librarian-in-residence thalia lightstone joined the digital content processing section last year as a 2025-26 librarian-in-residence. as she wraps up her time at the library of congress, thalia shares about her experiences in washington, d.c., reflects on lessons learned, and looks forward to the next steps in her career. loc signal">
+  <div class="card-inner">
+    <span class="badge" style="background:#D1FAE5;color:#065F46;border:1px solid #6EE7B7">Libraries & Archives</span>
+    <h3 class="card-title"><a href="https://blogs.loc.gov/thesignal/2026/04/lightstone-reflections/" target="_blank" rel="noopener noreferrer">Thalia Lightstone: Reflections on Being a Librarian-in-Residence</a></h3>
+    <p class="card-excerpt">Thalia Lightstone joined the Digital Content Processing Section last year as a 2025-26 Librarian-in-Residence. As she wraps up her time at the Library of Congress, Thalia shares about her experiences in Washington, D.C., reflects on lessons learned, and looks forward to the next steps in her career.</p>
+    <div class="card-meta">
+      <span class="card-source">LOC Signal</span>
+      <span class="sep">·</span>
+      <span class="card-date">Apr 02, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Governance" data-text="red lines under the eu ai act: understanding the prohibition of biometric categorization for certain sensitive characteristics blog 7 &#124; red lines under the eu ai act series this blog is the seventh of a series that explores prohibited ai practices under the eu ai act and their interplay with existing eu law. you can find the whole series here. the eu ai act provides for rules on prohibited ai practices that the [&#8230;] future of privacy forum">
+  <div class="card-inner">
+    <span class="badge" style="background:#FEE2E2;color:#B91C1C;border:1px solid #FCA5A5">AI & Information Governance</span>
+    <h3 class="card-title"><a href="https://fpf.org/blog/red-lines-under-the-eu-ai-act-understanding-the-prohibition-of-biometric-categorization-for-certain-sensitive-characteristics/" target="_blank" rel="noopener noreferrer">Red Lines under the EU AI Act: Understanding the prohibition of biometric categorization for certain sensitive characteristics</a></h3>
+    <p class="card-excerpt">Blog 7 &#124; Red Lines under the EU AI Act Series This blog is the seventh of a series that explores prohibited AI practices under the EU AI Act and their interplay with existing EU law. You can find the whole series here. The EU AI Act provides for rules on prohibited AI practices that the [&#8230;]</p>
+    <div class="card-meta">
+      <span class="card-source">Future of Privacy Forum</span>
+      <span class="sep">·</span>
+      <span class="card-date">Apr 01, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="data-driven workflows and the art of informational collaboration informational collaboration - sharing, aggregating, and analyzing data - drives stewardship at scale. just ask shared print practitioners. the post data-driven workflows and the art of informational collaboration appeared first on hanging together. oclc research">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://hangingtogether.org/data-driven-workflows-and-the-art-of-informational-collaboration/" target="_blank" rel="noopener noreferrer">Data-driven workflows and the art of informational collaboration</a></h3>
+    <p class="card-excerpt">Informational collaboration - sharing, aggregating, and analyzing data - drives stewardship at scale. Just ask shared print practitioners. The post Data-driven workflows and the art of informational collaboration appeared first on Hanging Together.</p>
+    <div class="card-meta">
+      <span class="card-source">OCLC Research</span>
+      <span class="sep">·</span>
+      <span class="card-date">Mar 31, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="join us for a by the people orientation webinar on april 9 the by the people crowdsourced transcription program will host a virtual orientation webinar on thursday, april 9, from 3:00 pm to 4:00 pm edt. registration is required. during the orientation webinar, by the people community managers will cover the basics of the transcription lifecycle and guidelines for how to transcribe and review - and more! click through to learn more about registration, loc signal">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://blogs.loc.gov/thesignal/2026/03/btp-orientation/" target="_blank" rel="noopener noreferrer">Join us for a By the People Orientation Webinar on April 9</a></h3>
+    <p class="card-excerpt">The By the People crowdsourced transcription program will host a virtual orientation webinar on Thursday, April 9, from 3:00 PM to 4:00 PM EDT. Registration is required. During the orientation webinar, By the People Community Managers will cover the basics of the transcription lifecycle and guidelines for how to transcribe and review - and more! Click through to learn more about registration,</p>
+    <div class="card-meta">
+      <span class="card-source">LOC Signal</span>
+      <span class="sep">·</span>
+      <span class="card-date">Mar 31, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Knowledge Management" data-text="2026 chatbot legislation tracker co-authored by rafal fryc with nearly 100 chatbot-specific bills introduced across states in 2026, a complex and increasingly fragmented compliance landscape is quickly emerging. this tracker helps stakeholders understand that landscape by highlighting chatbot legislation advancing through initial chambers in state legislatures and congress, and organizing key provisions across proposals to show what is coming [&#8230;] future of privacy forum">
+  <div class="card-inner">
+    <span class="badge" style="background:#DBEAFE;color:#1D4ED8;border:1px solid #93C5FD">AI & Knowledge Management</span>
+    <h3 class="card-title"><a href="https://fpf.org/blog/2026-chatbot-legislation-tracker/" target="_blank" rel="noopener noreferrer">2026 Chatbot Legislation Tracker</a></h3>
+    <p class="card-excerpt">Co-authored by Rafal Fryc With nearly 100 chatbot-specific bills introduced across states in 2026, a complex and increasingly fragmented compliance landscape is quickly emerging. This tracker helps stakeholders understand that landscape by highlighting chatbot legislation advancing through initial chambers in state legislatures and Congress, and organizing key provisions across proposals to show what is coming [&#8230;]</p>
+    <div class="card-meta">
+      <span class="card-source">Future of Privacy Forum</span>
+      <span class="sep">·</span>
+      <span class="card-date">Mar 26, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="Libraries & Archives" data-text="using open source tools to capture closed captions and timecode vrecord is open source video capture software used by video preservation labs across the nation, with one of its most notable features being the ability to natively capture and encode ffv1 matroska files. until recently, the navcc video lab has not been able to capture all tapes into ffv1 matroska due to some of vrecord’s limitations. this blog post describes a number of fadgi funded updates to vrecord which expanded the tool’s ability to digitize various video tape formats from the library of c… loc signal">
+  <div class="card-inner">
+    <span class="badge" style="background:#D1FAE5;color:#065F46;border:1px solid #6EE7B7">Libraries & Archives</span>
+    <h3 class="card-title"><a href="https://blogs.loc.gov/thesignal/2026/03/open-source-tools-captions-timecode/" target="_blank" rel="noopener noreferrer">Using Open Source Tools to Capture Closed Captions and Timecode</a></h3>
+    <p class="card-excerpt">Vrecord is open source video capture software used by video preservation labs across the nation, with one of its most notable features being the ability to natively capture and encode FFV1 Matroska files. Until recently, the NAVCC Video Lab has not been able to capture all tapes into FFV1 Matroska due to some of vrecord’s limitations. This blog post describes a number of FADGI funded updates to vrecord which expanded the tool’s ability to digitize various video tape formats from the Library of C…</p>
+    <div class="card-meta">
+      <span class="card-source">LOC Signal</span>
+      <span class="sep">·</span>
+      <span class="card-date">Mar 26, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="Libraries & Archives" data-text="encountering ice as ice has raided homes, businesses, and public facilities in communities across the country, public libraries are grappling with how to prepare staff, protect patrons, respond to incidents, and develop resources for in-the-moment de-escalation and long-term recovery. in february, the public library association (pla) convened a webinar called “responding to ice at the library: real &#8230; continue reading encountering ice &#8594; the post encountering ice appeared first on american libraries ma… american libraries">
+  <div class="card-inner">
+    <span class="badge" style="background:#D1FAE5;color:#065F46;border:1px solid #6EE7B7">Libraries & Archives</span>
+    <h3 class="card-title"><a href="https://americanlibrariesmagazine.org/2026/03/26/encountering-ice/?utm_source=rss&utm_medium=rss&utm_campaign=encountering-ice" target="_blank" rel="noopener noreferrer">Encountering ICE</a></h3>
+    <p class="card-excerpt">As ICE has raided homes, businesses, and public facilities in communities across the country, public libraries are grappling with how to prepare staff, protect patrons, respond to incidents, and develop resources for in-the-moment de-escalation and long-term recovery. In February, the Public Library Association (PLA) convened a webinar called “Responding to ICE at the Library: Real &#8230; Continue reading Encountering ICE &#8594; The post Encountering ICE appeared first on American Libraries Ma…</p>
+    <div class="card-meta">
+      <span class="card-source">American Libraries</span>
+      <span class="sep">·</span>
+      <span class="card-date">Mar 26, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Governance" data-text="red lines under eu ai act: unpacking the prohibition of emotion recognition in the workplace and education institutions blog 6 &#124; red lines under the eu ai act series this blog is the sixth of a series that explores prohibited ai practices under the eu ai act and their interplay with existing eu law. you can find the whole series here. the sixth blog in the “red lines under the eu ai act” [&#8230;] future of privacy forum">
+  <div class="card-inner">
+    <span class="badge" style="background:#FEE2E2;color:#B91C1C;border:1px solid #FCA5A5">AI & Information Governance</span>
+    <h3 class="card-title"><a href="https://fpf.org/blog/red-lines-under-eu-ai-act-unpacking-the-prohibition-of-emotion-recognition-in-the-workplace-and-education-institutions/" target="_blank" rel="noopener noreferrer">Red Lines under EU AI Act: Unpacking the prohibition of emotion recognition in the workplace and education institutions</a></h3>
+    <p class="card-excerpt">Blog 6 &#124; Red Lines under the EU AI Act Series This blog is the sixth of a series that explores prohibited AI practices under the EU AI Act and their interplay with existing EU law. You can find the whole series here. The sixth blog in the “Red lines under the EU AI Act” [&#8230;]</p>
+    <div class="card-meta">
+      <span class="card-source">Future of Privacy Forum</span>
+      <span class="sep">·</span>
+      <span class="card-date">Mar 24, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="Libraries & Archives" data-text="what’s new online at the library of congress: march 2026 in our spring 2026 edition of "what’s new online at the library of congress," we share updates to the library's digital collections, web archives, datasets, and more. click through to read all about it! loc signal">
+  <div class="card-inner">
+    <span class="badge" style="background:#D1FAE5;color:#065F46;border:1px solid #6EE7B7">Libraries & Archives</span>
+    <h3 class="card-title"><a href="https://blogs.loc.gov/thesignal/2026/03/new-loc-march-2026/" target="_blank" rel="noopener noreferrer">What’s New Online at the Library of Congress: March 2026</a></h3>
+    <p class="card-excerpt">In our Spring 2026 edition of "What’s New Online at the Library of Congress," we share updates to the Library's digital collections, web archives, datasets, and more. Click through to read all about it!</p>
+    <div class="card-meta">
+      <span class="card-source">LOC Signal</span>
+      <span class="sep">·</span>
+      <span class="card-date">Mar 23, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="privacy protections coming sooner rather than later to the sooner state oklahoma has become the latest u.s. state to enact a comprehensive consumer privacy law after governor stitt signed sb 546 into law on march 20. this ends two long legislative droughts: first, this is the long-awaited 20th state comprehensive privacy law and the first since the rhode island data transparency and privacy protection act was [&#8230;] future of privacy forum">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://fpf.org/blog/privacy-protections-coming-sooner-rather-than-later-to-the-sooner-state/" target="_blank" rel="noopener noreferrer">Privacy Protections Coming Sooner Rather Than Later to the Sooner State</a></h3>
+    <p class="card-excerpt">Oklahoma has become the latest U.S. state to enact a comprehensive consumer privacy law after Governor Stitt signed SB 546 into law on March 20. This ends two long legislative droughts: First, this is the long-awaited 20th state comprehensive privacy law and the first since the Rhode Island Data Transparency and Privacy Protection Act was [&#8230;]</p>
+    <div class="card-meta">
+      <span class="card-source">Future of Privacy Forum</span>
+      <span class="sep">·</span>
+      <span class="card-date">Mar 23, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="reflections from the second nist cyber ai profile workshop thank you to everyone who participated in the cybersecurity framework profile for artificial intelligence (cyber ai profile) workshop in january! the input we received on the preliminary draft during this workshop has been invaluable and is informing the development of the next draft of the nist cyber ai profile. we are working toward publishing a full workshop summary soon that captures themes and highlights from the event. in the interim, we would like to share a preview of what we heard… back… nist">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://www.nist.gov/blogs/cybersecurity-insights/reflections-second-nist-cyber-ai-profile-workshop" target="_blank" rel="noopener noreferrer">Reflections from the Second NIST Cyber AI Profile Workshop</a></h3>
+    <p class="card-excerpt">Thank you to everyone who participated in the Cybersecurity Framework Profile for Artificial Intelligence (Cyber AI Profile) Workshop in January! The input we received on the Preliminary Draft during this workshop has been invaluable and is informing the development of the next draft of the NIST Cyber AI Profile. We are working toward publishing a full workshop summary soon that captures themes and highlights from the event. In the interim, we would like to share a preview of what we heard… Back…</p>
+    <div class="card-meta">
+      <span class="card-source">NIST</span>
+      <span class="sep">·</span>
+      <span class="card-date">Mar 23, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="all aboard: the nist cybersecurity for iot program is headed to our next stop! share your input on where we’re headed during our future directions two-day workshop on march 31st. workshop details… we’re looking forward to hearing from the community during our “future directions” workshop! date: march 31 - april 1, 2026 where: nist’s gaithersburg campus! registration and details: here can’t make it? we still want to hear from you – email us at iotsecurity [at] nist.gov (iotsecurity[at]nist[dot]gov). all aboard for product cybersecurity the nist cybersecurity for internet of things (iot) program was established to help real-world practitioners navigate the gray areas betwe… nist">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://www.nist.gov/blogs/cybersecurity-insights/all-aboard-nist-cybersecurity-iot-program-headed-our-next-stop-share" target="_blank" rel="noopener noreferrer">All aboard: the NIST Cybersecurity for IoT Program is headed to our next stop! Share your input on where we’re headed during our Future Directions Two-Day Workshop on March 31st.</a></h3>
+    <p class="card-excerpt">Workshop Details… We’re looking forward to hearing from the community during our “Future Directions” Workshop! Date: March 31 - April 1, 2026 Where: NIST’s Gaithersburg campus! Registration and Details: HERE Can’t make it? We still want to hear from you – email us at IoTSecurity [at] nist.gov (IoTSecurity[at]nist[dot]gov). All Aboard for Product Cybersecurity The NIST Cybersecurity for Internet of Things (IoT) Program was established to help real-world practitioners navigate the gray areas betwe…</p>
+    <div class="card-meta">
+      <span class="card-source">NIST</span>
+      <span class="sep">·</span>
+      <span class="card-date">Mar 20, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="navigating autonomy and privacy in emerging agetech: insights from the fpf roundtable as agetech expands into homes across the country—seeking to enable older adults to live independently longer—fundamental questions about autonomy, privacy, and trust are coming into sharper focus. how do we balance caregiver support with individual privacy? should data pertaining to older adults be treated as “sensitive?” and in a fragmented privacy and consumer protection landscape, [&#8230;] future of privacy forum">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://fpf.org/blog/navigating-autonomy-and-privacy-in-emerging-agetech-insights-from-the-fpf-roundtable/" target="_blank" rel="noopener noreferrer">Navigating Autonomy and Privacy in Emerging AgeTech: Insights from the FPF Roundtable</a></h3>
+    <p class="card-excerpt">As AgeTech expands into homes across the country—seeking to enable older adults to live independently longer—fundamental questions about autonomy, privacy, and trust are coming into sharper focus. How do we balance caregiver support with individual privacy? Should data pertaining to older adults be treated as “sensitive?” And in a fragmented privacy and consumer protection landscape, [&#8230;]</p>
+    <div class="card-meta">
+      <span class="card-source">Future of Privacy Forum</span>
+      <span class="sep">·</span>
+      <span class="card-date">Mar 19, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="celebrating seven years of by the people the ‘by the people’ crowdsourced transcription program recently turned 7. we’re celebrating this anniversary by marking another major occasion: our volunteers have officially completed over one million transcriptions! click through to learn more about what the program has planned as we enter another exciting year. loc signal">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://blogs.loc.gov/thesignal/2026/03/by-the-people-turns-7/" target="_blank" rel="noopener noreferrer">Celebrating Seven Years of By the People</a></h3>
+    <p class="card-excerpt">The ‘By the People’ crowdsourced transcription program recently turned 7. We’re celebrating this anniversary by marking another major occasion: our volunteers have officially completed over one million transcriptions! Click through to learn more about what the program has planned as we enter another exciting year.</p>
+    <div class="card-meta">
+      <span class="card-source">LOC Signal</span>
+      <span class="sep">·</span>
+      <span class="card-date">Mar 12, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="Libraries & Archives" data-text="stories everywhere: an interview with david neil in this interview, david neil discusses his experience working as a user experience designer in design and development at the library of congress. he shares behind-the-scenes insights about some favorite library products, advice for practitioners, reflections on the past and future of technology, and his own near-term plans as he retires. loc signal">
+  <div class="card-inner">
+    <span class="badge" style="background:#D1FAE5;color:#065F46;border:1px solid #6EE7B7">Libraries & Archives</span>
+    <h3 class="card-title"><a href="https://blogs.loc.gov/thesignal/2026/03/david-neil-interview/" target="_blank" rel="noopener noreferrer">Stories Everywhere: An Interview with David Neil</a></h3>
+    <p class="card-excerpt">In this interview, David Neil discusses his experience working as a User Experience Designer in Design and Development at the Library of Congress. He shares behind-the-scenes insights about some favorite Library products, advice for practitioners, reflections on the past and future of technology, and his own near-term plans as he retires.</p>
+    <div class="card-meta">
+      <span class="card-source">LOC Signal</span>
+      <span class="sep">·</span>
+      <span class="card-date">Mar 10, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="Libraries & Archives" data-text="newsmaker: mychal threets you’ve talked about being a library kid long before you ever worked at the library. how did you start to see it as a career path? it took a lot of failure. it took a lot of mistakes, a lot of careers not panning out. my dream job was to be in the military. even &#8230; continue reading newsmaker: mychal threets &#8594; the post newsmaker: mychal threets appeared first on american libraries magazine. american libraries">
+  <div class="card-inner">
+    <span class="badge" style="background:#D1FAE5;color:#065F46;border:1px solid #6EE7B7">Libraries & Archives</span>
+    <h3 class="card-title"><a href="https://americanlibrariesmagazine.org/2026/03/02/newsmaker-mychal-threets/?utm_source=rss&utm_medium=rss&utm_campaign=newsmaker-mychal-threets" target="_blank" rel="noopener noreferrer">Newsmaker: Mychal Threets</a></h3>
+    <p class="card-excerpt">You’ve talked about being a library kid long before you ever worked at the library. How did you start to see it as a career path? It took a lot of failure. It took a lot of mistakes, a lot of careers not panning out. My dream job was to be in the military. Even &#8230; Continue reading Newsmaker: Mychal Threets &#8594; The post Newsmaker: Mychal Threets appeared first on American Libraries Magazine.</p>
+    <div class="card-meta">
+      <span class="card-source">American Libraries</span>
+      <span class="sep">·</span>
+      <span class="card-date">Mar 02, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="Libraries & Archives" data-text="5 library wins worth celebrating but in 2025, there were notable examples of voters, courts, and candidates across the country affirming the profession’s core values of intellectual freedom and inclusive access. below we highlight five recent victories for libraries, library workers, and their communities. 1. california voters rein in city council overreach huntington beach, california, has become a flashpoint in &#8230; continue reading 5 library wins worth celebrating &#8594; the post 5 library wins worth celebrating appeared… american libraries">
+  <div class="card-inner">
+    <span class="badge" style="background:#D1FAE5;color:#065F46;border:1px solid #6EE7B7">Libraries & Archives</span>
+    <h3 class="card-title"><a href="https://americanlibrariesmagazine.org/2026/03/02/5-library-wins-worth-celebrating/?utm_source=rss&utm_medium=rss&utm_campaign=5-library-wins-worth-celebrating" target="_blank" rel="noopener noreferrer">5 Library Wins Worth Celebrating</a></h3>
+    <p class="card-excerpt">But in 2025, there were notable examples of voters, courts, and candidates across the country affirming the profession’s core values of intellectual freedom and inclusive access. Below we highlight five recent victories for libraries, library workers, and their communities. 1. California voters rein in city council overreach Huntington Beach, California, has become a flashpoint in &#8230; Continue reading 5 Library Wins Worth Celebrating &#8594; The post 5 Library Wins Worth Celebrating appeared…</p>
+    <div class="card-meta">
+      <span class="card-source">American Libraries</span>
+      <span class="sep">·</span>
+      <span class="card-date">Mar 02, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Knowledge Management" data-text="finding your heroes on the hill to help equip and energize advocates in an environment of heightened stakes, the american library association’s (ala) public policy and advocacy office launched a webinar series as part of its show up for our libraries campaign. the sixth installment, “turning congressmembers into library champions,” brought together voices from the library side and the congressional side &#8230; continue reading finding your heroes on the hill &#8594; the post finding your heroes on the hill appeared first on a… american libraries">
+  <div class="card-inner">
+    <span class="badge" style="background:#DBEAFE;color:#1D4ED8;border:1px solid #93C5FD">AI & Knowledge Management</span>
+    <h3 class="card-title"><a href="https://americanlibrariesmagazine.org/2026/03/02/finding-your-heroes-on-the-hill/?utm_source=rss&utm_medium=rss&utm_campaign=finding-your-heroes-on-the-hill" target="_blank" rel="noopener noreferrer">Finding Your Heroes on the Hill</a></h3>
+    <p class="card-excerpt">To help equip and energize advocates in an environment of heightened stakes, the American Library Association’s (ALA) Public Policy and Advocacy Office launched a webinar series as part of its Show Up for Our Libraries campaign. The sixth installment, “Turning Congressmembers into Library Champions,” brought together voices from the library side and the congressional side &#8230; Continue reading Finding Your Heroes on the Hill &#8594; The post Finding Your Heroes on the Hill appeared first on A…</p>
+    <div class="card-meta">
+      <span class="card-source">American Libraries</span>
+      <span class="sep">·</span>
+      <span class="card-date">Mar 02, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="getting started with web accessibility a good approach is to look at the most high-impact changes you can make early in the process to improve accessibility for users, even if the entire site is not fully accessible. the following sections outline several changes that can have a significant impact without requiring the wholesale redesign of a website. structural elements structuring &#8230; continue reading getting started with web accessibility &#8594; the post getting started with web accessibility appeared first on american librar… american libraries">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://americanlibrariesmagazine.org/2026/03/02/getting-started-with-web-accessibility/?utm_source=rss&utm_medium=rss&utm_campaign=getting-started-with-web-accessibility" target="_blank" rel="noopener noreferrer">Getting Started with Web Accessibility</a></h3>
+    <p class="card-excerpt">A good approach is to look at the most high-impact changes you can make early in the process to improve accessibility for users, even if the entire site is not fully accessible. The following sections outline several changes that can have a significant impact without requiring the wholesale redesign of a website. Structural elements Structuring &#8230; Continue reading Getting Started with Web Accessibility &#8594; The post Getting Started with Web Accessibility appeared first on American Librar…</p>
+    <div class="card-meta">
+      <span class="card-source">American Libraries</span>
+      <span class="sep">·</span>
+      <span class="card-date">Mar 02, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="meet the candidates for ala president: tamika barnes ala’s mission has guided my work from the beginning. whether serving on the ala executive board, chairing the budget analysis and review committee, supporting the spectrum scholar community, or leading state and divisional organizations, i have seen firsthand how ala’s values of equity, diversity, inclusion, intellectual freedom, and social responsibility are lived out every day &#8230; continue reading meet the candidates for ala president: tamika barnes &#8594; the post meet the candidates for… american libraries">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://americanlibrariesmagazine.org/2026/03/02/meet-the-candidates-for-ala-president-tamika-barnes/?utm_source=rss&utm_medium=rss&utm_campaign=meet-the-candidates-for-ala-president-tamika-barnes" target="_blank" rel="noopener noreferrer">Meet the Candidates for ALA President: Tamika Barnes</a></h3>
+    <p class="card-excerpt">ALA’s mission has guided my work from the beginning. Whether serving on the ALA Executive Board, chairing the Budget Analysis and Review Committee, supporting the Spectrum Scholar community, or leading state and divisional organizations, I have seen firsthand how ALA’s values of equity, diversity, inclusion, intellectual freedom, and social responsibility are lived out every day &#8230; Continue reading Meet the Candidates for ALA President: Tamika Barnes &#8594; The post Meet the Candidates for…</p>
+    <div class="card-meta">
+      <span class="card-source">American Libraries</span>
+      <span class="sep">·</span>
+      <span class="card-date">Mar 02, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="Libraries & Archives" data-text="meet the candidates for ala president: becky calzada we have been navigating rigorous, unyielding times, yet through it all, library workers have stepped up and answered the call to lead and serve. we remain resilient, dedicated, and hopeful in every microinteraction that occurs daily in the many vibrant library spaces across the country. in my own work and leadership, i am grounded in &#8230; continue reading meet the candidates for ala president: becky calzada &#8594; the post meet the candidates for ala president: becky calzada appeared first o… american libraries">
+  <div class="card-inner">
+    <span class="badge" style="background:#D1FAE5;color:#065F46;border:1px solid #6EE7B7">Libraries & Archives</span>
+    <h3 class="card-title"><a href="https://americanlibrariesmagazine.org/2026/03/02/meet-the-candidates-for-ala-president-becky-calzada/?utm_source=rss&utm_medium=rss&utm_campaign=meet-the-candidates-for-ala-president-becky-calzada" target="_blank" rel="noopener noreferrer">Meet the Candidates for ALA President: Becky Calzada</a></h3>
+    <p class="card-excerpt">We have been navigating rigorous, unyielding times, yet through it all, library workers have stepped up and answered the call to lead and serve. We remain resilient, dedicated, and hopeful in every microinteraction that occurs daily in the many vibrant library spaces across the country. In my own work and leadership, I am grounded in &#8230; Continue reading Meet the Candidates for ALA President: Becky Calzada &#8594; The post Meet the Candidates for ALA President: Becky Calzada appeared first o…</p>
+    <div class="card-meta">
+      <span class="card-source">American Libraries</span>
+      <span class="sep">·</span>
+      <span class="card-date">Mar 02, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="Libraries & Archives" data-text="airport libraries take off traveling alone through ­cincinnati/northern kentucky ­international airport (cvg), a woman wandered the concourse looking to pass the time. then she spotted a sign for the airport library. when she arrived, she sat down, plugged in her devices, and picked up a historical biography she said she never would have chosen under normal circumstances. before she &#8230; continue reading airport libraries take off &#8594; the post airport libraries take off appeared first on american libraries magazine… american libraries">
+  <div class="card-inner">
+    <span class="badge" style="background:#D1FAE5;color:#065F46;border:1px solid #6EE7B7">Libraries & Archives</span>
+    <h3 class="card-title"><a href="https://americanlibrariesmagazine.org/2026/03/02/airport-libraries-take-off/?utm_source=rss&utm_medium=rss&utm_campaign=airport-libraries-take-off" target="_blank" rel="noopener noreferrer">Airport Libraries Take Off</a></h3>
+    <p class="card-excerpt">Traveling alone through ­Cincinnati/Northern Kentucky ­International Airport (CVG), a woman wandered the concourse looking to pass the time. Then she spotted a sign for the Airport Library. When she arrived, she sat down, plugged in her devices, and picked up a historical biography she said she never would have chosen under normal circumstances. Before she &#8230; Continue reading Airport Libraries Take Off &#8594; The post Airport Libraries Take Off appeared first on American Libraries Magazine…</p>
+    <div class="card-meta">
+      <span class="card-source">American Libraries</span>
+      <span class="sep">·</span>
+      <span class="card-date">Mar 02, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="Libraries & Archives" data-text="by the numbers: national parks 400 approximate number of libraries operated by the national park service (nps). 3.5 million number of materials housed in the nps history collection at the harpers ferry (w.va.) center for media services. the collection includes art, documents, photos, sound recordings, uniforms, and other objects. 25 number of parks represented in the open parks network, a collaboration &#8230; continue reading by the numbers: national parks &#8594; the post by the numbers: national parks appeared first on ame… american libraries">
+  <div class="card-inner">
+    <span class="badge" style="background:#D1FAE5;color:#065F46;border:1px solid #6EE7B7">Libraries & Archives</span>
+    <h3 class="card-title"><a href="https://americanlibrariesmagazine.org/2026/03/02/by-the-numbers-national-parks/?utm_source=rss&utm_medium=rss&utm_campaign=by-the-numbers-national-parks" target="_blank" rel="noopener noreferrer">By the Numbers: National Parks</a></h3>
+    <p class="card-excerpt">400 Approximate number of libraries operated by the National Park Service (NPS). 3.5 million Number of materials housed in the NPS History Collection at the Harpers Ferry (W.Va.) Center for Media Services. The collection includes art, documents, photos, sound recordings, uniforms, and other objects. 25 Number of parks represented in the Open Parks Network, a collaboration &#8230; Continue reading By the Numbers: National Parks &#8594; The post By the Numbers: National Parks appeared first on Ame…</p>
+    <div class="card-meta">
+      <span class="card-source">American Libraries</span>
+      <span class="sep">·</span>
+      <span class="card-date">Mar 02, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="Libraries & Archives" data-text="the rules of law within these limitations, though, library workers can develop their legal reference skills and provide appropriate referrals. the american association of law libraries’ (aall) 2014 report law libraries and access to justice offers tips for how to do this. in the decade since this report was released, demand for services has remained high, with many low-income &#8230; continue reading the rules of law &#8594; the post the rules of law appeared first on american libraries magazine. american libraries">
+  <div class="card-inner">
+    <span class="badge" style="background:#D1FAE5;color:#065F46;border:1px solid #6EE7B7">Libraries & Archives</span>
+    <h3 class="card-title"><a href="https://americanlibrariesmagazine.org/2026/03/02/the-rules-of-law/?utm_source=rss&utm_medium=rss&utm_campaign=the-rules-of-law" target="_blank" rel="noopener noreferrer">The Rules of Law</a></h3>
+    <p class="card-excerpt">Within these limitations, though, library workers can develop their legal reference skills and provide appropriate referrals. The American Association of Law Libraries’ (AALL) 2014 report Law Libraries and Access to Justice offers tips for how to do this. In the decade since this report was released, demand for services has remained high, with many low-income &#8230; Continue reading The Rules of Law &#8594; The post The Rules of Law appeared first on American Libraries Magazine.</p>
+    <div class="card-meta">
+      <span class="card-source">American Libraries</span>
+      <span class="sep">·</span>
+      <span class="card-date">Mar 02, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="Libraries & Archives" data-text="listening to library leaders: surveys capture real-time perspectives shaping decisions across the field funding and resourcing, technology, staffing, community needs and expectations—the pace of change library leaders now need to navigate and lead their organizations through is nothing short of breathtaking. trends that &#8230; the post listening to library leaders: surveys capture real-time perspectives shaping decisions across the field appeared first on hanging together. oclc research">
+  <div class="card-inner">
+    <span class="badge" style="background:#D1FAE5;color:#065F46;border:1px solid #6EE7B7">Libraries & Archives</span>
+    <h3 class="card-title"><a href="https://hangingtogether.org/listening-to-library-leaders-surveys-capture-real-time-perspectives-shaping-decisions-across-the-field/" target="_blank" rel="noopener noreferrer">Listening to library leaders: Surveys capture real-time perspectives shaping decisions across the field</a></h3>
+    <p class="card-excerpt">Funding and resourcing, technology, staffing, community needs and expectations—the pace of change library leaders now need to navigate and lead their organizations through is nothing short of breathtaking. Trends that &#8230; The post Listening to library leaders: Surveys capture real-time perspectives shaping decisions across the field appeared first on Hanging Together.</p>
+    <div class="card-meta">
+      <span class="card-source">OCLC Research</span>
+      <span class="sep">·</span>
+      <span class="card-date">Feb 28, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="celebrating two years of csf 2.0! celebrate this milestone with us! email us at csf [at] nist.gov (csf[at]nist[dot]gov) or tag @nistcyber on x telling us what your favorite csf 2.0 resource is (or how your organization has benefitted from implementing the csf 2.0). today marks two years since the publication of the cybersecurity framework (csf) 2.0! published in 2024, the csf 2.0 included the addition of a govern function, increased emphasis on cybersecurity supply chain risk management, updated categories and subcategories to a… nist">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://www.nist.gov/blogs/cybersecurity-insights/celebrating-two-years-csf-20" target="_blank" rel="noopener noreferrer">Celebrating Two Years of CSF 2.0!</a></h3>
+    <p class="card-excerpt">Celebrate this milestone with us! Email us at csf [at] nist.gov (csf[at]nist[dot]gov) or tag @NISTcyber on X telling us what your favorite CSF 2.0 resource is (or how your organization has benefitted from implementing the CSF 2.0). Today marks two years since the publication of the Cybersecurity Framework (CSF) 2.0! Published in 2024, the CSF 2.0 included the addition of a Govern Function, increased emphasis on cybersecurity supply chain risk management, updated categories and subcategories to a…</p>
+    <div class="card-meta">
+      <span class="card-source">NIST</span>
+      <span class="sep">·</span>
+      <span class="card-date">Feb 24, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="celebrating data privacy week with nist’s privacy engineering program grab your party hats – it’s data privacy week! data privacy week is a global initiative led by the national cybersecurity alliance to spread awareness about online privacy and empower individuals and businesses to respect privacy, safeguard data, and enable trust. in celebration of this week, the nist privacy engineering program is reflecting on recent work and looking ahead to what’s coming in the new year. throughout 2026, we plan to continue collaborating with our privacy stakeholder communit… nist">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://www.nist.gov/blogs/cybersecurity-insights/celebrating-data-privacy-week-nists-privacy-engineering-program" target="_blank" rel="noopener noreferrer">Celebrating Data Privacy Week with NIST’s Privacy Engineering Program</a></h3>
+    <p class="card-excerpt">Grab your party hats – it’s Data Privacy Week! Data Privacy Week is a global initiative led by the National Cybersecurity Alliance to spread awareness about online privacy and empower individuals and businesses to respect privacy, safeguard data, and enable trust. In celebration of this week, the NIST Privacy Engineering Program is reflecting on recent work and looking ahead to what’s coming in the new year. Throughout 2026, we plan to continue collaborating with our privacy stakeholder communit…</p>
+    <div class="card-meta">
+      <span class="card-source">NIST</span>
+      <span class="sep">·</span>
+      <span class="card-date">Jan 27, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="Libraries & Archives" data-text="scaling research support at monash university library learn from efforts at monash university library to reimagine operational structures and service models to scale research support and better align with institutional needs. the post scaling research support at monash university library appeared first on hanging together. oclc research">
+  <div class="card-inner">
+    <span class="badge" style="background:#D1FAE5;color:#065F46;border:1px solid #6EE7B7">Libraries & Archives</span>
+    <h3 class="card-title"><a href="https://hangingtogether.org/scaling-research-support-at-monash-university-library/" target="_blank" rel="noopener noreferrer">Scaling research support at Monash University Library</a></h3>
+    <p class="card-excerpt">Learn from efforts at Monash University Library to reimagine operational structures and service models to scale research support and better align with institutional needs. The post Scaling research support at Monash University Library appeared first on Hanging Together.</p>
+    <div class="card-meta">
+      <span class="card-source">OCLC Research</span>
+      <span class="sep">·</span>
+      <span class="card-date">Jan 09, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="digital identities: getting to know the verifiable digital credential ecosystem understanding mdl credential formats standards in the vdc ecosystem in our first blog post in this series, we highlighted that vdcs can represent a wide range of credentials, from a driver’s license to a diploma to proof of age. the ability to use vdcs in a wide variety of use cases is a major reason why many are looking at the vdc ecosystem as technology that can change how we present identity and attributes (both in person and online). while credential variety is a good thing, interoperability… nist">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://www.nist.gov/blogs/cybersecurity-insights/digital-identities-getting-know-verifiable-digital-credential-0" target="_blank" rel="noopener noreferrer">Digital Identities: Getting to Know the Verifiable Digital Credential Ecosystem</a></h3>
+    <p class="card-excerpt">Understanding mDL credential formats Standards in the VDC Ecosystem In our first blog post in this series, we highlighted that VDCs can represent a wide range of credentials, from a driver’s license to a diploma to proof of age. The ability to use VDCs in a wide variety of use cases is a major reason why many are looking at the VDC ecosystem as technology that can change how we present identity and attributes (both in person and online). While credential variety is a good thing, interoperability…</p>
+    <div class="card-meta">
+      <span class="card-source">NIST</span>
+      <span class="sep">·</span>
+      <span class="card-date">Jan 07, 2026</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="a nice retrospective on shaping cybersecurity’s future rodney petersen has served as the director of nice at the national institute for standards and technology (nist) for the past eleven years where his focus has been on advancing cybersecurity education and workforce development. he will be retiring from federal government service at the end of the 2025 calendar year. prior to his role at nist, he has worked in various technology policy and leadership roles with educause and the university of maryland. the nice program, led by the national institu… nist">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://www.nist.gov/blogs/cybersecurity-insights/nice-retrospective-shaping-cybersecuritys-future" target="_blank" rel="noopener noreferrer">A NICE Retrospective on Shaping Cybersecurity’s Future</a></h3>
+    <p class="card-excerpt">Rodney Petersen has served as the Director of NICE at the National Institute for Standards and Technology (NIST) for the past eleven years where his focus has been on advancing cybersecurity education and workforce development. He will be retiring from federal government service at the end of the 2025 calendar year. Prior to his role at NIST, he has worked in various technology policy and leadership roles with EDUCAUSE and the University of Maryland. The NICE program, led by the National Institu…</p>
+    <div class="card-meta">
+      <span class="card-source">NIST</span>
+      <span class="sep">·</span>
+      <span class="card-date">Dec 02, 2025</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="Libraries & Archives" data-text="building effective workflows for oral history projects: collaboration, structure, and ai innovation how can libraries develop effective oral history workflows? university of washington and montana state university share insights on developing partnerships, and integrating integrating human expertise with emerging technologies to created and preserve cultural narratives, the post building effective workflows for oral history projects: collaboration, structure, and ai innovation appeared first on hanging together. oclc research">
+  <div class="card-inner">
+    <span class="badge" style="background:#D1FAE5;color:#065F46;border:1px solid #6EE7B7">Libraries & Archives</span>
+    <h3 class="card-title"><a href="https://hangingtogether.org/building-effective-workflows-for-oral-history-projects-collaboration-structure-and-ai-innovation/" target="_blank" rel="noopener noreferrer">Building effective workflows for oral history projects: Collaboration, structure, and AI innovation</a></h3>
+    <p class="card-excerpt">How can libraries develop effective oral history workflows? University of Washington and Montana State University share insights on developing partnerships, and integrating integrating human expertise with emerging technologies to created and preserve cultural narratives, The post Building effective workflows for oral history projects: Collaboration, structure, and AI innovation appeared first on Hanging Together.</p>
+    <div class="card-meta">
+      <span class="card-source">OCLC Research</span>
+      <span class="sep">·</span>
+      <span class="card-date">Nov 07, 2025</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="werewolves in worldcat if you enjoy a good werewolf story, read on for a description of some resources that will leave you howling for more—all available in worldcat, of course! the post werewolves in worldcat appeared first on hanging together. oclc research">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://hangingtogether.org/werewolves-in-worldcat/" target="_blank" rel="noopener noreferrer">Werewolves in WorldCat</a></h3>
+    <p class="card-excerpt">If you enjoy a good werewolf story, read on for a description of some resources that will leave you howling for more—all available in WorldCat, of course! The post Werewolves in WorldCat appeared first on Hanging Together.</p>
+    <div class="card-meta">
+      <span class="card-source">OCLC Research</span>
+      <span class="sep">·</span>
+      <span class="card-date">Oct 31, 2025</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="Libraries & Archives" data-text="autonomy to alliance: unpacking the motivations for library partnership why collaborate? here's some evidence on why libraries band together to steward their collective print book collection. the post autonomy to alliance: unpacking the motivations for library partnership appeared first on hanging together. oclc research">
+  <div class="card-inner">
+    <span class="badge" style="background:#D1FAE5;color:#065F46;border:1px solid #6EE7B7">Libraries & Archives</span>
+    <h3 class="card-title"><a href="https://hangingtogether.org/autonomy-to-alliance-unpacking-the-motivations-for-library-partnership/" target="_blank" rel="noopener noreferrer">Autonomy to alliance: Unpacking the motivations for library partnership</a></h3>
+    <p class="card-excerpt">Why collaborate? Here's some evidence on why libraries band together to steward their collective print book collection. The post Autonomy to alliance: Unpacking the motivations for library partnership appeared first on Hanging Together.</p>
+    <div class="card-meta">
+      <span class="card-source">OCLC Research</span>
+      <span class="sep">·</span>
+      <span class="card-date">Oct 30, 2025</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="Information Retrieval & Search" data-text="striking the right balance: opportunities and challenges of ai in metadata workflows ai can enhance metadata work—but only with care. learn how libraries can balance innovation with quality and ethical practice. the post striking the right balance: opportunities and challenges of ai in metadata workflows appeared first on hanging together. oclc research">
+  <div class="card-inner">
+    <span class="badge" style="background:#EDE9FE;color:#6D28D9;border:1px solid #C4B5FD">Information Retrieval & Search</span>
+    <h3 class="card-title"><a href="https://hangingtogether.org/striking-the-right-balance-opportunities-and-challenges-of-ai-in-metadata-workflows/" target="_blank" rel="noopener noreferrer">Striking the right balance: Opportunities and challenges of AI in metadata workflows</a></h3>
+    <p class="card-excerpt">AI can enhance metadata work—but only with care. Learn how libraries can balance innovation with quality and ethical practice. The post Striking the right balance: Opportunities and challenges of AI in metadata workflows appeared first on Hanging Together.</p>
+    <div class="card-meta">
+      <span class="card-source">OCLC Research</span>
+      <span class="sep">·</span>
+      <span class="card-date">Oct 20, 2025</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="Information Retrieval & Search" data-text="examining the role of ai in institutional repository workflows can ai help to manage institutional repository metadata? from improving deposit workflows to cleaning up legacy data, explore how ai might support irs while keeping human expertise front and center. the post examining the role of ai in institutional repository workflows appeared first on hanging together. oclc research">
+  <div class="card-inner">
+    <span class="badge" style="background:#EDE9FE;color:#6D28D9;border:1px solid #C4B5FD">Information Retrieval & Search</span>
+    <h3 class="card-title"><a href="https://hangingtogether.org/examining-the-role-of-ai-in-institutional-repository-workflows/" target="_blank" rel="noopener noreferrer">Examining the role of AI in institutional repository workflows</a></h3>
+    <p class="card-excerpt">Can AI help to manage institutional repository metadata? From improving deposit workflows to cleaning up legacy data, explore how AI might support IRs while keeping human expertise front and center. The post Examining the role of AI in institutional repository workflows appeared first on Hanging Together.</p>
+    <div class="card-meta">
+      <span class="card-source">OCLC Research</span>
+      <span class="sep">·</span>
+      <span class="card-date">Oct 16, 2025</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="Libraries & Archives" data-text="exploring ai uses in archives and special collections: integration, entities, and addressing need learn how archives and special collections are exploring using ai responsibly to meet accessibility requirements and improve access to unique resources. the post exploring ai uses in archives and special collections: integration, entities, and addressing need appeared first on hanging together. oclc research">
+  <div class="card-inner">
+    <span class="badge" style="background:#D1FAE5;color:#065F46;border:1px solid #6EE7B7">Libraries & Archives</span>
+    <h3 class="card-title"><a href="https://hangingtogether.org/exploring-ai-uses-in-archives-and-special-collections-integration-entities-and-addressing-need/" target="_blank" rel="noopener noreferrer">Exploring AI uses in archives and special collections: Integration, entities, and addressing need</a></h3>
+    <p class="card-excerpt">Learn how archives and special collections are exploring using AI responsibly to meet accessibility requirements and improve access to unique resources. The post Exploring AI uses in archives and special collections: Integration, entities, and addressing need appeared first on Hanging Together.</p>
+    <div class="card-meta">
+      <span class="card-source">OCLC Research</span>
+      <span class="sep">·</span>
+      <span class="card-date">Oct 14, 2025</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="Information Retrieval & Search" data-text="backlogs and beyond: ai in primary cataloging workflows facing cataloging backlogs, legacy metadata issues, and language challenges, libraries are exploring how ai may offer practical support—while keeping human expertise central. the post backlogs and beyond: ai in primary cataloging workflows appeared first on hanging together. oclc research">
+  <div class="card-inner">
+    <span class="badge" style="background:#EDE9FE;color:#6D28D9;border:1px solid #C4B5FD">Information Retrieval & Search</span>
+    <h3 class="card-title"><a href="https://hangingtogether.org/backlogs-and-beyond-ai-in-primary-cataloging-workflows/" target="_blank" rel="noopener noreferrer">Backlogs and beyond: AI in primary cataloging workflows</a></h3>
+    <p class="card-excerpt">Facing cataloging backlogs, legacy metadata issues, and language challenges, libraries are exploring how AI may offer practical support—while keeping human expertise central. The post Backlogs and beyond: AI in primary cataloging workflows appeared first on Hanging Together.</p>
+    <div class="card-meta">
+      <span class="card-source">OCLC Research</span>
+      <span class="sep">·</span>
+      <span class="card-date">Oct 09, 2025</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="sharpening the focus on product requirements and cybersecurity risks: updating foundational activities for iot product manufacturers update: the comment period for your feedback on the second public draft of nist ir 8259 has been extended through december 10, 2025. over the past few months, nist has been revising and updating foundational activities for iot product manufacturers (nist ir 8259 revision 1 initial public draft), which describes recommended pre-market and post-market activities for manufacturers to develop products that meet their customers’ cybersecurity needs and expectations. thank you so much for the thoughtf… nist">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://www.nist.gov/blogs/cybersecurity-insights/sharpening-focus-product-requirements-and-cybersecurity-risks-updating" target="_blank" rel="noopener noreferrer">Sharpening the Focus on Product Requirements and Cybersecurity Risks: Updating Foundational Activities for IoT Product Manufacturers</a></h3>
+    <p class="card-excerpt">Update: The comment period for your feedback on the second public draft of NIST IR 8259 has been extended through December 10, 2025. Over the past few months, NIST has been revising and updating Foundational Activities for IoT Product Manufacturers (NIST IR 8259 Revision 1 Initial Public Draft), which describes recommended pre-market and post-market activities for manufacturers to develop products that meet their customers’ cybersecurity needs and expectations. Thank you so much for the thoughtf…</p>
+    <div class="card-meta">
+      <span class="card-source">NIST</span>
+      <span class="sep">·</span>
+      <span class="card-date">Sep 30, 2025</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="let’s get digital! updated digital identity guidelines are here! today is the day! digital identity guidelines, revision 4 is finally here...it’s been an exciting journey and nist is honored to be a part of it. what can we expect? serving as a culmination of a nearly four-year collaborative process that included foundational research, two public drafts, and about 6,000 individual comments from the public, revision 4 of special publication 800-63, digital identity guidelines, intends to respond to the changing digital landscape that has emerged since the last … nist">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://www.nist.gov/blogs/cybersecurity-insights/lets-get-digital-updated-digital-identity-guidelines-are-here" target="_blank" rel="noopener noreferrer">Let’s get Digital! Updated Digital Identity Guidelines are Here!</a></h3>
+    <p class="card-excerpt">Today is the day! Digital Identity Guidelines, Revision 4 is finally here...it’s been an exciting journey and NIST is honored to be a part of it. What can we expect? Serving as a culmination of a nearly four-year collaborative process that included foundational research, two public drafts, and about 6,000 individual comments from the public, Revision 4 of Special Publication 800-63, Digital Identity Guidelines, intends to respond to the changing digital landscape that has emerged since the last …</p>
+    <div class="card-meta">
+      <span class="card-source">NIST</span>
+      <span class="sep">·</span>
+      <span class="card-date">Aug 01, 2025</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="reflections from the first cyber ai profile workshop thank you to everyone who participated in the cyber ai profile workshop nist hosted this past april! this work intends to support the cybersecurity and ai communities — and the input you provided during this workshop is critical. we are working to publish a workshop summary that captures themes and highlights from the event. in the interim, we would like to share a preview of what we heard. background on the cyber ai profile workshop ( watch the workshop introduction video) as nist began explori… nist">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://www.nist.gov/blogs/cybersecurity-insights/reflections-first-cyber-ai-profile-workshop" target="_blank" rel="noopener noreferrer">Reflections from the First Cyber AI Profile Workshop</a></h3>
+    <p class="card-excerpt">Thank you to everyone who participated in the Cyber AI Profile Workshop NIST hosted this past April! This work intends to support the cybersecurity and AI communities — and the input you provided during this workshop is critical. We are working to publish a Workshop Summary that captures themes and highlights from the event. In the interim, we would like to share a preview of what we heard. Background on the Cyber AI Profile Workshop ( watch the workshop introduction video) As NIST began explori…</p>
+    <div class="card-meta">
+      <span class="card-source">NIST</span>
+      <span class="sep">·</span>
+      <span class="card-date">Jul 31, 2025</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="nine years and counting: nice ramps communities keep expanding opportunities in cybersecurity work and learning a lot has changed in america’s cybersecurity workforce development ecosystem since 2016: employment in cybersecurity occupations has grown by more than 300,000 [1]; the number of information security degrees awarded annually has more than tripled to nearly 35,000 [2]; and a wide array of new technologies and risks have emerged. five regional cybersecurity workforce partnerships supported by the 2016 ramps program pilot, administered by nist’s nice program office, have weathered the changes in cy… nist">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://www.nist.gov/blogs/cybersecurity-insights/nine-years-and-counting-nice-ramps-communities-keep-expanding" target="_blank" rel="noopener noreferrer">Nine Years and Counting: NICE RAMPS Communities Keep Expanding Opportunities in Cybersecurity Work and Learning</a></h3>
+    <p class="card-excerpt">A lot has changed in America’s cybersecurity workforce development ecosystem since 2016: employment in cybersecurity occupations has grown by more than 300,000 [1]; the number of information security degrees awarded annually has more than tripled to nearly 35,000 [2]; and a wide array of new technologies and risks have emerged. Five regional cybersecurity workforce partnerships supported by the 2016 RAMPS program pilot, administered by NIST’s NICE Program Office, have weathered the changes in cy…</p>
+    <div class="card-meta">
+      <span class="card-source">NIST</span>
+      <span class="sep">·</span>
+      <span class="card-date">Jul 07, 2025</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="the impact of artificial intelligence on the cybersecurity workforce the nice workforce framework for cybersecurity ( nice framework) was revised in november 2020 as nist special publication 800-181 rev.1 to enable more effective and rapid updates to the nice framework components, including how the advent of emerging technologies would impact cybersecurity work. nice has been actively engaging in conversations with: federal departments and agencies; industry; education, training, and certification providers; and international representatives to understand how art… nist">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://www.nist.gov/blogs/cybersecurity-insights/impact-artificial-intelligence-cybersecurity-workforce" target="_blank" rel="noopener noreferrer">The Impact of Artificial Intelligence on the Cybersecurity Workforce</a></h3>
+    <p class="card-excerpt">The NICE Workforce Framework for Cybersecurity ( NICE Framework) was revised in November 2020 as NIST Special Publication 800-181 rev.1 to enable more effective and rapid updates to the NICE Framework Components, including how the advent of emerging technologies would impact cybersecurity work. NICE has been actively engaging in conversations with: federal departments and agencies; industry; education, training, and certification providers; and international representatives to understand how Art…</p>
+    <div class="card-meta">
+      <span class="card-source">NIST</span>
+      <span class="sep">·</span>
+      <span class="card-date">Jun 12, 2025</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Governance" data-text="cybersecurity and ai: integrating and building on existing nist guidelines what is nist up to? on april 3, 2025, nist hosted a cybersecurity and ai profile workshop at our national cybersecurity center of excellence (nccoe) to hear feedback on our concept paper which presented opportunities to create profiles of the nist cybersecurity framework (csf) and the nist ai risk management framework (ai rmf). these would serve to support the cybersecurity community as they adopt ai for cybersecurity, need to defend against ai-enabled cybersecurity attacks, as well as protect a… nist">
+  <div class="card-inner">
+    <span class="badge" style="background:#FEE2E2;color:#B91C1C;border:1px solid #FCA5A5">AI & Information Governance</span>
+    <h3 class="card-title"><a href="https://www.nist.gov/blogs/cybersecurity-insights/cybersecurity-and-ai-integrating-and-building-existing-nist-guidelines" target="_blank" rel="noopener noreferrer">Cybersecurity and AI: Integrating and Building on Existing NIST Guidelines</a></h3>
+    <p class="card-excerpt">What is NIST up to? On April 3, 2025, NIST hosted a Cybersecurity and AI Profile Workshop at our National Cybersecurity Center of Excellence (NCCoE) to hear feedback on our concept paper which presented opportunities to create profiles of the NIST Cybersecurity Framework (CSF) and the NIST AI Risk Management Framework (AI RMF). These would serve to support the cybersecurity community as they adopt AI for cybersecurity, need to defend against AI-enabled cybersecurity attacks, as well as protect A…</p>
+    <div class="card-meta">
+      <span class="card-source">NIST</span>
+      <span class="sep">·</span>
+      <span class="card-date">May 22, 2025</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="five years later: evolving iot cybersecurity guidelines the background…and nist’s plan for improving iot cybersecurity the passage of the internet of things (iot) cybersecurity improvement act in 2020 marked a pivotal step in enhancing the cybersecurity of iot products. recognizing the increasing internet connectivity of physical devices, this legislation tasked nist with developing cybersecurity guidelines to manage and secure iot effectively. as an early building block, we developed nist ir 8259, foundational cybersecurity activities for iot device… nist">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://www.nist.gov/blogs/cybersecurity-insights/five-years-later-evolving-iot-cybersecurity-guidelines" target="_blank" rel="noopener noreferrer">Five Years Later: Evolving IoT Cybersecurity Guidelines</a></h3>
+    <p class="card-excerpt">The Background…and NIST’s Plan for Improving IoT Cybersecurity The passage of the Internet of Things (IoT) Cybersecurity Improvement Act in 2020 marked a pivotal step in enhancing the cybersecurity of IoT products. Recognizing the increasing internet connectivity of physical devices, this legislation tasked NIST with developing cybersecurity guidelines to manage and secure IoT effectively. As an early building block, we developed NIST IR 8259, Foundational Cybersecurity Activities for IoT Device…</p>
+    <div class="card-meta">
+      <span class="card-source">NIST</span>
+      <span class="sep">·</span>
+      <span class="card-date">May 13, 2025</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="small businesses create big impact: nist celebrates 2025 national small business week this week we’re celebrating national small business week—which recognizes and celebrates the small and medium-sized business (smb) community’s significant contributions to the nation. smbs are a substantial and critical part of the u.s. and global economic and cybersecurity infrastructure. according to the u.s. small business administration’s office of advocacy, [1] there are 34.8 million smbs in the united states (making up 99% of all u.s. businesses). of those, 81.7% are non-employer firms wit… nist">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://www.nist.gov/blogs/cybersecurity-insights/small-businesses-create-big-impact-nist-celebrates-2025-national-small" target="_blank" rel="noopener noreferrer">Small Businesses Create Big Impact: NIST Celebrates 2025 National Small Business Week</a></h3>
+    <p class="card-excerpt">This week we’re celebrating National Small Business Week—which recognizes and celebrates the small and medium-sized business (SMB) community’s significant contributions to the nation. SMBs are a substantial and critical part of the U.S. and global economic and cybersecurity infrastructure. According to the U.S. Small Business Administration’s Office of Advocacy, [1] there are 34.8 million SMBs in the United States (making up 99% of all U.S. businesses). Of those, 81.7% are non-employer firms wit…</p>
+    <div class="card-meta">
+      <span class="card-source">NIST</span>
+      <span class="sep">·</span>
+      <span class="card-date">May 05, 2025</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="celebrating 1 year of csf 2.0 it has been one year since the release of the nist cybersecurity framework (csf) 2.0 ! to make improving your security posture even easier, in this blog we are: sharing new csf 2.0 resources; taking a retrospective look at some resources and applications you may have missed; and highlighting ways you can stay involved in our work, helping us help you implement better cybersecurity. nist’s subject matter experts have worked over the last year to continue expanding the csf 2.0 implementation resou… nist">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://www.nist.gov/blogs/cybersecurity-insights/celebrating-1-year-csf-20" target="_blank" rel="noopener noreferrer">Celebrating 1 Year of CSF 2.0</a></h3>
+    <p class="card-excerpt">It has been one year since the release of the NIST Cybersecurity Framework (CSF) 2.0 ! To make improving your security posture even easier, in this blog we are: Sharing new CSF 2.0 resources; Taking a retrospective look at some resources and applications you may have missed; and Highlighting ways you can stay involved in our work, helping us help you implement better cybersecurity. NIST’s subject matter experts have worked over the last year to continue expanding the CSF 2.0 implementation resou…</p>
+    <div class="card-meta">
+      <span class="card-source">NIST</span>
+      <span class="sep">·</span>
+      <span class="card-date">Feb 26, 2025</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="privacy-preserving federated learning – future collaboration and continued research this post is the final blog in a series on privacy-preserving federated learning . the series is a collaboration between nist and the uk government’s responsible technology adoption unit (rta), previously known as the centre for data ethics and innovation. learn more and read all the posts published to date at nist’s privacy engineering collaboration space or rta’s blog . reflections and wider considerations this is the final post in the series that began with reflections and learnings from the … nist">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://www.nist.gov/blogs/cybersecurity-insights/privacy-preserving-federated-learning-future-collaboration-and" target="_blank" rel="noopener noreferrer">Privacy-Preserving Federated Learning – Future Collaboration and Continued Research</a></h3>
+    <p class="card-excerpt">This post is the final blog in a series on privacy-preserving federated learning . The series is a collaboration between NIST and the UK government’s Responsible Technology Adoption Unit (RTA), previously known as the Centre for Data Ethics and Innovation. Learn more and read all the posts published to date at NIST’s Privacy Engineering Collaboration Space or RTA’s blog . Reflections and Wider Considerations This is the final post in the series that began with reflections and learnings from the …</p>
+    <div class="card-meta">
+      <span class="card-source">NIST</span>
+      <span class="sep">·</span>
+      <span class="card-date">Jan 27, 2025</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="nist’s international cybersecurity and privacy engagement update – new translations as the year comes to a close, nist continues to engage with our international partners to strengthen cybersecurity, including sharing over ten new international translations in over six languages as resources for our stakeholders around the world. these efforts were complemented by discussions on opportunities for future enhanced international collaboration and resource sharing. here are some updates from the past few months: our international engagement continues through our support to the depa… nist">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://www.nist.gov/blogs/cybersecurity-insights/nists-international-cybersecurity-and-privacy-engagement-update-new" target="_blank" rel="noopener noreferrer">NIST’s International Cybersecurity and Privacy Engagement Update – New Translations</a></h3>
+    <p class="card-excerpt">As the year comes to a close, NIST continues to engage with our international partners to strengthen cybersecurity, including sharing over ten new international translations in over six languages as resources for our stakeholders around the world. These efforts were complemented by discussions on opportunities for future enhanced international collaboration and resource sharing. Here are some updates from the past few months: Our international engagement continues through our support to the Depa…</p>
+    <div class="card-meta">
+      <span class="card-source">NIST</span>
+      <span class="sep">·</span>
+      <span class="card-date">Dec 19, 2024</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="data pipeline challenges of privacy-preserving federated learning this post is part of a series on privacy-preserving federated learning. the series is a collaboration between nist and the uk government’s responsible technology adoption unit (rta), previously known as the centre for data ethics and innovation. learn more and read all the posts published to date at nist’s privacy engineering collaboration space or rta’s blog . introduction in this post, we talk with dr. xiaowei huang and dr. yi dong (university of liverpool) and sikha pentyala (university of wa… nist">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://www.nist.gov/blogs/cybersecurity-insights/data-pipeline-challenges-privacy-preserving-federated-learning" target="_blank" rel="noopener noreferrer">Data Pipeline Challenges of Privacy-Preserving Federated Learning</a></h3>
+    <p class="card-excerpt">This post is part of a series on privacy-preserving federated learning. The series is a collaboration between NIST and the UK government’s Responsible Technology Adoption Unit (RTA), previously known as the Centre for Data Ethics and Innovation. Learn more and read all the posts published to date at NIST’s Privacy Engineering Collaboration Space or RTA’s blog . Introduction In this post, we talk with Dr. Xiaowei Huang and Dr. Yi Dong (University of Liverpool) and Sikha Pentyala (University of Wa…</p>
+    <div class="card-meta">
+      <span class="card-source">NIST</span>
+      <span class="sep">·</span>
+      <span class="card-date">Dec 05, 2024</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="kicking-off with a december 4th workshop, nist is revisiting and revising foundational cybersecurity activities for iot device manufacturers, nist ir 8259! in may 2020, nist published foundational cybersecurity activities for iot device manufacturers (nist ir 8259), which describes recommended cybersecurity activities that manufacturers should consider performing before their iot devices are sold to customers. these foundational cybersecurity activities can help manufacturers lessen the cybersecurity-related efforts needed by customers, which in turn can reduce the prevalence and severity of iot device compromises and the attacks performed using co… nist">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://www.nist.gov/blogs/cybersecurity-insights/kicking-december-4th-workshop-nist-revisiting-and-revising-foundational" target="_blank" rel="noopener noreferrer">Kicking-Off with a December 4th Workshop, NIST is Revisiting and Revising Foundational Cybersecurity Activities for IoT Device Manufacturers, NIST IR 8259!</a></h3>
+    <p class="card-excerpt">In May 2020, NIST published Foundational Cybersecurity Activities for IoT Device Manufacturers (NIST IR 8259), which describes recommended cybersecurity activities that manufacturers should consider performing before their IoT devices are sold to customers. These foundational cybersecurity activities can help manufacturers lessen the cybersecurity-related efforts needed by customers, which in turn can reduce the prevalence and severity of IoT device compromises and the attacks performed using co…</p>
+    <div class="card-meta">
+      <span class="card-source">NIST</span>
+      <span class="sep">·</span>
+      <span class="card-date">Nov 21, 2024</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="unlocking cybersecurity talent: the power of apprenticeships cybersecurity is a fast-growing field, with a constant need for skilled professionals. but unlike other professions — like medicine or aviation — there’s no clear-cut pathway to qualifying for cybersecurity positions. for employers and job seekers alike, this can make the journey to building a team (or entering a successful cybersecurity career) feel uncertain. enter the registered apprenticeship program — a proven method for developing skilled talent in cybersecurity that benefits both the empl… nist">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://www.nist.gov/blogs/cybersecurity-insights/unlocking-cybersecurity-talent-power-apprenticeships" target="_blank" rel="noopener noreferrer">Unlocking Cybersecurity Talent: The Power of Apprenticeships</a></h3>
+    <p class="card-excerpt">Cybersecurity is a fast-growing field, with a constant need for skilled professionals. But unlike other professions — like medicine or aviation — there’s no clear-cut pathway to qualifying for cybersecurity positions. For employers and job seekers alike, this can make the journey to building a team (or entering a successful cybersecurity career) feel uncertain. Enter the registered apprenticeship program — a proven method for developing skilled talent in cybersecurity that benefits both the empl…</p>
+    <div class="card-meta">
+      <span class="card-source">NIST</span>
+      <span class="sep">·</span>
+      <span class="card-date">Nov 18, 2024</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="digital identities: getting to know the verifiable digital credential ecosystem if you are interested in the world of digital identities, you have probably heard some of the buzzwords that have been floating around for a few years now… “verifiable credential,” “digital wallet,” “mobile driver’s license” or “mdl.” these terms, among others, all reference a growing ecosystem around what we are calling “verifiable digital credentials.” but what exactly is a verifiable digital credential? take any physical credential you use in everyday life – your driver’s license, your medica… nist">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://www.nist.gov/blogs/cybersecurity-insights/digital-identities-getting-know-verifiable-digital-credential-ecosystem" target="_blank" rel="noopener noreferrer">Digital Identities: Getting to Know the Verifiable Digital Credential Ecosystem</a></h3>
+    <p class="card-excerpt">If you are interested in the world of digital identities, you have probably heard some of the buzzwords that have been floating around for a few years now… “verifiable credential,” “digital wallet,” “mobile driver’s license” or “mDL.” These terms, among others, all reference a growing ecosystem around what we are calling “verifiable digital credentials.” But what exactly is a verifiable digital credential? Take any physical credential you use in everyday life – your driver’s license, your medica…</p>
+    <div class="card-meta">
+      <span class="card-source">NIST</span>
+      <span class="sep">·</span>
+      <span class="card-date">Nov 13, 2024</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="staff stories spotlight series: cybersecurity awareness month 2024 this blog is part of a larger nist series during the month of october for cybersecurity awareness month , called 'staff stories spotlight.' throughout the month of october this year, q&amp;a style blogs will be published featuring some of our unique staff members who have interesting backgrounds, stories to tell, and projects in the world of cybersecurity. this year’s cybersecurity awareness month theme is ‘secure our world.’ how does this theme resonate with you, as someone working in cybersecu… nist">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://www.nist.gov/blogs/cybersecurity-insights/staff-stories-spotlight-series-cybersecurity-awareness-month-2024" target="_blank" rel="noopener noreferrer">Staff Stories Spotlight Series: Cybersecurity Awareness Month 2024</a></h3>
+    <p class="card-excerpt">This blog is part of a larger NIST series during the month of October for Cybersecurity Awareness Month , called 'Staff Stories Spotlight.' Throughout the month of October this year, Q&amp;A style blogs will be published featuring some of our unique staff members who have interesting backgrounds, stories to tell, and projects in the world of cybersecurity. This year’s Cybersecurity Awareness Month theme is ‘Secure our World.’ How does this theme resonate with you, as someone working in cybersecu…</p>
+    <div class="card-meta">
+      <span class="card-source">NIST</span>
+      <span class="sep">·</span>
+      <span class="card-date">Oct 28, 2024</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="staff stories spotlight series: cybersecurity awareness month 2024 this blog is part of a larger nist series during the month of october for cybersecurity awareness month , called 'staff stories spotlight.' throughout the month of october this year, q&amp;a style blogs will be published featuring some of our unique staff members who have interesting backgrounds, stories to tell, and projects in the world of cybersecurity. this year’s cybersecurity awareness month theme is ‘secure our world.’ how does this theme resonate with you, as someone working in cybersecu… nist">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://www.nist.gov/blogs/cybersecurity-insights/staff-stories-spotlight-series-cybersecurity-awareness-month-2024-0" target="_blank" rel="noopener noreferrer">Staff Stories Spotlight Series: Cybersecurity Awareness Month 2024</a></h3>
+    <p class="card-excerpt">This blog is part of a larger NIST series during the month of October for Cybersecurity Awareness Month , called 'Staff Stories Spotlight.' Throughout the month of October this year, Q&amp;A style blogs will be published featuring some of our unique staff members who have interesting backgrounds, stories to tell, and projects in the world of cybersecurity. This year’s Cybersecurity Awareness Month theme is ‘Secure our World.’ How does this theme resonate with you, as someone working in cybersecu…</p>
+    <div class="card-meta">
+      <span class="card-source">NIST</span>
+      <span class="sep">·</span>
+      <span class="card-date">Oct 23, 2024</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="iot assignment completed! report on barriers to u.s. iot adoption the 16 members of the nist-managed internet of things (iot) advisory board have completed their report on barriers to the u.s. receiving the benefits of iot adoption, along with their recommendations for overcoming those barriers. as benson chan (chair) and dan caprio (vice chair) of the iot advisory board state in the report: “the united states is in the early stages of a profound transformation, one that is driven by economic, societal, and cultural innovations brought about by the iot. these … nist">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://www.nist.gov/blogs/cybersecurity-insights/iot-assignment-completed-report-barriers-us-iot-adoption" target="_blank" rel="noopener noreferrer">IoT Assignment Completed! Report on Barriers to U.S. IoT Adoption</a></h3>
+    <p class="card-excerpt">The 16 members of the NIST-managed Internet of Things (IoT) Advisory Board have completed their report on barriers to the U.S. receiving the benefits of IoT adoption, along with their recommendations for overcoming those barriers. As Benson Chan (Chair) and Dan Caprio (Vice Chair) of the IoT Advisory Board state in the report: “The United States is in the early stages of a profound transformation, one that is driven by economic, societal, and cultural innovations brought about by the IoT. These …</p>
+    <div class="card-meta">
+      <span class="card-source">NIST</span>
+      <span class="sep">·</span>
+      <span class="card-date">Oct 22, 2024</span>
+    </div>
+  </div>
+</article>
+<article class="card" data-category="AI & Information Sciences" data-text="staff stories spotlight series: cybersecurity awareness month 2024 this blog is part of a larger nist series during the month of october for cybersecurity awareness month , called 'staff stories spotlight.' throughout the month of october this year, q&amp;a style blogs will be published featuring some of our unique staff members who have interesting backgrounds, stories to tell, and projects in the world of cybersecurity. this year’s cybersecurity awareness month theme is ‘secure our world.’ how does this theme resonate with you, as someone working in cybersecu… nist">
+  <div class="card-inner">
+    <span class="badge" style="background:#F1F5F9;color:#475569;border:1px solid #CBD5E1">AI & Information Sciences</span>
+    <h3 class="card-title"><a href="https://www.nist.gov/blogs/cybersecurity-insights/staff-stories-spotlight-series-cybersecurity-awareness-month-2024-4" target="_blank" rel="noopener noreferrer">Staff Stories Spotlight Series: Cybersecurity Awareness Month 2024</a></h3>
+    <p class="card-excerpt">This blog is part of a larger NIST series during the month of October for Cybersecurity Awareness Month , called 'Staff Stories Spotlight.' Throughout the month of October this year, Q&amp;A style blogs will be published featuring some of our unique staff members who have interesting backgrounds, stories to tell, and projects in the world of cybersecurity. This year’s Cybersecurity Awareness Month theme is ‘Secure our World.’ How does this theme resonate with you, as someone working in cybersecu…</p>
+    <div class="card-meta">
+      <span class="card-source">NIST</span>
+      <span class="sep">·</span>
+      <span class="card-date">Oct 17, 2024</span>
+    </div>
+  </div>
+</article>
+  </div>
+  <div class="no-results" id="no-results">No articles match your search.</div>
+</main>
+
+<footer>
+  <div>Refreshed automatically every day via GitHub Actions &mdash; Last update: April 23, 2026 at 12:41 UTC</div>
+  <div>Ubisoft Knowledge Management &amp; Content Strategy &mdash; Pierre-Luc Cauchon</div>
+</footer>
+
+<script>
+(function(){
+  var cards = Array.from(document.querySelectorAll('.card'));
+  var searchEl = document.getElementById('search');
+  var noResults = document.getElementById('no-results');
+  var activeFilter = 'all';
+
+  function apply(){
+    var q = searchEl.value.toLowerCase().trim();
+    var visible = 0;
+    cards.forEach(function(c){
+      var matchCat = activeFilter === 'all' || c.dataset.category === activeFilter;
+      var matchQ = !q || c.dataset.text.indexOf(q) !== -1;
+      var show = matchCat && matchQ;
+      c.style.display = show ? '' : 'none';
+      if(show) visible++;
+    });
+    noResults.style.display = visible === 0 ? 'block' : 'none';
+  }
+
+  document.getElementById('filters').addEventListener('click', function(e){
+    var btn = e.target.closest('.filter-btn');
+    if(!btn) return;
+    document.querySelectorAll('.filter-btn').forEach(function(b){ b.classList.remove('active'); });
+    btn.classList.add('active');
+    activeFilter = btn.dataset.filter;
+    apply();
+  });
+
+  searchEl.addEventListener('input', apply);
+})();
+</script>
+</body>
+</html>
