@@ -1,5 +1,239 @@
 [
   {
+    "id": "8036388cff9f",
+    "title": "A Reproducibility Study of Metacognitive Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2604.19899",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-23T04:00:00+00:00",
+    "summary": "arXiv:2604.19899v1 Announce Type: new Abstract: Recently, Retrieval Augmented Generation (RAG) has shifted focus to multi-retrieval approaches to tackle complex tasks such as multi-hop question answering. However, these systems struggle to decide when to stop searching once enough information has been gathered. To address this, \\citet{zhou2024metacognitive} introduced Metacognitive Retrieval Augmented Generation (MetaRAG), a framework inspired by metacognition that enables Large Language Models …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "4b9fd92623de",
+    "title": "From Hidden Profiles to Governable Personalization: Recommender Systems in the Age of LLM Agents",
+    "url": "https://arxiv.org/abs/2604.20065",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-23T04:00:00+00:00",
+    "summary": "arXiv:2604.20065v1 Announce Type: new Abstract: Personalization has traditionally depended on platform-specific user models that are optimized for prediction but remain largely inaccessible to the people they describe. As LLM-based assistants increasingly mediate search, shopping, travel, and content access, this arrangement may be giving way to a new personalization stack in which user representation is no longer confined to isolated platforms. In this paper, we argue that the key issue is not …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "26a0e14c4fe8",
+    "title": "SAKE: Self-aware Knowledge Exploitation-Exploration for Grounded Multimodal Named Entity Recognition",
+    "url": "https://arxiv.org/abs/2604.20146",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-23T04:00:00+00:00",
+    "summary": "arXiv:2604.20146v1 Announce Type: new Abstract: Grounded Multimodal Named Entity Recognition (GMNER) aims to extract named entities and localize their visual regions within image-text pairs, serving as a pivotal capability for various downstream applications. In open-world social media platforms, GMNER remains challenging due to the prevalence of long-tailed, rapidly evolving, and unseen entities. To tackle this, existing approaches typically rely on either external knowledge exploration through…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8f459d15e878",
+    "title": "Semantic Recall for Vector Search",
+    "url": "https://arxiv.org/abs/2604.20417",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-23T04:00:00+00:00",
+    "summary": "arXiv:2604.20417v1 Announce Type: new Abstract: We introduce Semantic Recall, a novel metric to assess the quality of approximate nearest neighbor search algorithms by considering only semantically relevant objects that are theoretically retrievable via exact nearest neighbor search. Unlike traditional recall, semantic recall does not penalize algorithms for failing to retrieve objects that are semantically irrelevant to the query, even if those objects are among their nearest neighbors. We demo…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "58bb83c681ec",
+    "title": "Discrete Preference Learning for Personalized Multimodal Generation",
+    "url": "https://arxiv.org/abs/2604.20434",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-23T04:00:00+00:00",
+    "summary": "arXiv:2604.20434v1 Announce Type: new Abstract: The emergence of generative models enables the creation of texts and images tailored to users' preferences. Existing personalized generative models have two critical limitations: lacking a dedicated paradigm for accurate preference modeling, and generating unimodal content despite real-world multimodal-driven user interactions. Therefore, we propose personalized multimodal generation, which captures modal-specific preferences via a dedicated prefer…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e1ccdf67aab4",
+    "title": "HaS: Accelerating RAG through Homology-Aware Speculative Retrieval",
+    "url": "https://arxiv.org/abs/2604.20452",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-23T04:00:00+00:00",
+    "summary": "arXiv:2604.20452v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) expands the knowledge boundary of large language models (LLMs) at inference by retrieving external documents as context. However, retrieval becomes increasingly time-consuming as the knowledge databases grow in size. Existing acceleration strategies either compromise accuracy through approximate retrieval, or achieve marginal gains by reusing results of strictly identical queries. We propose HaS, a homology-awar…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "44d76c8c3abe",
+    "title": "Break the Optimization Barrier of LLM-Enhanced Recommenders: A Theoretical Analysis and Practical Framework",
+    "url": "https://arxiv.org/abs/2604.20490",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-23T04:00:00+00:00",
+    "summary": "arXiv:2604.20490v1 Announce Type: new Abstract: Large language model (LLM)-enhanced recommendation models inject LLM representations into backbone recommenders to exploit rich item text without inference-time LLM cost. However, we find that existing LLM-enhanced methods significantly hinder the optimization of backbone models, resulting in high training losses that are difficult to reduce. To address it, we establish a comprehensive theoretical analysis of local optimization curvature and identi…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "63296f561ffb",
+    "title": "Self-Aware Vector Embeddings for Retrieval-Augmented Generation: A Neuroscience-Inspired Framework for Temporal, Confidence-Weighted, and Relational Knowledge",
+    "url": "https://arxiv.org/abs/2604.20598",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-23T04:00:00+00:00",
+    "summary": "arXiv:2604.20598v1 Announce Type: new Abstract: Modern retrieval-augmented generation (RAG) systems treat vector embeddings as static, context-free artifacts: an embedding has no notion of when it was created, how trustworthy its source is, or which other embeddings depend on it. This flattening of knowledge has a measurable cost: recent work on VersionRAG reports that conventional RAG achieves only 58% accuracy on versioned technical queries, because retrieval returns semantically similar but t…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "047044466ce1",
+    "title": "Coverage, Not Averages: Semantic Stratification for Trustworthy Retrieval Evaluation",
+    "url": "https://arxiv.org/abs/2604.20763",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-23T04:00:00+00:00",
+    "summary": "arXiv:2604.20763v1 Announce Type: new Abstract: Retrieval quality is the primary bottleneck for accuracy and robustness in retrieval-augmented generation (RAG). Current evaluation relies on heuristically constructed query sets, which introduce a hidden intrinsic bias. We formalize retrieval evaluation as a statistical estimation problem, showing that metric reliability is fundamentally limited by the evaluation-set construction. We further introduce \\emph{semantic stratification}, which grounds …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "d771da3dd0b5",
+    "title": "Cognis: Context-Aware Memory for Conversational AI Agents",
+    "url": "https://arxiv.org/abs/2604.19771",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-23T04:00:00+00:00",
+    "summary": "arXiv:2604.19771v1 Announce Type: cross Abstract: LLM agents lack persistent memory, causing conversations to reset each session and preventing personalization over time. We present Lyzr Cognis, a unified memory architecture for conversational AI agents that addresses this limitation through a multi-stage retrieval pipeline. Cognis combines a dual-store backend pairing OpenSearch BM25 keyword matching with Matryoshka vector similarity search, fused via Reciprocal Rank Fusion. Its context-aware i…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "01958b6f2dd8",
+    "title": "Self-Describing Structured Data with Dual-Layer Guidance: A Lightweight Alternative to RAG for Precision Retrieval in Large-Scale LLM Knowledge Navigation",
+    "url": "https://arxiv.org/abs/2604.19777",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-23T04:00:00+00:00",
+    "summary": "arXiv:2604.19777v1 Announce Type: cross Abstract: Large Language Models (LLMs) exhibit a well-documented positional bias when processing long input contexts: information in the middle of a context window receives substantially less attention than content at the boundaries, a phenomenon termed the Lost-in-the-Middle effect (Liu et al., 2024). This limits knowledge-retrieval applications that embed large structured knowledge bases directly in the LLM context. Retrieval-Augmented Generation (RAG) a…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "100ec73c6177",
+    "title": "SkillGraph: Graph Foundation Priors for LLM Agent Tool Sequence Recommendation",
+    "url": "https://arxiv.org/abs/2604.19793",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-23T04:00:00+00:00",
+    "summary": "arXiv:2604.19793v1 Announce Type: cross Abstract: LLM agents must select tools from large API libraries and order them correctly. Existing methods use semantic similarity for both retrieval and ordering, but ordering depends on inter-tool data dependencies that are absent from tool descriptions. As a result, semantic-only methods can produce negative Kendall-$\\tau$ in structured workflow domains. We introduce SkillGraph, a directed weighted execution-transition graph mined from 49,831 successful…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "1bef0d77ce2d",
+    "title": "DR-Venus: Towards Frontier Edge-Scale Deep Research Agents with Only 10K Open Data",
+    "url": "https://arxiv.org/abs/2604.19859",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-23T04:00:00+00:00",
+    "summary": "arXiv:2604.19859v1 Announce Type: cross Abstract: Edge-scale deep research agents based on small language models are attractive for real-world deployment due to their advantages in cost, latency, and privacy. In this work, we study how to train a strong small deep research agent under limited open-data by improving both data quality and data utilization. We present DR-Venus, a frontier 4B deep research agent for edge-scale deployment, built entirely on open data. Our training recipe consists of …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a04b0b7571f2",
+    "title": "AFMRL: Attribute-Enhanced Fine-Grained Multi-Modal Representation Learning in E-commerce",
+    "url": "https://arxiv.org/abs/2604.20135",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-23T04:00:00+00:00",
+    "summary": "arXiv:2604.20135v1 Announce Type: cross Abstract: Multimodal representation is crucial for E-commerce tasks such as identical product retrieval. Large representation models (e.g., VLM2Vec) demonstrate strong multimodal understanding capabilities, yet they struggle with fine-grained semantic comprehension, which is essential for distinguishing highly similar items. To address this, we propose Attribute-Enhanced Fine-Grained Multi-Modal Representation Learning (AFMRL), which defines product fine-g…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "9b645d433765",
+    "title": "Finding Duplicates in 1.1M BDD Steps: cukereuse, a Paraphrase-Robust Static Detector for Cucumber and Gherkin",
+    "url": "https://arxiv.org/abs/2604.20462",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-23T04:00:00+00:00",
+    "summary": "arXiv:2604.20462v1 Announce Type: cross Abstract: Behaviour-Driven Development (BDD) suites accumulate step-text duplication whose maintenance cost is established in prior work. Existing detection techniques require running the tests (Binamungu et al., 2018-2023) or are confined to a single organisation (Irshad et al., 2020-2022), leaving a gap: a purely static, paraphrase-robust, step-level detector usable on any repository. We fill the gap with cukereuse, an open-source Python CLI combining ex…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "35b6685e0ba5",
+    "title": "Enhancing Research Idea Generation through Combinatorial Innovation and Multi-Agent Iterative Search Strategies",
+    "url": "https://arxiv.org/abs/2604.20548",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-23T04:00:00+00:00",
+    "summary": "arXiv:2604.20548v1 Announce Type: cross Abstract: Scientific progress depends on the continual generation of innovative re-search ideas. However, the rapid growth of scientific literature has greatly increased the cost of knowledge filtering, making it harder for researchers to identify novel directions. Although existing large language model (LLM)-based methods show promise in research idea generation, the ideas they produce are often repetitive and lack depth. To address this issue, this study…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "1fb9fcb7fde6",
+    "title": "ReasonRank: Empowering Passage Ranking with Strong Reasoning Ability",
+    "url": "https://arxiv.org/abs/2508.07050",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-23T04:00:00+00:00",
+    "summary": "arXiv:2508.07050v3 Announce Type: replace Abstract: Large Language Model (LLM) based listwise ranking has shown superior performance in many passage ranking tasks. With the development of Large Reasoning Models (LRMs), many studies have demonstrated that step-by-step reasoning during test-time helps improve listwise ranking performance. However, due to the scarcity of reasoning-intensive training data, existing rerankers perform poorly in many complex ranking scenarios, and the ranking ability o…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "97abc54de2e9",
+    "title": "ItemRAG: Item-Based Retrieval-Augmented Generation for LLM-Based Recommendation",
+    "url": "https://arxiv.org/abs/2511.15141",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-23T04:00:00+00:00",
+    "summary": "arXiv:2511.15141v2 Announce Type: replace Abstract: Recently, large language models (LLMs) have been widely used as recommender systems, owing to their reasoning capability and effectiveness in handling cold-start items. A common approach prompts an LLM with a target user's purchase history to recommend items from a candidate set, often enhanced with retrieval-augmented generation (RAG). Most existing RAG approaches retrieve purchase histories of users similar to the target user; however, these …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "09f7f429598d",
+    "title": "Do We Need Bigger Models for Science? Task-Aware Retrieval with Small Language Models",
+    "url": "https://arxiv.org/abs/2604.01965",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-23T04:00:00+00:00",
+    "summary": "arXiv:2604.01965v2 Announce Type: replace Abstract: Scientific knowledge discovery increasingly relies on large language models, yet many existing scholarly assistants depend on proprietary systems with tens or hundreds of billions of parameters. Such reliance limits reproducibility and accessibility for the research community. In this work, we ask a simple question: do we need bigger models for scientific applications? Specifically, we investigate to what extent carefully designed retrieval pip…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "6fbdf02413c1",
+    "title": "Beyond Dense Connectivity: Explicit Sparsity for Scalable Recommendation",
+    "url": "https://arxiv.org/abs/2604.08011",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-23T04:00:00+00:00",
+    "summary": "arXiv:2604.08011v4 Announce Type: replace Abstract: Recent progress in scaling large models has motivated recommender systems to increase model depth and capacity to better leverage massive behavioral data. However, recommendation inputs are high-dimensional and extremely sparse, and simply scaling dense backbones (e.g., deep MLPs) often yields diminishing returns or even performance degradation. Our analysis of industrial CTR models reveals a phenomenon of implicit connection sparsity: most lea…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1b2b47f71fa4",
+    "title": "UniRec: Bridging the Expressive Gap between Generative and Discriminative Recommendation via Chain-of-Attribute",
+    "url": "https://arxiv.org/abs/2604.12234",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-23T04:00:00+00:00",
+    "summary": "arXiv:2604.12234v3 Announce Type: replace Abstract: Generative Recommendation (GR) reframes retrieval and ranking as autoregressive decoding over Semantic IDs (SIDs), unifying the multi-stage pipeline into a single model. Yet a fundamental expressive gap persists: discriminative models score items with direct feature access enabling explicit user-item crossing, whereas GR decodes over compact SID tokens without item-side signal. We formalize this via Bayes' theorem: ranking by p(y|f,u) is equiva…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8a1cf73f7fbf",
+    "title": "SweRank: Software Issue Localization with Code Ranking",
+    "url": "https://arxiv.org/abs/2505.07849",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-23T04:00:00+00:00",
+    "summary": "arXiv:2505.07849v2 Announce Type: replace-cross Abstract: Software issue localization, the task of identifying the precise code locations (files, classes, or functions) relevant to a natural language issue description (e.g., bug report, feature request), is a critical yet time-consuming aspect of software development. While recent LLM-based agentic approaches demonstrate promise, they often incur significant latency and cost due to complex multi-step reasoning and relying on closed-source LLMs. …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "00c0364543f2",
+    "title": "CRAFT: Training-Free Cascaded Retrieval for Tabular QA",
+    "url": "https://arxiv.org/abs/2505.14984",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-23T04:00:00+00:00",
+    "summary": "arXiv:2505.14984v2 Announce Type: replace-cross Abstract: Open-Domain Table Question Answering (TQA) involves retrieving relevant tables from a large corpus to answer natural language queries. Traditional dense retrieval models such as DTR and DPR incur high computational costs for large-scale retrieval tasks and require retraining or fine-tuning on new datasets, limiting their adaptability to evolving domains and knowledge. We propose CRAFT, a zero-shot cascaded retrieval approach that first us…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ba3153b6899a",
+    "title": "From Raw Features to Effective Embeddings: A Three-Stage Approach for Multimodal Recipe Recommendation",
+    "url": "https://arxiv.org/abs/2511.19176",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-23T04:00:00+00:00",
+    "summary": "arXiv:2511.19176v3 Announce Type: replace-cross Abstract: Recipe recommendation has become an essential task in web-based food platforms. A central challenge is effectively leveraging rich multimodal features beyond user-recipe interactions. Our analysis shows that even simple uses of multimodal signals yield competitive performance, suggesting that systematic enhancement of these signals is highly promising. We propose TESMR, a 3-stage framework for recipe recommendation that progressively refi…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "dba1e017f7a7",
+    "title": "Optimizing User Profiles via Contextual Bandits for Retrieval-Augmented LLM Personalization",
+    "url": "https://arxiv.org/abs/2601.12078",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-23T04:00:00+00:00",
+    "summary": "arXiv:2601.12078v2 Announce Type: replace-cross Abstract: Large language models (LLMs) excel at general-purpose tasks, yet adapting their responses to individual users remains challenging. Retrieval augmentation provides a lightweight alternative to fine-tuning by conditioning LLMs on user history records, and existing approaches typically select these records based on semantic relevance. We argue that relevance serves as an unreliable proxy for utility: a record may be semantically similar to a…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "fa6b9826af0e",
+    "title": "Evolution of Research Method Usage Across the Academic Careers of Library and Information Science Scholars",
+    "url": "https://arxiv.org/abs/2604.20528",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-04-23T04:00:00+00:00",
+    "summary": "arXiv:2604.20528v1 Announce Type: new Abstract: Research methods constitute an indispensable tool for scholars engaged in scientific inquiry. Investigating how scholars use research methods throughout their careers can reveal distinct patterns in method adoption, providing valuable insights for novice researchers in selecting appropriate methods. This study employs a comprehensive dataset comprising full-text journal articles and bibliographic records from the Library and Information Science (LI…",
+    "category": "Libraries & Archives"
+  },
+  {
     "id": "36e1c99e0a2f",
     "title": "Sam Altman’s Orb Company Promoted a Bruno Mars Partnership That Doesn't Exist",
     "url": "https://www.wired.com/story/sam-altman-orb-company-bruno-mars-partnership-fake/",
