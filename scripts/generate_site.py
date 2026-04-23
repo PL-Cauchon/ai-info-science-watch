@@ -144,7 +144,7 @@ footer{text-align:center;padding:2rem 1.5rem;color:#94A3B8;font-size:.78rem;bord
 <header>
   <div class="header-inner">
     <div>
-      <div class="header-eyebrow">Ubisoft &mdash; Knowledge Management &amp; Content Strategy</div>
+      <div class="header-eyebrow">Strategic Intelligence</div>
       <h1>AI &amp; Information Sciences Watch</h1>
       <p class="header-subtitle">Daily intelligence on AI in libraries, archives, records management &amp; knowledge management</p>
     </div>
@@ -180,7 +180,7 @@ CARDS
 
 <footer>
   <div>Refreshed automatically every day via GitHub Actions &mdash; Last update: LAST_UPDATED</div>
-  <div>Ubisoft Knowledge Management &amp; Content Strategy &mdash; Pierre-Luc Cauchon</div>
+  <div>AI &amp; Information Sciences Watch &mdash; Pierre-Luc Cauchon</div>
 </footer>
 
 <script>
