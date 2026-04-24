@@ -1,5 +1,320 @@
 [
   {
+    "id": "859d0e27d275",
+    "title": "The Men Behind Your Favorite AI Gay Thirst Traps",
+    "url": "https://www.wired.com/story/gay-ai-instagram-influencers-red-carpet/",
+    "source": "Wired AI",
+    "date": "2026-04-24T09:30:00+00:00",
+    "summary": "A viral red carpet moment shone light on a group of hunky Instagram influencers—and the followers who are too horny to care that they’re not real.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a6aad359b615",
+    "title": "5 Reasons to Think Twice Before Using ChatGPT—or Any Chatbot—for Financial Advice",
+    "url": "https://www.wired.com/story/5-reasons-to-think-twice-before-using-chatgpt-for-financial-advice/",
+    "source": "Wired AI",
+    "date": "2026-04-24T09:00:00+00:00",
+    "summary": "As people increasingly rely on AI chatbots for guidance, even on financial matters, a healthy dose of skepticism is critical.",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "15c3d0e09935",
+    "title": "AtomicRAG: Atom-Entity Graphs for Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2604.20844",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-24T04:00:00+00:00",
+    "summary": "arXiv:2604.20844v1 Announce Type: new Abstract: Recent GraphRAG methods integrate graph structures into text indexing and retrieval, using knowledge graph triples to connect text chunks, thereby improving retrieval coverage and precision. However, we observe that treating text chunks as the basic unit of knowledge representation rigidly groups multiple atomic facts together, limiting the flexibility and adaptability needed to support diverse retrieval scenarios. Additionally, triple-based entity…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "ad58657e3ece",
+    "title": "CaST-POI: Candidate-Conditioned Spatiotemporal Modeling for Next POI Recommendation",
+    "url": "https://arxiv.org/abs/2604.20845",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-24T04:00:00+00:00",
+    "summary": "arXiv:2604.20845v1 Announce Type: new Abstract: Next Point-of-Interest (POI) recommendation plays a crucial role in location-based services by predicting users' future mobility patterns. Existing methods typically compute a single user representation from historical trajectories and use it to score all candidate POIs uniformly. However, this candidate-agnostic paradigm overlooks that the relevance of historical visits inherently depends on which candidate is being evaluated. In this paper, we pr…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0e35606abd19",
+    "title": "ADS-POI: Agentic Spatiotemporal State Decomposition for Next Point-of-Interest Recommendation",
+    "url": "https://arxiv.org/abs/2604.20846",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-24T04:00:00+00:00",
+    "summary": "arXiv:2604.20846v1 Announce Type: new Abstract: Next point-of-interest (POI) recommendation requires modeling user mobility as a spatiotemporal sequence, where different behavioral factors may evolve at different temporal and spatial scales. Most existing methods compress a user's history into a single latent representation, which tends to entangle heterogeneous signals such as routine mobility patterns, short-term intent, and temporal regularities. This entanglement limits the flexibility of st…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d87974d1c003",
+    "title": "Revisiting Content-Based Music Recommendation: Efficient Feature Aggregation from Large-Scale Music Models",
+    "url": "https://arxiv.org/abs/2604.20847",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-24T04:00:00+00:00",
+    "summary": "arXiv:2604.20847v1 Announce Type: new Abstract: Music Recommendation Systems (MRSs) are a cornerstone of modern streaming platforms. Existing recommendation models, spanning both recall and ranking stages, predominantly rely on collaborative filtering, which fails to exploit the intrinsic characteristics of audio and consequently leads to suboptimal performance, particularly in cold-start scenarios. However, existing music recommendation datasets often lack rich multimodal information, such as r…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a837452890c2",
+    "title": "MATRAG: Multi-Agent Transparent Retrieval-Augmented Generation for Explainable Recommendations",
+    "url": "https://arxiv.org/abs/2604.20848",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-24T04:00:00+00:00",
+    "summary": "arXiv:2604.20848v1 Announce Type: new Abstract: Large Language Model (LLM)-based recommendation systems have demonstrated remarkable capabilities in understanding user preferences and generating personalized suggestions. However, existing approaches face critical challenges in transparency, knowledge grounding, and the ability to provide coherent explanations that foster user trust. We introduce MATRAG (Multi-Agent Transparent Retrieval-Augmented Generation), a novel framework that combined mult…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "3b038abb536a",
+    "title": "SPIRE: Structure-Preserving Interpretable Retrieval of Evidence",
+    "url": "https://arxiv.org/abs/2604.20849",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-24T04:00:00+00:00",
+    "summary": "arXiv:2604.20849v1 Announce Type: new Abstract: Retrieval-augmented generation over semi-structured sources such as HTML is constrained by a mismatch between document structure and the flat, sequence-based interfaces of today's embedding and generative models. Retrieval pipelines often linearize documents into fixed-size chunks before indexing, which obscures section structure, lists, and tables, and makes it difficult to return small, citation-ready evidence without losing the surrounding conte…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "6c632b79b46e",
+    "title": "Association Is Not Similarity: Learning Corpus-Specific Associations for Multi-Hop Retrieval",
+    "url": "https://arxiv.org/abs/2604.20850",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-24T04:00:00+00:00",
+    "summary": "arXiv:2604.20850v1 Announce Type: new Abstract: Dense retrieval systems rank passages by embedding similarity to a query, but multi-hop questions require passages that are associatively related through shared reasoning chains. We introduce Association-Augmented Retrieval (AAR), a lightweight transductive reranking method that trains a small MLP (4.2M parameters) to learn associative relationships between passages in embedding space using contrastive learning on co-occurrence annotations. At infe…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "2cd04a0a0f61",
+    "title": "Robust Test-time Video-Text Retrieval: Benchmarking and Adapting for Query Shifts",
+    "url": "https://arxiv.org/abs/2604.20851",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-24T04:00:00+00:00",
+    "summary": "arXiv:2604.20851v1 Announce Type: new Abstract: Modern video-text retrieval (VTR) models excel on in-distribution benchmarks but are highly vulnerable to real-world query shifts, where the distribution of query data deviates from the training domain, leading to a sharp performance drop. Existing image-focused robustness solutions are inadequate to handle this vulnerability in video, as they fail to address the complex spatio-temporal dynamics inherent in these shifts. To systematically evaluate …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c586bf8e943a",
+    "title": "DenoiseRank: Learning to Rank by Diffusion Models",
+    "url": "https://arxiv.org/abs/2604.20852",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-24T04:00:00+00:00",
+    "summary": "arXiv:2604.20852v1 Announce Type: new Abstract: Learning to rank (LTR) is one of the core tasks in Machine Learning. Traditional LTR models have made great progress, but nearly all of them are implemented from discriminative perspective. In this paper, we aim at addressing LTR from a novel perspective, i.e., by a deep generative model. Specifically, we propose a novel denoise rank model, DenoiseRank, which noises the relevant labels in the diffusion process and denoises them on the query documen…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5cbe34f7d4f8",
+    "title": "A Systematic Study of Biomedical Retrieval Pipeline Trade-offs in Performance and Efficiency",
+    "url": "https://arxiv.org/abs/2604.20853",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-24T04:00:00+00:00",
+    "summary": "arXiv:2604.20853v1 Announce Type: new Abstract: Retrieval systems are increasingly used in biomedical and clinical natural language processing applications, yet practical guidance for researchers building such systems is limited. In this work, we provide such guidance through an empirical study of how retrieval pipeline design choices affect performance and efficiency at scale. In particular, we examine retrieval over a variety of existing, public biomedical text datasets, leveraging a variety o…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "9dc6403df0fe",
+    "title": "ERA: Evidence-based Reliability Alignment for Honest Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2604.20854",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-24T04:00:00+00:00",
+    "summary": "arXiv:2604.20854v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) grounds language models in factual evidence but introduces critical challenges regarding knowledge conflicts between internalized parameters and retrieved information. However, existing reliability methods, typically relying on scalar confidence, fail to explicitly distinguish between epistemic uncertainty and inherent data ambiguity in such hybrid scenarios. In this paper, we propose a new framework called ERA …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "83b5f61123d1",
+    "title": "Caesar: Deep Agentic Web Exploration for Creative Answer Synthesis",
+    "url": "https://arxiv.org/abs/2604.20855",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-24T04:00:00+00:00",
+    "summary": "arXiv:2604.20855v1 Announce Type: new Abstract: To advance from passive retrieval to creative discovery of new ideas, autonomous agents must be capable of deep, associative synthesis. However, current agentic frameworks prioritize convergent search, often resulting in derivative summaries that lack creativity. Caesar is an agentic LLM architecture designed to bridge the gap between information gathering and synthesis of new insights. Unlike existing agents that treat the web as a flat sequence o…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "086b8edd08ab",
+    "title": "CRED-1: An Open Multi-Signal Domain Credibility Dataset for Automated Pre-Bunking of Online Misinformation",
+    "url": "https://arxiv.org/abs/2604.20856",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-24T04:00:00+00:00",
+    "summary": "arXiv:2604.20856v1 Announce Type: new Abstract: This article presents CRED-1, an open, reproducible domain-level credibility dataset combining two openly-licensed source lists (OpenSources.co and Iffy.news) with four computed enrichment signals: domain age (WHOIS/RDAP), web popularity (Tranco Top-1M), fact-check frequency (Google Fact Check Tools API), and threat intelligence (Google Safe Browsing API). The dataset covers 2,672 domains categorized as fake, unreliable, mixed, conspiracy, or satir…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a91ec7f3cbad",
+    "title": "DiagramBank: A Large-scale Dataset of Diagram Design Exemplars with Paper Metadata for Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2604.20857",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-24T04:00:00+00:00",
+    "summary": "arXiv:2604.20857v1 Announce Type: new Abstract: Recent advances in autonomous ``AI scientist'' systems have demonstrated the ability to automatically write scientific manuscripts and codes with execution. However, producing a publication-grade scientific diagram (e.g., teaser figure) is still a major bottleneck in the ``end-to-end'' paper generation process. For example, a teaser figure acts as a strategic visual interface and serves a different purpose than derivative data plots. It demands con…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "19a9b65a6615",
+    "title": "Mixture of Sequence: Theme-Aware Mixture-of-Experts for Long-Sequence Recommendation",
+    "url": "https://arxiv.org/abs/2604.20858",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-24T04:00:00+00:00",
+    "summary": "arXiv:2604.20858v1 Announce Type: new Abstract: Sequential recommendation has rapidly advanced in click-through rate prediction due to its ability to model dynamic user interests. A key challenge, however, lies in modeling long sequences: users often exhibit significant interest shifts, introducing substantial irrelevant or misleading information. Our empirical analysis corroborates this challenge and uncovers a recurring behavioral pattern in long sequences (\\textit{session hopping}): user inte…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "24a7c2cb4479",
+    "title": "KGiRAG: An Iterative GraphRAG Approach for Responding Sensemaking Queries",
+    "url": "https://arxiv.org/abs/2604.20859",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-24T04:00:00+00:00",
+    "summary": "arXiv:2604.20859v1 Announce Type: new Abstract: Recent literature highlights the potential of graph-based approaches within large language model (LLM) retrieval-augmented generation (RAG) pipelines for answering queries of varying complexity, particularly those that fall outside the LLM's prior knowledge. However, LLMs are prone to hallucination and often face technical limitations in handling contexts large enough to ground complex queries effectively. To address these challenges, we propose a …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "1058677a76ee",
+    "title": "RealRoute: Dynamic Query Routing System via Retrieve-then-Verify Paradigm",
+    "url": "https://arxiv.org/abs/2604.20860",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-24T04:00:00+00:00",
+    "summary": "arXiv:2604.20860v1 Announce Type: new Abstract: Despite the success of Retrieval-Augmented Generation (RAG) in grounding LLMs with external knowledge, its application over heterogeneous sources (e.g., private databases, global corpora, and APIs) remains a significant challenge. Existing approaches typically employ an LLM-as-a-Router to dispatch decomposed sub-queries to specific sources in a predictive manner. However, this \"LLM-as-a-Router\" strategy relies heavily on the semantic meaning of dif…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "179fe378a1be",
+    "title": "Deep Interest Mining with Cross-Modal Alignment for SemanticID Generation in Generative Recommendation",
+    "url": "https://arxiv.org/abs/2604.20861",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-24T04:00:00+00:00",
+    "summary": "arXiv:2604.20861v1 Announce Type: new Abstract: Generative Recommendation (GR) has demonstrated remarkable performance in next-token prediction paradigms, which relies on Semantic IDs (SIDs) to compress trillion-scale data into learnable vocabulary sequences. However, existing methods suffer from three critical limitations: (1) Information Degradation: the two-stage compression pipeline causes semantic loss and information degradation, with no posterior mechanism to distinguish high-quality from…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "36f76266d8e1",
+    "title": "Following the Eye-Tracking Evidence: Established Web-Search Assumptions Fail in Carousel Interfaces",
+    "url": "https://arxiv.org/abs/2604.21019",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-24T04:00:00+00:00",
+    "summary": "arXiv:2604.21019v1 Announce Type: new Abstract: Carousel interfaces have been the de-facto standard for streaming media services for over a decade. Yet, there has been very little research into user behavior with such interfaces, which thus remains poorly understood. Due to this lack of empirical research, previous work has assumed that behaviors established in single-list web-search interfaces, such as the F-pattern and the examination hypothesis, also apply to carousel interfaces, for instance…",
+    "category": "Information Behavior"
+  },
+  {
+    "id": "ff548bf83182",
+    "title": "Automated Extraction of Pharmacokinetic Parameters from Structured XML Scientific Articles: Enhancing Data Accessibility at Scale",
+    "url": "https://arxiv.org/abs/2604.21063",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-24T04:00:00+00:00",
+    "summary": "arXiv:2604.21063v1 Announce Type: new Abstract: In the field of pharmacology, there is a notable absence of centralized, comprehensive, and up-to-date repositories of PK data. This poses a significant challenge for R&amp;D as it can be a time-consuming and challenging task to collect all the required quantitative PK parameters from diverse scientific publications. This quantitative PK information is predominantly organized in tabular format, mostly available as XML, HTML, or PDF files within var…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "7b1825069718",
+    "title": "Multilingual and Domain-Agnostic Tip-of-the-Tongue Query Generation for Simulated Evaluation",
+    "url": "https://arxiv.org/abs/2604.21096",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-24T04:00:00+00:00",
+    "summary": "arXiv:2604.21096v1 Announce Type: new Abstract: Tip-of-the-Tongue (ToT) retrieval benchmarks have largely focused on English, limiting their applicability to multilingual information access. In this work, we construct multilingual ToT test collections for Chinese, Japanese, Korean, and English, using an LLM-based query simulation framework. We systematically study how prompt language and source document language affect the fidelity of simulated ToT queries, validating synthetic queries through s…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "2f873d6f8f9e",
+    "title": "PAPERMIND: Benchmarking Agentic Reasoning and Critique over Scientific Papers in Multimodal LLMs",
+    "url": "https://arxiv.org/abs/2604.21304",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-24T04:00:00+00:00",
+    "summary": "arXiv:2604.21304v1 Announce Type: new Abstract: Understanding scientific papers requires more than answering isolated questions or summarizing content. It involves an integrated reasoning process that grounds textual and visual information, interprets experimental evidence, synthesizes information across sources, and critically evaluates scientific claims. However, existing benchmarks typically assess these abilities in isolation, making it difficult to evaluate scientific paper understanding as…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "ba8f309d7fe0",
+    "title": "WPGRec: Wavelet Packet Guided Graph Enhanced Sequential Recommendation",
+    "url": "https://arxiv.org/abs/2604.21305",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-24T04:00:00+00:00",
+    "summary": "arXiv:2604.21305v1 Announce Type: new Abstract: Sequential recommendation aims to model users' evolving interests from noisy and non-stationary interaction streams, where long-term preferences, short-term intents, and localized behavioral fluctuations may coexist across temporal scales. Existing frequency-domain methods mainly rely on either global spectral operations or filter-based wavelet processing. However, global spectral operations tend to entangle local transients with long-range depende…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "6218dd373be9",
+    "title": "From Tokens to Concepts: Leveraging SAE for SPLADE",
+    "url": "https://arxiv.org/abs/2604.21511",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-24T04:00:00+00:00",
+    "summary": "arXiv:2604.21511v1 Announce Type: new Abstract: Learned Sparse IR models, such as SPLADE, offer an excellent efficiency-effectiveness tradeoff. However, they rely on the underlying backbone vocabulary, which might hinder performance (polysemicity and synonymy) and pose a challenge for multi-lingual and multi-modal usages. To solve this limitation, we propose to replace the backbone vocabulary with a latent space of semantic concepts learned using Sparse Auto-Encoders (SAE). Throughout this paper…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ed3403a93140",
+    "title": "Pre-trained LLMs Meet Sequential Recommenders: Efficient User-Centric Knowledge Distillation",
+    "url": "https://arxiv.org/abs/2604.21536",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-24T04:00:00+00:00",
+    "summary": "arXiv:2604.21536v1 Announce Type: new Abstract: Sequential recommender systems have achieved significant success in modeling temporal user behavior but remain limited in capturing rich user semantics beyond interaction patterns. Large Language Models (LLMs) present opportunities to enhance user understanding with their reasoning capabilities, yet existing integration approaches create prohibitive inference costs in real time. To address these limitations, we present a novel knowledge distillatio…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "b3845c3795a9",
+    "title": "The State of Scientific Poster Sharing and Reuse",
+    "url": "https://arxiv.org/abs/2604.21150",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-04-24T04:00:00+00:00",
+    "summary": "arXiv:2604.21150v1 Announce Type: new Abstract: Scientific posters are one of the most common forms of scholarly communication and contain early-stage insights with potential to accelerate scientific discovery. We investigated where posters are shared, to what extent their sharing aligns with the FAIR principles, and how commonly they are reused. We identified 86 platforms hosting posters, with many not assigning persistent identifiers. A total of 150k posters are shared as of 2024 on the 43 pla…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "cda3e968b0ce",
+    "title": "OpenCitations Meta",
+    "url": "https://arxiv.org/abs/2306.16191",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-04-24T04:00:00+00:00",
+    "summary": "arXiv:2306.16191v2 Announce Type: replace Abstract: OpenCitations Meta is a new database for open bibliographic metadata of scholarly publications involved in the citations indexed by the OpenCitations infrastructure, adhering to Open Science principles and published under a CC0 license to promote maximum reuse. It presently incorporates bibliographic metadata for publications recorded in Crossref, DataCite and PubMed, making it the largest bibliographic metadata source using Semantic Web techno…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "77369a334eb5",
+    "title": "Markov kernels in Mathlib's probability library",
+    "url": "https://arxiv.org/abs/2510.04070",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-04-24T04:00:00+00:00",
+    "summary": "arXiv:2510.04070v2 Announce Type: replace Abstract: The probability folder of Mathlib, Lean's mathematical library, makes a heavy use of Markov kernels. We present their definition and properties and describe the formalization of the disintegration theorem for Markov kernels. That theorem is used to define conditional probability distributions of random variables as well as posterior distributions. We then explain how Markov kernels are used in a more unusual way to get a common definition of in…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "b2bdb4f8e786",
+    "title": "Crystal: Characterizing Relative Impact of Scholarly Publications",
+    "url": "https://arxiv.org/abs/2603.26791",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-04-24T04:00:00+00:00",
+    "summary": "arXiv:2603.26791v2 Announce Type: replace Abstract: Assessing a cited paper's impact is typically done by analyzing its citation context in isolation within the citing paper. While this focuses on the most directly relevant text, it prevents relative comparisons across all the works a paper cites. We propose Crystal, which instead jointly ranks all cited papers within a citing paper using large language models (LLMs). To mitigate LLMs' positional bias, we rank each list three times in a randomiz…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "6cc1fa300281",
+    "title": "Doctoral Theses in France (1985-2025): A Linked Dataset of PhDs, Academic Networks, and Institutions",
+    "url": "https://arxiv.org/abs/2604.08619",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-04-24T04:00:00+00:00",
+    "summary": "arXiv:2604.08619v2 Announce Type: replace Abstract: This paper presents a comprehensive dataset of doctoral theses defended in France between 1985 and 2025, constructed from multiple national academic metadata sources. The dataset is primarily based on data from the French national thesis platform and is enriched using additional authority and bibliographic databases to improve data quality, completeness, and interoperability. The data production pipeline includes the aggregation of heterogeneou…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "fcf2dd292ff5",
+    "title": "Apple’s Next Chapter, SpaceX and Cursor Strike a Deal, and Palantir’s Controversial Manifesto",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-apple-next-chapter-spacex-cursor-deal-palantir-manifesto/",
+    "source": "Wired AI",
+    "date": "2026-04-23T19:26:11+00:00",
+    "summary": "In this week’s episode of Uncanny Valley, we talk about Tim Cook’s legacy as CEO at Apple and what his long-rumored departure means for the future of one of the world's biggest companies.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f9090d7d06da",
+    "title": "At 'AI Coachella,' Stanford Students Line Up to Learn From Silicon Valley Royalty",
+    "url": "https://www.wired.com/story/stanford-cs-class-ai-coachella-ben-horowitz/",
+    "source": "Wired AI",
+    "date": "2026-04-23T18:24:37+00:00",
+    "summary": "CS 153 has gone viral on the Palo Alto campus—and on X. Not everyone is happy about it.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0221b4d94aba",
+    "title": "Contextualizing the Proposed SECURE Data Act in the State Privacy Landscape",
+    "url": "https://fpf.org/blog/contextualizing-the-proposed-secure-data-act-in-the-state-privacy-landscape/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-04-23T14:14:15+00:00",
+    "summary": "Special thanks to FPF’s Dr. Gabriela Zanfir-Fortuna, VP of Global Policy, for her contributions to this analysis. The House Committee on Energy and Commerce’s Republican data privacy working group released their long-awaited comprehensive consumer privacy bill on April 22, titled the “Securing and Establishing Consumer Uniform Rights and Enforcement over Data Act” (SECURE Data Act) [&#8230;]",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "8036388cff9f",
     "title": "A Reproducibility Study of Metacognitive Retrieval-Augmented Generation",
     "url": "https://arxiv.org/abs/2604.19899",
