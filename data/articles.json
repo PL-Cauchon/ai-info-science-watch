@@ -1,5 +1,50 @@
 [
   {
+    "id": "83555de4a7d4",
+    "title": "Ace the Ping-Pong Robot Can Whup Your Ass",
+    "url": "https://www.wired.com/story/ace-the-robot-wants-to-become-the-world-table-tennis-champion/",
+    "source": "Wired AI",
+    "date": "2026-04-25T09:30:00+00:00",
+    "summary": "Ace can read the trajectory of a ball, adjust the racket angle, and respond with strokes that keep the exchange alive with real players.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2dedbcb0073e",
+    "title": "Three reasons why DeepSeek’s new model matters",
+    "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+    "source": "MIT Tech Review",
+    "date": "2026-04-24T21:40:58+00:00",
+    "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is open source, meaning it is available&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "967c718984a4",
+    "title": "AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials",
+    "url": "https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/",
+    "source": "Wired AI",
+    "date": "2026-04-24T17:17:36+00:00",
+    "summary": "Isomorphic Labs president Max Jaderberg said at WIRED Health in London that the startup has built a “broad and exciting pipeline of new medicines.”",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "3cd7541810a5",
+    "title": "Apple's Next CEO Needs to Launch a Killer AI Product",
+    "url": "https://www.wired.com/story/apples-next-ceo-needs-to-launch-a-killer-ai-product/",
+    "source": "Wired AI",
+    "date": "2026-04-24T15:00:00+00:00",
+    "summary": "Tim Cook was a great CEO, but he didn’t crack AI. It’s job number 1 for John Ternus.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0e1f15f74a5d",
+    "title": "More Parties, More Risks, More Opportunity? Evolving Governance to Support Cyber Resilience Amidst Evolving Policy and Technological Change",
+    "url": "https://fpf.org/blog/more-parties-more-risks-more-opportunity-evolving-governance-to-support-cyber-resilience-amidst-evolving-policy-and-technological-change/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-04-24T13:09:00+00:00",
+    "summary": "*Special thanks to Jim Siegl and Jocelyn Aqua for their advice and expertise. Summary: Artificial Intelligence (AI) presents fundamental opportunities and challenges for defense of increasingly complex digital ecosystems amid rising attack costs, fragmented regulation, and evolving industry practices. A coordinated response across the public and private sectors, including smart deployment of AI tools for [&#8230;]",
+    "category": "AI Training & Literacy"
+  },
+  {
     "id": "859d0e27d275",
     "title": "The Men Behind Your Favorite AI Gay Thirst Traps",
     "url": "https://www.wired.com/story/gay-ai-instagram-influencers-red-carpet/",
