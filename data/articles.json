@@ -1,5 +1,212 @@
 [
   {
+    "id": "84e72d6a4f6b",
+    "title": "ResRank: Unifying Retrieval and Listwise Reranking via End-to-End Joint Training with Residual Passage Compression",
+    "url": "https://arxiv.org/abs/2604.22180",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-27T04:00:00+00:00",
+    "summary": "arXiv:2604.22180v1 Announce Type: new Abstract: Large language model (LLM) based listwise reranking has emerged as the dominant paradigm for achieving state-of-the-art ranking effectiveness in information retrieval. However, its reliance on feeding full passage texts into the LLM introduces two critical bottlenecks: the \"lost in the middle\" phenomenon degrades ranking quality as input length grows, and the inference latency scales super-linearly with sequence length, rendering it impractical for…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "7579e90bd52b",
+    "title": "Rethinking Semantic Collaborative Integration: Why Alignment Is Not Enough",
+    "url": "https://arxiv.org/abs/2604.22195",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-27T04:00:00+00:00",
+    "summary": "arXiv:2604.22195v1 Announce Type: new Abstract: Large language models (LLMs) have become an important semantic infrastructure for modern recommender systems. A prevailing paradigm integrates LLM-derived semantic embeddings with collaborative representations via representation alignment, implicitly assuming that the two views encode a shared latent entity and that stronger alignment yields better results. We formalize this assumption as the global low-complexity alignment hypothesis and argue tha…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "fc0526f9432a",
+    "title": "Objective Shaping with Hard Negatives: Windowed Partial AUC Optimization for RL-based LLM Recommenders",
+    "url": "https://arxiv.org/abs/2604.22504",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-27T04:00:00+00:00",
+    "summary": "arXiv:2604.22504v1 Announce Type: new Abstract: Reinforcement learning (RL) effectively optimizes Large Language Model (LLM)-based recommenders by contrasting positive and negative items. Empirically, training with beam-search negatives consistently outperforms random negatives, yet the mechanism is not well understood. We address this gap by analyzing the induced optimization objective and show that: (i) Under binary reward feedback, optimizing LLM recommenders with Group Relative Policy Optimi…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "4fad73adf35d",
+    "title": "ASPIRE: Make Spectral Graph Collaborative Filtering Great Again via Adaptive Filter Learning",
+    "url": "https://arxiv.org/abs/2604.22549",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-27T04:00:00+00:00",
+    "summary": "arXiv:2604.22549v1 Announce Type: new Abstract: Graph filter design is central to spectral collaborative filtering, yet most existing methods rely on manually tuned hyperparameters rather than fully learnable filters. We show that this challenge stems from a bias in traditional recommendation objectives, which induces a spectral phenomenon termed low-frequency explosion, thereby fundamentally hindering the effective learning of graph filters. To overcome this limitation, we propose a novel adapt…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "95c6db0432f7",
+    "title": "Can QPP Choose the Right Query Variant? Evaluating Query Variant Selection for RAG Pipelines",
+    "url": "https://arxiv.org/abs/2604.22661",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-27T04:00:00+00:00",
+    "summary": "arXiv:2604.22661v1 Announce Type: new Abstract: Large Language Models (LLMs) have made query reformulation ubiquitous in modern retrieval and Retrieval-Augmented Generation (RAG) pipelines, enabling the generation of multiple semantically equivalent query variants. However, executing the full pipeline for every reformulation is computationally expensive, motivating selective execution: can we identify the best query variant before incurring downstream retrieval and generation costs? We investiga…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "1259f8d1c328",
+    "title": "Aligning Dense Retrievers with LLM Utility via DistillationAligning Dense Retrievers with LLM Utility via Distillation",
+    "url": "https://arxiv.org/abs/2604.22722",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-27T04:00:00+00:00",
+    "summary": "arXiv:2604.22722v1 Announce Type: new Abstract: Dense vector retrieval is the practical backbone of Retrieval- Augmented Generation (RAG), but similarity search can suffer from precision limitations. Conversely, utility-based approaches leveraging LLM re-ranking often achieve superior performance but are computationally prohibitive and prone to noise inherent in perplexity estimation. We propose Utility-Aligned Embeddings (UAE), a framework designed to merge these advantages into a practical, hi…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "b394418d6ae7",
+    "title": "Analyzing Shapley Additive Explanations to Understand Anomaly Detection Algorithm Behaviors and Their Complementarity",
+    "url": "https://arxiv.org/abs/2602.00208",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-27T04:00:00+00:00",
+    "summary": "arXiv:2602.00208v3 Announce Type: cross Abstract: Unsupervised anomaly detection is a challenging problem due to the diversity of data distributions and the lack of labels. Ensemble methods are often adopted to mitigate these challenges by combining multiple detectors, which can reduce individual biases and increase robustness. Yet building an ensemble that is genuinely complementary remains challenging, since many detectors rely on similar decision cues and end up producing redundant anomaly sc…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "adf33ada6584",
+    "title": "Implementation and Privacy Guarantees for Scalable Keyword Search on SOLID-based Decentralized Data with Granular Visibility Constraints",
+    "url": "https://arxiv.org/abs/2604.22100",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-27T04:00:00+00:00",
+    "summary": "arXiv:2604.22100v1 Announce Type: cross Abstract: In decentralized personal data ecosystems grounded in architectures such as Solid, users retain sovereignty over their data via personal online data stores (pods), hosted on Solid-compliant server infrastructures. In such environments, data remains under the control of pod owners, which complicates search due to distribution across numerous pods and user-specific access constraints. ESPRESSO is a decentralized framework for scalable keyword-based…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a4c9b9bfe6f8",
+    "title": "ReCast: Recasting Learning Signals for Reinforcement Learning in Generative Recommendation",
+    "url": "https://arxiv.org/abs/2604.22169",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-27T04:00:00+00:00",
+    "summary": "arXiv:2604.22169v1 Announce Type: cross Abstract: Generic group-based RL assumes that sampled rollout groups are already usable learning signals. We show that this assumption breaks down in sparse-hit generative recommendation, where many sampled groups never become learnable at all. We propose ReCast, a repair-then-contrast learning-signal framework that first restores minimal learnability for all-zero groups and then replaces full-group reward normalization with a boundary-focused contrastive …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "30f506345f31",
+    "title": "Sharpness-Aware Poisoning: Enhancing Transferability of Injective Attacks on Recommender Systems",
+    "url": "https://arxiv.org/abs/2604.22170",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-27T04:00:00+00:00",
+    "summary": "arXiv:2604.22170v1 Announce Type: cross Abstract: Recommender Systems~(RS) have been shown to be vulnerable to injective attacks, where attackers inject limited fake user profiles to promote the exposure of target items to real users for unethical gains (e.g., economic or political advantages). Since attackers typically lack knowledge of the victim model deployed in the target RS, existing methods resort to using a fixed surrogate model to mimic the potential victim model. Despite considerable p…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "3d435c3311c7",
+    "title": "AgentSearchBench: A Benchmark for AI Agent Search in the Wild",
+    "url": "https://arxiv.org/abs/2604.22436",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-27T04:00:00+00:00",
+    "summary": "arXiv:2604.22436v1 Announce Type: cross Abstract: The rapid growth of AI agent ecosystems is transforming how complex tasks are delegated and executed, creating a new challenge of identifying suitable agents for a given task. Unlike traditional tools, agent capabilities are often compositional and execution-dependent, making them difficult to assess from textual descriptions alone. However, existing research and benchmarks typically assume well-specified functionalities, controlled candidate poo…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "416cb0a67fb7",
+    "title": "KuaiLive: A Real-time Interactive Dataset for Live Streaming Recommendation",
+    "url": "https://arxiv.org/abs/2508.05633",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-27T04:00:00+00:00",
+    "summary": "arXiv:2508.05633v2 Announce Type: replace Abstract: Live streaming platforms have become a dominant form of online content consumption, offering dynamically evolving content, real-time interactions, and highly engaging user experiences. These unique characteristics introduce new challenges that differentiate live streaming recommendation from traditional recommendation settings and have garnered increasing attention from industry in recent years. However, research progress in academia has been h…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "319c3317a7aa",
+    "title": "LLMs as Assessors: Right for the Right Reason?",
+    "url": "https://arxiv.org/abs/2601.08919",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-27T04:00:00+00:00",
+    "summary": "arXiv:2601.08919v2 Announce Type: replace Abstract: A good deal of recent research has focused on how Large Language Models (LLMs) may be used as judges in place of humans to evaluate the quality of the output produced by various text / image processing systems. Within this broader context, a number of studies have investigated the specific question of how effectively LLMs can be used as relevance assessors for the standard ad hoc task in Information Retrieval (IR). We extend these studies by lo…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "ee3651edb3fc",
+    "title": "SpecTran: Spectral-Aware Transformer-based Adapter for LLM-Enhanced Sequential Recommendation",
+    "url": "https://arxiv.org/abs/2601.21986",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-27T04:00:00+00:00",
+    "summary": "arXiv:2601.21986v2 Announce Type: replace Abstract: Traditional sequential recommendation (SR) models learn low-dimensional item ID embeddings from user-item interactions, often overlooking textual information such as item titles or descriptions. Recent advances in Large Language Models (LLMs) have inspired a surge of research that encodes item textual information with high-dimensional semantic embeddings, and designs transformation methods to inject such embeddings into SR models. These embeddi…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c48ad28a4244",
+    "title": "Adaptive Autoguidance for Item-Side Fairness in Diffusion Recommender Systems",
+    "url": "https://arxiv.org/abs/2602.14706",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-27T04:00:00+00:00",
+    "summary": "arXiv:2602.14706v2 Announce Type: replace Abstract: Diffusion recommender systems achieve strong recommendation accuracy but often suffer from popularity bias, resulting in unequal item exposure. To address this shortcoming, we introduce A2G-DiffRec, a diffusion recommender that incorporates adaptive autoguidance, where the main model is guided by a less-trained version of itself. Instead of using a fixed guidance weight, A2G-DiffRec learns to adaptively weigh the outputs of the main and weak mo…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a109aa24dc50",
+    "title": "Learning from Natural Language Feedback for Personalized Question Answering",
+    "url": "https://arxiv.org/abs/2508.10695",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-27T04:00:00+00:00",
+    "summary": "arXiv:2508.10695v2 Announce Type: replace-cross Abstract: Personalization is crucial for enhancing both the effectiveness and user satisfaction of language technologies, particularly in information-seeking tasks like question answering. Current approaches for personalizing large language models (LLMs) often rely on retrieval-augmented generation (RAG), followed by reinforcement learning with scalar reward signals to teach models how to use retrieved personal context. We believe that these scalar…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "0d6e8dd6a3fc",
+    "title": "Adapting MLLMs for Nuanced Video Retrieval",
+    "url": "https://arxiv.org/abs/2512.13511",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-27T04:00:00+00:00",
+    "summary": "arXiv:2512.13511v2 Announce Type: replace-cross Abstract: Our objective is to build an embedding model that captures the nuanced relationship between a search query and candidate videos. We cover three aspects of nuanced retrieval: (i) temporal, (ii) negation, and (iii) multimodal. For temporal nuance, we consider chiral actions that need distinguishing between temporally opposite actions like \"opening a door\" vs. \"closing a door\". For negation, we consider queries with negators such as \"not\", \"…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "b7a9af8d3c36",
+    "title": "Opening Pandora's box: Paper mills in conference proceedings",
+    "url": "https://arxiv.org/abs/2604.22458",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-04-27T04:00:00+00:00",
+    "summary": "arXiv:2604.22458v1 Announce Type: new Abstract: Paper mills are a growing threat to the integrity of science, yet their penetration in conference proceedings remains underexplored despite conferences being more important than journals in some scientific subfields. This study aims to identify papers in conference proceedings whose titles have been offered for sale on social media platforms. We collected more than 4,000 unique publication offers from more than 200 social media channels and used se…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "367d3bc84865",
+    "title": "Rethinking Publication: A Certification Framework for AI-Enabled Research",
+    "url": "https://arxiv.org/abs/2604.22026",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-04-27T04:00:00+00:00",
+    "summary": "arXiv:2604.22026v1 Announce Type: cross Abstract: AI research pipelines now produce a growing share of publishable academic output, including work that meets existing peer-review standards for quality and novelty. Yet the publication system was built on the assumption of universal human authorship and lacks a principled way to evaluate knowledge produced through automated pipelines. This paper proposes a two-layer certification framework that separates knowledge quality assessment from grading o…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1ed7e977eadd",
+    "title": "Evolving Thematic Map Design in Academic Cartography: A Thirty-Year Study Based on Multilingual Journals",
+    "url": "https://arxiv.org/abs/2604.22539",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-04-27T04:00:00+00:00",
+    "summary": "arXiv:2604.22539v1 Announce Type: cross Abstract: Thematic maps play a central role in academic communication, yet their large-scale design evolution has rarely been examined empirically. This study presents a longitudinal and multilingual analysis of thematic map design practices in academic cartography from 1990 to 2020. We compile a corpus of 45,732 research articles from sixteen authoritative Chinese- and English-language journals and extract 23,928 maps using computer vision and large-model…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5f4378b33227",
+    "title": "Mapping bibliographic metadata collections: the case of OpenCitations Meta and OpenAlex",
+    "url": "https://arxiv.org/abs/2312.16523",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-04-27T04:00:00+00:00",
+    "summary": "arXiv:2312.16523v2 Announce Type: replace Abstract: This study describes the methodology and analyses the results of the process of mapping entities between two large open bibliographic metadata collections, OpenCitations Meta and OpenAlex. The primary objective of this mapping is to integrate OpenAlex internal identifiers into the existing metadata of bibliographic resources in OpenCitations Meta, thereby interlinking and aligning these collections. Furthermore, analysing the output of the mapp…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "0d6bc1c6a829",
+    "title": "An analysis of the effects of open science indicators on citations in the French Open Science Monitor",
+    "url": "https://arxiv.org/abs/2508.20747",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-04-27T04:00:00+00:00",
+    "summary": "arXiv:2508.20747v3 Announce Type: replace Abstract: This study investigates the correlation of citation impact with various open science indicators (OSI) within the French Open Science Monitor (FOSM), a dataset comprising approximately 900,000 publications authored by French authors from 2020 to 2022. By integrating data from OpenAlex and Crossref, we analyze open science indicators such as the presence of a pre-print, data sharing, and software sharing in 576,537 publications in the FOSM datase…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4fb68b3291b1",
+    "title": "Market Dynamics, Governance and Open Research Metadata in the AI Era",
+    "url": "https://arxiv.org/abs/2604.19507",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-04-27T04:00:00+00:00",
+    "summary": "arXiv:2604.19507v2 Announce Type: replace Abstract: The debate about scholarly knowledge infrastructure has long been framed as a contest between openness and commercial enclosure. This framing distorts both policy and practice. The real tension lies between the persistent cost of producing and refining structured metadata under deep technological friction, and the differentiated demands distinct communities place on data quality, focus and granularity. We introduce the innovation annulus: the z…",
+    "category": "Information Retrieval & Search"
+  },
+  {
     "id": "9e31221df658",
     "title": "Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos",
     "url": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/",
