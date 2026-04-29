@@ -1,5 +1,311 @@
 [
   {
+    "id": "c03104ee4504",
+    "title": "When Robots Have Their ChatGPT Moment, Remember These Pincers",
+    "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
+    "source": "Wired AI",
+    "date": "2026-04-29T10:00:00+00:00",
+    "summary": "From sorting chicken nuggets to screwing in light bulbs, Eka’s robots are eerily lifelike. But do they have real physical smarts?",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5c85a72b6470",
+    "title": "How AI Could Help Combat Antibiotic Resistance",
+    "url": "https://www.wired.com/story/wired-health-2026-tackling-antimicrobial-resistance-ara-darzi/",
+    "source": "Wired AI",
+    "date": "2026-04-29T09:00:00+00:00",
+    "summary": "At WIRED Health, British surgeon Ara Darzi said AI is set to transform the diagnosis and treatment of drug-resistant infections. But a lack of incentives means innovation may not reach patients.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8ec6f5303f9c",
+    "title": "Versioned Late Materialization for Ultra-Long Sequence Training in Recommendation Systems at Scale",
+    "url": "https://arxiv.org/abs/2604.24806",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-29T04:00:00+00:00",
+    "summary": "arXiv:2604.24806v1 Announce Type: new Abstract: Modern Deep Learning Recommendation Models (DLRMs) follow scaling laws with sequence length, driving the frontier toward ultra-long User Interaction History (UIH). However, the industry-standard \"Fat Row\" paradigm, which pre-materializes these sequences into every training example, creates a storage and I/O wall where data infrastructure usage exceeds GPU training capacity due to data redundancy that is amplified in multi-tenant environments where …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "48ec76a27660",
+    "title": "Offline Evaluation Measures of Fairness in Recommender Systems",
+    "url": "https://arxiv.org/abs/2604.25032",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-29T04:00:00+00:00",
+    "summary": "arXiv:2604.25032v1 Announce Type: new Abstract: The evaluation of recommender system fairness has become increasingly important, especially with recent legislation that emphasises the development of fair and responsible artificial intelligence. This has led to the emergence of various fairness evaluation measures, which quantify fairness based on different definitions. However, many of such measures are simply proposed and used without further analysis on their robustness. As a result, there is …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "772e074d3487",
+    "title": "UnIte: Uncertainty-based Iterative Document Sampling for Domain Adaptation in Information Retrieval",
+    "url": "https://arxiv.org/abs/2604.25142",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-29T04:00:00+00:00",
+    "summary": "arXiv:2604.25142v1 Announce Type: new Abstract: Unsupervised domain adaptation generalizes neural retrievers to an unseen domain by generating pseudo queries on target domain documents. The quality and efficiency of this adaptation critically depend on which documents are selected for pseudo query generation. The existing document sampling method focuses on diversity but fails to capture model uncertainty. In contrast, we propose **Un**certainty-based **Ite**rative Document Sampling (UnIte) addr…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "d393b7772400",
+    "title": "From Local Indices to Global Identifiers: Generative Reranking for Recommender Systems via Global Action Space",
+    "url": "https://arxiv.org/abs/2604.25291",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-29T04:00:00+00:00",
+    "summary": "arXiv:2604.25291v1 Announce Type: new Abstract: In modern recommender systems, list-wise reranking serves as a critical phase within the multi-stage pipeline, finalizing the exposed item sequence and directly impacting user satisfaction by modeling complex intra-list item dependencies. Existing methods typically formulate this task as selecting indices from the local input list. However, this approach suffers from a semantically inconsistent action space: the same output neuron (logits) represen…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f399e30c9f57",
+    "title": "Stop Using the Wilcoxon Test: Myth, Misconception and Misuse in IR Research",
+    "url": "https://arxiv.org/abs/2604.25349",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-29T04:00:00+00:00",
+    "summary": "arXiv:2604.25349v1 Announce Type: new Abstract: In benchmarking of Information Retrieval systems, the Wilcoxon signed-rank test is often treated as a safer alternative to the t-test. This belief is fueled by textbooks and recommendations that portray Wilcoxon as the proper non-parametric alternative because metric scores are not normally distributed. We argue that this narrative is misleading and harmful. A careful review of Statistics textbooks reveals inconsistencies and omissions in how the a…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "e8f9591874d1",
+    "title": "GeoSearch: Augmenting Worldwide Geolocalization with Web-Scale Reverse Image Search and Image Matching",
+    "url": "https://arxiv.org/abs/2604.25390",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-29T04:00:00+00:00",
+    "summary": "arXiv:2604.25390v1 Announce Type: new Abstract: Worldwide image geolocalization, which aims to predict the GPS coordinates of any image on Earth, remains challenging due to global visual diversity. Recent generative approaches based on Retrieval-Augmented Generation (RAG) and Large Multimodal Models (LMMs) leverage candidates retrieved from fixed databases for reasoning, but often struggle with scenes that are absent from the reference set. In this work, we propose GeoSearch, an open-world geolo…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c3b496cea615",
+    "title": "The Attention Market: Interpreting Online Fair Re-ranking as Manifold Optimization under Walrasian Equilibrium",
+    "url": "https://arxiv.org/abs/2604.25577",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-29T04:00:00+00:00",
+    "summary": "arXiv:2604.25577v1 Announce Type: new Abstract: Fair re-ranking aims to promote long-tail items and enhance diversity within groups in information retrieval. While previous research on online fairness-aware re-ranking has shown promising outcomes, our comprehensive evaluation of online fair re-ranking methods over 20 settings reveals significant performance disparities among existing methods. To uncover the root causes of these inconsistencies, we reformulate fair re-ranking within an attentiona…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "72adaac8d508",
+    "title": "Health System Scale Semantic Search Across Unstructured Clinical Notes",
+    "url": "https://arxiv.org/abs/2604.25605",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-29T04:00:00+00:00",
+    "summary": "arXiv:2604.25605v1 Announce Type: new Abstract: Introduction: Semantic search, which retrieves documents based on conceptual similarity rather than keyword matching, offers substantial advantages for retrieval of clinical information. However, deploying semantic search across entire health systems, comprising hundreds of millions of clinical notes, presents formidable engineering, cost, and governance challenges that have prevented adoption. Methods: We deployed a semantic search system at a lar…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "94f3d854cefe",
+    "title": "K-CARE: Knowledge-driven Symmetrical Contextual Anchoring and Analogical Prototype Reasoning for E-commerce Relevance",
+    "url": "https://arxiv.org/abs/2604.25683",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-29T04:00:00+00:00",
+    "summary": "arXiv:2604.25683v1 Announce Type: new Abstract: This paper targets e-commerce search relevance. While Large Language Models (LLMs) have demonstrated significant potential in this field, they often encounter performance bottlenecks in persistent 'corner cases' within complex industrial scenarios. Existing research primarily focuses on optimizing reasoning trajectories via Reinforcement Learning. However, real-world observations suggest that the primary bottleneck stems from knowledge boundaries, …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "be9bdf81de98",
+    "title": "From Citation Selection to Citation Absorption: A Measurement Framework for Generative Engine Optimization Across AI Search Platforms",
+    "url": "https://arxiv.org/abs/2604.25707",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-29T04:00:00+00:00",
+    "summary": "arXiv:2604.25707v1 Announce Type: new Abstract: Generative search engines increasingly determine whether online information is merely discoverable, cited as a source, or actually absorbed into generated answers. This paper proposes a two-stage measurement framework for Generative Engine Optimization (GEO): citation selection, where a platform triggers search and chooses sources, and citation absorption, where a cited page contributes language, evidence, structure, or factual support to the final…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "aeada6f65b3c",
+    "title": "Personalized Multi-Interest Modeling for Cross-Domain Recommendation to Cold-Start Users",
+    "url": "https://arxiv.org/abs/2604.25732",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-29T04:00:00+00:00",
+    "summary": "arXiv:2604.25732v1 Announce Type: new Abstract: Cross-domain recommendation (CDR) has demonstrated to be an effective solution for alleviating the user cold-start issue. By leveraging rich user-item interactions available in a richly informative source domain, CDR could improve the recommendation performance for cold-start users in the target domain. Previous CDR approaches mostly adhere the Embedding and Mapping (EMCDR) paradigm, which learns a user-shared mapping function to transfer users' pr…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "45291f8f73ed",
+    "title": "Harmonizing Generative Retrieval and Ranking in Chain-of-Recommendation",
+    "url": "https://arxiv.org/abs/2604.25787",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-29T04:00:00+00:00",
+    "summary": "arXiv:2604.25787v1 Announce Type: new Abstract: Generative recommender systems have recently emerged as a promising paradigm by formulating next-item prediction as an auto-regressive semantic IDs generation, such as OneRec series works. However, with the next-item-agnostic prediction paradigm, its could beam out some next potential items via Semantic IDs but hard to estimate which items are better from them, e.g., select the top-10 from beam-256 items, leading to a gap between generation and ran…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f732003a9c94",
+    "title": "Break the Inaccessible Boundary: Distilling Post-Conversion Content for User Retention Modeling",
+    "url": "https://arxiv.org/abs/2604.25839",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-29T04:00:00+00:00",
+    "summary": "arXiv:2604.25839v1 Announce Type: new Abstract: User retention is a key metric to measure long-term engagement in modern platforms. In real-time bidding (RTB) advertising system for user re-engagement, the retention model is required to predict future revisit probability at bidding time, before the user converts and consumes any content. Although post-conversion content, termed Onboarding Content, provides highly informative signals for retention prediction, directly using it in training causes …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "9113e8001f17",
+    "title": "Make Any Collection Navigable: Methods for Constructing and Evaluating Hypergraph of Text",
+    "url": "https://arxiv.org/abs/2604.25906",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-29T04:00:00+00:00",
+    "summary": "arXiv:2604.25906v1 Announce Type: new Abstract: One reason the Web is more useful than a simple collection of documents is that the structure created by hyperlinks enables flexible navigation from one web page to another. However, hyperlinks are typically created manually and cannot fully capture a corpus' implicit semantic structures. Is there a general way to make an arbitrary collection navigable? Recent work has formalized this problem generally as constructing a Hypergraph of Text (HoT), wh…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5801965914b9",
+    "title": "CiteRadar: A Citation Intelligence Platform for Researcher Profiling and Geographic Visualization",
+    "url": "https://arxiv.org/abs/2604.25057",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-29T04:00:00+00:00",
+    "summary": "arXiv:2604.25057v1 Announce Type: cross Abstract: Understanding the geographic reach and community structure of one's scholarly citations is increasingly valuable for career development, grant applications, and collaboration discovery -- yet accessible tools for answering these questions remain scarce. Existing bibliometric platforms either require costly institutional subscriptions or expose only aggregate citation counts without granular per-author metadata. We present CiteRadar, an open-sourc…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "a484c6557373",
+    "title": "A contemporary science map through the lens of IEEE and ACM periodicals",
+    "url": "https://arxiv.org/abs/2604.25487",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-29T04:00:00+00:00",
+    "summary": "arXiv:2604.25487v1 Announce Type: cross Abstract: ACM and IEEE are the two premier associations on computing and electrical/electronics engineering which publish and organize the great majority of periodicals and conferences, respectively, serving these disciplines. Science is a constantly evolving process, and these publication fora are expected to follow the trends. In this article, we focus on the periodicals published by the two associations and seek to detect and/or confirm any contemporary…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1b97f0bd1531",
+    "title": "LLM-ReSum: A Framework for LLM Reflective Summarization through Self-Evaluation",
+    "url": "https://arxiv.org/abs/2604.25665",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-29T04:00:00+00:00",
+    "summary": "arXiv:2604.25665v1 Announce Type: cross Abstract: Reliable evaluation of large language model (LLM)-generated summaries remains an open challenge, particularly across heterogeneous domains and document lengths. We conduct a comprehensive meta-evaluation of 14 automatic summarization metrics and LLM-based evaluators across seven datasets spanning five domains, covering documents from short news articles to long scientific, governmental, and legal texts (2K-27K words) with over 1,500 human-annotat…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "47f1a0804f0c",
+    "title": "Can Code Evaluation Metrics Detect Code Plagiarism?",
+    "url": "https://arxiv.org/abs/2604.25778",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-29T04:00:00+00:00",
+    "summary": "arXiv:2604.25778v1 Announce Type: cross Abstract: Source Code Plagiarism Detection (SCPD) plays an important role in maintaining fairness and academic integrity in software engineering education. Code Evaluation Metrics (CEMs) are developed for assessing code generation tasks. However, it remains unclear whether such metrics can reliably detect plagiarism across different levels of modification (L1-L6), increasing in complexity. In this paper, we perform a comparative empirical study using two o…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4ff9661a6248",
+    "title": "Action-Aware Generative Sequence Modeling for Short Video Recommendation",
+    "url": "https://arxiv.org/abs/2604.25834",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-29T04:00:00+00:00",
+    "summary": "arXiv:2604.25834v1 Announce Type: cross Abstract: With the rapid development of the Internet, users have increasingly higher expectations for the recommendation accuracy of online content consumption platforms. However, short videos often contain diverse segments, and users may not hold the same attitude toward all of them. Traditional binary-classification recommendation models, which treat a video as a single holistic entity, face limitations in accurately capturing such nuanced preferences. C…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "323c2f78f6f6",
+    "title": "Disentangling Popularity and Quality: An Edge Classification Approach for Fair Recommendation",
+    "url": "https://arxiv.org/abs/2502.15699",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-29T04:00:00+00:00",
+    "summary": "arXiv:2502.15699v2 Announce Type: replace Abstract: Graph neural networks (GNNs) have proven to be an effective tool for enhancing the performance of recommender systems. However, these systems often suffer from popularity bias, leading to an unfair advantage for frequently interacted items, while overlooking high-quality but less popular items. In this paper, we propose a GNN-based recommendation model that disentangles popularity and quality to address this issue. Unlike existing methods that …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b6a3681ca54f",
+    "title": "Measuring the stability and plasticity of recommender systems",
+    "url": "https://arxiv.org/abs/2508.03941",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-29T04:00:00+00:00",
+    "summary": "arXiv:2508.03941v3 Announce Type: replace Abstract: The typical offline protocol to evaluate recommendation algorithms is to collect a dataset of user-item interactions and then use a part of this dataset to train a model, and the remaining data to measure how closely the model recommendations match the observed user interactions. This protocol is straightforward, useful and practical, but it only provides snapshot performance. We know, however, that online systems evolve over time. In general, …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "100b60783b04",
+    "title": "IoDResearch: Deep Research on Private Heterogeneous Data via the Internet of Data",
+    "url": "https://arxiv.org/abs/2510.01553",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-29T04:00:00+00:00",
+    "summary": "arXiv:2510.01553v3 Announce Type: replace Abstract: The rapid growth of multi-source, heterogeneous, and multimodal scientific data has increasingly exposed the limitations of traditional data management. Most existing DeepResearch (DR) efforts focus primarily on web search while overlooking local private data. Consequently, these frameworks exhibit low retrieval efficiency for private data and fail to comply with the FAIR principles, ultimately resulting in inefficiency and limited reusability.…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c2f5a01c97a7",
+    "title": "MCGI: Manifold-Consistent Graph Indexing for Billion-Scale Disk-Resident Vector Search",
+    "url": "https://arxiv.org/abs/2601.01930",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-29T04:00:00+00:00",
+    "summary": "arXiv:2601.01930v3 Announce Type: replace Abstract: Graph-based Approximate Nearest Neighbor (ANN) search often suffers from performance degradation in high-dimensional spaces due to the Euclidean-Geodesic mismatch, where greedy routing diverges from the underlying data manifold. To address this challenge, this paper presents Manifold-Consistent Graph Indexing (MCGI), a geometry-aware and disk-resident indexing method that leverages Local Intrinsic Dimensionality (LID) to dynamically adapt searc…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "4b5a42fb97b9",
+    "title": "MemRec: Collaborative Memory-Augmented Agentic Recommender System",
+    "url": "https://arxiv.org/abs/2601.08816",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-29T04:00:00+00:00",
+    "summary": "arXiv:2601.08816v3 Announce Type: replace Abstract: The evolution of recommender systems has shifted from traditional collaborative filtering to LLM-based agentic systems, which rely on semantic user and item memories to make predictions. However, existing agents maintain these memories in isolation. This overlooks crucial collaborative signals, such as user-item co-engagements and peer relationships across the community, which significantly limits their ability to uncover hidden preferences and…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "759cc5f4ef9b",
+    "title": "RAD-DPO: Robust Adaptive Denoising Direct Preference Optimization for Generative Retrieval in E-commerce",
+    "url": "https://arxiv.org/abs/2602.23964",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-29T04:00:00+00:00",
+    "summary": "arXiv:2602.23964v2 Announce Type: replace Abstract: Generative Retrieval (GR) is rapidly transforming e-commerce search by replacing traditional multi-stage pipelines with the autoregressive decoding of structured Semantic IDs (SIDs). Despite this architectural efficiency, aligning GR models with nuanced, real-world user preferences remains a critical challenge. While Direct Preference Optimization (DPO) offers an efficient alignment solution, its direct application to structured SIDs suffers fr…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a8339fb43e63",
+    "title": "Generating Synthetic Citation Networks with Communities",
+    "url": "https://arxiv.org/abs/2604.25597",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-04-29T04:00:00+00:00",
+    "summary": "arXiv:2604.25597v1 Announce Type: cross Abstract: Generating realistic synthetic citation, patent, or component dependency networks is essential for benchmarking community detection, graph visualisation, and network data mining algorithms. We present the first systematic comparison of generators of directed graphs that are nearly acyclic and have a ground-truth community structure. We evaluate 12 methods across 7 real citation networks and 26 metrics. We propose the practice of reversing directi…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "91bc4925930f",
+    "title": "Named Entity Recognition of Historical Texts via Large Language Model",
+    "url": "https://arxiv.org/abs/2508.18090",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-04-29T04:00:00+00:00",
+    "summary": "arXiv:2508.18090v2 Announce Type: replace Abstract: Large language models (LLMs) have demonstrated remarkable versatility across a wide range of natural language processing tasks and domains. One such task is Named Entity Recognition (NER), which involves identifying and classifying proper names in text, such as people, organizations, locations, dates, and other specific entities. NER plays a crucial role in extracting information from unstructured textual data, enabling downstream applications …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "d5bfa766865b",
+    "title": "AI-Augmented Bibliometric Framework: A Paradigm Shift with Agentic AI for Dynamic, Snippet-Based Research Analysis",
+    "url": "https://arxiv.org/abs/2511.21745",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-04-29T04:00:00+00:00",
+    "summary": "arXiv:2511.21745v2 Announce Type: replace Abstract: Our paper introduces a generative, multiagent AI framework designed to overcome the rigidity, limited flexibility and technical barriers of current bibliometric tools. The objective is to enable researchers to perform fully dynamic, code-based scientometric analysis using natural language NL instructions, eliminating the need for specialized programming skills while expanding analytical depth. Methodologically, the system integrates four coordi…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5a7a1898720b",
+    "title": "OpenAI Really Wants Codex to Shut Up About Goblins",
+    "url": "https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/",
+    "source": "Wired AI",
+    "date": "2026-04-28T23:45:05+00:00",
+    "summary": "“Never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely and unambiguously relevant,” reads OpenAI’s coding agent instructions.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a67c2853a6af",
+    "title": "Elon Musk Testifies That He Started OpenAI to Prevent a ‘Terminator Outcome’",
+    "url": "https://www.wired.com/story/model-behavior-elon-musk-testifies-at-musk-v-altman-trial/",
+    "source": "Wired AI",
+    "date": "2026-04-28T21:35:17+00:00",
+    "summary": "The judge also warned Musk and Sam Altman to curb their “propensity to use social media to make things worse outside the courtroom” after both sides traded attacks online.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8e1daa5de99c",
+    "title": "‘It’s Undignified’: Hundreds of Workers Training Meta’s AI Could Be Laid Off",
+    "url": "https://www.wired.com/story/meta-covalen-ai-workers-layoffs/",
+    "source": "Wired AI",
+    "date": "2026-04-28T18:36:47+00:00",
+    "summary": "More than 700 people working for a Meta contractor in Ireland are at risk of losing their jobs, documents show.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f80c70188b6a",
+    "title": "The Race Is on to Keep AI Agents From Running Wild With Your Credit Cards",
+    "url": "https://www.wired.com/story/the-race-is-on-to-keep-ai-agents-from-running-wild-with-your-credit-cards/",
+    "source": "Wired AI",
+    "date": "2026-04-28T13:00:00+00:00",
+    "summary": "AI agents may soon be buying your stuff for you. The FIDO Alliance has teamed up with Google and Mastercard to try to ensure that shopping in the near future isn't a complete disaster.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "0311805c0118",
     "title": "From DMV to Wallet: Understanding Verifiable Digital Credential Issuance",
     "url": "https://www.nist.gov/blogs/cybersecurity-insights/dmv-wallet-understanding-verifiable-digital-credential-issuance",
