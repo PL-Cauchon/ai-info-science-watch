@@ -1,5 +1,329 @@
 [
   {
+    "id": "e9273ed59637",
+    "title": "The New(ish) Architecture of Consumer Health and Artificial Intelligence",
+    "url": "https://fpf.org/blog/the-newish-architecture-of-consumer-health-and-artificial-intelligence/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-04-30T11:06:00+00:00",
+    "summary": "The rise of AI-powered health tools is prompting new thinking about how, where, and when sensitive health information receives legal protection. According to media reports, consumers are now using general-purpose AI tools to upload or query health information, including medical records, and several companies have recently released large language model (LLM)-based tools customized for consumer [&#8230;]",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "1bce4c08e20a",
+    "title": "These Men Allegedly Profit Off Teaching People How to Make AI Porn",
+    "url": "https://www.wired.com/story/ai-porn-lawsuit-arizona/",
+    "source": "Wired AI",
+    "date": "2026-04-30T10:30:00+00:00",
+    "summary": "Three Arizona women have filed a lawsuit against a group of men that alleges they used the women’s photos to make AI porn influencers, then offered online courses showing others how to do it.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "193f01ff439f",
+    "title": "Reid Hoffman Thinks Doctors Should Ask AI for a Second Opinion",
+    "url": "https://www.wired.com/story/reid-hoffman-ai-doctor-second-opinion-wired-health/",
+    "source": "Wired AI",
+    "date": "2026-04-30T09:00:00+00:00",
+    "summary": "The LinkedIn cofounder now has an AI drug discovery startup—and thinks not asking chatbots for medical advice is “bordering on committing malpractice.”",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "5af5fdd88e17",
+    "title": "Hierarchical Long-Term Semantic Memory for LinkedIn's Hiring Agent",
+    "url": "https://arxiv.org/abs/2604.26197",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-30T04:00:00+00:00",
+    "summary": "arXiv:2604.26197v1 Announce Type: new Abstract: Large Language Model (LLM) agents are increasingly used in real-world products, where personalized and context-aware user interactions are essential. A central enabler of such capabilities is the agent's long-term semantic memory system, which extracts implicit and explicit signals from noisy longitudinal behavioral data, stores them in a structured form, and supports low-latency retrieval. Building industrial-grade long-term memory for LLM agents …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "6c792e172103",
+    "title": "ProMax: Exploring the Potential of LLM-derived Profiles with Distribution Shaping for Recommender Systems",
+    "url": "https://arxiv.org/abs/2604.26231",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-30T04:00:00+00:00",
+    "summary": "arXiv:2604.26231v1 Announce Type: new Abstract: The remarkable text understanding and generation capabilities of large language models (LLMs) have revitalized the field of general recommendation based on implicit user feedback. Rather than deploying LLMs directly as recommendation models, a more flexible paradigm leverages their ability to interpret users' historical interactions and semantic contexts to extract structured profiles that characterize user preferences. These profiles can be furthe…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "64f9acceb630",
+    "title": "TimeMM: Time-as-Operator Spectral Filtering for Dynamic Multimodal Recommendation",
+    "url": "https://arxiv.org/abs/2604.26247",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-30T04:00:00+00:00",
+    "summary": "arXiv:2604.26247v1 Announce Type: new Abstract: Multimodal recommendation improves user modeling by integrating collaborative signals with heterogeneous item content. In real applications, user interests evolve over time and exhibit nonstationary dynamics, where different preference factors change at different rates. This challenge is amplified in multimodal settings because visual and textual cues can dominate decisions under different temporal regimes. Despite strong progress, most multimodal …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f78079b35cbe",
+    "title": "Explaining the \"Why\": A Unified Framework for the Additive Attribution of Changes in Arbitrary Measures",
+    "url": "https://arxiv.org/abs/2604.26266",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-30T04:00:00+00:00",
+    "summary": "arXiv:2604.26266v1 Announce Type: new Abstract: Explaining why aggregated measures change is a critical challenge in data analytics that existing systems struggle to address. While current attribution methods exist, they lack a unified solution that is simultaneously general for arbitrary measures, holistic across both data dimensions and measure composition, and rigorous in its interpretability. To bridge this gap, we introduce a principled framework that reframes attribution through the powerf…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f7bb971971ae",
+    "title": "Meta-Learning and Targeted Differential Privacy to Improve the Accuracy-Privacy Trade-off in Recommendations",
+    "url": "https://arxiv.org/abs/2604.26390",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-30T04:00:00+00:00",
+    "summary": "arXiv:2604.26390v1 Announce Type: new Abstract: Balancing differential privacy (DP) with recommendation accuracy is a key challenge in privacy-preserving recommender systems, since DP-noise degrades accuracy. We address this trade-off at both the data and model levels. At the data level, we apply DP only to the most stereotypical user data likely to reveal sensitive attributes, such as gender or age, to reduce unnecessary perturbation; we refer to this as targeted DP. At the model level, we use …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1d928db8b404",
+    "title": "CARD: Non-Uniform Quantization of Visual Semantic Unit for Generative Recommendation",
+    "url": "https://arxiv.org/abs/2604.26427",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-30T04:00:00+00:00",
+    "summary": "arXiv:2604.26427v1 Announce Type: new Abstract: Generative recommendation frameworks typically represent items as discrete Semantic IDs (SIDs). While existing studies have sought to enhance SID construction by incorporating multimodal content, collaborative signals, or more advanced quantization techniques, learning high-quality SIDs still faces two key challenges: (1) The two-stage generative recommendation paradigm (SID construction and autoregressive generation) provides insufficient supervis…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b56da12ffdd5",
+    "title": "Efficient Listwise Reranking with Compressed Document Representations",
+    "url": "https://arxiv.org/abs/2604.26483",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-30T04:00:00+00:00",
+    "summary": "arXiv:2604.26483v1 Announce Type: new Abstract: Reranking, the process of refining the output from a first-stage retriever, is often considered computationally expensive, especially when using Large Language Models (LLMs). A common approach to mitigate this cost involves utilizing smaller LLMs or controlling input length. Inspired by recent advances in document compression for retrieval-augmented generation (RAG), we introduce RRK, an efficient and effective listwise reranker compressing documen…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "82e6787073c2",
+    "title": "When to Retrieve During Reasoning: Adaptive Retrieval for Large Reasoning Models",
+    "url": "https://arxiv.org/abs/2604.26649",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-30T04:00:00+00:00",
+    "summary": "arXiv:2604.26649v1 Announce Type: new Abstract: Large reasoning models such as DeepSeek-R1 and OpenAI o1 generate extended chains of thought spanning thousands of tokens, yet their integration with retrieval-augmented generation (RAG) remains fundamentally misaligned. Current RAG systems optimize for providing context before reasoning begins, while reasoning models require evidence injection during multi-step inference chains. We introduce ReaLM-Retrieve, a reasoning-aware retrieval framework th…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "bcddbb9a52d3",
+    "title": "The Bandit's Blind Spot: The Critical Role of User State Representation in Recommender Systems",
+    "url": "https://arxiv.org/abs/2604.26651",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-30T04:00:00+00:00",
+    "summary": "arXiv:2604.26651v1 Announce Type: new Abstract: With the increasing availability of online information, recommender systems have become an important tool for many web-based systems. Due to the continuous aspect of recommendation environments, these systems increasingly rely on contextual multi-armed bandits (CMAB) to deliver personalized and real-time suggestions. A critical yet underexplored component in these systems is the representation of user state, which typically encapsulates the user's …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e4c4d3be3acf",
+    "title": "AgentSim: A Platform for Verifiable Agent-Trace Simulation",
+    "url": "https://arxiv.org/abs/2604.26653",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-30T04:00:00+00:00",
+    "summary": "arXiv:2604.26653v1 Announce Type: new Abstract: Training trustworthy agentic LLMs requires data that shows the grounded reasoning process, not just the final answer. Existing datasets fall short: question-answering data is outcome-only, chain-of-thought data is not tied to specific documents, and web-agent datasets track interface actions rather than the core retrieval and synthesis steps of a RAG workflow. We introduce AgentSim, an open-source platform for simulating RAG agents. It generates ve…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "47fe985de1e7",
+    "title": "Factorized Latent Reasoning for LLM-based Recommendation",
+    "url": "https://arxiv.org/abs/2604.26760",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-30T04:00:00+00:00",
+    "summary": "arXiv:2604.26760v1 Announce Type: new Abstract: Large language models (LLMs) have recently been adopted for recommendation by framing user preference modeling as a language generation problem. However, existing latent reasoning approaches typically represent user intent with a single latent vector, which struggles to capture the inherently multi-faceted nature of user preferences. We propose Factorized Latent Reasoning (FLR), a novel framework for LLM-based sequential recommendation that decompo…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c6df1c2dbffa",
+    "title": "CroSearch-R1: Better Leveraging Cross-lingual Knowledge for Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2604.25182",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-30T04:00:00+00:00",
+    "summary": "arXiv:2604.25182v1 Announce Type: cross Abstract: A multilingual collection may contain useful knowledge in other languages to supplement and correct the facts in the original language for Retrieval-Augmented Generation (RAG). However, the vanilla approach that simply concatenates multiple pieces of knowledge from different languages into the context may fail to improve effectiveness due to the potential disparities across languages. To better leverage multilingual knowledge, we propose CroSearc…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "493dd2a36a2b",
+    "title": "Generative AI-Based Virtual Assistant using Retrieval-Augmented Generation: An evaluation study for bachelor projects",
+    "url": "https://arxiv.org/abs/2604.25924",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-30T04:00:00+00:00",
+    "summary": "arXiv:2604.25924v1 Announce Type: cross Abstract: Large Language Models have been increasingly employed in the creation of Virtual Assistants due to their ability to generate human-like text and handle complex inquiries. While these models hold great promise, challenges such as hallucinations, missing information, and the difficulty of providing accurate and context-specific responses persist, particularly when applied to highly specialized content domains. In this paper, we focus on addressing …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "4843ff79674b",
+    "title": "MATH-PT: A Math Reasoning Benchmark for European and Brazilian Portuguese",
+    "url": "https://arxiv.org/abs/2604.25926",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-30T04:00:00+00:00",
+    "summary": "arXiv:2604.25926v1 Announce Type: cross Abstract: The use of large language models (LLMs) for complex mathematical reasoning is an emergent area of research, with fast progress in methods, models, and benchmark datasets. However, most mathematical reasoning evaluations exhibit a significant linguistic bias, with the vast majority of benchmark datasets being exclusively in English or (at best) translated from English. We address this limitation by introducing {\\sc Math-PT}, a novel dataset compri…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "41118dc5b7b7",
+    "title": "RAG-Enhanced Kernel-Based Heuristic Synthesis (RKHS): A Structured Methodology Using Large Language Models for Hardware Design",
+    "url": "https://arxiv.org/abs/2604.26153",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-30T04:00:00+00:00",
+    "summary": "arXiv:2604.26153v1 Announce Type: cross Abstract: Heuristic design upholds modern electronic design automation (EDA) tools, yet crafting effective placement, routing, and scheduling strategies entails substantial expertise. We study how large language models (LLMs) can systematically synthesize reusable optimization heuristics beyond one-shot code generation. We propose RAG-Enhanced Kernel-Based Heuristic Synthesis (RKHS), which integrates retrieval-augmented generation (RAG), compact kernel heu…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "6cb09f85ea08",
+    "title": "FASH-iCNN: Making Editorial Fashion Identity Inspectable Through Multimodal CNN Probing",
+    "url": "https://arxiv.org/abs/2604.26186",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-30T04:00:00+00:00",
+    "summary": "arXiv:2604.26186v1 Announce Type: cross Abstract: Fashion AI systems routinely encode the aesthetic logic of specific houses, editors, and historical moments without disclosing it. We present FASH-iCNN, a multimodal system trained on 87,547 Vogue runway images across 15 fashion houses spanning 1991-2024 that makes this cultural logic inspectable. Given a photograph of a garment, the system recovers which house produced it, which era it belongs to, and which color tradition it reflects. A clothin…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1612947197fa",
+    "title": "Benchmarking Complex Multimodal Document Processing Pipelines: A Unified Evaluation Framework for Enterprise AI",
+    "url": "https://arxiv.org/abs/2604.26382",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-30T04:00:00+00:00",
+    "summary": "arXiv:2604.26382v1 Announce Type: cross Abstract: Most enterprise document AI today is a pipeline. Parse, index, retrieve, generate. Each of those stages has been studied to death on its own -- what's still hard is evaluating the system as a whole. We built EnterpriseDocBench to take a swing at it: parsing fidelity, indexing efficiency, retrieval relevance, and generation groundedness, all on the same corpus. The corpus is built from public, permissively licensed documents across six enterprise …",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "0375123461b7",
+    "title": "Understanding DNNs in Feature Interaction Models: A Dimensional Collapse Perspective",
+    "url": "https://arxiv.org/abs/2604.26489",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-30T04:00:00+00:00",
+    "summary": "arXiv:2604.26489v1 Announce Type: cross Abstract: DNNs have gained widespread adoption in feature interaction recommendation models. However, there has been a longstanding debate on their roles. On one hand, some works claim that DNNs possess the ability to implicitly capture high-order feature interactions. Conversely, recent studies have highlighted the limitations of DNNs in effectively learning dot products, specifically second-order interactions, let alone higher-order interactions. In this…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "93021f1100bc",
+    "title": "PBiLoss: Popularity-Aware Regularization to Improve Fairness in Graph-Based Recommender Systems",
+    "url": "https://arxiv.org/abs/2507.19067",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-30T04:00:00+00:00",
+    "summary": "arXiv:2507.19067v2 Announce Type: replace Abstract: Recommender systems based on graph neural networks (GNNs) have been proved to perform well on user-item interactions. However, they commonly suffer from popularity bias -- the tendency to over-recommend popular items -- resulting in less personalization, unfair exposure and lower recommendation diversity. Current solutions address popularity bias through different stages of the recommendation pipeline, including pre-processing methods that may …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "7a6dea4511ff",
+    "title": "Auto-ARGUE: LLM-Based Report Generation Evaluation",
+    "url": "https://arxiv.org/abs/2509.26184",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-30T04:00:00+00:00",
+    "summary": "arXiv:2509.26184v5 Announce Type: replace Abstract: Generation of citation-backed reports is a primary use case for retrieval-augmented generation (RAG) systems. While open-source evaluation tools exist for various RAG tasks, tools designed for report generation are lacking. Accordingly, we introduce Auto-ARGUE, a robust LLM-based implementation of the recently proposed ARGUE framework for report generation evaluation. We present analysis of Auto-ARGUE on the report generation pilot task from th…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "4274064b4f89",
+    "title": "Agentic Search in the Wild: Intents and Trajectory Dynamics from 14M+ Real Search Requests",
+    "url": "https://arxiv.org/abs/2601.17617",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-30T04:00:00+00:00",
+    "summary": "arXiv:2601.17617v3 Announce Type: replace Abstract: LLM-powered search agents are increasingly being used for multi-step information seeking tasks, yet the IR community lacks empirical understanding of how agentic search sessions unfold and how retrieved evidence is reflected in later queries. This paper presents a large-scale log analysis of agentic search based on 14.44M search requests (3.97M sessions) collected from DeepResearchGym, i.e., an open-source search API accessed by external agenti…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "66543d46817c",
+    "title": "Formalized Information Needs Improve Large-Language-Model Relevance Judgments",
+    "url": "https://arxiv.org/abs/2604.04140",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-30T04:00:00+00:00",
+    "summary": "arXiv:2604.04140v2 Announce Type: replace Abstract: Cranfield-style retrieval evaluations with too few or too many relevant documents or with low inter-assessor agreement on relevance can reduce the reliability of observations. In evaluations with human assessors, information needs are often formalized as retrieval topics to avoid an excessive number of relevant documents while maintaining good agreement. However, emerging evaluation setups that use Large Language Models (LLMs) as relevance asse…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "259aa0951176",
+    "title": "SkillForge: Forging Domain-Specific, Self-Evolving Agent Skills in Cloud Technical Support",
+    "url": "https://arxiv.org/abs/2604.08618",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-30T04:00:00+00:00",
+    "summary": "arXiv:2604.08618v2 Announce Type: replace Abstract: Deploying LLM-powered agents in enterprise scenarios such as cloud technical support demands high-quality, domain-specific skills. However, existing skill creators lack domain grounding, producing skills poorly aligned with real-world task requirements. Moreover, once deployed, there is no systematic mechanism to trace execution failures back to skill deficiencies and drive targeted refinements, leaving skill quality stagnant despite accumulati…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "d7bd66465039",
+    "title": "Don't Retrieve, Navigate: Distilling Enterprise Knowledge into Navigable Agent Skills for QA and RAG",
+    "url": "https://arxiv.org/abs/2604.14572",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-04-30T04:00:00+00:00",
+    "summary": "arXiv:2604.14572v2 Announce Type: replace Abstract: Retrieval-Augmented Generation (RAG) grounds LLM responses in external evidence but treats the model as a passive consumer of search results: it never sees how the corpus is organized or what it has not yet retrieved, limiting its ability to backtrack or combine scattered evidence. We present Corpus2Skill, which distills a document corpus into a hierarchical skill directory offline and lets an LLM agent navigate it at serve time. The compilatio…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a3dc909a3782",
+    "title": "Do E-Scooter Speed Governance Policies Reduce Harsh Acceleration and Deceleration? Evidence from 19.5 Million Trips Around a Regulatory Ban",
+    "url": "https://arxiv.org/abs/2604.26236",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-04-30T04:00:00+00:00",
+    "summary": "arXiv:2604.26236v1 Announce Type: new Abstract: Do e-scooter speed governance policies yield behavioral safety gains beyond the mechanical cap they impose? A firmware ceiling mechanically prevents speeding, but whether the same riders also generate fewer harsh accelerations and harsh decelerations when the ungoverned mode is withdrawn remains open. We analyze 19.5 million GPS-instrumented trips from 52 South Korean cities (February to November 2023). Our two-stage predict-then-validate design ta…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "501cd2ab5217",
+    "title": "HalluCiteChecker: A Lightweight Toolkit for Hallucinated Citation Detection and Verification in the Era of AI Scientists",
+    "url": "https://arxiv.org/abs/2604.26835",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-04-30T04:00:00+00:00",
+    "summary": "arXiv:2604.26835v1 Announce Type: cross Abstract: We introduce HalluCiteChecker, a toolkit for detecting and verifying hallucinated citations in scientific papers. While AI assistant technologies have transformed the academic writing process, including citation recommendation, they have also led to the emergence of hallucinated citations that do not correspond to any existing work. Such citations not only undermine the credibility of scientific papers but also impose an additional burden on revi…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "938f04452eb1",
+    "title": "News Harvesting from Google News combining Web Scraping, LLM Metadata Extraction and SCImago Media Rankings enrichment: a case study of IFMIF-DONES",
+    "url": "https://arxiv.org/abs/2602.12537",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-04-30T04:00:00+00:00",
+    "summary": "arXiv:2602.12537v3 Announce Type: replace Abstract: This study develops and evaluates a systematic methodology for constructing news datasets from Google News, combining automated web scraping, large language model (LLM)-based metadata extraction, and SCImago Media Rankings enrichment. Using the IFMIF-DONES fusion energy project as a case study, we implemented a five-stage data collection pipeline across 81 region-language combinations, yielding 1,482 validated records after a 56% noise reductio…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "64d6f46876b1",
+    "title": "How Elon Musk Squeezed OpenAI: They 'Are Gonna Want to Kill Me’",
+    "url": "https://www.wired.com/story/model-behavior-elon-musk-cross-examined-sam-altman/",
+    "source": "Wired AI",
+    "date": "2026-04-29T23:41:51+00:00",
+    "summary": "Tensions flared on the third day of trial in Musk v. Altman as OpenAI’s lawyers cross-examined Musk.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a05e0077e758",
+    "title": "Celebrating Another Year of Privacy and AI Governance: FPF at the 2026 IAPP Global Summit",
+    "url": "https://fpf.org/blog/celebrating-another-year-of-privacy-and-ai-governance-fpf-at-the-2026-iapp-global-summit/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-04-29T22:32:16+00:00",
+    "summary": "Authored by FPF Communications Intern Celeste Valentino FPF experts participated in the 2026 IAPP Global Summit and hosted FPF privacy executive convenings in Washington, D.C. from March 31 to April 2. As a major gathering for privacy professionals, the event featured a heavy schedule of workshops and panels focused on the intersection of U.S. and [&#8230;]",
+    "category": "AI & Information Governance"
+  },
+  {
+    "id": "b4be4929fb74",
+    "title": "Emergency First Responders Say Waymos Are Getting Worse",
+    "url": "https://www.wired.com/story/emergency-first-responders-say-waymos-are-getting-worse/",
+    "source": "Wired AI",
+    "date": "2026-04-29T20:45:37+00:00",
+    "summary": "“I believe the technology was deployed too quickly in too vast amounts, with hundreds of vehicles, when it wasn’t really ready,” one police official told federal regulators last month.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "356db5c3bfde",
+    "title": "Taylor Swift Wants to Trademark Her Likeness. These TikTok Deepfake Ads Show Why",
+    "url": "https://www.wired.com/story/taylor-swift-rihanna-tiktok-deepfake-ads/",
+    "source": "Wired AI",
+    "date": "2026-04-29T20:36:53+00:00",
+    "summary": "Researchers show scammers are using AI-manipulated footage of celebrity interviews to trick users into sharing their personal data.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "3217d1c13ab5",
+    "title": "Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed",
+    "url": "https://www.wired.com/story/chinese-ai-giant-sensetime-is-running-its-new-model-on-chinese-chips/",
+    "source": "Wired AI",
+    "date": "2026-04-29T17:23:52+00:00",
+    "summary": "With US restrictions limiting its access to advanced tech, SenseTime is doubling down on open source with a new model optimized to run on Chinese-made chips.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "064ae558c148",
+    "title": "ALA Workers Move to Unionize",
+    "url": "https://americanlibrariesmagazine.org/2026/04/29/ala-workers-move-to-unionize/?utm_source=rss&utm_medium=rss&utm_campaign=ala-workers-move-to-unionize",
+    "source": "American Libraries",
+    "date": "2026-04-29T15:52:06+00:00",
+    "summary": "If a majority of the 101 eligible staff members out of 161 ALA employees vote to unionize, the National Labor Relations Board (NLRB) will certify the new union. Votes will be counted May 27. In a March 2 open letter, 40 staff members announced their plans to unionize with the American Federation of State, County, &#8230; Continue reading ALA Workers Move to Unionize &#8594; The post ALA Workers Move to Unionize appeared first on American Libraries Magazine.",
+    "category": "Libraries & Archives"
+  },
+  {
     "id": "c03104ee4504",
     "title": "When Robots Have Their ChatGPT Moment, Remember These Pincers",
     "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
