@@ -1,5 +1,329 @@
 [
   {
+    "id": "b5f0e79da3e5",
+    "title": "A new US phone network for Christians aims to block porn and gender-related content",
+    "url": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
+    "source": "MIT Tech Review",
+    "date": "2026-05-01T09:00:00+00:00",
+    "summary": "A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blocking for such content that can’t be turned off even by adult account owners. It’s also rolling out a filter&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "271d6610a35a",
+    "title": "A Randomized Controlled Trial and Pilot of Scout: an LLM-Based EHR Search and Synthesis Platform",
+    "url": "https://arxiv.org/abs/2604.26953",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-01T04:00:00+00:00",
+    "summary": "arXiv:2604.26953v1 Announce Type: new Abstract: Clinical documentation and data retrieval within Electronic Health Records (EHRs) contribute substantially to clinician workload and burnout. To address this, we developed Scout, an LLM-based EHR search and synthesis platform that enables clinicians to query EHR data using natural language. Each response includes citations linking each claim to the original data source, facilitating easy verification of generated content. We conducted a prospective…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "042acb294fd5",
+    "title": "AgenticRecTune: Multi-Agent with Self-Evolving Skillhub for Recommendation System Optimization",
+    "url": "https://arxiv.org/abs/2604.26969",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-01T04:00:00+00:00",
+    "summary": "arXiv:2604.26969v1 Announce Type: new Abstract: Modern large-scale recommendation systems are typically constructed as multi-stage pipelines, encompassing pre-ranking, ranking, and re-ranking phases. While traditional recommendation research typically focuses on optimizing a specific model, such as improving the pre-ranking model structure or ranking models training algorithm, system-level configurations optimization play a crucial role, which integrates the output from each model head to get th…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "31577133cfa2",
+    "title": "Not All Memories Age the Same: Autodiscovery of Adaptive Decay in Knowledge Graphs",
+    "url": "https://arxiv.org/abs/2604.26970",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-01T04:00:00+00:00",
+    "summary": "arXiv:2604.26970v1 Announce Type: new Abstract: Knowledge graphs used for retrieval treat all facts as equally current. Existing temporal approaches apply uniform decay, using a single forgetting curve regardless of knowledge type. We show this is fundamentally misspecified: different knowledge types exhibit different temporal dynamics, and the core retrieval problem is not latency or throughput but identifying what is important at query time. We propose a hierarchical framework that replaces un…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c6f6d543479c",
+    "title": "T2S-Metrics: Unified Library for Evaluating SPARQL Queries Generated From Natural Language",
+    "url": "https://arxiv.org/abs/2604.26971",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-01T04:00:00+00:00",
+    "summary": "arXiv:2604.26971v1 Announce Type: new Abstract: The evaluation of Question Answering (QA) systems over Knowledge Graphs has historically suffered from fragmentation, inconsistency, and limited reproducibility. While significant progress has been made in semantic parsing and SPARQL query generation, evaluation methodologies remain diverse, ad hoc, and often incomparable across studies. Existing benchmarks typically focus on a small subset of metrics, such as query exact match or answer-level F1, …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "04f2fff65a50",
+    "title": "Budget-Constrained Online Retrieval-Augmented Generation: The Chunk-as-a-Service Model",
+    "url": "https://arxiv.org/abs/2604.26981",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-01T04:00:00+00:00",
+    "summary": "arXiv:2604.26981v1 Announce Type: new Abstract: Large Language Models (LLMs) have revolutionized the field of natural language processing. However, they exhibit some limitations, including a lack of reliability and transparency: they may hallucinate and fail to provide sources that support the generated output. Retrieval-Augmented Generation (RAG) was introduced to address such limitations in LLMs. One popular implementation, RAG-as-a-Service (RaaS), has shortcomings that hinder its adoption and…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "3a3bd8e17510",
+    "title": "Value-Aware Product Recommendation by Customer Segmentation using a suitable High-Dimensional Similarity Measure",
+    "url": "https://arxiv.org/abs/2604.26983",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-01T04:00:00+00:00",
+    "summary": "arXiv:2604.26983v1 Announce Type: new Abstract: This paper presents a novel value-aware approach to product recommendation that simultaneously addresses the high dimensionality and sparsity of user-item data while explicitly incorporating the contribution of each product and user to overall sales revenue. The proposed framework encodes revenue contributions in the user-item matrix and computes customer similarity directly on this basis using suitable distance measures. This enables the segmentat…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "12aa292894c3",
+    "title": "LUCid: Redefining Relevance For Lifelong Personalization",
+    "url": "https://arxiv.org/abs/2604.26996",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-01T04:00:00+00:00",
+    "summary": "arXiv:2604.26996v1 Announce Type: new Abstract: Current approaches to lifelong personalization operationalize relevance through semantic proximity, causing them to miss essential user information from topically unrelated interactions. To address this gap, we introduce LUCid, a benchmark designed to measure situational user-centric relevance in personalization. The benchmark consists of 1,936 realistic queries paired with interaction histories from up to 500 sessions. Across multiple architecture…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "05502de8a802",
+    "title": "Hypencoder Revisited: Reproducibility and Analysis of Non-Linear Scoring for First-Stage Retrieval",
+    "url": "https://arxiv.org/abs/2604.27037",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-01T04:00:00+00:00",
+    "summary": "arXiv:2604.27037v1 Announce Type: new Abstract: The Hypencoder, proposed by Killingback et al., is a retrieval framework that replaces the fixed inner-product scoring function used in standard bi-encoders with a query-specific neural network (the $q$-net), whose weights are generated by a hypernetwork from the contextualized query embeddings. This design enables more expressive relevance estimation while preserving independent query and document encoding. In this work, we conduct a reproducibili…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "1ffda0eafd94",
+    "title": "A Gated Hybrid Contrastive Collaborative Filtering Recommendation",
+    "url": "https://arxiv.org/abs/2604.27117",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-01T04:00:00+00:00",
+    "summary": "arXiv:2604.27117v1 Announce Type: new Abstract: Recommender systems increasingly incorporate textual reviews to enrich user and item representations. However, most review-aware models remain optimized for rating prediction rather than ranking quality. This misalignment limits their effectiveness in top-N recommendation scenarios, where discriminative ranking is essential. To address this gap, we propose a Gated Hybrid Collaborative Filtering framework that integrates review-derived representatio…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "782319ffd9d2",
+    "title": "LLM-Enhanced Topical Trend Detection at Snapchat",
+    "url": "https://arxiv.org/abs/2604.27131",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-01T04:00:00+00:00",
+    "summary": "arXiv:2604.27131v1 Announce Type: new Abstract: Automatic detection of topical trends at scale is both challenging and essential for maintaining a dynamic content ecosystem on social media platforms. In this work, we present a large-scale system for identifying emerging topical trends on Snapchat, one of the world's largest short-video social platforms. Our system integrates multimodal topic extraction, time-series burst detection, and LLM-based consolidation and enrichment to enable accurate an…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c9d5ed1137c4",
+    "title": "RAQG-QPP: Query Performance Prediction with Retrieved Query Variants and Retrieval Augmented Query Generation",
+    "url": "https://arxiv.org/abs/2604.27244",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-01T04:00:00+00:00",
+    "summary": "arXiv:2604.27244v1 Announce Type: new Abstract: Query Performance Prediction (QPP) estimates the retrieval quality of ranking models without the use of any human-assessed relevance judgements, and finds applications in query-specific selective decision making to improve overall retrieval effectiveness. Although unsupervised QPP approaches are effective for lexical retrieval models, they usually perform weaker for neural rankers. Recent work shows that leveraging query variants (QVs), i.e., queri…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "0609e936c130",
+    "title": "NuggetIndex: Governed Atomic Retrieval for Maintainable RAG",
+    "url": "https://arxiv.org/abs/2604.27306",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-01T04:00:00+00:00",
+    "summary": "arXiv:2604.27306v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) systems are frequently evaluated via fact-based metrics, yet standard implementations retrieve passages or static propositions. This unit mismatch between evaluation and retrieval objects hinders maintenance when corpora evolve and fails to capture superseded facts or source disagreements. We propose NuggetIndex, a retrieval system that stores atomic information units as managed records, so called nuggets. Each …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "e27f826eea3c",
+    "title": "From Unstructured to Structured: LLM-Guided Attribute Graphs for Entity Search and Ranking",
+    "url": "https://arxiv.org/abs/2604.27410",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-01T04:00:00+00:00",
+    "summary": "arXiv:2604.27410v1 Announce Type: new Abstract: Entity search, i.e., finding the most similar entities to a query entity, faces unique challenges in e-commerce, where product similarity varies across categories and contexts. Traditional embedding-based approaches often struggle to capture nuanced context-specific attribute relevance. In this paper, we present a two-stage approach combining Large Language Model (LLM)-driven attribute graph construction with graph-aware LLM ranking. In the offline…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "950ac5f8b707",
+    "title": "A Reproducibility Study of LLM-Based Query Reformulation",
+    "url": "https://arxiv.org/abs/2604.27421",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-01T04:00:00+00:00",
+    "summary": "arXiv:2604.27421v1 Announce Type: new Abstract: Large Language Models (LLMs) are now widely used for query reformulation and expansion in Information Retrieval, with many studies reporting substantial effectiveness gains. However, these results are typically obtained under heterogeneous experimental conditions, making it difficult to assess which findings are reproducible and which depend on specific implementation choices. In this work, we present a systematic reproducibility and comparative st…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "681137d39eb1",
+    "title": "Reproducing Adaptive Reranking for Reasoning-Intensive IR",
+    "url": "https://arxiv.org/abs/2604.27577",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-01T04:00:00+00:00",
+    "summary": "arXiv:2604.27577v1 Announce Type: new Abstract: The classical cascading pipeline of retrieve--rerank suffers from a bounded recall problem, stemming from limitations of the first-stage retriever. Most current approaches address the bounded recall problem by improving the first-stage retriever, but this incurs substantial training and inference costs, especially to handle queries that require substantial reasoning. To circumvent the computational costs of reasoning-based retrievers, we replicate …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "875033873307",
+    "title": "One Pass, Any Order: Position-Invariant Listwise Reranking for LLM-Based Recommendation",
+    "url": "https://arxiv.org/abs/2604.27599",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-01T04:00:00+00:00",
+    "summary": "arXiv:2604.27599v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used for recommendation reranking, but their listwise predictions can depend on the order in which candidates are presented. This creates a mismatch between the set-based nature of recommendation and the sequence-based computation of decoder-only LLMs, where permuting an otherwise identical candidate set can change item scores and final rankings. Such order sensitivity makes LLM-based rerankers difficul…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "4cd4a00308a7",
+    "title": "Purifying Multimodal Retrieval: Fragment-Level Evidence Selection for RAG",
+    "url": "https://arxiv.org/abs/2604.27600",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-01T04:00:00+00:00",
+    "summary": "arXiv:2604.27600v1 Announce Type: new Abstract: Multimodal Retrieval-Augmented Generation (MRAG) is widely adopted for Multimodal Large Language Models (MLLMs) with external evidence to reduce hallucinations. Despite its success, most existing MRAG frameworks treat retrieved evidence as indivisible documents, implicitly assuming that all content within a document is equally informative. In practice, however, sometimes only a small fraction of a document is relevant to a given query, while the re…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "b66bdef74238",
+    "title": "Position-Aware Drafting for Inference Acceleration in LLM-Based Generative List-Wise Recommendation",
+    "url": "https://arxiv.org/abs/2604.27747",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-01T04:00:00+00:00",
+    "summary": "arXiv:2604.27747v1 Announce Type: new Abstract: Large language model (LLM)-based generative list-wise recommendation has advanced rapidly, but decoding remains sequential and thus latency-prone. To accelerate inference without changing the target distribution, speculative decoding (SD) uses a small draft model to propose several next tokens at once and a target LLM to verify and accept the longest prefix, skipping multiple steps per round. In generative recommendation, however, each item is repr…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a67ccdba65dc",
+    "title": "How Generative AI Disrupts Search: An Empirical Study of Google Search, Gemini, and AI Overviews",
+    "url": "https://arxiv.org/abs/2604.27790",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-01T04:00:00+00:00",
+    "summary": "arXiv:2604.27790v1 Announce Type: new Abstract: Generative AI is being increasingly integrated into web search for the convenience it provides users. In this work, we aim to understand how generative AI disrupts web search by retrieving and presenting the information and sources differently from traditional search engines. We introduce a public benchmark dataset of 11,500 user queries to support our study and future research of generative search. We compare the search results returned by Google'…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "77a19c3c1608",
+    "title": "NeocorRAG: Less Irrelevant Information, More Explicit Evidence, and More Effective Recall via Evidence Chains",
+    "url": "https://arxiv.org/abs/2604.27852",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-01T04:00:00+00:00",
+    "summary": "arXiv:2604.27852v1 Announce Type: new Abstract: Although precise recall is a core objective in Retrieval-Augmented Generation (RAG), a critical oversight persists in the field: improvements in retrieval performance do not consistently translate to commensurate gains in downstream reasoning. To diagnose this gap, we propose the Recall Conversion Rate (RCR), a novel evaluation metric to quantify the contribution of retrieval to reasoning accuracy. Our quantitative analysis of mainstream RAG method…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "6d9879830041",
+    "title": "SimEval-IR: A Unified Toolkit and Benchmark Suite for Evaluating User Simulators and Search Sessions",
+    "url": "https://arxiv.org/abs/2604.27878",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-01T04:00:00+00:00",
+    "summary": "arXiv:2604.27878v1 Announce Type: new Abstract: User simulators are increasingly central to interactive information retrieval, yet the community lacks standardized evaluation tools. Simulators serve two objectives, behavioral realism (matching real user behavior) and tester reliability (producing valid system rankings), and these are often conflated despite being distinct and sometimes conflicting. We present SimEval-IR, an open-source toolkit and benchmark suite that makes this distinction meas…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "67106f8ef924",
+    "title": "Efficient Multivector Retrieval with Token-Aware Clustering and Hierarchical Indexing",
+    "url": "https://arxiv.org/abs/2604.28142",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-01T04:00:00+00:00",
+    "summary": "arXiv:2604.28142v1 Announce Type: new Abstract: Multivector retrieval models achieve state-of-the-art effectiveness through fine-grained token-level representations, but their deployment incurs substantial computational and memory costs. Current solutions, based on the well-known k-means clustering algorithm, group similar vectors together to enable both effective compression and efficient retrieval. However, standard k-means scales poorly with the number of clusters and dataset size, and favour…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "3dc9f7d972e9",
+    "title": "Toward Autonomous SOC Operations: End-to-End LLM Framework for Threat Detection, Query Generation, and Resolution in Security Operations",
+    "url": "https://arxiv.org/abs/2604.27321",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-01T04:00:00+00:00",
+    "summary": "arXiv:2604.27321v1 Announce Type: cross Abstract: Security Operations Centers (SOCs) face mounting operational challenges. These challenges come from increasing threat volumes, heterogeneous SIEM platforms, and time-consuming manual triage workflows. We present an end-to-end threat management framework that integrates ensemble-based detection, syntax-constrained query generation, and retrieval-augmented resolution support to automate critical security workflows. Our detection module evaluates bo…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "5f64fa3e69d0",
+    "title": "One Single Hub Text Breaks CLIP: Identifying Vulnerabilities in Cross-Modal Encoders via Hubness",
+    "url": "https://arxiv.org/abs/2604.27674",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-01T04:00:00+00:00",
+    "summary": "arXiv:2604.27674v1 Announce Type: cross Abstract: The hubness problem, in which hub embeddings are close to many unrelated examples, occurs often in high-dimensional embedding spaces and may pose a practical threat for purposes such as information retrieval and automatic evaluation metrics. In particular, since cross-modal similarity between text and images cannot be calculated by direct comparisons, such as string matching, cross-modal encoders that project different modalities into a shared sp…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "debd45413506",
+    "title": "ObjectGraph: From Document Injection to Knowledge Traversal -- A Native File Format for the Agentic Era",
+    "url": "https://arxiv.org/abs/2604.27820",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-01T04:00:00+00:00",
+    "summary": "arXiv:2604.27820v1 Announce Type: cross Abstract: Every document format in existence was designed for a human reader moving linearly through text. Autonomous LLM agents do not read - they retrieve. This fundamental mismatch forces agents to inject entire documents into their context window, wasting tokens on irrelevant content, compounding state across multi-turn loops, and broadcasting information indiscriminately across agent roles. We argue this is not a prompt engineering problem, not a retr…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "b03a3d5b398d",
+    "title": "Cross-lingual Comparison of Research Funding Projects with Multilingual Sentence-BERT: Evidence from KAKENHI, NIH, NSF, and UKRI",
+    "url": "https://arxiv.org/abs/2604.27315",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-05-01T04:00:00+00:00",
+    "summary": "arXiv:2604.27315v1 Announce Type: new Abstract: Cross-national comparison of research funding projects is increasingly important for science policy and strategic planning, but language differences remain a major obstacle. In particular, KAKENHI project descriptions are written primarily in Japanese, whereas projects from major overseas funding agencies, such as NSF, NIH, and UKRI, are documented in English. This study investigates whether multilingual sentence embeddings can support meaningful c…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "5e0ba9dbe655",
+    "title": "Thinking like a business: Reconfiguring relationships to sustain open data infrastructures",
+    "url": "https://arxiv.org/abs/2604.27580",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-05-01T04:00:00+00:00",
+    "summary": "arXiv:2604.27580v1 Announce Type: new Abstract: Sustaining open data infrastructures over time is a complex puzzle, involving dynamic funding models and relationships with customers, collaborators, and competitors. Despite their importance, these mechanisms are often hidden from view, limiting their applicability to other infrastructures. In this article, we examine how Dryad, a well-known open data infrastructure, has worked toward financial sustainability by reconfiguring relationships with ot…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4c854ef24256",
+    "title": "Measuring research data reuse in scholarly publications using generative artificial intelligence: Open Science Indicator development and preliminary results",
+    "url": "https://arxiv.org/abs/2604.28061",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-05-01T04:00:00+00:00",
+    "summary": "arXiv:2604.28061v1 Announce Type: new Abstract: Numerous metascience studies and other initiatives have begun to monitor the prevalence of open science practices when it is more important to understand the 'downstream' effects or impacts of open science. PLOS and DataSeer have developed a new LLM-based indicator to measure an important effect of open science: the reuse of research data. Our results show a data reuse rate of 43%, which is higher than established bibliometric techniques. We show t…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "658c799e3809",
+    "title": "Goals and Strategies for the Indexing of Publication Types and Study Designs",
+    "url": "https://arxiv.org/abs/2601.18616",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-05-01T04:00:00+00:00",
+    "summary": "arXiv:2601.18616v2 Announce Type: replace Abstract: Objectives. Major research and implementation efforts have been devoted to indexing articles according to the major topics discussed, but much less effort to indexing their publication types and study designs (collectively, PTs). In this Perspective, we discuss how indexing PTs differs from topical MeSH indexing and requires a different approach. Materials and Methods. Rather than focus on the technical aspects of machine learning-based indexin…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "8c51ad016c09",
+    "title": "How Shivon Zilis Operated as Elon Musk’s OpenAI Insider",
+    "url": "https://www.wired.com/story/model-behavior-why-everything-in-musk-v-altman-leads-back-to-shivon-zelis/",
+    "source": "Wired AI",
+    "date": "2026-05-01T00:51:18+00:00",
+    "summary": "Messages presented at trial reveal how Zilis, the mother of four of Musk’s children, acted as an intermediary between him and OpenAI.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4b157b96e68e",
+    "title": "Good Luck Getting a Mac Mini for the Next ‘Several Months’",
+    "url": "https://www.wired.com/story/apple-sold-out-mac-mini-openclaw/",
+    "source": "Wired AI",
+    "date": "2026-04-30T23:00:51+00:00",
+    "summary": "Apple CEO Tim Cook told analysts that AI adoption has happened faster than expected.",
+    "category": "AI Training & Literacy"
+  },
+  {
+    "id": "861ed0f86768",
+    "title": "Musk v. Altman Kicks Off, DOJ Guts Voting Rights Unit, and Is the AI Job Apocalypse Overhyped?",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-musk-v-altman-doj-guts-voting-rights-unit-is-ai-job-apocalypse-overhyped/",
+    "source": "Wired AI",
+    "date": "2026-04-30T18:54:54+00:00",
+    "summary": "In this episode of Uncanny Valley, we get into how the Elon Musk-Sam Altman trial goes way beyond their rivalry and could have major implications both for OpenAI and also the AI industry at large.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ee1e0bceadca",
+    "title": "Elon Musk Seemingly Admits xAI Has Used OpenAI’s Models to Train Its Own",
+    "url": "https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/",
+    "source": "Wired AI",
+    "date": "2026-04-30T17:41:14+00:00",
+    "summary": "While answering questions under oath, Musk argued it’s standard practice for AI labs to use their competitors’ models.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "aacf67027a7e",
+    "title": "OpenAI Rolls Out ‘Advanced’ Security Mode for At-Risk Accounts",
+    "url": "https://www.wired.com/story/openai-chatgpt-codex-advanced-account-security/",
+    "source": "Wired AI",
+    "date": "2026-04-30T17:30:39+00:00",
+    "summary": "OpenAI is rolling out Advanced Account Security for people concerned that their ChatGPT or Codex accounts could be potential targets of phishing attacks.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "23381db38087",
+    "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
+    "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
+    "source": "MIT Tech Review",
+    "date": "2026-04-30T15:59:41+00:00",
+    "summary": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training. This could give model makers more fine-grained control over how this technology is built than was once thought possible. Goodfire claims Silico&#8230;",
+    "category": "AI & Knowledge Management"
+  },
+  {
     "id": "e9273ed59637",
     "title": "The New(ish) Architecture of Consumer Health and Artificial Intelligence",
     "url": "https://fpf.org/blog/the-newish-architecture-of-consumer-health-and-artificial-intelligence/",
