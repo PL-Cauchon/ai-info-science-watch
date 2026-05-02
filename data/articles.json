@@ -1,5 +1,95 @@
 [
   {
+    "id": "fc5df877a1f2",
+    "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
+    "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+    "source": "MIT Tech Review",
+    "date": "2026-05-01T22:08:19+00:00",
+    "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned&#160;that AI could destroy us all and sat through&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8a7dd1e79192",
+    "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
+    "url": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
+    "source": "Wired AI",
+    "date": "2026-05-01T20:25:28+00:00",
+    "summary": "Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz, is funding a campaign to spread pro-AI messaging and stoke fears about China.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b11745bafe8b",
+    "title": "Cyber-Insecurity in the AI Era",
+    "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
+    "source": "MIT Tech Review",
+    "date": "2026-05-01T15:54:01+00:00",
+    "summary": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review&#8217;s EmTech AI conference explores why security must be rethought with AI at its core, not layered on after&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e723a69359a4",
+    "title": "Operationalizing AI for Scale and Sovereignty",
+    "url": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
+    "source": "MIT Tech Review",
+    "date": "2026-05-01T15:31:09+00:00",
+    "summary": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high‑quality data needed to power reliable insights. This conversation from MIT Technology Review&#8217;s EmTech AI conference examines how AI factories unlock new levels of scale, sustainability, and governance—positioning data&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8e5b251ef8b1",
+    "title": "55 Moments That Redefined Librarianship",
+    "url": "https://americanlibrariesmagazine.org/2026/05/01/55-moments-that-redefined-librarianship/?utm_source=rss&utm_medium=rss&utm_campaign=55-moments-that-redefined-librarianship",
+    "source": "American Libraries",
+    "date": "2026-05-01T13:00:39+00:00",
+    "summary": "Though not a comprehensive timeline of library history, the milestones collected here demonstrate lasting impact and how libraries and the profession are intertwined with the American story itself—as repositories of memory, arenas of debate, and enduring instruments of democratic life. 1876–1889 On October 4, 1876, a group of 103 librarians and advocates assembled at the &#8230; Continue reading 55 Moments That Redefined Librarianship &#8594; The post 55 Moments That Redefined Librarianship appe…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "fe908c28b592",
+    "title": "Posters of Progress",
+    "url": "https://americanlibrariesmagazine.org/2026/05/01/posters-of-progress/?utm_source=rss&utm_medium=rss&utm_campaign=posters-of-progress",
+    "source": "American Libraries",
+    "date": "2026-05-01T12:58:14+00:00",
+    "summary": "1917–1919 World War I and Library War Service a. Knowledge Wins (1918) b. Books Wanted (1918) c. “Hey Fellows!” (1918) 1920–1939 ALA’s 50th anniversary and early promotional posters d. Hospital Library Service (1925) e. Public Libraries: An American Contribution to Civilization (1926) f. 50 Years: The University of the People (1926) g. Library Work: The &#8230; Continue reading Posters of Progress &#8594; The post Posters of Progress appeared first on American Libraries Magazine.",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "6b69ac7780d5",
+    "title": "A Seat at the Table",
+    "url": "https://americanlibrariesmagazine.org/2026/05/01/a-seat-at-the-table/?utm_source=rss&utm_medium=rss&utm_campaign=a-seat-at-the-table",
+    "source": "American Libraries",
+    "date": "2026-05-01T12:56:08+00:00",
+    "summary": "Robert Wedgeworth Wedgeworth served as ALA’s first Black executive director (1972–1985). In virtually all my professional ­positions, I was the only Black person. I never had problems as a result, because almost everybody accepted that I had to be exceptional in order to be in the position I was in. Earlier, as an undergraduate in &#8230; Continue reading A Seat at the Table &#8594; The post A Seat at the Table appeared first on American Libraries Magazine.",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "f52c75aa75b2",
+    "title": "Bookend: A Library for Librarians",
+    "url": "https://americanlibrariesmagazine.org/2026/05/01/bookend-a-library-for-librarians/?utm_source=rss&utm_medium=rss&utm_campaign=bookend-a-library-for-librarians",
+    "source": "American Libraries",
+    "date": "2026-05-01T12:54:20+00:00",
+    "summary": "The rabbit-warren days are over. Since ALA headquarters moved in 2020 to its present location at Chicago’s 225 North Michigan Avenue, Barbus has presided over a completely reimagined in-house library. Visitors step off the elevator to find a large, open, bright area that’s home to not only the office’s main reception desk but also row upon &#8230; Continue reading Bookend: A Library for Librarians &#8594; The post Bookend: A Library for Librarians appeared first on American Libraries Magazine.",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "c1e86944d087",
+    "title": "ALA at 150",
+    "url": "https://americanlibrariesmagazine.org/2026/05/01/ala-at-150/?utm_source=rss&utm_medium=rss&utm_campaign=ala-at-150",
+    "source": "American Libraries",
+    "date": "2026-05-01T12:52:23+00:00",
+    "summary": "Today, we stand at 150 years, a century and a half of voices lifted, stories shared, and doors opened. We celebrate not just survival but triumph. For libraries are not just buildings; they are the pulse of democracy, the heart of community, and the echo of our collective soul. Through wars and unrest, through the &#8230; Continue reading ALA at 150 &#8594; The post ALA at 150 appeared first on American Libraries Magazine.",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "0c99deb3014a",
+    "title": "Rebirth and Reaffirmation",
+    "url": "https://americanlibrariesmagazine.org/2026/05/01/rebirth-and-reaffirmation/?utm_source=rss&utm_medium=rss&utm_campaign=rebirth-and-reaffirmation",
+    "source": "American Libraries",
+    "date": "2026-05-01T12:50:25+00:00",
+    "summary": "I invite you to join your colleagues at Annual to observe our past, reflect on our present, and envision our future. Attendees will have the opportunity to gather for the “ALA150: A Celebration for Our Libraries” reception on Saturday evening and immerse themselves in a variety of sessions highlighting key library moments under the ALA150 &#8230; Continue reading Rebirth and Reaffirmation &#8594; The post Rebirth and Reaffirmation appeared first on American Libraries Magazine.",
+    "category": "Libraries & Archives"
+  },
+  {
     "id": "b5f0e79da3e5",
     "title": "A new US phone network for Christians aims to block porn and gender-related content",
     "url": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
