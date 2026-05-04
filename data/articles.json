@@ -1,5 +1,194 @@
 [
   {
+    "id": "aebf7d2834e0",
+    "title": "Stronger Cybersecurity, Stronger Business: NIST Celebrates 2026 National Small Business Week",
+    "url": "https://www.nist.gov/blogs/cybersecurity-insights/stronger-cybersecurity-stronger-business-nist-celebrates-2026-national",
+    "source": "NIST",
+    "date": "2026-05-04T12:00:00+00:00",
+    "summary": "Happy National Small Business Week! For over 60 years, the U.S. Small Business Administration has led this initiative to acknowledge the critical contributions of America’s entrepreneurs and small business owners. Part of the U.S. Department of Commerce, NIST’s mission is to drive U.S. innovation and global competitiveness, and the small business community is central to this mission. In this year’s blog, we shine a spotlight on some new and upcoming NIST resources that are all focused on strengt…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "77ec2ede581c",
+    "title": "Exploring LLM biases to manipulate AI search overview",
+    "url": "https://arxiv.org/abs/2605.00012",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-04T04:00:00+00:00",
+    "summary": "arXiv:2605.00012v1 Announce Type: new Abstract: Modern large language models (LLMs) are used in many business applications in general, and specifically in web search systems and applications that generate overviews of search results - LLM Overview systems. Such systems are using an LLM to select most relevant sources from search results and generate an answer to the user's query. It is known from many studies that LLMs have different biases, in LLM Overview application both the source selection …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "b1d5b9951c7d",
+    "title": "A Survey of Reasoning-Intensive Retrieval: Progress and Challenges",
+    "url": "https://arxiv.org/abs/2605.00063",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-04T04:00:00+00:00",
+    "summary": "arXiv:2605.00063v1 Announce Type: new Abstract: Reasoning-Intensive Retrieval (RIR) targets retrieval settings where relevance is mediated by latent inferential links between a query and supporting evidence, rather than semantic similarity. Motivated by the emergent reasoning abilities of Large Language Models (LLMs), recent work integrates these capabilities into the IR field, spanning the entire pipeline from benchmarks to retrievers and rerankers. Despite this progress, the field lacks a syst…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "0501deb833ef",
+    "title": "Intelligent Elastic Feature Fading: Enabling Model Retrain-Free Feature Efficiency Rollouts at Scale",
+    "url": "https://arxiv.org/abs/2605.00324",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-04T04:00:00+00:00",
+    "summary": "arXiv:2605.00324v1 Announce Type: new Abstract: Large-scale ranking systems depend on thousands of features derived from user behavior across multiple time horizons. Typically requires model retraining -- resulting in long iteration cycles (3--6 months), substantial GPU resource consumption, and limited rollout throughput. We introduce Intelligent Elastic Feature Fading (IEFF), a production infrastructure system that enables retrain-free feature efficiency rollouts by elastically controlling fea…",
+    "category": "Information Behavior"
+  },
+  {
+    "id": "b09efcc2b0c4",
+    "title": "DynamicPO: Dynamic Preference Optimization for Recommendation",
+    "url": "https://arxiv.org/abs/2605.00327",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-04T04:00:00+00:00",
+    "summary": "arXiv:2605.00327v1 Announce Type: new Abstract: In large language model (LLM)-based recommendation systems, direct preference optimization (DPO) effectively aligns recommendations with user preferences, requiring multi-negative objective functions to leverage abundant implicit-feedback negatives and sharpen preference boundaries. However, our empirical analyses reveal a counterintuitive phenomenon, preference optimization collapse, where increasing the number of negative samples can lead to perf…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a9c8313fc86a",
+    "title": "Negative Data Mining for Contrastive Learning in Dense Retrieval at IKEA.com",
+    "url": "https://arxiv.org/abs/2605.00353",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-04T04:00:00+00:00",
+    "summary": "arXiv:2605.00353v1 Announce Type: new Abstract: Contrastive learning is a core component of modern retrieval systems, but its effectiveness heavily relies on the quality of negative examples used during training. In this work, we present a systematic approach to improving dense retrieval for IKEA product search through structured negative sampling strategies and scalable LLM-as-a-judge relevance evaluation. Building on IKEA Search Engine's late-interaction retrieval architectures, we introduce t…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "ae2d519c0c36",
+    "title": "FollowTable: A Benchmark for Instruction-Following Table Retrieval",
+    "url": "https://arxiv.org/abs/2605.00400",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-04T04:00:00+00:00",
+    "summary": "arXiv:2605.00400v1 Announce Type: new Abstract: Table Retrieval (TR) has traditionally been formulated as an ad-hoc retrieval problem, where relevance is primarily determined by topical semantic similarity. With the growing adoption of LLM-based agentic systems, access to structured data is increasingly instruction-driven, where relevance is conditional on explicit content and schema constraints rather than topical similarity alone. We therefore formalize Instruction-Following Table Retrieval (I…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "4d9302aad8b4",
+    "title": "Time-Interval-Aware Disentangled Expert Modeling for Next-Basket Recommendation",
+    "url": "https://arxiv.org/abs/2605.00499",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-04T04:00:00+00:00",
+    "summary": "arXiv:2605.00499v1 Announce Type: new Abstract: Next-basket recommendation (NBR) is a type of recommendation that aims to predict a set of items a user will purchase based on their historical transaction basket sequences. It is governed by a dynamic interplay between two distinct user intents: habitual repurchase, which involves repeating past behaviors, and exploratory interest, which involves discovering new items. However, existing NBR methods generally suffer from two limitations: (1) they o…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a9b31301715a",
+    "title": "LLM-Oriented Information Retrieval: A Denoising-First Perspective",
+    "url": "https://arxiv.org/abs/2605.00505",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-04T04:00:00+00:00",
+    "summary": "arXiv:2605.00505v1 Announce Type: new Abstract: Modern information retrieval (IR) is no longer consumed primarily by humans but increasingly by large language models (LLMs) via retrieval-augmented generation (RAG) and agentic search. Unlike human users, LLMs are constrained by limited attention budgets and are uniquely vulnerable to noise; misleading or irrelevant information is no longer just a nuisance, but a direct cause of hallucinations and reasoning failures. In this perspective paper, we …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "2d8d8850192c",
+    "title": "When More Reformulations Hurt: Avoiding Drift using Ranker Feedback",
+    "url": "https://arxiv.org/abs/2605.00560",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-04T04:00:00+00:00",
+    "summary": "arXiv:2605.00560v1 Announce Type: new Abstract: Modern retrieval pipelines increasingly rely on query reformulation and neural reranking to improve effectiveness, but this comes at a significant computational cost and introduces a fundamental tradeoff between recall and query drift. Generating many reformulated queries can substantially increase recall, yet naively merging or exhaustively reranking their results is prohibitively expensive. In this work, we argue that the core challenge is not re…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f8860a2e01c1",
+    "title": "MUDY: Multi-Granular Dynamic Candidate Contextualization for Unsupervised Keyphrase Extraction",
+    "url": "https://arxiv.org/abs/2605.00597",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-04T04:00:00+00:00",
+    "summary": "arXiv:2605.00597v1 Announce Type: new Abstract: Keyphrase extraction aims to automatically identify concise phrases that effectively represent the content of a document. While recent methods leveraging pre-trained language models (PLMs) have significantly improved the extraction of keyphrases with strong global semantic relevance, they often fall short in capturing the local contextual importance of keyphrases tied to specific subtopics dispersed in a document. In this paper, we propose a novel …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ab913f948087",
+    "title": "A Replicability Study of XTR",
+    "url": "https://arxiv.org/abs/2605.00646",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-04T04:00:00+00:00",
+    "summary": "arXiv:2605.00646v1 Announce Type: new Abstract: The XTR (conteXtual Token Retrieval) algorithm is a modification to ColBERT retrieval that avoids the costly step of fully gathering and reranking the candidates' embeddings by imputing their missing similarity scores from the initial token retrieval step. The original work proposes a modified training objective as necessary for effective XTR retrieval, arguing that standard ColBERT token scoring is unsuitable for imputation. In this paper, we repl…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "f3e777e82afc",
+    "title": "Robust Multimodal Recommendation via Graph Retrieval-Enhanced Modality Completion",
+    "url": "https://arxiv.org/abs/2605.00670",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-04T04:00:00+00:00",
+    "summary": "arXiv:2605.00670v1 Announce Type: new Abstract: Multimodal data plays a critical role in web-based recommendation systems, where information from diverse modalities such as vision and text enhances representation learning. However, real-world multimodal datasets often suffer from modality incompleteness due to sensor failures, annotation scarcity, or privacy constraints, which substantially degrade model performance and reliability. One effective solution to address this issue is modality comple…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "674d15e924d4",
+    "title": "DeGenTWeb: A First Look at LLM-dominant Websites",
+    "url": "https://arxiv.org/abs/2605.00087",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-04T04:00:00+00:00",
+    "summary": "arXiv:2605.00087v1 Announce Type: cross Abstract: Many recent news reports have claimed that content generated by large language models (LLMs) is taking over the web. However, these claims are typically not based on a representative sample of the web and the methodology underlying them is often opaque. Moreover, when aiming to minimize the chances of falsely attributing human-authored content to LLMs, we find that detectors of LLM-generated text perform much worse than advertised. Consequently, …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "22ef23081238",
+    "title": "RSAT: Structured Attribution Makes Small Language Models Faithful Table Reasoners",
+    "url": "https://arxiv.org/abs/2605.00199",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-04T04:00:00+00:00",
+    "summary": "arXiv:2605.00199v1 Announce Type: cross Abstract: When a language model answers a table question, users have no way to verify which cells informed which reasoning steps. We introduce RSAT, a method that trains small language models (SLMs, 1-8B) to produce step-by-step reasoning with cell-level citations grounded in table evidence. Phase 1 (SFT) teaches a structured JSON output format from verified reasoning traces. Phase 2 (GRPO) optimizes a composite reward centered on NLI-based faithfulness, a…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "898aa41e5b0f",
+    "title": "Retrieval-Augmented Reasoning for Chartered Accountancy",
+    "url": "https://arxiv.org/abs/2605.00257",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-04T04:00:00+00:00",
+    "summary": "arXiv:2605.00257v1 Announce Type: cross Abstract: The inception of Large Language Models (LLMs) has catalyzed AI adoption in the finance sector, yet their reliability in complex, jurisdiction-specific tasks like Indian Chartered Accountancy (CA) remains limited. The models display difficulty in executing numerical tasks which require multiple steps while also needing advanced knowledge about legal regulations and the method of scaling their operations is not feasible in settings which have limit…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "3cb1697a8a46",
+    "title": "Structure-Aware Chunking for Tabular Data in Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2605.00318",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-04T04:00:00+00:00",
+    "summary": "arXiv:2605.00318v1 Announce Type: cross Abstract: Tabular documents such as CSV and Excel files are widely used in enterprise data pipelines, yet existing chunking strategies for retrieval-augmented generation (RAG) are primarily designed for unstructured text and do not account for tabular structure. We propose a structure-aware tabular chunking (STC) framework that operates on row-level units by constructing a hierarchical Row Tree representation, where each row is encoded as a key-value block…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "664d1a231f79",
+    "title": "Hierarchical Abstract Tree for Cross-Document Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2605.00529",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-04T04:00:00+00:00",
+    "summary": "arXiv:2605.00529v1 Announce Type: cross Abstract: Retrieval-augmented generation (RAG) enhances large language models with external knowledge, and tree-based RAG organizes documents into hierarchical indexes to support queries at multiple granularities. However, existing Tree-RAG methods designed for single-document retrieval face critical challenges in scaling to cross-document multi-hop questions: (1) poor distribution adaptability, where $k$-means clustering introduces noise due to rigid dist…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "5120c170f738",
+    "title": "H-RAG at SemEval-2026 Task 8: Hierarchical Parent-Child Retrieval for Multi-Turn RAG Conversations",
+    "url": "https://arxiv.org/abs/2605.00631",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-04T04:00:00+00:00",
+    "summary": "arXiv:2605.00631v1 Announce Type: cross Abstract: We present H-RAG, our submission to SemEval-2026 Task 8 (MTRAGEval), addressing both Task A (Retrieval) and Task C (Generation with Retrieved Passages). Task A evaluates standalone retrieval quality, while Task C assesses end-to-end retrieval-augmented generation (RAG) in multi-turn conversational settings, requiring both accurate answer generation and faithful grounding in retrieved evidence. Our approach implements a hierarchical parent-child R…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "0d265a98f1a0",
+    "title": "GenRecEdit: Adapting Model Editing for Generative Recommendation with Cold-Start Items",
+    "url": "https://arxiv.org/abs/2603.14259",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-04T04:00:00+00:00",
+    "summary": "arXiv:2603.14259v2 Announce Type: replace Abstract: Generative recommendation (GR) has shown strong potential for sequential recommendation in an end-to-end generation paradigm. However, existing GR models suffer from severe cold-start collapse: their recommendation accuracy on cold-start items can drop to near zero. Current solutions typically rely on retraining with cold-start interactions, which is hindered by sparse feedback, high computational cost, and delayed updates, limiting practical u…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "515c96be23a5",
+    "title": "MemoryBench: A Benchmark for Memory and Continual Learning in LLM Systems",
+    "url": "https://arxiv.org/abs/2510.17281",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-04T04:00:00+00:00",
+    "summary": "arXiv:2510.17281v5 Announce Type: replace-cross Abstract: Scaling up data, parameters, and test-time computation has been the mainstream methods to improve LLM systems (LLMsys), but their upper bounds are almost reached due to the gradual depletion of high-quality data and marginal gains obtained from larger computational resource consumption. Inspired by the abilities of human and traditional AI systems in learning from practice, constructing memory and continual learning frameworks for LLMsys …",
+    "category": "AI & Knowledge Management"
+  },
+  {
     "id": "b9f936bf3b85",
     "title": "Disneyland Now Uses Face Recognition on Visitors",
     "url": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
