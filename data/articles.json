@@ -1,5 +1,203 @@
 [
   {
+    "id": "deddf021f410",
+    "title": "Apple Will Pay $250 Million to Settle Lawsuit Over Siri's AI Features",
+    "url": "https://www.wired.com/story/apple-will-pay-dollar250-million-to-settle-lawsuit-over-siris-ai-features/",
+    "source": "Wired AI",
+    "date": "2026-05-06T10:41:37+00:00",
+    "summary": "If you bought an iPhone 15 or 16 in the US, you could be set to pocket up to $95 per device as part of the settlement.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ac85a2e533d1",
+    "title": "Hasan Piker, Self-Described ‘Ayatollah of Woke,’ Wants AI to Die",
+    "url": "https://www.wired.com/story/hasan-piker-user-behavior/",
+    "source": "Wired AI",
+    "date": "2026-05-06T10:00:00+00:00",
+    "summary": "The far-left Twitch streamer says AI is rotting our brains. He’s also addicted to Twitter and listens to at least eight podcasts.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "451fd72f0dca",
+    "title": "Beyond Similarity Search: A Unified Data Layer for Production RAG Systems",
+    "url": "https://arxiv.org/abs/2605.03275",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-06T04:00:00+00:00",
+    "summary": "arXiv:2605.03275v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) systems have become the standard architecture for grounding large language models in organizational knowledge. Yet production deployments consistently expose a gap between clean prototype performance and real-world reliability. This paper identifies three root causes of that gap: data staleness, tenant data leakage, and query composition explosion. All three trace back to the conventional split-system data layer…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "1d5b56369ee0",
+    "title": "RAG over Thinking Traces Can Improve Reasoning Tasks",
+    "url": "https://arxiv.org/abs/2605.03344",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-06T04:00:00+00:00",
+    "summary": "arXiv:2605.03344v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) has proven effective for knowledge-intensive tasks, but is widely believed to offer limited benefit for reasoning-intensive problems such as math and code generation. We challenge this assumption by showing that the limitation lies not in RAG itself, but in the choice of corpus. Instead of retrieving documents, we propose retrieving thinking traces, i.e., intermediate thinking trajectories generated during probl…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "b9a3180fecc4",
+    "title": "Revisiting General Map Search via Generative Point-of-Interest Retrieval",
+    "url": "https://arxiv.org/abs/2605.03397",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-06T04:00:00+00:00",
+    "summary": "arXiv:2605.03397v1 Announce Type: new Abstract: Point-of-Interest (POI) retrieval aims to identify relevant candidates from massive-scale POI databases, serving as a cornerstone for diverse location-based services. However, in general map search scenarios, conventional POI retrieval methods are increasingly challenged by underspecified user queries due to their excessive reliance on surface-level semantic matching. Meanwhile, such queries are often highly context-dependent and personalized, yet …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "89f56da1b3ba",
+    "title": "Aspect-Aware Content-Based Recommendations for Mathematical Research Papers",
+    "url": "https://arxiv.org/abs/2605.03861",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-06T04:00:00+00:00",
+    "summary": "arXiv:2605.03861v1 Announce Type: new Abstract: Content-based research paper recommendation (CbRPR) has seen advances in computer science and biomedicine, but remains unexplored for mathematics, where paper relatedness is more conceptual than explicit textual or citation-based similarity. Mathematics papers may be connected through shared proof techniques, logical implications, or natural generalizations, yet exhibit minimal textual or citation overlap, rendering existing CbRPR ineffective. To a…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "3d1c8d2edd88",
+    "title": "Domain-Adaptive Dense Retrieval for Brazilian Legal Search",
+    "url": "https://arxiv.org/abs/2605.04005",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-06T04:00:00+00:00",
+    "summary": "arXiv:2605.04005v1 Announce Type: new Abstract: Brazilian legal retrieval is heterogeneous, covering case law, legislation, and question-based search. This makes training dense retrievers a trade-off between stronger domain specialization and broader robustness across retrieval types of search. In this paper, we explore this trade-off using three training setups based on Qwen3-Embedding-4B: a base model with no fine-tuning, a version trained only on legal data, and a mixed setup that combines le…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "6807d4f8a0ed",
+    "title": "SURE-RAG: Sufficiency and Uncertainty-Aware Evidence Verification for Selective Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2605.03534",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-06T04:00:00+00:00",
+    "summary": "arXiv:2605.03534v1 Announce Type: cross Abstract: Retrieval-augmented generation (RAG) grounds answers in retrieved passages, but retrieval is not verification: a passage can be topical and still fail to justify the answer. We frame this gap as evidence sufficiency verification for selective RAG answering: given a question, a candidate answer, and retrieved evidence, predict whether the evidence supports, refutes, or is insufficient, and abstain unless support is established. We present SURE-RAG…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "74a6528c0644",
+    "title": "Cosmodoit: A Python Package for Adaptive, Efficient Pipelining of Feature Extraction from Performed Music",
+    "url": "https://arxiv.org/abs/2605.03541",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-06T04:00:00+00:00",
+    "summary": "arXiv:2605.03541v1 Announce Type: cross Abstract: Computational analysis of performed music is a key component of music information research, as performance shapes much of the music we hear. Music performance analysis studies the acoustic variations introduced by performers and how these variations reflect musical interpretation and structure. Although many algorithms and tools exist for tasks such as performance-to-score alignment and symbolic or audio feature extraction, they are spread across…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e0e3aa51aaf3",
+    "title": "Physics-Grounded Multi-Agent Architecture for Traceable, Risk-Aware Human-AI Decision Support in Manufacturing",
+    "url": "https://arxiv.org/abs/2605.04003",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-06T04:00:00+00:00",
+    "summary": "arXiv:2605.04003v1 Announce Type: cross Abstract: High-precision CNC machining of free-form aerospace components requires bounded compensations informed by inspection, simulation, and process knowledge. Off-the-shelf large language model (LLM) assistants can generate text, but they do not reliably execute risk-constrained multi-step numerical workflows or provide auditable provenance for high-stakes decisions. We present multi-agent knowledge analysis (MAKA), a human-in-the-loop decision-support…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "6f1e3a5cc65d",
+    "title": "Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems",
+    "url": "https://arxiv.org/abs/2605.04018",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-06T04:00:00+00:00",
+    "summary": "arXiv:2605.04018v1 Announce Type: cross Abstract: Reasoning-intensive retrieval aims to surface evidence that supports downstream reasoning rather than merely matching topical similarity. This capability is increasingly important for agentic search systems, where retrievers must provide complementary evidence across iterative search and synthesis. However, existing work remains limited on both evaluation and training: benchmarks such as BRIGHT provide narrow gold sets and evaluate retrievers in …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c42f28b6e973",
+    "title": "Adaptive Long-term Embedding with Denoising and Augmentation for Recommendation",
+    "url": "https://arxiv.org/abs/2504.13614",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-06T04:00:00+00:00",
+    "summary": "arXiv:2504.13614v2 Announce Type: replace Abstract: The rapid growth of the internet has made personalized recommendation systems indispensable. Graph-based sequential recommendation systems, powered by Graph Neural Networks (GNNs), effectively capture complex user-item interactions but often face challenges such as noise and static representations. In this paper, we introduce the Adaptive Long-term Embedding with Denoising and Augmentation for Recommendation (ALDA4Rec) method, a novel model tha…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "b9ed4379193b",
+    "title": "Frozen LVLMs for Micro-Video Recommendation: A Systematic Study of Feature Extraction and Fusion",
+    "url": "https://arxiv.org/abs/2512.21863",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-06T04:00:00+00:00",
+    "summary": "arXiv:2512.21863v2 Announce Type: replace Abstract: Frozen Large Video Language Models (LVLMs) are increasingly employed in micro-video recommendation due to their strong multimodal understanding. However, their integration lacks systematic empirical evaluation: practitioners typically deploy LVLMs as fixed black-box feature extractors without systematically comparing alternative representation strategies. To address this gap, we present the first systematic empirical study along two key design …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "97ecc1d61981",
+    "title": "Unified Supervision for Walmart's Sponsored Search Retrieval via Joint Semantic Relevance and Behavioral Engagement Modeling",
+    "url": "https://arxiv.org/abs/2604.07930",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-06T04:00:00+00:00",
+    "summary": "arXiv:2604.07930v5 Announce Type: replace Abstract: Modern search systems rely on a fast first stage retriever to fetch relevant items from a massive catalog of items. Deployed search systems often use user engagement signals to supervise bi-encoder retriever training at scale, because these signals are continuously logged from real traffic and require no additional annotation effort. However, engagement is an imperfect proxy for semantic relevance. Items may receive interactions due to populari…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4fd75d5a4807",
+    "title": "Benchmarking Document Parsers on Mathematical Formula Extraction from PDFs",
+    "url": "https://arxiv.org/abs/2512.09874",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-06T04:00:00+00:00",
+    "summary": "arXiv:2512.09874v2 Announce Type: replace-cross Abstract: Correctly parsing mathematical formulas from PDFs is critical for training large language models and building scientific knowledge bases from academic literature, yet existing benchmarks either exclude formulas entirely or lack semantically-aware evaluation metrics. We introduce a benchmarking framework centered on synthetically generated PDFs with precise LaTeX ground truth, enabling systematic control over layout, formulas, and content …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "b943410a7fd4",
+    "title": "Intelligent Knowledge Mining Framework: Bridging AI Analysis and Trustworthy Preservation",
+    "url": "https://arxiv.org/abs/2512.17795",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-06T04:00:00+00:00",
+    "summary": "arXiv:2512.17795v2 Announce Type: replace-cross Abstract: The unprecedented proliferation of digital data presents significant challenges in access, integration, and value creation across all data-intensive sectors. Valuable information is frequently encapsulated within disparate systems, unstructured documents, and heterogeneous formats, creating silos that impede efficient utilization and collaborative decision-making. This paper introduces the Intelligent Knowledge Mining Framework (IKMF), a …",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "f9de3314e79c",
+    "title": "A Skill-Based AI Agentic Pipeline for Library of Congress Subject Indexing",
+    "url": "https://arxiv.org/abs/2605.03537",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-05-06T04:00:00+00:00",
+    "summary": "arXiv:2605.03537v1 Announce Type: new Abstract: This paper presents a modular AI agentic skill pipeline for automating subject indexing with Library of Congress Subject Headings (LCSH). Subject indexing - the process of analyzing a work's aboutness, selecting controlled vocabulary terms, and encoding them as MARC21 subject access fields - is one of the most time-consuming components of library cataloging. The system decomposes this process into four discrete, sequentially executed agent skills: …",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "eab55f00e066",
+    "title": "An Intelligent Framework for Real-Time Yoga Pose Detection and Posture Correction",
+    "url": "https://arxiv.org/abs/2603.26760",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-05-06T04:00:00+00:00",
+    "summary": "arXiv:2603.26760v1 Announce Type: cross Abstract: Yoga is widely recognized for improving physical fitness, flexibility, and mental well being. However, these benefits depend strongly on correct posture execution. Improper alignment during yoga practice can reduce effectiveness and increase the risk of musculoskeletal injuries, especially in self guided or online training environments. This paper presents a hybrid Edge AI based framework for real time yoga pose detection and posture correction. …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8c9e4e1f6ae1",
+    "title": "‘I Actually Thought He Was Going to Hit Me,’ OpenAI’s Greg Brockman Says of Elon Musk",
+    "url": "https://www.wired.com/story/greg-brockman-testifies-elon-musk-fight-trial/",
+    "source": "Wired AI",
+    "date": "2026-05-05T23:24:58+00:00",
+    "summary": "OpenAI’s president wrapped his testimony on Tuesday by revealing a fiery meeting with Musk in 2017 and subsequent efforts to remove several board members.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "abebb00c3269",
+    "title": "Taking stock: The Impact of the India AI Impact Summit 2026",
+    "url": "https://fpf.org/blog/taking-stock-the-impact-of-the-india-ai-impact-summit-2026/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-05-05T16:53:49+00:00",
+    "summary": "India&#8217;s hosting of the AI Impact Summit 2026 was an ambitious undertaking. With 600,000 attendees and 92 signatories to the New Delhi Declaration, the Summit was a showcase of a Global South country taking a leading role in shaping the AI governance agenda. The Summit’s official framing centered on infrastructure, compute, and equitable access to [&#8230;]",
+    "category": "AI & Information Governance"
+  },
+  {
+    "id": "ad82a283d429",
+    "title": "2026 Library Systems Briefing",
+    "url": "https://americanlibrariesmagazine.org/2026/05/05/2026-library-systems-briefing/?utm_source=rss&utm_medium=rss&utm_campaign=2026-library-systems-briefing",
+    "source": "American Libraries",
+    "date": "2026-05-05T14:00:45+00:00",
+    "summary": "State of the industry Clarivate, which in recent years has subsumed the technology products of Ex Libris and Innovative, further strengthened its place as the industry leader. Clarivate has embraced AI across its businesses, including with the 2024 release of its Academic AI Platform, supporting a strategy to harness these technologies while delivering reliable content. &#8230; Continue reading 2026 Library Systems Briefing &#8594; The post 2026 Library Systems Briefing appeared first on America…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "9ed4e3fed288",
+    "title": "Google DeepMind Workers Vote to Unionize Over Military AI Deals",
+    "url": "https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/",
+    "source": "Wired AI",
+    "date": "2026-05-05T11:59:20+00:00",
+    "summary": "UK staff of Google’s AI research lab hope to block the use of the company’s artificial intelligence models in military settings.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "f2851b5fc29d",
     "title": "He Couldn’t Land a Job Interview. Was AI to Blame?",
     "url": "https://www.wired.com/story/he-couldnt-land-a-job-interview-was-ai-to-blame/",
