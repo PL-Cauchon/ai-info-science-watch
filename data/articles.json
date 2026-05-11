@@ -1,5 +1,302 @@
 [
   {
+    "id": "4fbc0b3b8234",
+    "title": "Fostering breakthrough AI innovation through customer-back engineering",
+    "url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
+    "source": "MIT Tech Review",
+    "date": "2026-05-11T13:33:06+00:00",
+    "summary": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs and working backward to technology solutions. Not prioritizing the customer can create fragmented solutions; disjointed&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a8f0b4d6be96",
+    "title": "Implementing advanced AI technologies in finance",
+    "url": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
+    "source": "MIT Tech Review",
+    "date": "2026-05-11T13:00:00+00:00",
+    "summary": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership races to impose structure, governance, and strategy after the fact. The result is a paradox: one of the most tightly regulated functions&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "72b48ee8b921",
+    "title": "CUDA Proves Nvidia Is a Software Company",
+    "url": "https://www.wired.com/story/cuda-proves-nvidia-is-a-software-company/",
+    "source": "Wired AI",
+    "date": "2026-05-11T10:00:00+00:00",
+    "summary": "There’s a deep, forbidding moat that surrounds Nvidia—and it has nothing to do with hardware.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "6cfeb174a702",
+    "title": "I Work in Hollywood. Everyone Who Used to Make TV Is Now Secretly Training AI",
+    "url": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/",
+    "source": "Wired AI",
+    "date": "2026-05-11T10:00:00+00:00",
+    "summary": "For screenwriters like me—and job seekers all over—AI gig work is the new waiting tables. In eight months, I’ve done 20 of these soul-crushing contracts for five different platforms. It’s bad.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "765f9cefa63e",
+    "title": "Bridging Textual Profiles and Latent User Embeddings for Personalization",
+    "url": "https://arxiv.org/abs/2605.06981",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-11T04:00:00+00:00",
+    "summary": "arXiv:2605.06981v1 Announce Type: new Abstract: Personalized systems rely on user representations to connect behavioral history with downstream recommendation applications. Existing methods typically employ either supervised latent user embeddings, which are effective for retrieval but difficult to interpret, or textual user profiles, which are interpretable but challenging to optimize for downstream utility due to lack of direct supervision. To bridge this gap, we present BLUE, a reinforcement …",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "f47727949cf6",
+    "title": "An Embarrassingly Simple Graph Heuristic Reveals Shortcut-Solvable Benchmarks for Sequential Recommendation",
+    "url": "https://arxiv.org/abs/2605.07125",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-11T04:00:00+00:00",
+    "summary": "arXiv:2605.07125v1 Announce Type: new Abstract: Sequential recommendation has increasingly shifted toward generative recommenders that combine sequential patterns with semantic item information. Yet these methods are often evaluated on a small set of widely used benchmarks, raising a key question: do these benchmarks actually require the advanced modeling capabilities that modern generative recommenders claim to provide? We conduct a benchmark audit with an intentionally simple graph heuristic. …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "de81da9c04c8",
+    "title": "RRCM: Ranking-Driven Retrieval over Collaborative and Meta Memories for LLM Recommendation",
+    "url": "https://arxiv.org/abs/2605.07129",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-11T04:00:00+00:00",
+    "summary": "arXiv:2605.07129v1 Announce Type: new Abstract: Large Language Models (LLMs) have emerged as a promising paradigm for next-generation recommender systems, offering strong semantic understanding and natural-language reasoning abilities. Despite recent progress, current LLM-based recommenders still face key challenges in constructing decision-relevant contexts from heterogeneous evidence. First, existing methods often rely on fixed context construction strategies: collaborative behavioral evidence…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "ab9f9d0900b7",
+    "title": "Topic Is Not Agenda: A Citation-Community Audit of Text Embeddings",
+    "url": "https://arxiv.org/abs/2605.07158",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-11T04:00:00+00:00",
+    "summary": "arXiv:2605.07158v1 Announce Type: new Abstract: Vector search and retrieval-augmented generation (RAG) rest on the assumption that cosine similarity between text embeddings reflects conceptual relatedness. We measure where this assumption breaks. We build an augmented citation graph over 3.58M scientific papers and partition it via Leiden CPM at two granularities: sub-field (L1) and research-agenda (L2, hierarchical inside each L1). Four state-of-the-art embeddings (Gemini, Qwen3-8B, Qwen3-0.6B,…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "03478dab65cb",
+    "title": "DiffRetriever: Parallel Representative Tokens for Retrieval with Diffusion Language Models",
+    "url": "https://arxiv.org/abs/2605.07210",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-11T04:00:00+00:00",
+    "summary": "arXiv:2605.07210v1 Announce Type: new Abstract: PromptReps showed that an autoregressive language model can be used directly as a retriever by prompting it to generate dense and sparse representations of a query or passage. Extending this to multiple representatives is inefficient for autoregressive models, since tokens must be generated sequentially, and prior multi-token variants did not reliably improve over single-token decoding. We show that the bottleneck is sequential generation, not the …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "909314a06768",
+    "title": "MLAIRE: Multilingual Language-Aware Information Retrieval Evaluation Protocal",
+    "url": "https://arxiv.org/abs/2605.07249",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-11T04:00:00+00:00",
+    "summary": "arXiv:2605.07249v1 Announce Type: new Abstract: Multilingual Information Retrieval is increasingly important in real-world search settings, where users issue queries over mixed-language corpora. Existing evaluations mainly reward language-agnostic semantic relevance, treating relevant passages equally regardless of language. Yet retrieval utility also depends on the language of the retrieved passages: users may prefer results they can read and verify in the query language, and query--passage lan…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "121fd35ce5c4",
+    "title": "PRISM: Refracting the Entangled User Behavior Space for E-Commerce Search",
+    "url": "https://arxiv.org/abs/2605.07296",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-11T04:00:00+00:00",
+    "summary": "arXiv:2605.07296v1 Announce Type: new Abstract: E-commerce search systems rely on modeling user behavior to estimate item relevance and user preference, which are typically assumed to be stable and independently learnable signals. However, in practice, user interactions are jointly shaped by exposure mechanisms, feedback loops, and semantic matching, leading to entangled and dynamically drifting behavioral signals. As a result, both preference estimation and relevance modeling suffer from confou…",
+    "category": "Information Behavior"
+  },
+  {
+    "id": "e44f43bf359f",
+    "title": "DCGL: Dual-Channel Graph Learning with Large Language Models for Knowledge-Aware Recommendation",
+    "url": "https://arxiv.org/abs/2605.07314",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-11T04:00:00+00:00",
+    "summary": "arXiv:2605.07314v1 Announce Type: new Abstract: Knowledge Graphs (KGs) have proven highly effective for recommendation systems by capturing latent item relationships, while recent integration of Large Language Models (LLMs) has further enhanced semantic understanding and addressed knowledge sparsity issues. Nevertheless, current KG-and-LLM-based methods still face three main limitations: 1) inadequate modeling of implicit semantic relationships beyond explicit KG links; 2) suboptimal single-chan…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "6389db792c53",
+    "title": "A Comprehensive Survey on Agent Skills: Taxonomy, Techniques, and Applications",
+    "url": "https://arxiv.org/abs/2605.07358",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-11T04:00:00+00:00",
+    "summary": "arXiv:2605.07358v1 Announce Type: new Abstract: Large language model (LLM)-based agents that reason, plan, and act through tools, memory, and structured interaction are emerging as a promising paradigm for automating complex workflows. Recent systems such as OpenClaw and Claude Code exemplify a broader shift from passive response generation to action-oriented task execution. Yet as agents move toward open-ended, real-world deployment, relying on from-scratch reasoning and low-level tool calls fo…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "32a40a0d8089",
+    "title": "LARAG: Link-Aware Retrieval Strategy for RAG Systems in Hyperlinked Technical Documentation",
+    "url": "https://arxiv.org/abs/2605.07517",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-11T04:00:00+00:00",
+    "summary": "arXiv:2605.07517v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) enhances the factual grounding of Large Language Models by conditioning their outputs on external documents. However, standard embedding-based retrievers treat naturally structured corpora, such as technical manuals, as flat collections of passages, thereby overlooking the hyperlink topology that users rely on when navigating such content. We introduce LARAG (Link-Aware RAG): a lightweight, link-aware retrieval …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "6309d985da5f",
+    "title": "TRACE: Tourism Recommendation with Accountable Citation Evidence",
+    "url": "https://arxiv.org/abs/2605.07677",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-11T04:00:00+00:00",
+    "summary": "arXiv:2605.07677v1 Announce Type: new Abstract: Tourism is a high-stakes setting for conversational recommender systems (CRS): a plausible-sounding suggestion can waste real money and trip time once a traveler acts on it. Existing CRS benchmarks primarily evaluate systems with a single Recall@k score over entity mentions, and tourism-specific resources add spatial or knowledge-graph context, yet none of them couple multi-turn recommendation with verbatim review-span evidence and rejection recove…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "efacb36c3cf5",
+    "title": "FAVOR: Efficient Filter-Agnostic Vector ANNS Based on Selectivity-Aware Exclusion Distances",
+    "url": "https://arxiv.org/abs/2605.07770",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-11T04:00:00+00:00",
+    "summary": "arXiv:2605.07770v1 Announce Type: new Abstract: Modern retrieval systems increasingly require integrating approximate nearest neighbor search (ANNS) with complex attribute filtering to handle hybrid queries in applications such as recommendation systems and retrieval-augmented generation (RAG). While HNSW-based inline-filtering methods show promise, existing approaches struggle to deliver high throughput under low-selectivity scenarios while balancing search efficiency, filtering generality, and…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "5600416b34a7",
+    "title": "From Surface Learning to Deep Understanding: A Grounded AI Tutoring System for Moodle",
+    "url": "https://arxiv.org/abs/2605.06963",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-11T04:00:00+00:00",
+    "summary": "arXiv:2605.06963v1 Announce Type: cross Abstract: This demo paper describes the development of the AI Teaching \\& Learning Assistant, a modular Moodle plugin that leverages Retrieval-Augmented Generation (RAG) to deliver high-quality, hallucination-free education. The system employs a dual-centric design, providing students with interactive, Socratic-based tutoring and educators with a \"human-in-the-loop\" workspace for supervised content generation. By grounding Large Language Model (LLM) respon…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "f89cdc8f45da",
+    "title": "TCMIIES: A Browser-Based LLM-Powered Intelligent Information Extraction System for Academic Literature",
+    "url": "https://arxiv.org/abs/2605.07507",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-11T04:00:00+00:00",
+    "summary": "arXiv:2605.07507v1 Announce Type: cross Abstract: The exponential growth of academic publications has created an urgent need for automated tools capable of extracting structured knowledge from unstructured scientific texts. While large language models (LLMs) have demonstrated remarkable capabilities in natural language understanding and information extraction, existing solutions often require specialized infrastructure, programming expertise, or fine-tuned domain-specific models that create barr…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "95121f77201d",
+    "title": "InterLV-Search: Benchmarking Interleaved Multimodal Agentic Search",
+    "url": "https://arxiv.org/abs/2605.07510",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-11T04:00:00+00:00",
+    "summary": "arXiv:2605.07510v1 Announce Type: cross Abstract: Existing benchmarks for multimodal agentic search evaluate multimodal search and visual browsing, but visual evidence is either confined to the input or treated as an answer endpoint rather than part of an interleaved search trajectory. We introduce \\textbf{InterLV-Search}, a benchmark for Interleaved Language-Vision Agentic Search, in which textual and visual evidence is repeatedly used to condition later search. It contains 2,061 examples acros…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "9ea47510e202",
+    "title": "SilverTorch: A Unified Model-based System to Democratize Large-Scale Recommendation on GPUs",
+    "url": "https://arxiv.org/abs/2511.14881",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-11T04:00:00+00:00",
+    "summary": "arXiv:2511.14881v5 Announce Type: replace Abstract: Serving deep learning based recommendation models (DLRM) at scale is challenging. Existing approaches rely on dedicated ANN indexing and filtering services on CPUs, suffering from non-negligible costs and missing co-design opportunities. Such inefficiency makes them difficult to support complex model architectures, such as learned similarities and multi-task retrieval. In this paper, we present SilverTorch, a model-based serving system that bri…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "c46e52b26219",
+    "title": "SCASRec: A Self-Correcting and Auto-Stopping Model for Generative Route List Recommendation",
+    "url": "https://arxiv.org/abs/2602.03324",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-11T04:00:00+00:00",
+    "summary": "arXiv:2602.03324v3 Announce Type: replace Abstract: Route recommendation systems commonly adopt a multi-stage pipeline involving fine-ranking and re-ranking to produce high-quality ordered recommendations. However, this paradigm faces three critical limitations. First, there is a misalignment between offline training objectives and online metrics. Offline gains do not necessarily translate to online improvements. Actual performance must be validated through A/B testing, which may potentially com…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "068cd9de24aa",
+    "title": "Overview of the TREC 2025 RAGTIME Track",
+    "url": "https://arxiv.org/abs/2602.10024",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-11T04:00:00+00:00",
+    "summary": "arXiv:2602.10024v2 Announce Type: replace Abstract: The principal goal of the RAG TREC Instrument for Multilingual Evaluation (RAGTIME) track at TREC is to study report generation from multilingual source documents. The track has created a document collection containing Arabic, Chinese, English, and Russian news stories. RAGTIME includes three task types: Multilingual Report Generation, English Report Generation, and Multilingual Information Retrieval (MLIR). A total of 125 runs were submitted b…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "5b41758b442c",
+    "title": "ScrapeGraphAI-100k: Dataset for Schema-Constrained LLM Generation",
+    "url": "https://arxiv.org/abs/2602.15189",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-11T04:00:00+00:00",
+    "summary": "arXiv:2602.15189v2 Announce Type: replace Abstract: Producing output that conforms to a specified JSON schema underlies tool use, structured extraction, and knowledge base construction in modern large language models. Despite this centrality, public datasets for the task remain small, synthetic, or text-only, and rarely pair real page content with the prompts and schemas used in practice. We introduce ScrapeGraphAI-100k, 93,695 schema-constrained extraction events collected via opt-in ScrapeGrap…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "be3369e185b2",
+    "title": "LLM-Based Agents for Competitive Landscape Mapping in Drug Asset Due Diligence",
+    "url": "https://arxiv.org/abs/2508.16571",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-11T04:00:00+00:00",
+    "summary": "arXiv:2508.16571v4 Announce Type: replace-cross Abstract: In this paper, we describe and benchmark a competitor-discovery component used within an agentic AI system for fast drug asset due diligence. A competitor-discovery AI agent, given an indication, retrieves all drugs comprising the competitive landscape of that indication and extracts canonical attributes for these drugs. The competitor definition is investor-specific, and data is paywalled/licensed, fragmented across registries, ontology-…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "9e163049d551",
+    "title": "When Does Embedding Magnitude Matter? A Cross-Task Functional-Symmetry Framework",
+    "url": "https://arxiv.org/abs/2602.09229",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-11T04:00:00+00:00",
+    "summary": "arXiv:2602.09229v3 Announce Type: replace-cross Abstract: Cosine similarity normalizes both sides; dot product normalizes neither. We propose a 2x2 framework that independently controls query-side and document-side normalization, exposing two intermediate variants (QNorm, DNorm) that have not been previously studied. On retrieval with four encoders, evaluated in-domain on MS MARCO and out-of-domain on BEIR, BRIGHT, and multi-hop QA, the unilateral variants outperform both cosine and dot product,…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "b93e11dedfaf",
+    "title": "Hunt Globally: Wide Search AI Agents for Drug Asset Scouting in Investing, Business Development, and Competitive Intelligence",
+    "url": "https://arxiv.org/abs/2602.15019",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-11T04:00:00+00:00",
+    "summary": "arXiv:2602.15019v4 Announce Type: replace-cross Abstract: Bio-pharmaceutical innovation has shifted: many new drug assets now originate outside the United States and are disclosed primarily via regional, non-English channels. Recent data suggests over 85% of patent filings originate outside the U.S., with China accounting for nearly half of the global total; a growing share of scholarly output is also non-U.S. Industry estimates put China at 30% of global drug development, spanning 1,200+ novel …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2d34d5760aed",
+    "title": "VDCook:DIY video data cook your MLLMs",
+    "url": "https://arxiv.org/abs/2603.05539",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-11T04:00:00+00:00",
+    "summary": "arXiv:2603.05539v2 Announce Type: replace-cross Abstract: We introduce VDCook: a self-evolving video data operating system, a configurable video data construction platform for researchers and vertical domain teams. Users initiate data requests via natural language queries and adjustable parameters (scale, retrieval-synthesis ratio, quality threshold). The system automatically performs query optimization, concurrently running real video retrieval and controlled synthesis modules. It ultimately ge…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "63a3ad19d799",
+    "title": "Faculty mobility reallocates research capacity within persistent institutional hierarchies",
+    "url": "https://arxiv.org/abs/2605.06935",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-05-11T04:00:00+00:00",
+    "summary": "arXiv:2605.06935v1 Announce Type: new Abstract: Faculty mobility is often understood as a mechanism through which universities redistribute scientific talent and potentially improve research performance. Yet the system-level structure of mobility and its association with individual research trajectories have rarely been examined together. We link longitudinal faculty rosters from U.S. research universities to OpenAlex publication records and study 11,535 tenure-system faculty members who changed…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c47934be2dbe",
+    "title": "LLM hallucinations in the wild: Large-scale evidence from non-existent citations",
+    "url": "https://arxiv.org/abs/2605.07723",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-05-11T04:00:00+00:00",
+    "summary": "arXiv:2605.07723v1 Announce Type: new Abstract: Large language models (LLMs) are known to generate plausible but false information across a wide range of contexts, yet the real-world magnitude and consequences of this hallucination problem remain poorly understood. Here we leverage a uniquely verifiable object - scientific citations - to audit 111 million references across 2.5 million papers in arXiv, bioRxiv, SSRN, and PubMed Central. We find a sharp rise in non-existent references following wi…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "d56762aceab9",
+    "title": "Young Male and Female Scientists: A Quantitative Exploratory Study of the Changing Demographics of the Global Scientific Workforce",
+    "url": "https://arxiv.org/abs/2301.06196",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-05-11T04:00:00+00:00",
+    "summary": "arXiv:2301.06196v5 Announce Type: replace Abstract: In this study, the global scientific workforce is explored through large-scale, generational, cross-sectional, and longitudinal approaches. We examine 4.3 million nonoccasional scientists from 38 OECD countries publishing in 1990-2021. Our interest is in the changing distribution of young male and female scientists over time across 16 STEMM (science, technology, engineering, mathematics, medicine) disciplines. We unpack the details of the chang…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5598dd62a9f6",
+    "title": "The Rise and Fall of the Initial Era",
+    "url": "https://arxiv.org/abs/2404.06500",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-05-11T04:00:00+00:00",
+    "summary": "arXiv:2404.06500v3 Announce Type: replace Abstract: Bibliographic data is a rich source of information that goes beyond the use cases of location and citation -- it also encodes both cultural and technological context. For most of its existence, the scholarly record has changed slowly and hence provides an opportunity to gain insight through its reflection of the cultural norms of the research community over the last four centuries. While it is often difficult to distinguish the originating driv…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "6c15b72a446a",
+    "title": "Quantifying Lifetime Productivity Changes: A Longitudinal Study of 320,000 Late-Career Scientists",
+    "url": "https://arxiv.org/abs/2404.16835",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-05-11T04:00:00+00:00",
+    "summary": "arXiv:2404.16835v3 Announce Type: replace Abstract: The present study focuses on persistence in research productivity over the course of an individual's entire scientific career. We track 'late-career' scientists - scientists with at least 25 years of publishing experience (N=320,564) - in 16 STEMM (science, technology, engineering, mathematics, and medicine) and social science disciplines from 38 OECD countries for up to five decades. Our OECD sample includes 79.42% of late-career scientists gl…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0d46241b0c87",
+    "title": "Women in Science: Measuring Participation in Europe Across Disciplines, Generations and Over Time",
+    "url": "https://arxiv.org/abs/2411.00008",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-05-11T04:00:00+00:00",
+    "summary": "arXiv:2411.00008v5 Announce Type: replace-cross Abstract: In this research, we quantify an inflow of women into science in the past three decades. Structured Big Data allow us to estimate the contribution of women scientists to the growth of science by disciplines (N = STEMM 14 disciplines) and over time (1990-2023). A monolithic segment of STEMM science emerges from this research as divided between the disciplines in which the growth was powerfully driven by women - and the disciplines in which…",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "0e2ec6f318cb",
     "title": "Hackable Robot Lawn Mower Unlocks a New Nightmare",
     "url": "https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/",
