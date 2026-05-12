@@ -1,5 +1,284 @@
 [
   {
+    "id": "09cef40ef96d",
+    "title": "Multi-Level Graph Attention Network Contrastive Learning for Knowledge-Aware Recommendation",
+    "url": "https://arxiv.org/abs/2605.08499",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-12T04:00:00+00:00",
+    "summary": "arXiv:2605.08499v1 Announce Type: new Abstract: In recent years, the use of edge information provided by knowledge graphs together with the advantages of higher-order connectivity in graph neural networks for recommendation systems has become an important research direction. However, existing approaches are often limited by sparse labels, insufficient graph structure learning, and noisy entities in the knowledge graph, which reduce recommendation accuracy. To address these limitations, we propos…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "e4eacfb23df9",
+    "title": "UserGPT Technical Report",
+    "url": "https://arxiv.org/abs/2605.08766",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-12T04:00:00+00:00",
+    "summary": "arXiv:2605.08766v1 Announce Type: new Abstract: Personalized user understanding from large-scale digital traces remains a fundamental challenge. Traditional user profiling methods rely on discriminative models and manual feature engineering to predict discrete attributes, often producing fragmented and logically inconsistent profiles that generalize poorly to long-tail behaviors. In this work, we study a generative paradigm in which large language models (LLMs) summarize long and noisy behaviora…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "2fefb5f33911",
+    "title": "Reddit2Deezer: A Scalable Dataset for Real-World Grounded Conversational Music Recommendation",
+    "url": "https://arxiv.org/abs/2605.09120",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-12T04:00:00+00:00",
+    "summary": "arXiv:2605.09120v1 Announce Type: new Abstract: Conversational music recommendation (CMR) research currently faces a tradeoff between authentic dialogue corpora that are limited in scale and synthesized corpora that scale up but whose conversations are artificially constructed rather than naturally observed. In this paper, we introduce Reddit2Deezer, a reality-grounded CMR resource derived from 190k unique {thread, leaf-comment} pairs. We release the resource in two versions: a raw version that …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "9f5faf07625f",
+    "title": "OpenIIR: An Open Simulation Platform for Information Retrieval Research",
+    "url": "https://arxiv.org/abs/2605.09321",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-12T04:00:00+00:00",
+    "summary": "arXiv:2605.09321v1 Announce Type: new Abstract: OpenIIR runs hundreds of LLM-driven personas as parameterised, reproducible IR research experiments. Researchers configure agents across four kinds of multi-agent study (deliberative panels, social platforms, curated recommender feeds, and evolutionary co-evolution between content producers and credibility detectors) under many priors, rounds, and constraints. Persona budgets, retrieval policies, ranker choices, intervention timings, and mutation r…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "ba527c0e5bac",
+    "title": "A General Framework for Multimodal LLM-Based Multimedia Understanding in Large-Scale Recommendation Systems",
+    "url": "https://arxiv.org/abs/2605.09338",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-12T04:00:00+00:00",
+    "summary": "arXiv:2605.09338v1 Announce Type: new Abstract: Conventional recommendation systems frequently fail to fully exploit the high-dimensional semantic signals inherent in multimedia content, thereby limiting the fidelity of user preference modeling. While Multimodal Large Language Models (MM-LLMs) offer robust mechanisms for interpreting such complex data, their integration into latency-constrained, industrial-scale architectures remains a significant challenge. To address this, we propose a general…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "d51c214a03de",
+    "title": "LLM Agents Enable User-Governed Personalization Beyond Platform Boundaries",
+    "url": "https://arxiv.org/abs/2605.09794",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-12T04:00:00+00:00",
+    "summary": "arXiv:2605.09794v1 Announce Type: new Abstract: Personalization today is fundamentally platform-centric: services build user representations from the behavioral fragments they observe. Yet no platform can construct a complete picture of the user, as competitive incentives, legal constraints, user privacy concerns, and epistemic limits create persistent data barriers. This paper argues for a shift from platform-centric personalization to user-governed personalization, where only the user can inte…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "9f577a143b1d",
+    "title": "Loom: Hybrid Retrieval-Scoring Outfit Recommendation with Semantic Material Compatibility and Occasion-Aware Embedding Priors",
+    "url": "https://arxiv.org/abs/2605.09830",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-12T04:00:00+00:00",
+    "summary": "arXiv:2605.09830v1 Announce Type: new Abstract: We present Loom, an outfit recommendation system that combines neural embedding retrieval with structured domain scoring to generate complete, coherent outfits from fashion catalogs. Given an anchor clothing item, Loom retrieves complementary pieces via slot-constrained approximate nearest neighbor search over FashionCLIP embeddings, then scores candidate outfits using a multi-objective function that integrates six signals: embedding similarity, co…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "31f81b2aabcb",
+    "title": "ReCoVR: Closing the Loop in Interactive Composed Video Retrieval",
+    "url": "https://arxiv.org/abs/2605.09836",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-12T04:00:00+00:00",
+    "summary": "arXiv:2605.09836v1 Announce Type: new Abstract: Composed video retrieval (CoVR) searches for target videos using a reference video and a modification text, but existing methods are restricted to a single interaction round and cannot support the progressive nature of real-world visual search. To bridge this gap, we first formalize interactive composed video retrieval, a multi-turn extension of CoVR, where users progressively refine their search intent through natural-language feedback across turn…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "88bd5f2ec2f4",
+    "title": "OpenZL: Using Graphs to Compress Smaller and Faster",
+    "url": "https://arxiv.org/abs/2605.09928",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-12T04:00:00+00:00",
+    "summary": "arXiv:2605.09928v1 Announce Type: new Abstract: In the last few decades, research techniques have improved lossless compression ratios by significantly increasing processing time. However, these techniques have not gained popularity in industry because production systems require high throughput and low resource utilization. Instead, real world improvements in compression are increasingly realized by building application-specific compressors which can exploit knowledge about the structure and sem…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "681a755c2405",
+    "title": "Enhancing Healthcare Search Intent Recognition with Query Representation Learning and Session Context",
+    "url": "https://arxiv.org/abs/2605.10021",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-12T04:00:00+00:00",
+    "summary": "arXiv:2605.10021v1 Announce Type: new Abstract: Classifying the intent behind healthcare search queries is crucial for improving the delivery of online healthcare information. The intricate nature of medical search queries, coupled with the limited availability of high-quality labeled data, presents substantial challenges for developing efficient classification models. Previous studies have exploited user interaction data, such as user clicks from search logs and employed pairwise loss functions…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a8af3417cbb8",
+    "title": "CCD-Level and Load-Aware Thread Orchestration for In-Memory Vector ANNS on Multi-Core CPUs",
+    "url": "https://arxiv.org/abs/2605.10090",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-12T04:00:00+00:00",
+    "summary": "arXiv:2605.10090v1 Announce Type: new Abstract: Vector approximate nearest neighbor search (ANNS) underpins search engines, recommendation systems, and advertising services. Recent advances in ANNS indexes make CPU a cost-effective choice for serving million-scale, in-memory vector search, yet per-core throughput remains constrained by memory access latency of vector reading and the compute intensity of distance evaluations in production deployments. With the growing scale of the business and ad…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "e12bda48de98",
+    "title": "H-MAPS: Hierarchical Memory-Augmented Proactive Search Assistant for Scientific Literature",
+    "url": "https://arxiv.org/abs/2605.10097",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-12T04:00:00+00:00",
+    "summary": "arXiv:2605.10097v1 Announce Type: new Abstract: Scientific reading is an active process that frequently requires consulting external resources, but manual keyword searching interrupts the reading flow and imposes a high cognitive load. Existing proactive information retrieval systems often suffer from context ambiguity, as they rely solely on on-screen text and ignore the reader's specific background and intent. In this demonstration, we present H-MAPS (Hierarchical Memory-Augmented Proactive Se…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "26c8f0c5e3b6",
+    "title": "NumColBERT: Non-Intrusive Numeracy Injection for Late-Interaction Retrieval Models",
+    "url": "https://arxiv.org/abs/2605.10109",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-12T04:00:00+00:00",
+    "summary": "arXiv:2605.10109v1 Announce Type: new Abstract: This study addresses the challenge of improving dense retrieval performance for queries containing numerical conditions, such as ``companies with more than one billion dollars in R&amp;D expenditure.'' Although recent research has shown that standard models struggle with numeric information in domains such as finance, e-commerce, and medicine, existing solutions typically decompose queries into textual and numerical components and score them separa…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8100dd9357d7",
+    "title": "LASAR: Latent Adaptive Semantic Aligned Reasoning for Generative Recommendation",
+    "url": "https://arxiv.org/abs/2605.10207",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-12T04:00:00+00:00",
+    "summary": "arXiv:2605.10207v1 Announce Type: new Abstract: Large Language Models (LLMs) have demonstrated powerful reasoning capabilities through Chain-of-Thought (CoT) in various tasks, yet the inefficiency of token-by-token generation hinders real-world deployment in latency-sensitive recommender systems. Latent reasoning has emerged as an effective paradigm in LLMs, performing multi-step inference in a continuous hidden-state space to achieve stronger reasoning at lower cost. However, this paradigm rema…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "de6522b7eb49",
+    "title": "Every Preference Has Its Strength: Injecting Ordinal Semantics into LLM-Based Recommenders",
+    "url": "https://arxiv.org/abs/2605.10323",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-12T04:00:00+00:00",
+    "summary": "arXiv:2605.10323v1 Announce Type: new Abstract: Recent work has shown that large language models (LLMs) can enhance recommender systems by integrating collaborative filtering (CF) signals through hybrid prompting. However, most existing CF-LLM frameworks collapse explicit ratings into implicit or positive-only feedback, discarding the ordinal structure that conveys fine-grained preference strength. As a result, these models struggle to exploit graded semantics and nuanced preference distinctions…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "3775d7600b0e",
+    "title": "AgentGR: Semantic-aware Agentic Group Decision-Making Simulator for Group Recommendation",
+    "url": "https://arxiv.org/abs/2605.10367",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-12T04:00:00+00:00",
+    "summary": "arXiv:2605.10367v1 Announce Type: new Abstract: Group Recommendation (GR) aims to suggest items to a group of users, which has become a critical component of modern social platforms. Existing GR methods focus on aggregating individual user preferences with advanced neural networks to infer group preferences. Despite effectiveness, they essentially treat group preference learning as a simple preference aggregation process, failing to capture the complex dynamics of real-world group decision-makin…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "6c83ac4c9471",
+    "title": "UniRank: Unified List-wise Reranking via Confidence-Ordered Denoising",
+    "url": "https://arxiv.org/abs/2605.10527",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-12T04:00:00+00:00",
+    "summary": "arXiv:2605.10527v1 Announce Type: new Abstract: List-wise reranking arranges a request-specific pool of candidate items into an ordered slate that maximizes user satisfaction. Existing generative rerankers fall into two paradigms: Autoregressive (AR) rerankers construct the slate left to right and capture inter-item dependencies in the exposure list, but they suffer from error propagation because early mistakes affect subsequent slots. Non-autoregressive (NAR) rerankers predict all slots in para…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f0a4cbd9b8c3",
+    "title": "Personalized Deep Research: A User-Centric Framework, Dataset, and Hybrid Evaluation for Knowledge Discovery",
+    "url": "https://arxiv.org/abs/2605.10530",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-12T04:00:00+00:00",
+    "summary": "arXiv:2605.10530v1 Announce Type: new Abstract: Deep Research agents driven by LLMs have automated the scholarly discovery pipeline, from planning and query formulation to iterative web exploration. Yet they remain constrained by a static, ``one-size-fits-all'' retrieval paradigm. Current systems fail to adaptively adjust the depth and breadth of exploration based on the user's existing expertise or latent interests, frequently resulting in reports that are either redundant for experts or overly…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "4f652d63706e",
+    "title": "Rethinking Agentic Search with Pi-Serini: Is Lexical Retrieval Sufficient?",
+    "url": "https://arxiv.org/abs/2605.10848",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-12T04:00:00+00:00",
+    "summary": "arXiv:2605.10848v1 Announce Type: new Abstract: Does a lexical retriever suffice as large language models (LLMs) become more capable in an agentic loop? This question naturally arises when building deep research systems. We revisit it by pairing BM25 with frontier LLMs that have better reasoning and tool-use abilities. To support researchers asking the same question, we introduce Pi-Serini, a search agent equipped with three tools for retrieving, browsing, and reading documents. Our results show…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "ed6d746ec8b8",
+    "title": "Information Density as a Quantitative Measure for AI-enabled Virtual Sensing: Feasibility and Limits",
+    "url": "https://arxiv.org/abs/2605.08180",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-12T04:00:00+00:00",
+    "summary": "arXiv:2605.08180v1 Announce Type: cross Abstract: Modern IoT and sensor networks generate vast amounts of data, posing significant challenges for storage, transmission, and real-time processing. Traditional approaches, such as compressive sensing and machine learning-based compression, often suffer from computational inefficiencies and irreversible data loss. This paper introduces Information Density as a quantitative metric to support sensor deployment and enable AI-driven virtual sensing. We p…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "7fa4c48a8065",
+    "title": "Retrieval Mechanisms Surpass Long-Context Scaling in Time Series Forecasting",
+    "url": "https://arxiv.org/abs/2605.08217",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-12T04:00:00+00:00",
+    "summary": "arXiv:2605.08217v1 Announce Type: cross Abstract: Time Series Foundation Models (TSFMs) have borrowed the long context paradigm from natural language processing under the premise that feeding more history into the model improves forecast quality. But in stochastic domains, distant history is often just high-frequency noise, not signal. Hence, the proposed work tests whether this premise actually holds by running continuous context architectures (PatchTST included) through the ETTh1 benchmark. Th…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "29c287f5a140",
+    "title": "From Historical Tabular Image to Knowledge Graphs: A Provenance-Aware Modular Pipeline",
+    "url": "https://arxiv.org/abs/2605.08222",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-12T04:00:00+00:00",
+    "summary": "arXiv:2605.08222v1 Announce Type: cross Abstract: Handwritten archival tables contain rich historical information, yet transforming them into structured representations, such as Knowledge Graphs, requires integrating table structure recognition, handwriting recognition, and semantic interpretation - a complex multimodal process. End-to-end AI implementations can obscure these steps, resulting in opaque algorithmic operations that hinder human oversight, critical assessment, and trust. To address…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "ff8041a646bd",
+    "title": "Human-Inspired Memory Architecture for LLM Agents",
+    "url": "https://arxiv.org/abs/2605.08538",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-12T04:00:00+00:00",
+    "summary": "arXiv:2605.08538v1 Announce Type: cross Abstract: Current LLM agents lack principled mechanisms for managing persistent memory across long interaction horizons. We present a biologically-grounded memory architecture comprising six cognitive mechanisms: (1) sleep-phase consolidation, (2) interference-based forgetting, (3) engram maturation, (4) reconsolidation upon retrieval, (5) entity knowledge graphs, and (6) hybrid multi-cue retrieval. Each mechanism addresses a specific failure mode of naive…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "bbe47687f437",
+    "title": "UxSID: Semantic-Aware User Interests Modeling for Ultra-Long Sequence",
+    "url": "https://arxiv.org/abs/2605.09040",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-12T04:00:00+00:00",
+    "summary": "arXiv:2605.09040v1 Announce Type: cross Abstract: Modeling ultra-long user sequences involves a difficult trade-off between efficiency and effectiveness. While current paradigms rely on either item-specific search or item-agnostic compression, we propose UxSID, a framework exploring a third path: semantic-group shared interest memory. By utilizing Semantic IDs (SIDs) and a dual-level attention strategy, UxSID captures target-aware preferences without the heavy cost of item-specific models. This …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2021e7e6582e",
+    "title": "Personalized w-Event Privacy for Infinite Stream Estimation",
+    "url": "https://arxiv.org/abs/2605.09054",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-12T04:00:00+00:00",
+    "summary": "arXiv:2605.09054v1 Announce Type: cross Abstract: In applications such as event monitoring, log analysis, and video querying, $w$-event privacy protects individual data within a sliding time window while supporting accurate stream statistics. Existing studies on infinite data streams mainly assume homogeneous privacy requirements for all users, which cannot capture user-specific privacy preferences. This paper studies personalized $w$-event privacy for private data stream estimation. We first de…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "af0e9c2a8a12",
+    "title": "Horizontal and Longitudinal Comparisons Among AI Subfields: A Bibliometric Perspective",
+    "url": "https://arxiv.org/abs/2605.08869",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-05-12T04:00:00+00:00",
+    "summary": "arXiv:2605.08869v1 Announce Type: new Abstract: Recent artificial intelligence has developed rapidly with significant interdisciplinary expansion, yet existing studies often treat it as a whole, lacking systematic long-term subfield comparisons and structural analyses, thereby limiting understanding of internal differences and evolutionary mechanisms. To address this gap, we employ bibliometric methods, using expert interviews and indicator screening to construct an analytical framework. Twelve …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a3112068783c",
+    "title": "Machine Learning Research Has Outpaced Its Communication Norms and NeurIPS Should Act",
+    "url": "https://arxiv.org/abs/2605.08889",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-05-12T04:00:00+00:00",
+    "summary": "arXiv:2605.08889v1 Announce Type: cross Abstract: Machine learning research has grown exponentially while its communication norms have not. We argue NeurIPS should adopt explicit, measurable writing standards. We analyze 2.8 million arXiv papers (1991-2025), 24,772 NeurIPS papers (1987-2024), and 24.5 million PubMed papers (1990-2025), applying classical readability scores, the Hohmann writing style suite (including sensational language), acronym density and reuse, an LLM as judge readability pr…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "96fe1dfe6017",
+    "title": "Matching Meaning at Scale: Evaluating Semantic Search for 18th-Century Intellectual History through the Case of Locke",
+    "url": "https://arxiv.org/abs/2605.09236",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-05-12T04:00:00+00:00",
+    "summary": "arXiv:2605.09236v1 Announce Type: cross Abstract: While digitized corpora have transformed the study of intellectual transmission, current methods rely heavily on lexical text reuse detection, capturing verbatim quotations but fundamentally missing paraphrases and complex implicit engagement. This paper evaluates semantic search in 18th-century intellectual history through the reception of John Locke's foundational work. Using expert annotation grounded in a semantic taxonomy, we examine whether…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "819b4b785007",
+    "title": "Ilya Sutskever Stands by His Role in Sam Altman’s OpenAI Ouster: ‘I Didn’t Want It to Be Destroyed’",
+    "url": "https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/",
+    "source": "Wired AI",
+    "date": "2026-05-11T23:51:35+00:00",
+    "summary": "The former OpenAI chief scientist may be estranged from the company, but he still came to its defense as he testified on Monday.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "87d6e828530d",
+    "title": "Principled Investments",
+    "url": "https://americanlibrariesmagazine.org/2026/05/11/principled-investments/?utm_source=rss&utm_medium=rss&utm_campaign=principled-investments",
+    "source": "American Libraries",
+    "date": "2026-05-11T19:37:21+00:00",
+    "summary": "ESG investing refers to the practice of incorporating environmental impact, social issues, and corporate governance into investing decisions. A series of United Nations–sponsored reports popularized the term in 2004, although some earlier investment funds practiced socially responsible investing. Some that remain popular and influential include: Calvert’s social investment fund, launched in 1982; TIAA’s CREF Social &#8230; Continue reading Principled Investments &#8594; The post Principled Inves…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0830e799b830",
+    "title": "Three things in AI to watch, according to a Nobel-winning economist",
+    "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+    "source": "MIT Tech Review",
+    "date": "2026-05-11T17:35:12+00:00",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months before he was awarded the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned him few fans in Silicon Valley. Contrary to what Big Tech&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "4fbc0b3b8234",
     "title": "Fostering breakthrough AI innovation through customer-back engineering",
     "url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
