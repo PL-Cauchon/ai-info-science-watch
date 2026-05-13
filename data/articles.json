@@ -1,5 +1,338 @@
 [
   {
+    "id": "ba34c3adb8ed",
+    "title": "WhatsApp Adds Meta AI Chats That Are Built to Be Fully Private",
+    "url": "https://www.wired.com/story/whatsapp-incognito-chat-meta-ai/",
+    "source": "Wired AI",
+    "date": "2026-05-13T14:00:00+00:00",
+    "summary": "The company says its new Incognito Chat allows you to use its AI chatbot without anyone else—including Meta—being able to access your conversations.",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "78ce61edfa33",
+    "title": "Submit Your Questions: AI Is Changing Your Job—Now What?",
+    "url": "https://www.wired.com/story/livestream-ai-is-changing-your-job-now-what/",
+    "source": "Wired AI",
+    "date": "2026-05-13T11:00:00+00:00",
+    "summary": "Pose your questions ahead of our May 27 livestream AMA, where a panel of WIRED experts will discuss how AI is transforming work.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "9d7881102047",
+    "title": "Meet the Sad Wives of AI",
+    "url": "https://www.wired.com/story/meet-the-sad-wives-of-ai/",
+    "source": "Wired AI",
+    "date": "2026-05-13T10:00:00+00:00",
+    "summary": "Are you married to a man who’s obsessed with AI? I’m so, so sorry.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8ab1d8265d16",
+    "title": "Debiasing Message Passing to Mitigate Popularity Bias in GNN-based Collaborative Filtering",
+    "url": "https://arxiv.org/abs/2605.11145",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-13T04:00:00+00:00",
+    "summary": "arXiv:2605.11145v1 Announce Type: new Abstract: Collaborative filtering (CF) models based on graph neural networks (GNNs) achieve strong performance in recommender systems by propagating user-item signals over interaction graphs. However, they are highly susceptible to popularity bias, since skewed interaction distributions and repeated message passing across high-order neighborhoods amplify the influence of popular items while suppressing long-tail ones. Existing debiasing approaches, including…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a27e20e27ab0",
+    "title": "MIRA: An LLM-Assisted Benchmark for Multi-Category Integrated Retrieval",
+    "url": "https://arxiv.org/abs/2605.11254",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-13T04:00:00+00:00",
+    "summary": "arXiv:2605.11254v1 Announce Type: new Abstract: Users increasingly expect modern search systems to offer a unified interface that seamlessly retrieves information from diverse data sources and formats. However, current information retrieval (IR) evaluation benchmarks have not kept pace with this development, primarily due to the lack of test collections that represent the diversity of contemporary search domains. We address this critical gap with MIRA, a novel benchmark based on a large-scale so…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "d8c16dd5b42d",
+    "title": "Beyond Similarity Search: Tenure and the Case for Structured Belief State in LLM Memory",
+    "url": "https://arxiv.org/abs/2605.11325",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-13T04:00:00+00:00",
+    "summary": "arXiv:2605.11325v1 Announce Type: new Abstract: Why do we need another AI to help the AI? We argue you don't. Stateless LLM sessions impose re-orientation costs on iterative, session-heavy workflows. Prior work addresses cross-session memory through retrieval-augmented approaches: store history, embed it, retrieve by semantic similarity. Cross-session memory is a state management problem, not a search problem. Similarity search fails for named entity resolution within bounded vocabulary contexts…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "96f07d6ee96f",
+    "title": "Much of Geospatial Web Search Is Beyond Traditional GIS",
+    "url": "https://arxiv.org/abs/2605.11336",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-13T04:00:00+00:00",
+    "summary": "arXiv:2605.11336v1 Announce Type: new Abstract: Web search queries concern place far more often than existing labelling schemes suggest, yet the landscape of geospatial web search queries - what people ask of place, and how often - remains poorly characterised at scale. We apply dense sentence embeddings, a lightweight SetFit classifier, and density-based clustering to the full MS MARCO corpus of 1.01 million real Bing queries without prior filtering for toponyms or spatial keywords, identifying…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "7d3f4b1fe414",
+    "title": "FedMM: Federated Collaborative Signal Quantization for Multi-Market CTR Prediction",
+    "url": "https://arxiv.org/abs/2605.11433",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-13T04:00:00+00:00",
+    "summary": "arXiv:2605.11433v1 Announce Type: new Abstract: Online platforms such as Amazon and Netflix serve users across multiple countries and regions, underscoring the importance of multi-market recommendation (MMR). Most MMR methods adopt a pre-training and fine-tuning paradigm, in which a unified model is first trained on centralized, global data and subsequently adapted to specific markets. However, this approach ignores the privacy of market data. While traditional federated learning preserves priva…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f73032b7e362",
+    "title": "Conditional Memory Enhanced Item Representation for Generative Recommendation",
+    "url": "https://arxiv.org/abs/2605.11447",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-13T04:00:00+00:00",
+    "summary": "arXiv:2605.11447v1 Announce Type: new Abstract: Generative recommendation (GR) has emerged as a promising paradigm that predicts target items by autoregressively generating their semantic identifiers (SID). Most GR methods follow a quantization-representation-generation pipeline, first assigning each item a SID, then constructing input representations from SID-token embeddings, and finally predicting the target SID through autoregressive generation. Existing item-level representation constructio…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "4af0ebbfa225",
+    "title": "TwiSTAR:Think Fast, Think Slow, Then Act,Generative Recommendation with Adaptive Reasoning",
+    "url": "https://arxiv.org/abs/2605.11553",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-13T04:00:00+00:00",
+    "summary": "arXiv:2605.11553v1 Announce Type: new Abstract: Generative recommendation with Semantic IDs (SIDs) has emerged as a promising paradigm, yet existing methods apply a fixed inference strategy, either fast direct generation or slow chain-of-thought reasoning, uniformly across all user histories. This approach creates a trade-off: fast recommendation model produces suboptimal accuracy on hard samples, while always invoking slow reasoning incurs prohibitive latency and wastes computation on easy case…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "645e00c28049",
+    "title": "HSUGA: LLM-Enhanced Recommendation with Hierarchical Semantic Understanding and Group-Aware Alignment",
+    "url": "https://arxiv.org/abs/2605.11662",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-13T04:00:00+00:00",
+    "summary": "arXiv:2605.11662v1 Announce Type: new Abstract: Large language model (LLM)-enhanced sequential recommendation typically aims to improve two core components: user semantic embedding extraction and utilization. Despite promising results, existing methods still have two limitations: 1) In the extraction stage, most methods directly input long interaction sequence fragments into LLM for preference summarization. However, excessively long sequences increase inference difficulty, making it challenging…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "49a64c048109",
+    "title": "Quality-Aware Collaborative Multi-Positive Contrastive Learning for Sequential Recommendation",
+    "url": "https://arxiv.org/abs/2605.11707",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-13T04:00:00+00:00",
+    "summary": "arXiv:2605.11707v1 Announce Type: new Abstract: The effectiveness of contrastive learning in sequential recommendation hinges on the construction of contrastive views, which ideally should be both semantically consistent and diverse. However, most existing CL-based methods rely on heuristic augmentations that are prone to removing crucial items or disrupting transition patterns, leading to semantic drift. While a few studies have explored learnable augmentations to improve view quality, they oft…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0ae3db2b25f2",
+    "title": "AgentDisCo: Towards Disentanglement and Collaboration in Open-ended Deep Research Agents",
+    "url": "https://arxiv.org/abs/2605.11732",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-13T04:00:00+00:00",
+    "summary": "arXiv:2605.11732v1 Announce Type: new Abstract: In this paper, we present AgentDisCo, a novel Disentangled and Collaborative agentic architecture that formulates deep research as an adversarial optimization problem between information exploration and exploitation. Unlike existing approaches that conflate these two processes into a single module, AgentDisCo employs a critic agent to evaluate generated outlines and refine search queries, and a generator agent to retrieve updated results and revise…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a2c9a316e046",
+    "title": "Very Efficient Listwise Multimodal Reranking for Long Documents",
+    "url": "https://arxiv.org/abs/2605.11864",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-13T04:00:00+00:00",
+    "summary": "arXiv:2605.11864v1 Announce Type: new Abstract: Listwise reranking is a key yet computationally expensive component in vision-centric retrieval and multimodal retrieval-augmented generation (M-RAG) over long documents. While recent VLM-based rerankers achieve strong accuracy, their practicality is often limited by long visual-token sequences and multi-step autoregressive decoding. We propose ZipRerank, a highly efficient listwise multimodal reranker that directly addresses both bottlenecks. It r…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "bad94e8a0917",
+    "title": "RecRM-Bench: Benchmarking Multidimensional Reward Modeling for Agentic Recommender Systems",
+    "url": "https://arxiv.org/abs/2605.11874",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-13T04:00:00+00:00",
+    "summary": "arXiv:2605.11874v1 Announce Type: new Abstract: The integration of Large Language Model (LLM) agents is transforming recommender systems from simple query-item matching towards deeply personalized and interactive recommendations. Reinforcement Learning (RL) provides an essential framework for the optimization of these agents in recommendation tasks. However, current methodologies remain limited by a reliance on single dimensional outcome-based rewards that focus exclusively on final user interac…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "5559dad0dc2c",
+    "title": "From Trajectories to Phenotypes: Disease Progression as Structural Priors for Multi-organ Imaging Representation Learning",
+    "url": "https://arxiv.org/abs/2605.11958",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-13T04:00:00+00:00",
+    "summary": "arXiv:2605.11958v1 Announce Type: new Abstract: Imaging-derived phenotypes (IDPs) summarize multi-organ physiology but provide only static snapshots of diseases that evolve over time. In contrast, longitudinal electronic health records encode disease trajectories through temporal dependencies among past diagnosis events and comorbidity structure. We hypothesize that IDPs and disease trajectories contain partially shared disease-relevant structure. We propose a trajectory-aware distillation frame…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ea3f58049a8a",
+    "title": "Unlocking Crowdsourcing for Ontology Matching Validation",
+    "url": "https://arxiv.org/abs/2605.12226",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-13T04:00:00+00:00",
+    "summary": "arXiv:2605.12226v1 Announce Type: new Abstract: Recent advances in large language models (LLMs) pose new challenges for ontology matching (OM). While OM systems built on LLMs have shown remarkable capabilities in discovering more mappings, traditional OM validation that relies on domain experts has become overwhelming. In this study, we explore the use of crowdsourcing for OM validation and introduce a novel crowdsourcing system. We propose three domain-specific mechanisms, namely differential t…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "f63c0408ebd4",
+    "title": "BatchBench: Toward a Workload-Aware Benchmark for Autoscaling Policies in Big Data Batch Processing -- A Proposed Framework",
+    "url": "https://arxiv.org/abs/2605.12272",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-13T04:00:00+00:00",
+    "summary": "arXiv:2605.12272v1 Announce Type: new Abstract: Autoscaling has become a baseline expectation for cloud-native big data processing, and the design space has expanded beyond rule-based heuristics to include learned controllers and, most recently, large language model (LLM) agents. Yet despite a growing body of work spanning these paradigms, the community lacks a shared benchmark for comparing them. Existing evaluations rely on synthetic TPC-style queries, vendor blog posts with proprietary baseli…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "f6011754506d",
+    "title": "EHR-RAGp: Retrieval-Augmented Prototype-Guided Foundation Model for Electronic Health Records",
+    "url": "https://arxiv.org/abs/2605.12335",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-13T04:00:00+00:00",
+    "summary": "arXiv:2605.12335v1 Announce Type: new Abstract: Electronic Health Records (EHR) contain rich longitudinal patient information and are widely used in predictive modeling applications. However, effectively leveraging historical data remains challenging due to long trajectories, heterogeneous events, temporal irregularity, and the varying relevance of past clinical context. Existing approaches often rely on fixed windows or uniform aggregation, which can obscure clinically important signals. In thi…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "193af2c10d23",
+    "title": "Continuous Flood Nowcasting in South Asia: A Multi-Sensor Ensemble Remote Sensing Framework for Flood Extent",
+    "url": "https://arxiv.org/abs/2605.10950",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-13T04:00:00+00:00",
+    "summary": "arXiv:2605.10950v1 Announce Type: cross Abstract: Pakistan experienced an unusually severe flood season between June and December 2025, with cascading impacts on population, infrastructure, and agriculture. Existing operational flood products (e.g., UNOSAT) provide valuable episode-level snapshots but rarely deliver spatially and temporally continuous inundation maps at near-real-time latency within the country. We present a multi-sensor, ensemble-based remote-sensing framework for continuous fl…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f4be25c2de84",
+    "title": "Simpson's Paradox in Behavioral Curves: How Aggregation Distorts Parametric Models of User Dynamics",
+    "url": "https://arxiv.org/abs/2605.11017",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-13T04:00:00+00:00",
+    "summary": "arXiv:2605.11017v1 Announce Type: cross Abstract: Behavioral curve modeling -- fitting parametric functions to engagement-versus-exposure data -- is standard practice in recommendation, advertising, and clinical dosing. We show that aggregation introduces a systematic distortion: Simpson's paradox in behavioral curves. On Goodreads (3.3M users, 9 genres), individual users peak at n* approximately 11 exposures while the aggregate peaks at n* approximately 34 -- a 3x gap driven by survival bias. A…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c2affdd8c2c8",
+    "title": "A Cascaded Generative Approach for e-Commerce Recommendations",
+    "url": "https://arxiv.org/abs/2605.11118",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-13T04:00:00+00:00",
+    "summary": "arXiv:2605.11118v1 Announce Type: cross Abstract: Personalized storefronts in large e-commerce marketplaces are often assembled from many independent components: static themes per page section (\"placement\"), retrieval systems to fetch eligible products per placement, and pointwise rankers to order content. While effective in optimizing for aggregate preferences, this paradigm is rigid and can limit personalization and semantic cohesion across the page. This makes it poorly suited to support dyna…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "3fff0c60eb30",
+    "title": "ClinicalBench: Stress-Testing Assertion-Aware Retrieval for Cross-Admission Clinical QA on MIMIC-IV",
+    "url": "https://arxiv.org/abs/2605.11143",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-13T04:00:00+00:00",
+    "summary": "arXiv:2605.11143v1 Announce Type: cross Abstract: Reasoning benchmarks measure clinical performance on clean inputs. We evaluate the step before reasoning: retrieval over real EHR notes, where negation, temporality, and family-versus-patient attribution can flip a correct answer to a wrong one. EpiKG carries an assertion label and a temporality tag with every fact in a patient knowledge graph, then routes retrieval by question intent. ClinicalBench is a 400-question test over 43 MIMIC-IV patient…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "9d2bd67e6096",
+    "title": "Localization Boosting for Growth Markets: Mitigating Cross-Locale Behavioral Bias in Learning-to-Rank",
+    "url": "https://arxiv.org/abs/2605.11272",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-13T04:00:00+00:00",
+    "summary": "arXiv:2605.11272v1 Announce Type: cross Abstract: Adobe Express is expanding internationally, but the US has a disproportionately large content supply and interaction volume. Learning-to-rank (LTR) models trained primarily on behavioral feedback inherit this imbalance: templates popular in US are over-served in non-US locales. This cross-locale exposure bias suppresses local content discoverability and degrades ranking quality in growth locales. We show that click-only training suppresses semant…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f75d34717ab8",
+    "title": "VERDI: Single-Call Confidence Estimation for Verification-Based LLM Judges via Decomposed Inference",
+    "url": "https://arxiv.org/abs/2605.11334",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-13T04:00:00+00:00",
+    "summary": "arXiv:2605.11334v1 Announce Type: cross Abstract: LLM-as-Judge systems are widely deployed for automated evaluation, yet practitioners lack reliable methods to know when a judge's verdict should be trusted. Token log-probabilities, the standard post-hoc confidence signal, are unavailable for many commercial LLMs and, even when accessible, saturate above 0.999 with structured JSON output. We introduce VERDI (VERification-Decomposed Inference), a method that extracts confidence from the reasoning …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "f8155b2ba1aa",
+    "title": "Large Language Models for Causal Relations Extraction in Social Media: A Validation Framework for Disaster Intelligence",
+    "url": "https://arxiv.org/abs/2605.11348",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-13T04:00:00+00:00",
+    "summary": "arXiv:2605.11348v1 Announce Type: cross Abstract: During disasters, extracting causal relations from social media can strengthen situational awareness by identifying factors linked to casualties, physical damage, infrastructure disruption, and cascading impacts. However, disaster-related posts are often informal, fragmented, and context-dependent, and they may describe personal experiences rather than explicit causal relations. In this work, we examine whether Large Language Models (LLMs) can ef…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "187736192a4d",
+    "title": "Test-Time Compute for Dense Retrieval: Agentic Program Generation with Frozen Embedding Models",
+    "url": "https://arxiv.org/abs/2605.11374",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-13T04:00:00+00:00",
+    "summary": "arXiv:2605.11374v1 Announce Type: cross Abstract: Test-time compute is widely believed to benefit only large reasoning models. We show it also helps small embedding models. Most modern embedding checkpoints are distilled from large LLM backbones and inherit their representation space; a frozen embedding model should therefore benefit from extra inference compute without retraining. Using an agentic program-search loop, we explore 259 candidate inference programs over a frozen embedding API acros…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "dc53a6de402e",
+    "title": "On the LSH Distortion of Ulam and Cayley Similarities",
+    "url": "https://arxiv.org/abs/2605.11921",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-13T04:00:00+00:00",
+    "summary": "arXiv:2605.11921v1 Announce Type: cross Abstract: Locality-sensitive hashing (LSH) has found widespread use as a fundamental primitive, particularly to accelerate nearest neighbor search. An LSH scheme for a similarity function $S:\\mathcal{X} \\times \\mathcal{X} \\to [0,1]$ is a distribution over hash functions on $\\mathcal{X}$ with the property that the probability of collision of any two elements $x,y\\in \\mathcal{X}$ is exactly equal to $S(x,y)$. However, not all similarity functions admit exact…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5c76a18e7787",
+    "title": "The Future of Scholarly Blogs: Scholarly Bloggers' Perspectives on Long-Term Preservation",
+    "url": "https://arxiv.org/abs/2605.11902",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-05-13T04:00:00+00:00",
+    "summary": "arXiv:2605.11902v1 Announce Type: new Abstract: Scholarly blogs have become an important venue for scholarly communication, yet they remain insufficiently integrated into digital research and information infrastructures, which places their long-term preservation and citability at risk. This study investigates what challenges German scholarly bloggers perceive concerning blog preservation and what requirements they articulate for a sustainable information infrastructure. Drawing on Star and Ruhle…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "b9114fd54808",
+    "title": "Citation Cliques in Low Impact Journals",
+    "url": "https://arxiv.org/abs/2605.11930",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-05-13T04:00:00+00:00",
+    "summary": "arXiv:2605.11930v1 Announce Type: new Abstract: This exploratory study examines how low-impact journals, defined through subject-normalized Eigenfactor percentiles, are associated with denser and more reciprocating patterns of author-to-author citations. Using Crossref records, we assign journals to broad subject areas, compute subject-specific Eigenfactor scores, propagate venue quality to works and authors, match authors in low- (Case) versus high-influence (Control) venues by subject and h5, …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "23cb7ab01454",
+    "title": "A clinical trial engineering firm",
+    "url": "https://arxiv.org/abs/2605.12187",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-05-13T04:00:00+00:00",
+    "summary": "arXiv:2605.12187v1 Announce Type: new Abstract: Paper mills produce fraudulent research manuscripts built on recycled tables and figures, or on entirely fabricated data. A more recent pattern has emerged: apparently genuine trials with real patients, but with manipulated statistical analyses engineered to support regulatory approval while remaining plausible to peer reviewers. This analysis applies the INSPECT-SR trustworthiness framework to 23 randomised controlled trials and post-marketing stu…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ff98a290090d",
+    "title": "Reconnecting Fragmented Citation Networks with Semantic Augmentation",
+    "url": "https://arxiv.org/abs/2605.12263",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-05-13T04:00:00+00:00",
+    "summary": "arXiv:2605.12263v1 Announce Type: new Abstract: Citation graphs are fundamental tools for modeling scientific structure, but are often fragmented due to missing citations of scientifically connected articles. To address this issue, we propose a computationally efficient hybrid framework integrating citation topology with large language model (LLM)-based text similarity. Using 662,369 Web of Science publications in Mathematics and Operations Research & Management Science, we augment the original …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "aad9ed7708d3",
+    "title": "Evolving Roles of LLMs in Scientific Innovation: Assistant, Collaborator, Scientist, and Evaluator",
+    "url": "https://arxiv.org/abs/2507.11810",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-05-13T04:00:00+00:00",
+    "summary": "arXiv:2507.11810v2 Announce Type: replace Abstract: Large language models (LLMs) are increasingly used in scientific research and discovery, supporting tasks ranging from literature retrieval and synthesis to hypothesis generation, autonomous experimentation, and research evaluation. Existing surveys often conflate scientific research with scientific discovery and typically organize systems by domain, task, or autonomy level alone. In this survey, we propose a four-role framework for understandi…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "9c5457253c31",
+    "title": "Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids, Sam Altman Says",
+    "url": "https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/",
+    "source": "Wired AI",
+    "date": "2026-05-13T00:10:05+00:00",
+    "summary": "Musk’s lawyers questioned Altman over allegations of deception and his network of financial investments, but the OpenAI CEO painted a picture of Musk as obsessed with controlling the company.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "916b206c2307",
+    "title": "xAI Adds 19 New Gas Turbines Despite Ongoing Lawsuit",
+    "url": "https://www.wired.com/story/xai-adds-19-new-gas-turbines-despite-ongoing-lawsuit/",
+    "source": "Wired AI",
+    "date": "2026-05-13T00:00:00+00:00",
+    "summary": "Emails show that Elon Musk’s company is expanding its use of portable gas-fired power at its Colossus 2 site as a fight over air quality continues.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f8de9d548d00",
+    "title": "The Unitree GD01 Is a Giant Mecha Robot You Can Actually Buy",
+    "url": "https://www.wired.com/story/unitree-gd01-mecha-robot/",
+    "source": "Wired AI",
+    "date": "2026-05-12T22:51:45+00:00",
+    "summary": "China’s Unitree, famous for making low-cost dancing robots, will now sell you a giant, wall-smashing mecha.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "eaac6a935066",
+    "title": "The EU Commission’s Approach to Age Verification: Mobile Apps, DSA Enforcement, and Challenging National Social Media Bans",
+    "url": "https://fpf.org/blog/the-eu-commissions-approach-to-age-verification-mobile-apps-dsa-enforcement-and-challenging-national-social-media-bans/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-05-12T16:33:23+00:00",
+    "summary": "On 29 April 2026, the European Commission published its Recommendation for a common approach for EU-wide age verification technologies, a non-binding policy document with the aim of harmonizing future measures for the protection of children online.&#160; This blog post outlines the Commission’s emerging strategic approach to the implementation of EU-wide age verification measures, provides an [&#8230;]",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "09cef40ef96d",
     "title": "Multi-Level Graph Attention Network Contrastive Learning for Knowledge-Aware Recommendation",
     "url": "https://arxiv.org/abs/2605.08499",
