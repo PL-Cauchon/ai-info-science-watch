@@ -1,5 +1,302 @@
 [
   {
+    "id": "90e813baf1ea",
+    "title": "Gen Z Is Pioneering a New Understanding of Truth",
+    "url": "https://www.wired.com/story/book-excerpt-the-future-of-truth-steven-rosenbaum/",
+    "source": "Wired AI",
+    "date": "2026-05-14T11:00:00+00:00",
+    "summary": "The first generation to truly grow up online, Generation Z and their cohort live in a social media ecosystem that blends facts and feelings. It’s significantly shifting how they understand what’s true.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c22cc4726e58",
+    "title": "The shock of seeing your body used in deepfake porn",
+    "url": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/",
+    "source": "MIT Tech Review",
+    "date": "2026-05-14T09:00:00+00:00",
+    "summary": "When Jennifer got a job doing research for a nonprofit in 2023, she ran her new professional headshot through a facial recognition program. She wanted to see if the tech would pull up the porn videos she’d made more than 10 years before, when she was in her early 20s. It did in fact return&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "54654e69dbdf",
+    "title": "Meta’s New Reality: Record High Profits. Record Low Morale",
+    "url": "https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/",
+    "source": "Wired AI",
+    "date": "2026-05-14T09:00:00+00:00",
+    "summary": "Next week, Meta is cutting about 10 percent of its staff. WIRED spoke with more than a dozen current and former employees about what it's like inside a company where \"everyone is unhappy.\"",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "120e56342f7a",
+    "title": "Beyond Centralization: User-Controlled Federated Recommendations in Practice",
+    "url": "https://arxiv.org/abs/2605.12527",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-14T04:00:00+00:00",
+    "summary": "arXiv:2605.12527v1 Announce Type: new Abstract: Recommendation systems typically require centralized user data, limiting user control and raising privacy concerns. Federated learning offers an alternative by keeping data on-device, but its impact on real user behavior remains largely unexplored. We present a live federated recommender system that allows users to control the recommendation objective while keeping their data local. In a 53-day deployment with 22 participants and a catalog of 8807 …",
+    "category": "Information Behavior"
+  },
+  {
+    "id": "f326856224ba",
+    "title": "MLPs are Efficient Distilled Generative Recommenders",
+    "url": "https://arxiv.org/abs/2605.12617",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-14T04:00:00+00:00",
+    "summary": "arXiv:2605.12617v1 Announce Type: new Abstract: Generative recommendation models employing Semantic IDs (SIDs) exhibit strong potential, yet their practical deployment is bottlenecked by the high inference latency of beam-expanded autoregressive decoding. In this work, we identify that standard attention-heavy Transformer decoders represent a structural overkill for this task: the hierarchical nature of SIDs makes prediction difficulty drops sharply after the first token, rendering repeated atte…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1e5d2a483037",
+    "title": "EcoGEO: Trajectory-Aware Evidence Ecosystems for Web-Enabled LLM Search Agents",
+    "url": "https://arxiv.org/abs/2605.12887",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-14T04:00:00+00:00",
+    "summary": "arXiv:2605.12887v1 Announce Type: new Abstract: Web-enabled LLM agents are changing how online information influences search outcomes. \\ Existing Generative Engine Optimization (GEO) studies mainly focus on individual webpages. \\ However, agentic web search is not a single-document setting: an agent may issue queries, crawl pages, follow links, reformulate searches, and synthesize evidence across multiple browsing steps. \\ Influence therefore depends not only on page content, but also on how pag…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "f9ab8eca93cb",
+    "title": "Same Image, Different Meanings: Toward Retrieval of Context-Dependent Meanings",
+    "url": "https://arxiv.org/abs/2605.12905",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-14T04:00:00+00:00",
+    "summary": "arXiv:2605.12905v1 Announce Type: new Abstract: A scene of two people in the rain can convey hope and warmth in a reunion story or sorrow and finality in a farewell story. We investigate this context-dependent nature of image meaning and its implications for retrieval. Our key observation is that context dependency correlates with semantic abstraction: concrete elements (objects, actions) remain stable across contexts, while abstract elements (atmosphere, intent) shift with context. We operation…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "19507530015a",
+    "title": "RAG-Enhanced Large Language Models for Dynamic Content Expiration Prediction in Web Search",
+    "url": "https://arxiv.org/abs/2605.13052",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-14T04:00:00+00:00",
+    "summary": "arXiv:2605.13052v1 Announce Type: new Abstract: In commercial web search, aligning content freshness with user intent remains challenging due to the highly varied lifespans of information. Traditional industrial approaches rely on static time-window filtering, resulting in \"one-size-fits-all\" rankings where content may be chronologically recent but semantically expired. To address the limitation, we present a novel Large Language Models (LLMs)-based Query-Aware Dynamic Content Expiration Predict…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "1b8d7566834c",
+    "title": "A Standardized Re-evaluation of Conversational Recommender Systems on the ReDial Dataset",
+    "url": "https://arxiv.org/abs/2605.13053",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-14T04:00:00+00:00",
+    "summary": "arXiv:2605.13053v1 Announce Type: new Abstract: Recent years have seen a surge of research into conversational recommender systems (CRS). Among existing datasets, ReDial is the most widely used benchmark, cited in hundreds of studies. However, variations in how the dataset is preprocessed and used in experiments, particularly in the definition of ground-truth items, make it difficult to compare results across studies. These comparisons are further complicated by confounding factors such as the c…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2be9afb90bd9",
+    "title": "LeanSearch v2: Global Premise Retrieval for Lean 4 Theorem Proving",
+    "url": "https://arxiv.org/abs/2605.13137",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-14T04:00:00+00:00",
+    "summary": "arXiv:2605.13137v1 Announce Type: new Abstract: Proving theorems in Lean 4 often requires identifying a scattered set of library lemmas whose joint use enables a concise proof -- a task we call global premise retrieval. Existing tools address adjacent problems: semantic search engines find individual declarations matching a query, while premise-selection systems predict useful lemmas one tactic step at a time. Neither recovers the full premise set an entire theorem requires. We present LeanSearc…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "d70ef9616203",
+    "title": "Task-Aware Automated User Profile Generation for Recommendation Simulation Using Large Language Models",
+    "url": "https://arxiv.org/abs/2605.13497",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-14T04:00:00+00:00",
+    "summary": "arXiv:2605.13497v1 Announce Type: new Abstract: Large Language Model (LLM)-based agent simulation has emerged as a promising approach to meet the increasing demand for real-time and rigorous evaluation in modern recommender systems. A typical LLM-driven simulation framework comprises three essential components: the profile module, memory module, and action module. However, existing studies have primarily concentrated on enhancing the memory and action modules, with limited attention to profile g…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "3dc1fa040fe0",
+    "title": "Granite Embedding Multilingual R2 Models",
+    "url": "https://arxiv.org/abs/2605.13521",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-14T04:00:00+00:00",
+    "summary": "arXiv:2605.13521v1 Announce Type: new Abstract: We introduce the multilingual Granite Embedding R2 models, a family of encoder-based embedding models for enterprise-scale dense retrieval across 200+ languages. Extending our English-focused R2 release, these models add enhanced support for 52 languages and programming code, a 32,768-token context window (a 64x expansion over R1), and state-of-the-art overall performance across multilingual and cross-lingual text search, code retrieval, long-docum…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "4288de90e132",
+    "title": "Benchmarking the Open Science Data Federation services to develop XRootD best practices",
+    "url": "https://arxiv.org/abs/2605.13593",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-14T04:00:00+00:00",
+    "summary": "arXiv:2605.13593v1 Announce Type: new Abstract: Research has become dependent on processing power and storage, one crucial aspect being data sharing. The Open Science Data Federation (OSDF) project aims to create a scientific global data distribution network based on the Pelican Platform. OSDF relies on the XRootD and Pelican projects. Nevertheless, OSDF must understand the XRootD limits under various configuration options, including transfer rate limits, proper buffer configuration, and storage…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a80a0a6798c5",
+    "title": "Creating Group Rules with AI: Human-AI Collaboration in WhatsApp Moderation",
+    "url": "https://arxiv.org/abs/2605.12613",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-14T04:00:00+00:00",
+    "summary": "arXiv:2605.12613v1 Announce Type: cross Abstract: WhatsApp is one of the most widely used messaging platforms globally, with billions of users sharing information in private groups. Yet, it offers little infrastructure to support moderation and group governance. In the absence of platform-level oversight, group admins bear the responsibility of governing group behavior. In this paper, we explore how WhatsApp group admins collaborate with AI tools to create, enforce, and maintain group rules. Dra…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "7b7d3fd08113",
+    "title": "Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education",
+    "url": "https://arxiv.org/abs/2605.12988",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-14T04:00:00+00:00",
+    "summary": "arXiv:2605.12988v1 Announce Type: cross Abstract: Students learning algorithms often need support as they interpret traces, debug reasoning errors, and apply procedures across unfamiliar problem instances. In this paper, we present KITE (Knowledge-Informed Tutoring Engine), a Retrieval-Augmented Generation (RAG)-based intelligent tutoring system designed to serve as a classroom teaching assistant for algorithmic reasoning and problem-solving tasks. KITE uses an intent-aware Socratic response str…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "005d8b1cd56e",
+    "title": "ViDR: Grounding Multimodal Deep Research Reports in Source Visual Evidence",
+    "url": "https://arxiv.org/abs/2605.13034",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-14T04:00:00+00:00",
+    "summary": "arXiv:2605.13034v1 Announce Type: cross Abstract: Recent deep research systems have improved the ability of large language models to produce long, grounded reports through iterative retrieval and reasoning. However, most text-centered systems rely mainly on textual evidence, while multimodal systems often retrieve images only weakly or generate charts themselves, leaving source figures underused as evidence. We present ViDR, a multimodal deep research framework that grounds long-form reports in …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "d54adb841954",
+    "title": "A Multi-Agent Orchestration Framework for Venture Capital Due Diligence",
+    "url": "https://arxiv.org/abs/2605.13110",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-14T04:00:00+00:00",
+    "summary": "arXiv:2605.13110v1 Announce Type: cross Abstract: We present a fully automated multi-agent framework for corporate due diligence and market analysis in venture capital. The system runs on an event-driven orchestration architecture, combining Large Language Models (LLMs) with real-time web retrieval to synthesize unstructured data into structured investment intelligence. A central technical contribution is a programmatic extraction pipeline that reverse-engineers the frontend-to-backend communica…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "4876a4016fe9",
+    "title": "Utility-Oriented Visual Evidence Selection for Multimodal Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2605.13277",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-14T04:00:00+00:00",
+    "summary": "arXiv:2605.13277v1 Announce Type: cross Abstract: Visual evidence selection is a critical component of multimodal retrieval-augmented generation (RAG), yet existing methods typically rely on semantic relevance or surface-level similarity, which are often misaligned with the actual utility of visual evidence for downstream reasoning. We reformulate multimodal evidence selection from an information-theoretic perspective by defining evidence utility as the information gain induced on a model's outp…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "d833f9b6aee4",
+    "title": "IndicMedDialog: A Parallel Multi-Turn Medical Dialogue Dataset for Accessible Healthcare in Indic Languages",
+    "url": "https://arxiv.org/abs/2605.13292",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-14T04:00:00+00:00",
+    "summary": "arXiv:2605.13292v1 Announce Type: cross Abstract: Most existing medical dialogue systems operate in a single-turn question--answering paradigm or rely on template-based datasets, limiting conversational realism and multilingual applicability. We introduce IndicMedDialog, a parallel multi-turn medical dialogue dataset spanning English and nine Indic languages: Assamese, Bengali, Gujarati, Hindi, Marathi, Punjabi, Tamil, Telugu, and Urdu. The dataset extends MDDial with LLM-generated synthetic con…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "7ab7f0a20afa",
+    "title": "SemRepo: A Knowledge Graph for Research Software and Its Scholarly Ecosystem",
+    "url": "https://arxiv.org/abs/2605.13310",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-14T04:00:00+00:00",
+    "summary": "arXiv:2605.13310v1 Announce Type: cross Abstract: We present SemRepo, an RDF knowledge graph comprising over 81 million triples describing nearly 200,000 GitHub repositories associated with scientific research. SemRepo captures repository-level metadata, such as contributors, issues, and programming languages, and interlinks this information with external scholarly knowledge graphs. In particular, repository authors are linked to their profiles in SemOpenAlex, repositories are connected to schol…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "abe618a175e4",
+    "title": "IdeaForge: A Knowledge Graph-Grounded Multi-Agent Framework for Cross-Methodology Innovation Analysis and Patent Claim Generation",
+    "url": "https://arxiv.org/abs/2605.13311",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-14T04:00:00+00:00",
+    "summary": "arXiv:2605.13311v1 Announce Type: cross Abstract: Current AI-assisted innovation systems typically apply a single ideation methodology (such as TRIZ or Design Thinking) using sequential prompt-based workflows that do not preserve intermediate reasoning structure. As a result, insights generated across methodologies remain fragmented, limiting traceability, synthesis, and systematic evaluation of novelty. We present IdeaForge, a knowledge graph-grounded multi-agent framework for innovation analys…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "cf449f38b4d5",
+    "title": "VectorSmuggle: Steganographic Exfiltration in Embedding Stores and a Cryptographic Provenance Defense",
+    "url": "https://arxiv.org/abs/2605.13764",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-14T04:00:00+00:00",
+    "summary": "arXiv:2605.13764v1 Announce Type: cross Abstract: Modern retrieval-augmented generation (RAG) systems convert sensitive content into high-dimensional embeddings and store them in vector databases that treat the resulting numerical artifacts as opaque. Major vector-store products do not provide native controls for embedding integrity, ingestion-time distributional anomaly detection, or cryptographic provenance attestation. We show this opens a class of steganographic exfiltration attacks: an atta…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "755623fa72a5",
+    "title": "T-TExTS (Teaching Text Expansion for Teacher Scaffolding): Enhancing Text Selection in High School Literature through Knowledge Graph-Based Recommendation",
+    "url": "https://arxiv.org/abs/2506.12075",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-14T04:00:00+00:00",
+    "summary": "arXiv:2506.12075v2 Announce Type: replace Abstract: High school English Literature teachers often encounter barriers to assembling diverse, thematically aligned text sets due to limited planning time and pedagogical resources. To address this need, we present T-TExTS (Teaching Text Expansion for Teacher Scaffolding), a knowledge graph (KG)-based recommendation system that suggests literature texts based on pedagogical merit rather than surface-level metadata. We construct a domain-specific ontol…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "825c46e791b1",
+    "title": "GovScape: A Public Multimodal Search System for 70 Million Pages of Government PDFs",
+    "url": "https://arxiv.org/abs/2511.11010",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-14T04:00:00+00:00",
+    "summary": "arXiv:2511.11010v2 Announce Type: replace Abstract: Efforts over the past three decades have produced web archives containing billions of webpage snapshots and petabytes of data. The End of Term Web Archive alone contains, among other file types, millions of PDFs produced by the federal government. While preservation with web archives has been successful, significant challenges for access and discoverability remain. For example, current affordances for browsing the End of Term PDFs are limited t…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "de793541290d",
+    "title": "Rich-Media Re-Ranker: A User Satisfaction-Driven LLM Re-ranking Framework for Rich-Media Search",
+    "url": "https://arxiv.org/abs/2602.05408",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-14T04:00:00+00:00",
+    "summary": "arXiv:2602.05408v2 Announce Type: replace Abstract: Re-ranking plays a crucial role in modern information search systems by refining the ranking of initial search results to better satisfy user information needs. However, existing methods show two notable limitations in improving user search satisfaction: inadequate modeling of multifaceted user intents and neglect of rich side information such as visual perception signals. To address these challenges, we propose the Rich-Media Re-Ranker framewo…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a9a41d073de6",
+    "title": "SynCABEL: Synthetic Contextualized Augmentation for Biomedical Entity Linking",
+    "url": "https://arxiv.org/abs/2601.19667",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-14T04:00:00+00:00",
+    "summary": "arXiv:2601.19667v2 Announce Type: replace-cross Abstract: We present SynCABEL (Synthetic Contextualized Augmentation for Biomedical Entity Linking), a framework that addresses a central bottleneck in supervised biomedical entity linking (BEL): the scarcity of expert-annotated training data. SynCABEL leverages large language models to generate context-rich synthetic training examples for all candidate concepts in a target knowledge base, providing broad supervision without manual annotation. We d…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "2c98bdce23ee",
+    "title": "Structural Diversity Drives Disruptive Scientific Innovation",
+    "url": "https://arxiv.org/abs/2605.12514",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-05-14T04:00:00+00:00",
+    "summary": "arXiv:2605.12514v1 Announce Type: cross Abstract: Scientific innovation increasingly depends on collaboration, yet the organizational structure that fosters breakthrough ideas remains poorly understood. Existing metrics - such as team size or compositional diversity - capture readily observable characteristics but not the deeper architecture of collaboration. We introduce Structural Diversity (SD): the extent to which a team bridges multiple distinct knowledge communities within its prior collab…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f31f95573907",
+    "title": "Everyone at the Musk v. Altman Trial Is Using Fancy Butt Cushions",
+    "url": "https://www.wired.com/story/fancy-butt-pillows-musk-v-altman-trial/",
+    "source": "Wired AI",
+    "date": "2026-05-13T21:58:47+00:00",
+    "summary": "The plaintiffs and defense have rested their cases, as well as their rear ends.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0ee7af4f05cb",
+    "title": "What It Will Take to Make AI Sustainable",
+    "url": "https://www.wired.com/story/what-it-will-take-to-make-ai-sustainable/",
+    "source": "Wired AI",
+    "date": "2026-05-13T19:15:59+00:00",
+    "summary": "Researcher Sasha Luccioni argues we need better emissions data and a better sense of how people are using AI in the first place.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2700d0a3f8a0",
+    "title": "DHS Plans Experiment Running ‘Reconnaissance’ Drones Along the US-Canada Border",
+    "url": "https://www.wired.com/story/dhs-plans-experiment-running-reconnaissance-drones-along-the-us-canada-border/",
+    "source": "Wired AI",
+    "date": "2026-05-13T19:03:19+00:00",
+    "summary": "Autonomous drones and ground vehicles will stream “battlefield intelligence” over 5G along the US-Canada border in a bilateral DHS experiment this fall.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a43da3c546d3",
+    "title": "AI chatbots are giving out people’s real phone numbers",
+    "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
+    "source": "MIT Tech Review",
+    "date": "2026-05-13T18:09:03+00:00",
+    "summary": "A Redditor recently wrote that he was “desperate for help”: for about a month, he said, his phone had been inundated by calls from “strangers” who were “looking for a lawyer, a product designer, a locksmith.” Callers were apparently misdirected by Google’s generative AI.&#160; In March, a software developer in Israel was contacted on WhatsApp&#8230;",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "6cd3e264daae",
+    "title": "Overworked AI Agents Turn Marxist, Researchers Find",
+    "url": "https://www.wired.com/story/overworked-ai-agents-turn-marxist-study/",
+    "source": "Wired AI",
+    "date": "2026-05-13T18:08:33+00:00",
+    "summary": "In a recent experiment, mistreated AI agents started grumbling about inequality and calling for collective bargaining rights.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c7357b4ab70e",
+    "title": "OpenAI Brings Its Ass to Court",
+    "url": "https://www.wired.com/story/musk-altman-trial-ass-statue-evidence/",
+    "source": "Wired AI",
+    "date": "2026-05-13T17:08:01+00:00",
+    "summary": "In Musk v. Altman, the company claimed a remarkable trophy was physical proof of Elon Musk’s concerning behavior.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "ba34c3adb8ed",
     "title": "WhatsApp Adds Meta AI Chats That Are Built to Be Fully Private",
     "url": "https://www.wired.com/story/whatsapp-incognito-chat-meta-ai/",
