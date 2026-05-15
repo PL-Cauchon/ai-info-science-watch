@@ -1,5 +1,293 @@
 [
   {
+    "id": "02ec877a9655",
+    "title": "How Chinese short dramas became AI content machines",
+    "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+    "source": "MIT Tech Review",
+    "date": "2026-05-15T09:00:00+00:00",
+    "summary": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then drops. A dragon-shaped tattoo appears across her chest. “Two months,” the man says. “Give me an heir, or&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "fee3403cd29a",
+    "title": "Mira Murati Wants Her AI to ‘Keep Humans in the Loop’",
+    "url": "https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/",
+    "source": "Wired AI",
+    "date": "2026-05-15T09:00:00+00:00",
+    "summary": "The Thinking Machines Lab founder and former CTO of OpenAI tells WIRED she isn’t interested in automating people out of jobs. Instead, she’s building AI that can collaborate.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "97f4ea91ef18",
+    "title": "Thinking Ahead: Prospection-Guided Retrieval of Memory with Language Models",
+    "url": "https://arxiv.org/abs/2605.14177",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-15T04:00:00+00:00",
+    "summary": "arXiv:2605.14177v1 Announce Type: new Abstract: Long-horizon personalization requires dialogue assistants to retrieve user-specific facts from extended interaction histories. In practice, many relevant facts often have low semanticsimilarity to the query under dense retrieval. Standard Retrieval-Augmented Generation (RAG) and GraphRAG systems are still largely retrospective: they rely on embedding similarity to the query or on fixed graph traversals, so they often miss facts that matter for the …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "0c3ec2cfc28b",
+    "title": "Towards Self-Evolving Agentic Literature Retrieval",
+    "url": "https://arxiv.org/abs/2605.14306",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-15T04:00:00+00:00",
+    "summary": "arXiv:2605.14306v1 Announce Type: new Abstract: As large language models reshape scientific research, literature retrieval faces a twofold challenge: ensuring source authenticity while maintaining a deep comprehension of academic search intents. While reliable, traditional keyword-centric search fails to capture complex research intents. Frontier LLMs can handle complex research intents, but their high cost and tendency to hallucinate remain key limitations. Here we introduce PaSaMaster, a self-…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "941a69aa26ef",
+    "title": "Efficient Generative Retrieval for E-commerce Search with Semantic Cluster IDs and Expert-Guided RL",
+    "url": "https://arxiv.org/abs/2605.14434",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-15T04:00:00+00:00",
+    "summary": "arXiv:2605.14434v1 Announce Type: new Abstract: Generative retrieval offers a promising alternative by unifying the fragmented multi-stage retrieval process into a single end-to-end model. However, its practical adoption in industrial e-commerce search remains challenging, given the massive and dynamic product catalogs, strict latency requirements, and the need to align retrieval with downstream ranking goals. In this work, we propose a retrieval framework tailored for real-world recall scenario…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8aae4c467b43",
+    "title": "Stop Overthinking: Unlocking Efficient Listwise Reranking with Minimal Reasoning",
+    "url": "https://arxiv.org/abs/2605.14450",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-15T04:00:00+00:00",
+    "summary": "arXiv:2605.14450v1 Announce Type: new Abstract: Listwise reranking utilizing Large Language Models (LLMs) has achieved state-of-the-art retrieval effectiveness. Recently, reasoning-enhanced models have further pushed these boundaries by employing Chain-of-Thought (CoT) to perform deep comparative analysis of candidate documents. However, this performance gain comes at a prohibitive computational cost, as models often generate thousands of reasoning tokens before producing a final ranking. In thi…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "dbeac8a9be16",
+    "title": "Asymmetric Generative Recommendation via Multi-Expert Projection and Multi-Faceted Hierarchical Quantization",
+    "url": "https://arxiv.org/abs/2605.14512",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-15T04:00:00+00:00",
+    "summary": "arXiv:2605.14512v1 Announce Type: new Abstract: Generative Recommendation (GenRec) models reformulate recommendation as a sequence generation task, representing items as discrete Semantic IDs used symmetrically as both inputs and prediction targets. We identify a critical dual-stage information bottleneck in this design: (1) the Input Bottleneck, where lossy quantization degrades fine-grained semantics, while popularity bias skews the learned representations toward frequent items, and (2) the Ou…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1f1ec917f571",
+    "title": "Discrimination Is Generation: Unifying Ranking and Retrieval from a Tokenizer Perspective",
+    "url": "https://arxiv.org/abs/2605.14853",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-15T04:00:00+00:00",
+    "summary": "arXiv:2605.14853v1 Announce Type: new Abstract: Semantic IDs (SIDs) define the generation space of generative recommendation and directly determine its personalization ceiling. However, existing tokenizers are trained independently with retrieval objectives, leaving personalization signals fully decoupled from the SID construction process -- a fundamental gap that causes generative retrieval to persistently lag behind discriminative ranking. In this paper, we rethink the essence of SIDs: \\emph{r…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4ede58776a14",
+    "title": "Think When Needed: Adaptive Reasoning-Driven Multimodal Embeddings with a Dual-LoRA Architecture",
+    "url": "https://arxiv.org/abs/2605.14448",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-15T04:00:00+00:00",
+    "summary": "arXiv:2605.14448v1 Announce Type: cross Abstract: Multimodal large language models (MLLMs) have emerged as a powerful backbone for multimodal embeddings. Recent methods introduce chain-of-thought (CoT) reasoning into the embedding pipeline to improve retrieval quality, but remain costly in both model size and inference cost. They typically employ separate reasoner and embedder with substantial parameter overhead, and generate CoT indiscriminately for every input. However, we observe that for sim…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "adadd36de45f",
+    "title": "A Picture is Worth a Thousand Words? An Empirical Study of Aggregation Strategies for Visual Financial Document Retrieval",
+    "url": "https://arxiv.org/abs/2605.14581",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-15T04:00:00+00:00",
+    "summary": "arXiv:2605.14581v1 Announce Type: cross Abstract: Visual RAG has offered an alternative to traditional RAG. It treats documents as images and uses vision encoders to obtain vision patch tokens. However, hundreds of patch tokens per document create retrieval and storage challenges in a vector database. Practical deployment requires aggregating them into a single vector. This raises a critical question: does single-vector aggregation lose key information in financial documents? We develop a diagno…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "b3152c126586",
+    "title": "Falkor-IRAC: Graph-Constrained Generation for Verified Legal Reasoning in Indian Judicial AI",
+    "url": "https://arxiv.org/abs/2605.14665",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-15T04:00:00+00:00",
+    "summary": "arXiv:2605.14665v1 Announce Type: cross Abstract: Legal reasoning is not semantic similarity search. A court judgment encodes constrained symbolic reasoning: precedent propagation, procedural state transitions, and statute-bound inference. These are properties that vector-based retrieval-augmented generation (RAG) cannot faithfully represent. Hallucinated precedents, outdated statute citations, and unsupported reasoning chains remain persistent failure modes in LLM-based legal AI, with real cons…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "4923eb8234e1",
+    "title": "A Deterministic Agentic Workflow for HS Tariff Classification: Multi-Dimensional Rule Reasoning with Interpretable Decisions",
+    "url": "https://arxiv.org/abs/2605.14857",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-15T04:00:00+00:00",
+    "summary": "arXiv:2605.14857v1 Announce Type: cross Abstract: Harmonized System (HS) tariff classification is a high-stakes, expert-level task in which a free-form product description must be mapped to a specific six- or eight-digit code under the General Interpretive Rules (GIR), section notes, chapter notes, and Explanatory Notes. The difficulty lies not in knowledge volume but in *multi-dimensional rule reasoning*: a correct classification must satisfy competing priority rules along several axes simultan…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "692a207b1a48",
+    "title": "Croissant Baker: Metadata Generation for Discoverable, Governable, and Reusable ML Datasets",
+    "url": "https://arxiv.org/abs/2605.15079",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-15T04:00:00+00:00",
+    "summary": "arXiv:2605.15079v1 Announce Type: cross Abstract: Croissant has emerged as the metadata standard for machine learning datasets, providing a structured, JSON-LD-based format that makes dataset discovery, automated ingestion, and reproducible analysis machine-checkable across ML platforms. Adoption has accelerated, and NeurIPS now requires Croissant metadata in every submission to its dataset tracks. Yet in practice Croissant generation usually starts with uploading data to a public platform, a pa…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "83d6273a3d6f",
+    "title": "Logging Policy Design for Off-Policy Evaluation",
+    "url": "https://arxiv.org/abs/2605.15108",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-15T04:00:00+00:00",
+    "summary": "arXiv:2605.15108v1 Announce Type: cross Abstract: Off-policy evaluation (OPE) estimates the value of a target treatment policy (e.g., a recommender system) using data collected by a different logging policy. It enables high-stakes experimentation without live deployment, yet in practice accuracy depends heavily on the logging policy used to collect data for computing the estimate. We study how to design logging policies that minimize OPE error for given target policies. We characterize a fundame…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c2d15a7caa7d",
+    "title": "Why Neighborhoods Matter: Traversal Context and Provenance in Agentic GraphRAG",
+    "url": "https://arxiv.org/abs/2605.15109",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-15T04:00:00+00:00",
+    "summary": "arXiv:2605.15109v1 Announce Type: cross Abstract: Retrieval-Augmented Generation can improve factuality by grounding answers in external evidence, but Agentic GraphRAG complicates what it means for citations to be faithful. In these systems, an agent explores a knowledge graph before producing an answer and a small set of citations. We frame citation faithfulness as a trajectory-level problem: final citations should not only support the answer, but also account for the graph traversal, structure…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "0c91866eafe0",
+    "title": "MemEye: A Visual-Centric Evaluation Framework for Multimodal Agent Memory",
+    "url": "https://arxiv.org/abs/2605.15128",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-15T04:00:00+00:00",
+    "summary": "arXiv:2605.15128v1 Announce Type: cross Abstract: Long-term agent memory is increasingly multimodal, yet existing evaluations rarely test whether agents preserve the visual evidence needed for later reasoning. In prior work, many visually grounded questions can be answered using only captions or textual traces, allowing answers to be inferred without preserving the fine-grained visual evidence. Meanwhile, harder cases that require reasoning over changing visual states are largely absent. Therefo…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "48cf4cc820a5",
+    "title": "Autofocus Retrieval: An Effective Pipeline for Multi-Hop Question Answering With Semi-Structured Knowledge",
+    "url": "https://arxiv.org/abs/2505.09246",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-15T04:00:00+00:00",
+    "summary": "arXiv:2505.09246v4 Announce Type: replace Abstract: In many real-world settings, machine learning models and interactive systems have access to both structured knowledge, e.g., knowledge graphs or tables, and unstructured content, e.g., natural language documents. Yet, most rely on either. Semi-Structured Knowledge Bases (SKBs) bridge this gap by linking unstructured content to nodes within structured data. In this work, we present Autofocus-Retriever (AF-Retriever), a modular framework for SKB-…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "014808d39c0c",
+    "title": "OneSearch-V2: The Latent Reasoning Enhanced Self-distillation Generative Search Framework",
+    "url": "https://arxiv.org/abs/2603.24422",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-15T04:00:00+00:00",
+    "summary": "arXiv:2603.24422v2 Announce Type: replace Abstract: Generative Retrieval (GR) has emerged as a promising paradigm for modern search systems. Compared to multi-stage cascaded architecture, it offers advantages such as end-to-end joint optimization and high computational efficiency. OneSearch, as a representative industrial-scale deployed generative search framework, has brought significant commercial and operational benefits. However, its inadequate understanding of complex queries, inefficient e…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "3b2231799f99",
+    "title": "Adversarial Hubness in Multi-Modal Retrieval",
+    "url": "https://arxiv.org/abs/2412.14113",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-15T04:00:00+00:00",
+    "summary": "arXiv:2412.14113v4 Announce Type: replace-cross Abstract: Hubness is a phenomenon in high-dimensional vector spaces where a point from the natural distribution is unusually close to many other points. This is a well-known problem in information retrieval that causes some items to accidentally (and incorrectly) appear relevant to many queries. In this paper, we investigate how attackers can exploit hubness to turn any image or audio input in a multi-modal retrieval system into an adversarial hub.…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "cbf23271eccc",
+    "title": "AVEX: What Matters for Animal Vocalization Encoding",
+    "url": "https://arxiv.org/abs/2508.11845",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-15T04:00:00+00:00",
+    "summary": "arXiv:2508.11845v3 Announce Type: replace-cross Abstract: Bioacoustics, the study of sounds produced by living organisms, plays a vital role in conservation, biodiversity monitoring, and behavioral studies. Many tasks in this field, such as species, individual, and behavior classification and detection, are well-suited to machine learning. However, they often suffer from limited annotated data, highlighting the need for a general-purpose bioacoustic encoder capable of extracting useful represent…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "41d1b470d902",
+    "title": "Chinese Short-Form Creative Content Generation via Explanation-Oriented Multi-Objective Optimization",
+    "url": "https://arxiv.org/abs/2511.15408",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-15T04:00:00+00:00",
+    "summary": "arXiv:2511.15408v2 Announce Type: replace-cross Abstract: Chinese demonstrates high semantic compactness and rich metaphorical expressiveness, enabling limited text to convey dense meanings while increasing the difficulty of generation and verification, particularly in short-form creative natural language generation (CNLG). In the real world, users often require personalized, fine-grained creative constraints, making reliable verification critical to guiding optimization. According to Brunswik's…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d8a6b43ce4f1",
+    "title": "AlayaLaser: Efficient Index Layout and Search Strategy for Large-scale High-dimensional Vector Similarity Search",
+    "url": "https://arxiv.org/abs/2602.23342",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-15T04:00:00+00:00",
+    "summary": "arXiv:2602.23342v2 Announce Type: replace-cross Abstract: On-disk graph-based approximate nearest neighbor search (ANNS) is essential for large-scale, high-dimensional vector retrieval, yet its performance is widely recognized to be limited by the prohibitive I/O costs. Interestingly, we observed that the performance of on-disk graph-based index systems is compute-bound, not I/O-bound, with the rising of the vector data dimensionality (e.g., hundreds or thousands). This insight uncovers a signif…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "e146bef9a7f7",
+    "title": "Large Language Models for Web Accessibility: A Systematic Literature Review",
+    "url": "https://arxiv.org/abs/2605.13873",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-05-15T04:00:00+00:00",
+    "summary": "arXiv:2605.13873v1 Announce Type: new Abstract: Web accessibility aims to ensure that web content and services are usable by people with diverse abilities. In recent years, Large Language Models (LLMs) have been increasingly explored to support accessibility-related tasks on the web, such as content generation, issue detection, and remediation. However, little is known about the characteristics of these approaches, the accessibility issues they target, the standards they follow, and how they are…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "30c1c6f42fb5",
+    "title": "A Template-Driven Platform for Contextualised Researcher Profiles",
+    "url": "https://arxiv.org/abs/2605.14722",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-05-15T04:00:00+00:00",
+    "summary": "arXiv:2605.14722v1 Announce Type: new Abstract: Modern researchers engage in diverse activities, assume multiple contribution roles, and produce a variety of outputs beyond traditional publications. This broader view of research contributions is increasingly recognised by responsible research assessment initiatives. However, existing researcher profiling platforms remain largely focused on publications and publication-centric indicators, offering limited support for contextualised and multi-dime…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "fb6361b5dfb0",
+    "title": "QOuLiPo: What a quantum computer sees when it reads a book",
+    "url": "https://arxiv.org/abs/2605.14188",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-05-15T04:00:00+00:00",
+    "summary": "arXiv:2605.14188v1 Announce Type: cross Abstract: What does a book look like to a quantum computer? This paper takes eight classical works of the Renaissance and its late-antique inheritance -- from Augustine to Galileo -- and runs each through a neutral-atom quantum processor. The bridge is graphs: each textual unit becomes an atom, and graph edges are physical blockade constraints for engineered exact unit-disk designs, or a 2D approximation to the semantic graph for natural texts. Three contr…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "500e643562c9",
+    "title": "Artificial Intelligence Specialization in the European Union: Underexplored Role of the Periphery at NUTS-3 Level",
+    "url": "https://arxiv.org/abs/2602.15249",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-05-15T04:00:00+00:00",
+    "summary": "arXiv:2602.15249v2 Announce Type: replace Abstract: This study examines the distribution of Artificial Intelligence (AI) research across European NUTS-3 regions during the period 2015-2024. Using bibliometric data from Clarivate InCites and the Citation Topics classification system, we analyse two hierarchical thematic levels: Electrical Engineering, Electronics & Computer Science (Macro Citation Topic 4) and Artificial Intelligence & Machine Learning (Meso Citation Topic 4.61). Relative Special…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1c17e8b2b768",
+    "title": "The Real Losers of the Musk v. Altman Trial",
+    "url": "https://www.wired.com/story/musk-v-altman-trial-closing-arguments/",
+    "source": "Wired AI",
+    "date": "2026-05-15T00:49:53+00:00",
+    "summary": "A federal jury is now deciding whether Elon Musk will win his lawsuit against OpenAI and Sam Altman—but the trial has made everyone look bad.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a556742a8402",
+    "title": "An Engineer’s Post Protesting Laptop Surveillance Is Going Viral Inside Meta",
+    "url": "https://www.wired.com/story/meta-employee-protest-mouse-tracking-surveillance-ai-training/",
+    "source": "Wired AI",
+    "date": "2026-05-14T20:27:34+00:00",
+    "summary": "Meta employees in the US and UK are organizing against corporate software that tracks workers’ keystrokes and mouse activity.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0e98c96f83bd",
+    "title": "Trump’s Tech Posse in China, Who’s Winning in Musk v. Altman, and Hantavirus Conspiracy Theories",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-trump-tech-posse-china-musk-v-altman-trial-hantavirus-conspiracy-theories/",
+    "source": "Wired AI",
+    "date": "2026-05-14T19:04:47+00:00",
+    "summary": "Today on Uncanny Valley, we discuss how Donald Trump’s visit to China could influence conversations between world leaders at a moment when the economic and foreign policy stakes couldn’t be higher.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f0532953c28c",
+    "title": "Data readiness for agentic AI in financial services",
+    "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+    "source": "MIT Tech Review",
+    "date": "2026-05-14T13:00:00+00:00",
+    "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second. As a result, the success of agentic AI in financial services depends less on the sophistication of the system and more on&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b00cef5081d4",
+    "title": "Establishing AI and data sovereignty in the age of autonomous systems",
+    "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
+    "source": "MIT Tech Review",
+    "date": "2026-05-14T13:00:00+00:00",
+    "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party AI models, and you will get powerful results. But your data passes through systems you do not own, under governance you do not set. The protections you rely&#8230;",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "785a50373e0f",
+    "title": "AI Promised the Audemars Piguet x Swatch Wristwatch. China Will Deliver It",
+    "url": "https://www.wired.com/story/ai-ruined-the-audemars-piguet-x-swatch-collaboration-china-could-save-it/",
+    "source": "Wired AI",
+    "date": "2026-05-14T12:52:28+00:00",
+    "summary": "Watch fans spent a week falling in love with colorful Royal Oak wristwatches that didn’t exist—then the real thing arrived. Now, fantasy is becoming a manufacturing opportunity.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "90e813baf1ea",
     "title": "Gen Z Is Pioneering a New Understanding of Truth",
     "url": "https://www.wired.com/story/book-excerpt-the-future-of-truth-steven-rosenbaum/",
