@@ -1,5 +1,176 @@
 [
   {
+    "id": "9d3b614714fb",
+    "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
+    "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
+    "source": "MIT Tech Review",
+    "date": "2026-05-18T16:01:39+00:00",
+    "summary": "The defense-tech company Anduril has shared new details about the augmented-reality headset for the military it’s prototyping with Meta, including a vision for ordering drone strikes via eye-tracking and voice commands. Quay Barnett, who leads the efforts as a vice president at Anduril following a career in the Army’s Special Operations Command, says his fundamental&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "12765932e33c",
+    "title": "I’m a Normie. Can Normies Really Vibe Code?",
+    "url": "https://www.wired.com/story/normie-vibe-code/",
+    "source": "Wired AI",
+    "date": "2026-05-18T10:00:00+00:00",
+    "summary": "Apparently anyone can vibe code anything these days. So Claude and I tried to make a database for tracking the petty grievances of the masses.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2fb04778f273",
+    "title": "Agent4POI: Agentic Context-Conditioned Affordance Reasoning for Multimodal Point-of-Interest Recommendation",
+    "url": "https://arxiv.org/abs/2605.15203",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-18T04:00:00+00:00",
+    "summary": "arXiv:2605.15203v1 Announce Type: new Abstract: We introduce Agent4POI, the first POI recommendation framework that generates context-conditioned multimodal representations at recommendation time, rather than relying on static POI embeddings pre-computed independently of context. Existing multimodal systems encode each POI once as a static embedding, a design that precludes reasoning about why the same cafe affords solo work on Monday but group celebration on Friday evening. We formally prove th…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "5f6c3e41a998",
+    "title": "An LLM-RAG Approach for Healthy Eating Index-Informed Personalized Food Recommendations",
+    "url": "https://arxiv.org/abs/2605.15213",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-18T04:00:00+00:00",
+    "summary": "arXiv:2605.15213v1 Announce Type: new Abstract: Diet quality is a leading determinant of chronic disease risk. Advances in artificial intelligence (AI) have enabled food recommendation systems to adapt suggestions to user preferences and health goals. However, most current systems rely on loosely curated food databases and provide limited connection to a validated index. In this study, we propose a Healthy Eating Index (HEI) informed retrieval-augmented generation (RAG) framework that combines s…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "3936f3f3d5e9",
+    "title": "Fortress: A Case Study in Stabilizing Search Recommendations via Temporal Data Augmentation and Feature Pruning",
+    "url": "https://arxiv.org/abs/2605.15299",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-18T04:00:00+00:00",
+    "summary": "arXiv:2605.15299v1 Announce Type: new Abstract: In search and recommendation systems, predictive models often suffer from temporal instability when certain input features introduce volatility in output scores. This instability can degrade model reliability and user experience especially in multi-stage systems where consistent predictions are critical for downstream decision making. We introduce Fortress, a general framework for enhancing model stability and accuracy by identifying and pruning fe…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8e3571aea279",
+    "title": "Differentially Private Motif-Preserving Multi-modal Hashing",
+    "url": "https://arxiv.org/abs/2605.15460",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-18T04:00:00+00:00",
+    "summary": "arXiv:2605.15460v1 Announce Type: new Abstract: Cross-modal hashing enables efficient retrieval by encoding images and text into compact binary codes. State-of-the-art methods rely on semantic similarity graphs derived from user interactions for supervision, yet these graphs encode sensitive behavioral patterns vulnerable to link reconstruction attacks. Existing privacy-preserving approaches fail on graph-structured data: Differentially Private SGD destroys relational motifs by treating samples …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "bbd1139bae6d",
+    "title": "Jobs' AI Exposure Should Be Measured from Evidence, Not Model Priors",
+    "url": "https://arxiv.org/abs/2605.15474",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-18T04:00:00+00:00",
+    "summary": "arXiv:2605.15474v1 Announce Type: new Abstract: This position paper argues that job exposure to AI should be measured with grounded, evidence-based methods, not inferred from LLM priors alone. Current theoretical exposure measures use zero-shot prompting to classify task-level AI exposure, generating labels with no explicit evidence, no transparent chain of reasoning, and no external validation. The stakes of these measurements are too high to rely on such methods, as they influence policy makin…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "4c6a84401c90",
+    "title": "Generative Long-term User Interest Modeling for Click-Through Rate Prediction",
+    "url": "https://arxiv.org/abs/2605.15905",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-18T04:00:00+00:00",
+    "summary": "arXiv:2605.15905v1 Announce Type: new Abstract: Modeling long-term user interests with massive historical user behaviors enhances click-through rate (CTR) prediction performance in advertising and recommendation systems. Typically, a two-stage framework is widely adopted, where a general search unit (GSU) first retrieves top-$k$ relevant behaviors towards the target item, and an exact search unit (ESU) generates interest features via tailored attention. However, current target-centered GSU would…",
+    "category": "Information Behavior"
+  },
+  {
+    "id": "a460e0b97022",
+    "title": "Ascend-RaBitQ: Heterogeneous NPU-CPU Acceleration of Billion-Scale Similarity Search with 1-bit Quantization",
+    "url": "https://arxiv.org/abs/2605.16007",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-18T04:00:00+00:00",
+    "summary": "arXiv:2605.16007v1 Announce Type: new Abstract: Vector similarity search is a critical component of modern AI systems, but traditional CPU-based implementations face fundamental scalability bottlenecks for billion-scale corpora due to prohibitive computational overhead and memory bandwidth limitations. While Neural Processing Units (NPUs) offer orders-of-magnitude higher compute density, existing CPU/GPU-optimized 1-bit RaBitQ quantization implementations cannot be directly ported to NPU archite…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8c0850d38e02",
+    "title": "MERVIN: A Unified Framework for Multimodal Event Retrieval in Vietnamese News Videos",
+    "url": "https://arxiv.org/abs/2605.16120",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-18T04:00:00+00:00",
+    "summary": "arXiv:2605.16120v1 Announce Type: new Abstract: The growth of online video platforms drives the need for effective, semantically grounded event retrieval. We present MERVIN, a unified multimodal framework for Vietnamese news videos that integrates keyframes, transcripts, and video summaries. Transcript quality is enhanced via Gemini 1.5 Flash, reducing noise from accents, background sounds, and recognition errors. Visual features are extracted with Perception Encoder, while a Vietnamese language…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "273f5c951f69",
+    "title": "DeepSlide: From Artifacts to Presentation Delivery",
+    "url": "https://arxiv.org/abs/2605.15202",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-18T04:00:00+00:00",
+    "summary": "arXiv:2605.15202v1 Announce Type: cross Abstract: Presentations are a primary medium for scholarly communication, yet most AI slide generators optimize the artifact (a visually plausible deck) while under-optimizing the delivery process (pacing, narrative, and presentation preparation). We present DeepSlide, a human-in-the-loop multi-agent system that supports preparing the full presentation process, from requirement elicitation and time-budgeted narrative planning, to evidence-grounded slide--s…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "de385618f43e",
+    "title": "Automatic Construction of a Legal Citation Graph from 100 Million Ukrainian Court Decisions: Large-Scale Extraction, Topological Analysis, and Ontology-Driven Clustering",
+    "url": "https://arxiv.org/abs/2605.15362",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-18T04:00:00+00:00",
+    "summary": "arXiv:2605.15362v1 Announce Type: cross Abstract: Half a billion citation edges extracted from 100.7 million Ukrainian court decisions reveal that judicial citation structure encodes legal domain boundaries without supervision and predicts future legislative importance with near-perfect accuracy. We construct the first large-scale citation graph from the complete EDRSR registry (99.5 million full texts, 1.1 TB), extracting 502 million citation links across six types via regex on commodity hardwa…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "1df00024a96f",
+    "title": "X-SYNTH: Beyond Retrieval -- Enterprise Context Synthesis from Observed Human Attention",
+    "url": "https://arxiv.org/abs/2605.15505",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-18T04:00:00+00:00",
+    "summary": "arXiv:2605.15505v1 Announce Type: cross Abstract: In enterprise operations, the context required for an AI agent task is scattered across systems of record, static information stores, and communication channels. What is stored is system state, a lossy representation of the work that actually happened [2, 52]. The prevailing approach [17, 31, 34, 36] retrieves by matching request content to what is stored; for narrow requests this works well. But synthesis quality depends on knowing what to surfa…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b9661e7763a5",
+    "title": "Fairness-Aware Retrieval Optimization for Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2605.15790",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-18T04:00:00+00:00",
+    "summary": "arXiv:2605.15790v1 Announce Type: cross Abstract: Retrieval-Augmented Generation (RAG) improves reliability of large language models by incorporating external knowledge, but the retrieval process can introduce bias that propagates to generated outputs. This issue is particularly challenging in top-k settings, where multiple documents jointly influence generation. We propose a fairness-aware retrieval framework that models and controls this bias. Our approach combines controlled bias injection vi…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c389833151cd",
+    "title": "paper.json: A Coordination Convention for LLM-Agent-Actionable Papers",
+    "url": "https://arxiv.org/abs/2605.16194",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-18T04:00:00+00:00",
+    "summary": "arXiv:2605.16194v1 Announce Type: cross Abstract: LLM agents routinely serve as first (and sometimes only) readers of academic papers, skimming for sub-claims, extracting reproducibility steps, and generalizing scope. Standard prose papers produce recurring failures in this role: sub-claims that cannot be cited at sub-paper granularity, scope overextension beyond what the paper tests, and figure commands buried in codebases rather than the paper itself. We propose `paper.json`, a companion JSON …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "0a51d6648e2b",
+    "title": "Argus: Evidence Assembly for Scalable Deep Research Agents",
+    "url": "https://arxiv.org/abs/2605.16217",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-18T04:00:00+00:00",
+    "summary": "arXiv:2605.16217v1 Announce Type: cross Abstract: Deep research agents have achieved remarkable progress on complex information seeking tasks. Even long ReAct style rollouts explore only a single trajectory, while recent state of the art systems scale inference time compute via parallel search and aggregation. Yet deep research answers are composed of complementary pieces of evidence, which parallel rollouts often duplicate rather than complete, yielding diminishing returns while pushing the agg…",
+    "category": "Information Behavior"
+  },
+  {
+    "id": "2f01431a196e",
+    "title": "LLM-EDT: Large Language Model Enhanced Cross-domain Sequential Recommendation with Dual-phase Training",
+    "url": "https://arxiv.org/abs/2511.19931",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-18T04:00:00+00:00",
+    "summary": "arXiv:2511.19931v2 Announce Type: replace Abstract: Cross-domain Sequential Recommendation (CDSR) has been proposed to enrich user-item interactions by incorporating information from various domains. Despite current progress, the imbalance issue and transition issue hinder further development of CDSR. The former one presents a phenomenon that the interactions in one domain dominate the entire behavior, leading to difficulty in capturing the domain-specific features in the other domain. The latte…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "50b9c5bddbbe",
+    "title": "On the Factual Consistency of Text-based Explainable Recommendation Models",
+    "url": "https://arxiv.org/abs/2512.24366",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-18T04:00:00+00:00",
+    "summary": "arXiv:2512.24366v2 Announce Type: replace Abstract: Text-based explainable recommendation aims to generate natural-language explanations that justify item recommendations, to improve user trust and system transparency. Although recent advances leverage LLMs to produce fluent outputs, a critical question remains underexplored: are these explanations factually consistent with the available evidence? We introduce a comprehensive framework for evaluating the factual consistency of text-based explain…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "971f99517889",
+    "title": "CitePrism: Human-in-the-Loop AI for Citation Auditing and Editorial Integrity",
+    "url": "https://arxiv.org/abs/2605.16000",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-05-18T04:00:00+00:00",
+    "summary": "arXiv:2605.16000v1 Announce Type: cross Abstract: Editors and reviewers are expected to ensure that manuscripts cite relevant, accurate, current, and ethically appropriate literature, yet manuscript-level citation auditing remains largely manual, fragmented, and difficult to scale. Citation context, metadata quality, self-citation patterns, and bibliographic integrity all affect whether a reference appropriately supports a local claim. We present CitePrism, a transparent hybrid decision-support …",
+    "category": "Information Retrieval & Search"
+  },
+  {
     "id": "ac743facfc78",
     "title": "Some Asexuals Are Using AI Companions for Intimacy Without the Sex",
     "url": "https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/",
