@@ -1,5 +1,329 @@
 [
   {
+    "id": "f52555ab5342",
+    "title": "I Gave My OpenClaw Agent a Physical Body",
+    "url": "https://www.wired.com/story/i-gave-my-openclaw-agent-physical-body-robot/",
+    "source": "Wired AI",
+    "date": "2026-05-20T18:00:00+00:00",
+    "summary": "The coding skills of AI models are about to make it much easier to build and deploy robots.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "19a2055b7d62",
+    "title": "DOTRAG: Retrieval-Time Reasoning Along Paths",
+    "url": "https://arxiv.org/abs/2605.18760",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-20T04:00:00+00:00",
+    "summary": "arXiv:2605.18760v1 Announce Type: new Abstract: Graph Retrieval-Augmented Generation (GraphRAG) is dominated by a retrieve-then-reason paradigm, where context is retrieved using heuristics and then reasoned over. Such methods struggle to adapt to the query-specific logic required for complex multi-hop tasks, often accumulating irrelevant context or missing correct relational paths. We propose DotRAG, a training-free GraphRAG framework that reformulates retrieval as a reasoning process over paths…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "3952908644b8",
+    "title": "ALDEN: Boosting Private Data Extraction from Retrieval-Augmented Generation Systems via Active Learning and Distribution Estimation",
+    "url": "https://arxiv.org/abs/2605.18762",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-20T04:00:00+00:00",
+    "summary": "arXiv:2605.18762v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) is widely used to augment large language models with external knowledge retrieval to improve reliability and generalization. However, recent studies have shown that RAG systems remain vulnerable to data extraction attacks, where adversaries can extract private data by embedding malicious commands into user queries. Despite their feasibility, existing attacks typically suffer from low data extraction rates and li…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "640687a48308",
+    "title": "Query-Conditioned Graph Retrieval for Contextualized LLM Reasoning in Personalized Wearable Data",
+    "url": "https://arxiv.org/abs/2605.18763",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-20T04:00:00+00:00",
+    "summary": "arXiv:2605.18763v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly applied to analyzing wearable sensing data, which are long-term, multimodal, and highly personalized. A key challenge is context selection: providing insufficient context limits reasoning, while including all available data leads to inefficiency and degraded generation quality. We propose Wearable As Graph (WAG), a graph-based context retrieval framework that enables query-adaptive reasoning over wearab…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "815ba6c26a92",
+    "title": "From Intent to AI Pipelines: A Controlled Agentic Framework for Non-AI Expert Scientists",
+    "url": "https://arxiv.org/abs/2605.18764",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-20T04:00:00+00:00",
+    "summary": "arXiv:2605.18764v1 Announce Type: new Abstract: Artificial Intelligence (AI) pipelines have become integral to modern research, supporting fields such as Medical Sciences, Agriculture, and Social Sciences, and enabling large-scale data analysis, predictive modeling, and the automation of complex tasks. However, designing and implementing AI solutions remains challenging for many researchers due to the expertise required in the design and development of end-to-end AI systems. To address this gap,…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2879d1a6257b",
+    "title": "STAR: Semantic-Tuned and Tail-Adaptive Retriever for Graph-Augmented Generation",
+    "url": "https://arxiv.org/abs/2605.18765",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-20T04:00:00+00:00",
+    "summary": "arXiv:2605.18765v1 Announce Type: new Abstract: To augment Large Language Models (LLMs) for multi-hop question answering, a mainstream solution within Graph Retrieval Augmented Generation (GraphRAG) leverages lightweight retrievers to efficiently extract information from a given Knowledge Graph (KG). However, existing methods often overlook the inherent challenge of sparse semantic information in graphs. Specifically, our experiments reveal that these methods produce biased retrieval Semantic Sh…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "4598d11fec93",
+    "title": "Retrieve Only Relevant Tables Whether Few or Many: Adaptive Table Retrieval Method",
+    "url": "https://arxiv.org/abs/2605.18766",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-20T04:00:00+00:00",
+    "summary": "arXiv:2605.18766v1 Announce Type: new Abstract: Retrieving relevant tables from extensive databases for a given natural language query is essential for accurately answering questions in tasks such as text-to-SQL. Existing table retrieval approaches select a pre-determined set of k tables with the highest similarity to the query. However, the number of required tables varies across queries and cannot be known in advance. Enforcing a fixed number of retrieved tables regardless of the query may eit…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "411ee5aa4a75",
+    "title": "DualView: Adaptive Local-Global Fusion for Multi-Hop Document Reranking",
+    "url": "https://arxiv.org/abs/2605.18767",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-20T04:00:00+00:00",
+    "summary": "arXiv:2605.18767v1 Announce Type: new Abstract: Multi-hop question answering requires aggregating information from multiple documents, a critical capability for knowledge-intensive applications. A fundamental challenge lies in efficiently identifying the minimal relevant document set from retrieved candidates while maintaining high recall. We present an efficient dual-view cascaded reranking framework for multi-hop document reranking. Operating as a lightweight post-retrieval stage over E5-base-…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "24e6a13b20be",
+    "title": "ClinQueryAgent: A Conversational Agent for Population Health Management",
+    "url": "https://arxiv.org/abs/2605.18768",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-20T04:00:00+00:00",
+    "summary": "arXiv:2605.18768v1 Announce Type: new Abstract: In this paper we introduce ClinQueryAgent, a system for translating natural language population health questions into executable database queries using agents with access to both local and external knowledge bases. Our novel architecture enables the use of powerful cloud-based language models whilst ensuring that no patient data leaves the secure environment. To combat inaccuracies over the course of longer dialogues due to context rot, information…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "4cad52f05504",
+    "title": "ClusterRAG: Cluster-Based Collaborative Filtering for Personalized Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2605.18769",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-20T04:00:00+00:00",
+    "summary": "arXiv:2605.18769v1 Announce Type: new Abstract: Personalized Retrieval-Augmented Generation (RAG) relies on accurately selecting user-relevant documents. In practice, existing RAG approaches often suffer from high retrieval costs and overlook that collaborative signals from similar users can enhance personalized generation for the current user. We propose ClusterRAG, a Cluster-Based Collaborative Filtering for Personalized Retrieval-Augmented Generation. ClusterRAG represents users through their…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "786bcf1ec38a",
+    "title": "Agentic GraphRAG: Navigating Unstructured Financial Data with Collaborative AI",
+    "url": "https://arxiv.org/abs/2605.18770",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-20T04:00:00+00:00",
+    "summary": "arXiv:2605.18770v1 Announce Type: new Abstract: We present a collaborative agentic GraphRAG framework for expert analysis of commercial registry data. Public registries are often formally accessible, yet difficult to use in practice because they combine structured records with large volumes of unstructured legal text. This limits conventional keyword and vector-only retrieval, especially for multi-hop, temporal, and entity-centric investigations. Our approach builds a Neo4j knowledge graph throu…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "bf717735d2f8",
+    "title": "LWGR: Lagrangian-Constrained Personalized World Knowledge for Generative Recommendation",
+    "url": "https://arxiv.org/abs/2605.18771",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-20T04:00:00+00:00",
+    "summary": "arXiv:2605.18771v1 Announce Type: new Abstract: Recent progress in large language model (LLM) based generative recommendation (GR) shows that leveraging LLM world knowledge can substantially improve performance. However, existing methods rely on fixed, manually designed instructions to generate semantic knowledge and directly incorporate it into GR, which has two limitations. First, fixed instructions cannot capture the multidimensional heterogeneity of user interests. Second, uncontrollable kno…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "326d56f2613b",
+    "title": "Improving Retrieval-Augmented Generation without Taxonomy-based Error Categorization",
+    "url": "https://arxiv.org/abs/2605.18772",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-20T04:00:00+00:00",
+    "summary": "arXiv:2605.18772v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) improves the factual accuracy of large language model (LLM) outputs by grounding generation in external knowledge. Recent agentic RAG systems extend this paradigm with critical agents to evaluate model responses and iteratively refine outputs. However, most prior work implicitly assumes reliable critic feedback and focuses on planning strategies, while paying limited attention to the robustness of the error-corr…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "75ab7786d26d",
+    "title": "M3DocDep: Multi-modal, Multi-page, Multi-document Dependency Chunking with Large Vision-Language Models",
+    "url": "https://arxiv.org/abs/2605.18774",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-20T04:00:00+00:00",
+    "summary": "arXiv:2605.18774v1 Announce Type: new Abstract: In long, multi-page industrial documents, retrieval-augmented generation (RAG) depends heavily on whether chunk boundaries follow the document's true structure. Existing text-centric chunkers and generative hierarchy parsers often miss cross-page parent-child relations, figure/table-caption bindings, and boundary cues, which leads to fragmented or redundant chunks and degrades both retrieval and answer quality. We propose M3DocDep, an LVLM-based pi…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "306c10dc1b15",
+    "title": "Query-Aware Flow Diffusion for Graph-Based RAG with Retrieval Guarantees",
+    "url": "https://arxiv.org/abs/2605.18775",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-20T04:00:00+00:00",
+    "summary": "arXiv:2605.18775v1 Announce Type: new Abstract: Graph-based Retrieval-Augmented Generation (RAG) systems leverage interconnected knowledge structures to capture complex relationships that flat retrieval struggles with, enabling multi-hop reasoning. Yet most existing graph-based methods suffer from (i) heuristic designs lacking theoretical guarantees for subgraph quality or relevance and/or (ii) the use of static exploration strategies that ignore the query's holistic meaning, retrieving neighbor…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "e6da1cb1648b",
+    "title": "Mask-to-Correct$^+$: Leveraging Retriever Diversity for Masking-guided Faithful Fact Correction",
+    "url": "https://arxiv.org/abs/2605.18776",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-20T04:00:00+00:00",
+    "summary": "arXiv:2605.18776v1 Announce Type: new Abstract: The rapid spread of misinformation on social media highlights the need for robust, automated fact correction frameworks. However, existing works rely on supervised learning from manually annotated claim-evidence pairs, which are scarce and prone to biases, limiting their generalization across domains. Moreover, these methods overlook semantic faithfulness in their correction process. To address these challenges, we propose Mask-to-Correct (M$_2$C),…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0fdf480f6e7c",
+    "title": "A Reproducibility Analysis of PO4ISR: Diagnosing and Mitigating Semantic Drift in LLM-Based Session Recommendation",
+    "url": "https://arxiv.org/abs/2605.18780",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-20T04:00:00+00:00",
+    "summary": "arXiv:2605.18780v1 Announce Type: new Abstract: Reasoning-based Large Language Models (LLMs) like PO4ISR have set new benchmarks in session-based recommendation. However, the reproducibility of their reasoning capabilities across diverse semantic domains remains unexplored. In this work, we conduct a rigorous reproducibility study of PO4ISR to assess its generalization limits. Our analysis reveals a critical failure mode: standard reasoning prompts suffer from severe contextual drift in long ses…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "2ee7bb832d22",
+    "title": "Trust or Abstain? A Self-Aware RAG Approach",
+    "url": "https://arxiv.org/abs/2605.18792",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-20T04:00:00+00:00",
+    "summary": "arXiv:2605.18792v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) improves large language models (LLMs) by incorporating external evidence, but it also introduces knowledge conflicts when retrieved contextual knowledge (CK) and parametric knowledge (PK) disagree or are both unreliable. Existing approaches mainly coordinate which source to use, without explicitly asking whether each answer path is correct. We argue that faithful RAG requires LLM self-awareness, namely the abili…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "9f65064d4b1b",
+    "title": "RecoAtlas: From Semantic Plausibility to Set-Level Utility in LLM Recommendation Agents",
+    "url": "https://arxiv.org/abs/2605.18805",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-20T04:00:00+00:00",
+    "summary": "arXiv:2605.18805v1 Announce Type: new Abstract: LLM recommendation agents increasingly produce structured recommendation reports: sets of items accompanied by natural-language justifications. Yet existing evaluations often reduce this setting to reranking small shortlisted candidate sets or judge reports mainly by semantic plausibility. We introduce Recommendation Atlas (Agentic Tool-Level Assessment for Shopping), or RecoAtlas, a benchmark and toolkit for evaluating shopping agents with behavio…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "2407523586d9",
+    "title": "Towards FairRAG: Preventing Representational Harm in Retrieval-Augmented Generation by Enforcing Fair Exposure at Retrieval Time",
+    "url": "https://arxiv.org/abs/2605.18806",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-20T04:00:00+00:00",
+    "summary": "arXiv:2605.18806v1 Announce Type: new Abstract: As Large Language Model (LLM) integration has accelerated in high-stakes domains, model hallucination is a critical issue. Retrieval-augmented generation (RAG) is a technique for addressing hallucination; however, RAG's multi-component pipeline introduces vulnerabilities where biases can be introduced. This study considers two previously developed utility-focused ranking strategies (Standard and Stochastic) alongside two proposed exposure-aware app…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "cbb9203e602f",
+    "title": "Code-Guided Reasoning for Small Language Models: Evaluating Executable MCQA Scaffolds",
+    "url": "https://arxiv.org/abs/2605.18827",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-20T04:00:00+00:00",
+    "summary": "arXiv:2605.18827v1 Announce Type: new Abstract: Multiple-choice QA benchmarks usually evaluate small language models (SLMs) as direct answerers, but deployed language-model systems increasingly rely on external scaffolds such as tools, code, and repeated model calls. We introduce Code-Guided Reasoning (CGR), an evaluation protocol and generated-program resource for measuring when executable reasoning scaffolds improve SLM performance on MCQA tasks. CGR standardizes six components: a normalized i…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5d696ed28008",
+    "title": "KadiAssistant: A conversational AI Agent for information retrieval in Kadi4Mat",
+    "url": "https://arxiv.org/abs/2605.18850",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-20T04:00:00+00:00",
+    "summary": "arXiv:2605.18850v1 Announce Type: new Abstract: We introduce KadiAssistant, a privacy-by-design AI assistant integrated into the Kadi research data ecosystem, enabling researchers to efficiently access, aggregate, and synthesize information from heterogeneous, privacy-sensitive research data. Interdisciplinary fields such as materials science bring together disciplines with their own terminology and standards. While this convergence fuels innovation, it also makes it increasingly difficult to co…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "b242e43c8180",
+    "title": "The 99% Success Paradox: When Near-Perfect Retrieval Equals Random Selection",
+    "url": "https://arxiv.org/abs/2605.18857",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-20T04:00:00+00:00",
+    "summary": "arXiv:2605.18857v1 Announce Type: new Abstract: For most of the history of information retrieval (IR), search results were designed for human consumers who could scan, filter, and discard irrelevant information on their own. This shaped retrieval systems to optimize for finding and ranking more relevant documents, but not keeping results clean and minimal, as the human was the final filter. However, LLMs have changed that by lacking this filtering ability. To address this, we introduce Bits-over…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "42c67a80b3ea",
+    "title": "SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommendation",
+    "url": "https://arxiv.org/abs/2605.18920",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-20T04:00:00+00:00",
+    "summary": "arXiv:2605.18920v1 Announce Type: new Abstract: Generative Recommendation (GR) has emerged as a promising paradigm by formulating item recommendation as a sequence-to-sequence generation task over item identifiers. Recent studies have incorporated multimodal signals to provide richer token-level evidence for generation. However, existing approaches largely rely on alignment-centric fusion and underexplore synergistic information across modalities. In practice, synergistic information plays a cri…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0d0b96ab4655",
+    "title": "Understanding Wacky Weights: A Dissection of SPLADE's Learned Term Importance",
+    "url": "https://arxiv.org/abs/2605.19628",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-20T04:00:00+00:00",
+    "summary": "arXiv:2605.19628v1 Announce Type: new Abstract: Learned sparse retrieval models such as SPLADE combine the effectiveness of neural architectures with the efficiency of inverted indices. As these models assign weights to terms from a fixed vocabulary, interpretability is often touted as a major benefit of these models. However, the emergence of wacky weights, i.e., expansion terms that appear semantically unrelated to the input, limits interpretability. While prior research has anecdotally observ…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e6ab94fb2ece",
+    "title": "Divergence Meets Consensus: A Multi-Source Negative Sampling Framework for Sequential Recommendation",
+    "url": "https://arxiv.org/abs/2605.19651",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-20T04:00:00+00:00",
+    "summary": "arXiv:2605.19651v1 Announce Type: new Abstract: Negative sampling is significant for training sequential recommendation models under implicit feedback. The predominant strategy, self-guided hard negative sampling, selects negatives based on the model's current state but suffers from three limitations: (1) the coupling between sampling and model updates triggers a vicious cycle that drives the model into local optima; (2) relying on current model parameters narrows sampling to a small region of t…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "89bf9ede4b17",
+    "title": "One in Eight OpenAlex Abstracts Has Integrity Issues",
+    "url": "https://arxiv.org/abs/2605.20168",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-05-20T04:00:00+00:00",
+    "summary": "arXiv:2605.20168v1 Announce Type: new Abstract: Scientific abstracts are increasingly used as primary data in computational metascience research, yet the quality of these abstracts in widely used bibliographic databases has not been systematically examined. We assess the integrity of 10,000 randomly sampled English-language journal abstracts from OpenAlex using a two-stage annotation protocol combining human expert review and large language model classification. We identify seven distinct failur…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "1c23b58bb2ab",
+    "title": "HALvest-Contrastive: Retrieval-Like Authorship Attribution with Patch-Level Late Interaction",
+    "url": "https://arxiv.org/abs/2407.20595",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-05-20T04:00:00+00:00",
+    "summary": "arXiv:2407.20595v4 Announce Type: replace Abstract: Deciding whether two pieces of text share an author is made difficult by topical confound: two writers covering the same topic often look more alike than one writer covering two topics. We tackle this with HALvest, a 17-billion-token multilingual corpus of open-access scholarly papers, and its English contrastive derivative HALvest-Contrastive, in which same-author passages are drawn from distinct papers within a field to minimize topical overl…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "3cc71d7fa544",
+    "title": "Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal",
+    "url": "https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations/",
+    "source": "Wired AI",
+    "date": "2026-05-19T22:53:04+00:00",
+    "summary": "Three of five regional winners of the prestigious Commonwealth Short Story Prize are suspected of relying on chatbots. They’re certainly not alone.",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a016ab02084a",
+    "title": "Roundtables: Inside the Musk v. Altman Trial",
+    "url": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
+    "source": "MIT Tech Review",
+    "date": "2026-05-19T20:15:18+00:00",
+    "summary": "Listen to the session or watch below Elon Musk lost his suit against OpenAI, in which he alleged CEO Sam Altman and President Greg Brockman had deceived him over the company’s non-profit status. Watch as AI reporter and attorney Michelle Kim, who covered the trial for MIT Technology Review, joins in conversation with editor in&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "76345b013fc2",
+    "title": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses",
+    "url": "https://www.wired.com/story/everything-google-announced-at-google-io-2026/",
+    "source": "Wired AI",
+    "date": "2026-05-19T20:00:48+00:00",
+    "summary": "Google is sprucing up its Gemini models, revamping search, and enabling AI agents in everything. There are also some spiffy new smart glasses coming this fall.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "55c73c08a66e",
+    "title": "Meta Employees Are Scrambling to Use Up Benefits Ahead of Layoffs",
+    "url": "https://www.wired.com/story/meta-employees-scramble-benefits-layoffs-ai/",
+    "source": "Wired AI",
+    "date": "2026-05-19T19:00:46+00:00",
+    "summary": "On the eve of about 8,000 jobs being cut, employees are cashing in on headphone stipends and other perks while they still can.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2aa50cbe9b22",
+    "title": "Demis Hassabis Thinks AI Job Cuts Are Dumb",
+    "url": "https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/",
+    "source": "Wired AI",
+    "date": "2026-05-19T17:45:00+00:00",
+    "summary": "The CEO of Google DeepMind tells WIRED that companies should use the productivity gains of AI to do more, not lay people off.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4d25639f2fb0",
+    "title": "Google Makes It Easy to Deepfake Yourself",
+    "url": "https://www.wired.com/story/google-makes-it-easy-to-make-a-deepfake-of-yourself/",
+    "source": "Wired AI",
+    "date": "2026-05-19T17:45:00+00:00",
+    "summary": "Google’s overhaul of its AI creation software, Flow, includes a new video model and a tool for generating selfie videos called avatars.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2fbf7e811688",
+    "title": "Google Search Goes Agentic—and Doesn’t Need You Anymore",
+    "url": "https://www.wired.com/story/google-search-goes-agentic-and-doesnt-need-you-anymore/",
+    "source": "Wired AI",
+    "date": "2026-05-19T17:45:00+00:00",
+    "summary": "Vibe-coded results! Super widgets! Bots that never sleep! Google’s vision for the future of Search is hyper-personalized, automated, and extremely AI.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "79d9c00a6cfb",
+    "title": "Gemini Spark Is Google’s Response to OpenClaw’s 24/7 AI Agent",
+    "url": "https://www.wired.com/story/googles-response-to-openclaws-24-7-ai-agent/",
+    "source": "Wired AI",
+    "date": "2026-05-19T17:45:00+00:00",
+    "summary": "Google’s always-running, data-hungry AI agent is designed to spend your money and send your emails.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "67472852dc21",
     "title": "Former OpenAI Staffers Warn That xAI’s Poor Safety Record Could Complicate SpaceX’s IPO",
     "url": "https://www.wired.com/story/ex-openai-staffers-warn-spacex-investors-of-ai-safety-risks/",
