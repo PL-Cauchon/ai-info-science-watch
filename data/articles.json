@@ -1,5 +1,176 @@
 [
   {
+    "id": "57e5b33ce937",
+    "title": "I Cloned Myself With Gemini’s AI Avatar Tool. The Result Was Unnervingly Me",
+    "url": "https://www.wired.com/story/i-cloned-myself-with-geminis-ai-avatar-tool-the-result-was-unnervingly-me/",
+    "source": "Wired AI",
+    "date": "2026-05-21T15:48:24+00:00",
+    "summary": "I used the Gemini app to generate lifelike videos featuring a digital clone of myself. Google sees this as the future of creation. I’m still creeped out.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f6318cb77e5d",
+    "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
+    "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+    "source": "MIT Tech Review",
+    "date": "2026-05-21T14:30:45+00:00",
+    "summary": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto. (A coincidence, not a flex, Anthropic staffers assured me.) “Who here has shipped a pull request in the last week that was completely written&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ee674158bd99",
+    "title": "Efficient Table QA via TableGrid Navigation and Progressive Inference Prompting",
+    "url": "https://arxiv.org/abs/2605.20254",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-21T04:00:00+00:00",
+    "summary": "arXiv:2605.20254v1 Announce Type: new Abstract: Large Language Models (LLMs) have shown promising results on NLP tasks, however, their performance on tabular data still needs research attention, because Table Question-Answering (TQA) requires precise cell retrieval and multi-step structured reasoning. Existing work improves TQA either by fine-tuning or training LLMs on task-specific tabular data, but often lacks verifiable control over how the model navigates tables and derives answers. In this …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a2af64d5e35f",
+    "title": "Layer-wise Token Compression for Efficient Document Reranking",
+    "url": "https://arxiv.org/abs/2605.20683",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-21T04:00:00+00:00",
+    "summary": "arXiv:2605.20683v1 Announce Type: new Abstract: Transformer-based document cross-encoder rerankers are a central component of modern information retrieval systems. Despite their success, these models suffer from high computational costs due to processing long query-document sequences at inference time. A known approach to improve efficiency is token compression, which consists of aggregating groups of tokens together in the initial embedding layer, reducing the effective number of tokens, and ma…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "813f1727ed14",
+    "title": "CALMem : Application-Layer Dual Memory for Conversational AI",
+    "url": "https://arxiv.org/abs/2605.20724",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-21T04:00:00+00:00",
+    "summary": "arXiv:2605.20724v1 Announce Type: new Abstract: Large language models (LLMs) operate within fixed context windows that fundamentally limit conversational continuity. When context fills, compaction discards history irreversibly; when sessions end, all memory resets to zero. Existing solutions-larger context windows, retrieval-augmented generation for knowledge bases, and memory-augmented architectures such as MemGPT-either require model modification, impose provider lock-in, or do not address the…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "bc22f148ba60",
+    "title": "MemConflict: Evaluating Long-Term Memory Systems Under Memory Conflicts",
+    "url": "https://arxiv.org/abs/2605.20926",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-21T04:00:00+00:00",
+    "summary": "arXiv:2605.20926v1 Announce Type: new Abstract: Long-term memory systems enable conversational agents based on large language models (LLMs) to retain, retrieve, and apply user-specific information across multi-session interactions. However, existing evaluations mainly assess outcome-level performance or temporal updating, providing limited insight into how systems retrieve and rank temporally valid, factually correct, and contextually applicable memory evidence under conflicting alternatives. To…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "3e57cdea21c5",
+    "title": "SG-LegalCite: A Principle-Augmented Benchmark for Legal Citation Retrieval in Singapore Law",
+    "url": "https://arxiv.org/abs/2605.21057",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-21T04:00:00+00:00",
+    "summary": "arXiv:2605.21057v1 Announce Type: new Abstract: Legal citation in common-law systems depends not only on factual similarity, but also on the legal principle for which a precedent is invoked. However, existing benchmarks for legal citation retrieval use case facts, citation context, or full judgments as inputs, where the governing legal principle is often missing or only implicitly expressed and entangled with broader context. As a result, models may retrieve precedents that are factually similar…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8845714169b6",
+    "title": "Advanced Scientific Methodology Plays Rossini",
+    "url": "https://arxiv.org/abs/2605.20220",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-21T04:00:00+00:00",
+    "summary": "arXiv:2605.20220v1 Announce Type: cross Abstract: A musical score provides the essential instructions for its performance while containing indications - at times implicit - regarding the composer's intentions. The presence of authorial variants, and even more so complex series of revisions associated with a single text, presents a challenging path for analytical study. This research, situated within the application of Scientific Methodologies to Music Philology, proposes a methodological approac…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "9c345e8d8d3f",
+    "title": "DIVE: Embedding Compression via Self-Limiting Gradient Updates",
+    "url": "https://arxiv.org/abs/2605.20689",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-21T04:00:00+00:00",
+    "summary": "arXiv:2605.20689v1 Announce Type: cross Abstract: High-dimensional embeddings from large language models impose significant storage and computational costs on vector search systems. Recent embedding compression methods, including Matryoshka-Adaptor (EMNLP 2024), Search-Adaptor (ACL 2024), and SMEC (EMNLP 2025), enable dimensionality reduction through lightweight residual adapters, but their training objectives cause severe overfitting when labeled data is scarce, degrading retrieval performance …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "f41650cc0576",
+    "title": "GraphRAG on Consumer Hardware: Benchmarking Local LLMs for Healthcare EHR Schema Retrieval",
+    "url": "https://arxiv.org/abs/2605.20815",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-21T04:00:00+00:00",
+    "summary": "arXiv:2605.20815v1 Announce Type: cross Abstract: Graph-based Retrieval Augmented Generation (GraphRAG) extends retrieval-augmented generation to support structured reasoning over complex corpora, but its reliability under resource-constrained, privacy-sensitive deployments remains unclear. In healthcare, where Electronic Health Record (EHR) data is complex and strictly regulated, reliance on cloud-based large language models (LLMs) introduces challenges in cost, latency, and compliance. In this…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "d44faa1f9737",
+    "title": "M3: Conversational LLMs Simplify Secure Clinical Data Access, Understanding, and Analysis",
+    "url": "https://arxiv.org/abs/2507.01053",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-21T04:00:00+00:00",
+    "summary": "arXiv:2507.01053v4 Announce Type: replace Abstract: Large-scale clinical databases offer opportunities for medical research, but their complexity creates barriers to effective use. The Medical Information Mart for Intensive Care (MIMIC-IV), one of the world's largest open-source electronic health record databases, traditionally requires both SQL proficiency and clinical domain expertise. We introduce M3, a system that enables natural language querying of MIMIC-IV data through the Model Context P…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "b65ef64cbbd0",
+    "title": "Legal Retrieval for Public Defenders",
+    "url": "https://arxiv.org/abs/2601.14348",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-21T04:00:00+00:00",
+    "summary": "arXiv:2601.14348v3 Announce Type: replace Abstract: AI tools are suggested as solutions to assist public agencies with heavy workloads. In public defense -- where a constitutional right to counsel meets the complexities of law, overwhelming caseloads, and constrained resources -- practitioners face especially taxing conditions. Yet, there is little evidence of how AI could meaningfully support defenders' day-to-day work. In partnership with the New Jersey Office of the Public Defender, we develo…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "adb1e1f7a7ec",
+    "title": "Compute Only Once: UG-Separation for Efficient Large Recommendation Models",
+    "url": "https://arxiv.org/abs/2602.10455",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-21T04:00:00+00:00",
+    "summary": "arXiv:2602.10455v2 Announce Type: replace Abstract: Driven by scaling laws, recommender systems increasingly rely on larger-scale models to capture complex feature interactions and user behaviors, but this trend also leads to prohibitive training and inference costs. While long-sequence models can reuse user-side computation through KV Caching, such reuse is difficult in TokenMixer-based dense feature interaction architectures, where user and group features are deeply entangled and mixed-up acro…",
+    "category": "Information Behavior"
+  },
+  {
+    "id": "6153d2b89574",
+    "title": "Breaking User-Centric Agency: A Tri-Party Framework for Agent-Based Recommendation",
+    "url": "https://arxiv.org/abs/2603.10673",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-21T04:00:00+00:00",
+    "summary": "arXiv:2603.10673v2 Announce Type: replace Abstract: Recent advances in large language models (LLMs) have stimulated growing interest in agent-based recommender systems, enabling language-driven interaction and reasoning for more expressive preference modeling. However, most existing agentic approaches remain predominantly user-centric, treating items as passive entities and neglecting the interests of other critical stakeholders. This limitation exacerbates exposure concentration and long-tail u…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "4e6c6753cb41",
+    "title": "Access Paths for Efficient Ordering with Large Language Models",
+    "url": "https://arxiv.org/abs/2509.00303",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-21T04:00:00+00:00",
+    "summary": "arXiv:2509.00303v3 Announce Type: replace-cross Abstract: In this work, we present the \\texttt{LLM ORDER BY} semantic operator as a logical abstraction and conduct a systematic study of its physical implementations. First, we propose several improvements to existing semantic sorting algorithms and introduce a semantic-aware external merge sort algorithm. Our extensive evaluation reveals that no single implementation offers universal optimality on all datasets. From our evaluations, we observe a …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "585162c11a3b",
+    "title": "Sequential Data Augmentation for Generative Recommendation",
+    "url": "https://arxiv.org/abs/2509.13648",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-21T04:00:00+00:00",
+    "summary": "arXiv:2509.13648v3 Announce Type: replace-cross Abstract: Generative recommendation plays a crucial role in personalized systems, predicting users' future interactions from their historical behavior sequences. A critical yet underexplored factor in training these models is data augmentation, the process of constructing training data from user interaction histories. By shaping the training distribution, data augmentation directly and often substantially affects model generalization and performanc…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a59f98f95916",
+    "title": "Transcription and Recognition of Italian Parliamentary Speeches Using Vision-Language Models",
+    "url": "https://arxiv.org/abs/2603.28103",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-21T04:00:00+00:00",
+    "summary": "arXiv:2603.28103v2 Announce Type: replace-cross Abstract: Parliamentary proceedings represent a rich yet challenging resource for computational analysis, particularly when preserved only as scanned historical documents. Existing efforts to transcribe Italian parliamentary speeches have relied on traditional Optical Character Recognition pipelines, resulting in transcription errors and limited semantic annotation. In this paper, we propose a pipeline based on Vision-Language Models for the automa…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "50cb06bd0394",
+    "title": "SpaceX Listed Grok’s ‘Spicy’ Mode as a Risk in Its IPO Filing",
+    "url": "https://www.wired.com/story/spacex-ipo-grok-spicy-mode-risks/",
+    "source": "Wired AI",
+    "date": "2026-05-21T00:43:13+00:00",
+    "summary": "The rocket company has set aside more than $500 million for potential litigation losses, in part to account for complaints alleging that Grok created sexualized images.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5d43790d9958",
+    "title": "SpaceX Is Spending $2.8 Billion to Buy Gas Turbines for Its AI Data Centers",
+    "url": "https://www.wired.com/story/elon-musk-spacex-spending-gas-turbines-grok/",
+    "source": "Wired AI",
+    "date": "2026-05-20T23:30:06+00:00",
+    "summary": "The investment comes as Elon Musk’s AI unit faces complaints about the carbon-emitting units and looks to become a big player in cloud computing.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "f52555ab5342",
     "title": "I Gave My OpenClaw Agent a Physical Body",
     "url": "https://www.wired.com/story/i-gave-my-openclaw-agent-physical-body-robot/",
