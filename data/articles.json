@@ -1,5 +1,230 @@
 [
   {
+    "id": "716016c21162",
+    "title": "Even If You Hate AI, You Will Use Google AI Search",
+    "url": "https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/",
+    "source": "Wired AI",
+    "date": "2026-05-22T15:00:00+00:00",
+    "summary": "The search giant’s AI-crafted answers are so convenient, you’ll be sucked in—to the detriment of the web and the artists and thinkers behind it.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "55fe3e510e48",
+    "title": "Google I/O showed how the path for AI-driven science is shifting",
+    "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+    "source": "MIT Tech Review",
+    "date": "2026-05-22T10:00:00+00:00",
+    "summary": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singularity is the theoretical future moment when AI rapidly exceeds human intelligence and dramatically transforms the world. But what struck me as I listened in the&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "313e6c2515f6",
+    "title": "The Gulf’s AI Boom Has an Undersea Cable Problem",
+    "url": "https://www.wired.com/story/the-gulfs-ai-boom-has-an-undersea-cable-problem/",
+    "source": "Wired AI",
+    "date": "2026-05-22T09:00:00+00:00",
+    "summary": "Hyperscalers are pushing the Gulf to rethink internet infrastructure as AI raises the stakes of cable disruptions.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2e6ed578c282",
+    "title": "Bridging the Cold-Start Gap: LLM-Powered Synthetic Data Generation for Natural Language Search at Airbnb",
+    "url": "https://arxiv.org/abs/2605.21812",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-22T04:00:00+00:00",
+    "summary": "arXiv:2605.21812v1 Announce Type: new Abstract: Deploying natural language search systems presents a critical cold-start challenge: no real user queries to learn linguistic patterns, and no relevance labels to train ranking models. We present a framework for generating synthetic queries and labels using large language models (LLMs), powering model training and evaluation for Airbnb's natural language search. For query generation, we combine contrastive listing pairs from booking sessions with se…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "1efc72d5ce9b",
+    "title": "Reinforced Preference Optimization for Reasoning-Augmented Recommendations",
+    "url": "https://arxiv.org/abs/2605.21967",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-22T04:00:00+00:00",
+    "summary": "arXiv:2605.21967v1 Announce Type: new Abstract: Recommender systems are critical for delivering personalized content across digital platforms, and recent advances in Large Language Models (LLMs) offer new opportunities to enhance them with richer world knowledge and explicit reasoning capabilities. With the help of reasoning knowledge, recommendations can better infer users' underlying intents, adapt to evolving preferences, and leverage semantic relationships for improved accuracy and interpret…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "f17aa1a7567c",
+    "title": "LLM Retrieval for Stable and Predictable Ad Recommendations",
+    "url": "https://arxiv.org/abs/2605.21969",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-22T04:00:00+00:00",
+    "summary": "arXiv:2605.21969v1 Announce Type: new Abstract: Traditional ads recommendation systems have primarily focused on optimizing for prediction accuracy of click or conversion events using canonical metrics such as recall or normalized discounted cumulative gain (NDCG). With the hyper-growth of ads inventory and liquidity with generative AI technologies, the prediction stability and predictability is becoming increasingly critical. Intuitively, prediction stability and predictability can be defined t…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "467a99b4d654",
+    "title": "Generative Conversational Recommender System",
+    "url": "https://arxiv.org/abs/2605.21987",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-22T04:00:00+00:00",
+    "summary": "arXiv:2605.21987v1 Announce Type: new Abstract: Conversational recommender systems aim to provide personalized recommendations via natural language interactions. However, existing approaches either decouple recommendation from dialog generation or rely on retrieval-based pipelines, limiting the integration between recommendation and response generation and leading to suboptimal modeling of user intent. In this paper, we propose a fully generative conversational recommender system that unifies re…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "40e5afa82113",
+    "title": "Behavior-Guided Candidate Calibration for Multimodal Recommendation",
+    "url": "https://arxiv.org/abs/2605.22073",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-22T04:00:00+00:00",
+    "summary": "arXiv:2605.22073v1 Announce Type: new Abstract: Multimodal recommendation benefits from content signals, but the gain depends on how those signals interact with the ranking pipeline. We find that moderate cross-view agreement helps, while stronger agreement suppresses recommendation-specific variation. Spectral analysis shows a clear split: low-frequency components capture shared structure, and higher-frequency components preserve more discriminative signal. Based on this finding, we introduce a…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4498cc0e6ea1",
+    "title": "Integrating Chain-of-Thought into Generative Retrieval: A Preliminary Study",
+    "url": "https://arxiv.org/abs/2605.22358",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-22T04:00:00+00:00",
+    "summary": "arXiv:2605.22358v1 Announce Type: new Abstract: While generative retrieval (GR) demonstrates competitive performance on standard retrieval benchmarks, existing approaches directly map queries to document identifiers (docids) without intermediate deliberation, limiting their effectiveness for complex queries that require multi-step reasoning. As a preliminary study on integrating chain-of-thought (CoT) into generative retrieval, we introduce ThinkGR, a unified framework that interleaves CoT with …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "19042bb17bb0",
+    "title": "Diversed Model Discovery via Structured Table Discovery",
+    "url": "https://arxiv.org/abs/2605.22766",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-22T04:00:00+00:00",
+    "summary": "arXiv:2605.22766v1 Announce Type: new Abstract: Model cards describe model behavior through a mixture of textual descriptions and structured artifacts, including performance, configuration, and dataset tables. Existing model search systems rely predominantly on semantic similarity over text, which can produce homogeneous result sets and limit exploration of alternatives. We argue that model search is inherently comparative: users want models that are task-aligned yet differentiated in measurable…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ef823e55293d",
+    "title": "From TF-IDF to Transformers: A Comparative and Ensemble Approach to Sentiment Classification",
+    "url": "https://arxiv.org/abs/2605.22003",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-22T04:00:00+00:00",
+    "summary": "arXiv:2605.22003v1 Announce Type: cross Abstract: Sentiment analysis, also referred to as opinion mining, primarily tries to extract opinion from any text-based data. In the context of movie reviews and critics, sentimental analysis can be a helpful tool to predict whether a movie review is generally positive or negative. It can be difficult for the ML models to understand the context or metaphysical sentiment accurately, as ML models rely largely on statistical word representations. The objecti…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1c6323fdea93",
+    "title": "Direct content-based retrieval from music scores images",
+    "url": "https://arxiv.org/abs/2605.22255",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-22T04:00:00+00:00",
+    "summary": "arXiv:2605.22255v1 Announce Type: cross Abstract: The digitization of musical scores plays a crucial role in their preservation and accessibility, yet information retrieval still depends mainly on metadata searches, such as by title or composer. Content based search in music score images remains underexplored compared to text documents, despite its potential value for musicians, musicologists, and educators. This work contributes to the field by first studying which characteristics of a score ar…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "a708ef2979ac",
+    "title": "BeLink: Biomedical Entity Linking Meets Generative Re-Ranking",
+    "url": "https://arxiv.org/abs/2605.22501",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-22T04:00:00+00:00",
+    "summary": "arXiv:2605.22501v1 Announce Type: cross Abstract: Despite recent progress, Biomedical Entity Linking (BEL) with large language models (LLMs) remains computationally inefficient and challenging to deploy in practical settings. In this work, we demonstrate that instruction-tuning of open-source generative models can offer an effective solution when applied at the re-ranking stage of the BEL pipeline. We propose a set-wise instruction-tuning formulation that enables fast and accurate candidate sele…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "97968efdb1f6",
+    "title": "Search-E1: Self-Distillation Drives Self-Evolution in Search-Augmented Reasoning",
+    "url": "https://arxiv.org/abs/2605.22511",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-22T04:00:00+00:00",
+    "summary": "arXiv:2605.22511v1 Announce Type: cross Abstract: Post-training has become the dominant recipe for turning a language model into a competent search-augmented reasoning agent. A line of recent work pushes its performance further by adding elaborate machinery on top of this standard pipeline. These augmentations import external supervision from stronger external systems, attach auxiliary modules such as process reward models or retrospective critics, restructure the rollout itself with tree search…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8d714439004a",
+    "title": "One prompt is not enough: Instruction Sensitivity Undermines Embedding Model Evaluation",
+    "url": "https://arxiv.org/abs/2605.22544",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-22T04:00:00+00:00",
+    "summary": "arXiv:2605.22544v1 Announce Type: cross Abstract: Instruction embedding models have become common among state-of-the-art models, however are evaluated using a single prompt per task. The single-point evaluation ignores a main problem of the instruction-based approach namely: sensitivity to the phrasing of the instruction. We present an empirical study of prompt sensitivity across 6 embedding models, 11 datasets, and 15 task-specific prompts per dataset, a total of 990. We show that reported scor…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "274e65d4c97f",
+    "title": "LEMUR: Learned Multi-Vector Retrieval",
+    "url": "https://arxiv.org/abs/2601.21853",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-22T04:00:00+00:00",
+    "summary": "arXiv:2601.21853v2 Announce Type: replace Abstract: Multi-vector representations generated by late interaction models, such as ColBERT, enable superior retrieval quality compared to single-vector representations in information retrieval applications. In multi-vector retrieval systems, both queries and documents are encoded using one embedding per token, and similarity between queries and documents is measured by the MaxSim similarity measure. However, the improved quality of multi-vector retriev…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "ca9682bb3e9f",
+    "title": "End-to-End Semantic ID Generation for Generative Advertisement Recommendation",
+    "url": "https://arxiv.org/abs/2602.10445",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-22T04:00:00+00:00",
+    "summary": "arXiv:2602.10445v3 Announce Type: replace Abstract: Generative Recommendation (GR) has excelled by framing recommendation as next-token prediction. This paradigm relies on Semantic IDs (SIDs) to tokenize large-scale items into discrete sequences. Existing GR approaches predominantly generate SIDs via Residual Quantization (RQ), where items are encoded into embeddings and then quantized to discrete SIDs. However, this paradigm suffers from inherent limitations: 1) Objective misalignment and seman…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "ff34d5ccd2a1",
+    "title": "Structural Anchor Pruning: Training-Free Multi-Vector Compression for Visual Document Retrieval",
+    "url": "https://arxiv.org/abs/2601.20107",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-22T04:00:00+00:00",
+    "summary": "arXiv:2601.20107v2 Announce Type: replace-cross Abstract: Recent Vision-Language Models (e.g., ColPali) enable fine-grained Visual Document Retrieval (VDR) but incur prohibitive multi-vector index storage overhead. Existing training-free pruning methods either rely on heuristic layer choices or degrade sharply under aggressive compression, leading prior work to argue that effective high-compression pruning requires query-dependent training. We challenge this view with Structural Anchor Pruning (…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "d41f73d471f1",
+    "title": "Turning Trust to Transactions: Tracking Affiliate Marketing and FTC Compliance in YouTube's Influencer Economy",
+    "url": "https://arxiv.org/abs/2603.04383",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-22T04:00:00+00:00",
+    "summary": "arXiv:2603.04383v2 Announce Type: replace-cross Abstract: YouTube has evolved into a powerful platform where creators monetize their influence through affiliate marketing, raising concerns about transparency and ethics, especially when creators fail to disclose their affiliate relationships. Although regulatory agencies like the US Federal Trade Commission (FTC) have issued guidelines to address these issues, non-compliance and consumer harm persist, and the extent of these problems remains uncl…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2c2494cd1bb8",
+    "title": "The Ephemeral Web and the Case for Proactive Archiving",
+    "url": "https://arxiv.org/abs/2605.21517",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-05-22T04:00:00+00:00",
+    "summary": "arXiv:2605.21517v1 Announce Type: new Abstract: The web is often treated as a durable record of institutional and social life, yet in practice it is fragile, revisable, and frequently ephemeral. Domains change, redesigns erase earlier material, institutions relocate, maintainers graduate, platforms impose silent limits, and periods of political instability can interrupt digital access entirely. This paper argues that archiving should not remain a niche activity practiced by a few specialists at …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e47659762a2b",
+    "title": "From Licensing to Open Access: Designing a Sustainable Transition in Operational Weather Data",
+    "url": "https://arxiv.org/abs/2605.21673",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-05-22T04:00:00+00:00",
+    "summary": "arXiv:2605.21673v1 Announce Type: cross Abstract: This translational article documents the European Centre for Medium-Range Weather Forecasts (ECMWF) transition from a restricted data licensing model to open access under CC BY 4.0, completed in October 2025. The policy context included EU open data requirements and alignment with international data exchange frameworks. The transition was implemented through a tiered service model that kept core forecast data open while offering operationally sup…",
+    "category": "Records Management & AI"
+  },
+  {
+    "id": "48b4828f428e",
+    "title": "Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?",
+    "url": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/",
+    "source": "Wired AI",
+    "date": "2026-05-22T00:04:25+00:00",
+    "summary": "Global affairs chief Chris Lehane wants to tone down the debate over AI’s societal impacts—and get states to pass laws that won’t derail OpenAI’s meteoric rise.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c8a73e3436ef",
+    "title": "Meta Is in Crisis, Google Search’s Makeover, and AI Gets Booed by Graduates",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-meta-in-crisis-google-search-makeover-ai-booed-by-graduates/",
+    "source": "Wired AI",
+    "date": "2026-05-21T20:44:53+00:00",
+    "summary": "In this episode of Uncanny Valley, we unpack the mass layoffs at Meta, big announcements at Google I/O, and the latest backlash against AI.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "961d585b3c85",
+    "title": "Roundtables: Can AI Learn to Understand the World?",
+    "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+    "source": "MIT Tech Review",
+    "date": "2026-05-21T20:41:05+00:00",
+    "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the forefront of the AI discussion. Watch a conversation with editor in chief Mat Honan, senior AI editor Will Douglas Heaven, and AI reporter&#8230;",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c69e9ad058f7",
+    "title": "Scaling creativity in the age of AI",
+    "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
+    "source": "MIT Tech Review",
+    "date": "2026-05-21T19:16:43+00:00",
+    "summary": "Storytelling is core to humanity&#8217;s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through the medium and the distribution: from early humans&#8217; innovation of natural pigments and charcoals for cave paintings to literal representation by the camera. The landscape of storytelling continues to shift under our&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "57e5b33ce937",
     "title": "I Cloned Myself With Gemini’s AI Avatar Tool. The Result Was Unnervingly Me",
     "url": "https://www.wired.com/story/i-cloned-myself-with-geminis-ai-avatar-tool-the-result-was-unnervingly-me/",
