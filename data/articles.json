@@ -1,5 +1,230 @@
 [
   {
+    "id": "b50ae0e6c06f",
+    "title": "The AI Era Is Creating a Bug Hunting Arms Race",
+    "url": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
+    "source": "Wired AI",
+    "date": "2026-05-25T10:30:00+00:00",
+    "summary": "As attackers ramp up their AI exploit development, the search for software vulnerabilities is changing rapidly.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c09621be1cf1",
+    "title": "LFRAG: Layout-oriented Fine-grained Retrieval-Augmented Generation on Multimodal Document Understanding",
+    "url": "https://arxiv.org/abs/2605.22829",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-25T04:00:00+00:00",
+    "summary": "arXiv:2605.22829v1 Announce Type: new Abstract: Multimodal Retrieval-Augmented Generation (RAG) has emerged as an effective paradigm for enhancing Large Language Models (LLMs) with external knowledge. However, existing multimodal RAG systems predominantly rely on coarse-grained page-level retrieval, which fails to capture fine-grained semantic and layout structures in visually rich documents, thereby compromising retrieval accuracy and leading to redundant context in downstream tasks. To address…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "7177845602c7",
+    "title": "RAG4Outcome: A Retrieval-Augmented Multimodal Framework for Prognostic Prediction in Chronic Osteomyelitis",
+    "url": "https://arxiv.org/abs/2605.22833",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-25T04:00:00+00:00",
+    "summary": "arXiv:2605.22833v1 Announce Type: new Abstract: Chronic osteomyelitis presents substantial prognostic challenges due to its high recurrence risk and complex postoperative recovery trajectories. Traditional assessment often relies on manual scoring systems, which limit scalability, efficiency, and consistency in clinical practice. Furthermore, the heterogeneous nature of clinical data poses challenges for current multimodal learning approaches that require aligned inputs and large annotated datas…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a8067cbfeb1c",
+    "title": "AI-Friendly LaTeX: Using LaTeX Code as a Knowledge Source for Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2605.22923",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-25T04:00:00+00:00",
+    "summary": "arXiv:2605.22923v1 Announce Type: new Abstract: Large language models can answer questions about textbooks, lecture notes, and programming exercises more reliably when their answers are grounded in an explicit knowledge source. Retrieval-augmented generation (RAG) is a common approach: relevant fragments of a document are retrieved and inserted into the model context before answering. For mathematical and technical material, the original LaTeX source can be a better starting point than a PDF, be…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "4f98f4c728fb",
+    "title": "From Head to Tail: Asymmetric Knowledge Transfer in Long-tail Recommendation with Generative Semantic IDs",
+    "url": "https://arxiv.org/abs/2605.23310",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-25T04:00:00+00:00",
+    "summary": "arXiv:2605.23310v1 Announce Type: new Abstract: Long-tail recommendation in real-world e-commerce platforms remains challenging due to severe data imbalance. Existing methods often struggle to combine content-based multimodal features with collaborative signals. Many of these methods also ignore an important asymmetry in knowledge transfer between head and tail IDs: noisy signals from tail IDs can hurt representation learning for head IDs. This paper presents AKT-Rec, a framework for Asymmetric …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4cf73b420f5b",
+    "title": "Towards Generalizable and Efficient Large-Scale Generative Recommenders",
+    "url": "https://arxiv.org/abs/2605.23312",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-25T04:00:00+00:00",
+    "summary": "arXiv:2605.23312v1 Announce Type: new Abstract: Generative recommendation models can model user behavior as sequences of events and provide a shared backbone for multiple recommendation tasks. In production, however, pre-training gains do not automatically translate into downstream application improvements: task headroom, repeated-training cost, serving latency, and item freshness all affect transfer. We describe our experience scaling a generative recommender from 2M to 1B backbone parameters, …",
+    "category": "Information Behavior"
+  },
+  {
+    "id": "f92c2356dbd1",
+    "title": "TPMM-DPO: Trajectory-aware Preference-guided Model Merging for Iterative Direct Preference Optimization",
+    "url": "https://arxiv.org/abs/2605.23398",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-25T04:00:00+00:00",
+    "summary": "arXiv:2605.23398v1 Announce Type: new Abstract: Direct Preference Optimization (DPO) has been widely adopted for large language model alignment due to its simple training procedure and lack of an explicit reward model. However, in iterative DPO, when the policy model from the previous iteration is repeatedly used as the reference model for subsequent rounds, noise in preference data and errors in the reference model accumulate over time. This accumulation can lead to late-stage over-optimization…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "d350e9b000c4",
+    "title": "HARNESS-LM: A Three-Phase Training Recipe for Harnessing SLMs in Sponsored Search Retrieval",
+    "url": "https://arxiv.org/abs/2605.23572",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-25T04:00:00+00:00",
+    "summary": "arXiv:2605.23572v1 Announce Type: new Abstract: In the competitive landscape of sponsored search, balancing retrieval quality with production latency is a critical challenge. While large retrieval models based on Small Language Models (SLMs) such as Qwen3-Embedding-4B/8B set strong upper bounds on public benchmarks, their deployment in high-throughput, latency-sensitive environments remains impractical. In this paper, we present HARNESS-LM (HLM), a three-phase training framework for transferring…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "2f4423229793",
+    "title": "Synthetic Sources?: Auditing Generative Search Engine Citations for Evidence of AI-Generated Sources",
+    "url": "https://arxiv.org/abs/2605.23684",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-25T04:00:00+00:00",
+    "summary": "arXiv:2605.23684v1 Announce Type: new Abstract: The growing accessibility of Large Language Models via conversational interfaces capable of responding to users' questions by drawing on, synthesizing, and citing information from the web (i.e., Generative Search Engines) has simplified the information-seeking process for users. However, with the proliferation of AI-generated content on the web, it is unclear whether these engines can reliably omit citing synthetic sources (i.e., AI-generated sourc…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "05f3f7fe9699",
+    "title": "TubiFM: Unified Item, Carousel, and Search Ranking for Streaming Discovery",
+    "url": "https://arxiv.org/abs/2605.23702",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-25T04:00:00+00:00",
+    "summary": "arXiv:2605.23702v1 Announce Type: new Abstract: Personalized discovery systems often train separate models for item ranking, carousel ranking, and search, even though these tasks expose complementary signals from the same viewer journey: watches shape carousel and item ranking, search queries reveal intent even when they do not lead to a catalog match, and watch history helps interpret search as rewatching, continuation, or new discovery. We introduce the user story, a serialized representation …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1528dc33d7db",
+    "title": "Query-Adaptive Semantic Chunking for Retrieval-Augmented Generation: A Dynamic Strategy with Contextual Window Expansion",
+    "url": "https://arxiv.org/abs/2605.22834",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-25T04:00:00+00:00",
+    "summary": "arXiv:2605.22834v1 Announce Type: cross Abstract: Retrieval-Augmented Generation (RAG) systems depend critically on document chunking quality for retrieving relevant context. Fixed chunking segments documents into uniform units irrespective of semantics or user intent, producing a precision-recall trade-off unresolvable by tuning chunk size alone. Semantic and agentic methods partially address these limitations but do not integrate user queries at the chunking stage. We present Query-Adaptive Se…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "03b32190255d",
+    "title": "Knowledge Distillation for Low-Resource Open-source Text-to-SQL Model",
+    "url": "https://arxiv.org/abs/2605.22843",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-25T04:00:00+00:00",
+    "summary": "arXiv:2605.22843v1 Announce Type: cross Abstract: Text-to-SQL converts natural language questions into executable SQL queries, enabling non-technical users to access relational databases for analytics and intelligent data services. In real-world scenarios, performance is often constrained by low-resource settings, where high-quality annotated \\texttt{} pairs are scarce, particularly for domain-specific databases. Additional challenges include opaque schema definitions, abbreviations, and implici…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b11b75dbbdf6",
+    "title": "SciAtlas: A Large-Scale Knowledge Graph for Automated Scientific Research",
+    "url": "https://arxiv.org/abs/2605.22878",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-25T04:00:00+00:00",
+    "summary": "arXiv:2605.22878v1 Announce Type: cross Abstract: The exponential growth of global academic output has confronted researchers and AI agents with an unprecedented ``information explosion,'' where fragmented and unstructured knowledge organization impedes deep interdisciplinary integration. Current academic retrieval tools predominantly rely on superficial keyword matching or vector-space semantic retrieval, which lack the topological reasoning capabilities required to navigate complex logical con…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "fce605d5f833",
+    "title": "Building a privacy-preserving Federated Recommender system for mobile devices",
+    "url": "https://arxiv.org/abs/2605.22924",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-25T04:00:00+00:00",
+    "summary": "arXiv:2605.22924v1 Announce Type: cross Abstract: Serving personalized content on mobile devices has traditionally required pooling sensitive user data on centralized servers, a practice increasingly at odds with modern privacy expectations and geographical regulations. We present a two-stage federated recommendation system pipeline for mobile devices, built around a principled separation between non-sensitive user preference data and sensitive mobile context data that never leaves the device. T…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "58be9a77a0b8",
+    "title": "Expand More, Shrink Less: Shaping Effective-Rank Dynamics for Dense Scaling in Recommendation",
+    "url": "https://arxiv.org/abs/2605.23191",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-25T04:00:00+00:00",
+    "summary": "arXiv:2605.23191v1 Announce Type: cross Abstract: Scaling recommendation models is a central challenge in recommender systems. Recently, RankMixer has emerged as an effective solution, operating on a unified token representation and alternating between token mixing and per-token feedforward networks (P-FFNs) to achieve scalable performance. However, RankMixer suffers from \\textit{embedding collapse}, where learned representations have low effective rank, limiting expressivity and underutilizing …",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "20862dbbe475",
+    "title": "Is Dimensionality a Barrier for Retrieval Models?",
+    "url": "https://arxiv.org/abs/2605.23556",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-25T04:00:00+00:00",
+    "summary": "arXiv:2605.23556v1 Announce Type: cross Abstract: Why does the low dimensionality of representations, typically $d\\approx 1000$, not prevent modern embedding-based retrieval models from scaling to billions, or even trillions, of data points? To answer this question, we study maximal-margin embeddings in the following retrieval model, classically studied in communication complexity [PS86] and more recently in embedding-based retrieval [WBNL26]. Let $A\\in \\{0,1\\}^{N\\times n}$ be a matrix indicatin…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "0ba2e519f0ad",
+    "title": "Tracking a Decade of Research at the University of Nigeria, Nsukka: A Scientometric Analysis (2014-2023)",
+    "url": "https://arxiv.org/abs/2605.23586",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-25T04:00:00+00:00",
+    "summary": "arXiv:2605.23586v1 Announce Type: cross Abstract: This study employs scientometric methods to assess the research output and performance of the University of Nigeria from 2014 to 2023. By analyzing publication trends, citation patterns, and collaboration networks, the research aims to comprehensively evaluate the university's research productivity, impact, and disciplinary focus. These research endeavors are characterized by innovation, interdisciplinary collaboration, and commitment to excellen…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "eee0e175f7d9",
+    "title": "Vector Retrieval with Similarity and Diversity: How Hard Is It?",
+    "url": "https://arxiv.org/abs/2407.04573",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-25T04:00:00+00:00",
+    "summary": "arXiv:2407.04573v4 Announce Type: replace Abstract: Dense vector retrieval is an important building block of modern machine learning systems, underlying applications ranging from semantic search to retrieval-augmented generation and knowledge-intensive reasoning. Beyond retrieving items that are individually similar to a query, many applications require a set of results that is also diverse, complementary, and collectively informative. Balancing similarity and diversity is therefore central to e…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "d44222b2d3ba",
+    "title": "PLACE: Prompt Learning for Attributed Community Search in Large Graphs",
+    "url": "https://arxiv.org/abs/2507.05311",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-25T04:00:00+00:00",
+    "summary": "arXiv:2507.05311v2 Announce Type: replace Abstract: In this paper, we propose PLACE (Prompt Learning for Attributed Community Search), an innovative graph prompt learning framework for ACS. Enlightened by prompt-tuning in Natural Language Processing (NLP), where learnable prompt tokens are inserted to contextualize NLP queries, PLACE integrates structural and learnable prompt tokens into the graph as a query-dependent refinement mechanism, forming a prompt-augmented graph. Within this prompt-aug…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d28f543ec9e2",
+    "title": "Controlled Personalization in Legacy Media Online Services: A Case Study in News Recommendation",
+    "url": "https://arxiv.org/abs/2510.09136",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-25T04:00:00+00:00",
+    "summary": "arXiv:2510.09136v2 Announce Type: replace Abstract: Personalized news recommendations have become a standard feature of large news aggregation services, optimizing user engagement through automated content selection. In contrast, legacy news media often approach personalization cautiously, striving to balance technological innovation with core editorial values. As a result, online platforms of traditional news outlets typically combine editorially curated content with algorithmically selected ar…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "00ac6a9a0c22",
+    "title": "A Hierarchical Quantized Tokenization Framework for Task-Adaptive Graph Representation Learning",
+    "url": "https://arxiv.org/abs/2510.12369",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-25T04:00:00+00:00",
+    "summary": "arXiv:2510.12369v3 Announce Type: replace Abstract: Foundation models in language and vision benefit from a unified discrete token interface that converts raw inputs into sequences for scalable pre-training and inference. For graphs, an effective tokenizer should yield reusable discrete codes that capture both node semantics and relational structure across scales, yet prior quantization-based graph tokenizers typically combine residual vector quantization (RVQ) levels with fixed rules and often …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a1b24a273949",
+    "title": "BlossomRec: Block-level Fused Sparse Attention Mechanism for Sequential Recommendations",
+    "url": "https://arxiv.org/abs/2512.13368",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-25T04:00:00+00:00",
+    "summary": "arXiv:2512.13368v3 Announce Type: replace Abstract: Transformer structures have been widely used in sequential recommender systems (SRS). However, as user interaction histories increase, computational time and memory requirements also grow. This is mainly caused by the standard attention mechanism. Although there exist many methods employing efficient attention and SSM-based models, these approaches struggle to effectively model long sequences and may exhibit unstable performance on short sequen…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0bcb28b4dbc8",
+    "title": "Joint Model Parameter Scaling and Universal-Domain Data Integration for E-commerce Search Ranking",
+    "url": "https://arxiv.org/abs/2603.24226",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-25T04:00:00+00:00",
+    "summary": "arXiv:2603.24226v3 Announce Type: replace Abstract: Scaling studies for industrial search, advertising, and recommendation have largely emphasized enlarging model capacity or refining architectures. Yet in real-world systems, performance is constrained not only by model size but also by the quality and distribution of training data. Our empirical analysis shows two key bottlenecks: increasing parameters alone yields progressively smaller gains, and the challenges introduced by heterogeneous, lar…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e205b791d060",
+    "title": "Sample Is Feature: Beyond Item-Level, Toward Sample-Level Tokens for Unified Large Recommender Models",
+    "url": "https://arxiv.org/abs/2604.15650",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-25T04:00:00+00:00",
+    "summary": "arXiv:2604.15650v2 Announce Type: replace Abstract: Scaling industrial recommender models has followed two parallel paradigms: \\textbf{sample information scaling} -- enriching the information content of each training sample through deeper and longer behavior sequences -- and \\textbf{model capacity scaling} -- unifying sequence modeling and feature interaction within a single Transformer backbone. However, these two paradigms still face two structural limitations. Firstly, sample information scal…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "160744c0bc84",
+    "title": "Information Access of the Oppressed: Freirean Design for Emancipatory Information Access",
+    "url": "https://arxiv.org/abs/2601.09600",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-25T04:00:00+00:00",
+    "summary": "arXiv:2601.09600v3 Announce Type: replace-cross Abstract: Online information access (IA) platforms are targets of authoritarian capture. We explore the question of how to safeguard our platforms and ensure emancipatory outcomes through the lens of Paulo Freire's theories of emancipatory pedagogy. Freire's theories provide a radically different lens for exploring IA's sociotechnical concerns relative to the current dominating frames of fairness, accountability, and transparency. We make explicit,…",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "25c1104e4bc5",
     "title": "These Robots Are Making Meals for a Nonprofit in San Francisco’s Tenderloin",
     "url": "https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/",
