@@ -1,5 +1,329 @@
 [
   {
+    "id": "b8344ef4613d",
+    "title": "Amazon Thinks the Future of Data Centers Depends on a Technical Problem It Just Solved",
+    "url": "https://www.wired.com/story/amazon-thinks-the-future-of-data-centers-depends-on-a-technical-problem-it-just-solved/",
+    "source": "Wired AI",
+    "date": "2026-05-28T10:30:00+00:00",
+    "summary": "The tech giant says a breakthrough in data-center networking has dramatically accelerated the flow of information through its massive cloud infrastructure.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5697c10e2e92",
+    "title": "The AI Hype Index: AI gets booed in graduation season",
+    "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+    "source": "MIT Tech Review",
+    "date": "2026-05-28T09:51:11+00:00",
+    "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. “I can&#8230;",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "7b6add8501fc",
+    "title": "Memory-Based vs. Context-Only Conditioning Produces Distinct Behavioral Patterns in Stateful Personalization",
+    "url": "https://arxiv.org/abs/2605.27389",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-28T04:00:00+00:00",
+    "summary": "arXiv:2605.27389v1 Announce Type: new Abstract: We study how conditioning context shapes personalization behavior in a teacher-facing educational recommender system. We compare contextual conditioning based on the current student question with memory-based conditioning using persistent learner information. Using deviation correlation and paired statistical tests, we find that contextual recommendations exhibit stronger question-level responsiveness, while memory-based recommendations exhibit his…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a34d27a7cde1",
+    "title": "Will AI be overconfident about academic research findings when reliant on abstracts? (v1)",
+    "url": "https://arxiv.org/abs/2605.27392",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-28T04:00:00+00:00",
+    "summary": "arXiv:2605.27392v1 Announce Type: new Abstract: Large Language Models (LLMs) like ChatGPT, DeepSeek and Gemini seem to be increasingly used for knowledge discovery, information retrieval, and knowledge summaries, including for academic topics. This can result in users being misled, such as due to hallucinations. These problems may be exacerbated for academic knowledge if LLMs base their answers on journal article abstracts when they lack full text access. To test whether the information content …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "7cf84a4cb8d1",
+    "title": "Ocean4Rec: Offline LLM-Derived OCEAN Profiles for Request-Time VOD Reranking",
+    "url": "https://arxiv.org/abs/2605.27429",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-28T04:00:00+00:00",
+    "summary": "arXiv:2605.27429v1 Announce Type: new Abstract: Industrial video-on-demand (VOD) recommenders need richer content understanding, but LLM-as-reranker designs repeat prompt construction, token generation, model invocation, output parsing, and fallback handling for each request. In high-volume latency-sensitive services, these request-time operations complicate throughput planning, tail-latency control, capacity isolation, and predictable operation. This paper presents Ocean4Rec, a reranking layer …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "8a004f1560ca",
+    "title": "FD-RAG: Federated Dual-System Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2605.27432",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-28T04:00:00+00:00",
+    "summary": "arXiv:2605.27432v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) has emerged as a paradigm for grounding large language models in external knowledge, yet most existing RAG systems assume centralized knowledge access and ample computation. These assumptions break down in edge environments, where knowledge is fragmented across devices, raw data cannot be shared, and repeated LLM calls are prohibitively expensive. We propose FD-RAG, a federated dual-system RAG framework that dec…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "b873a8e41539",
+    "title": "RE-TRIANGLE: Does TRIANGLE Enable Multimodal Alignment Beyond Cosine Similarity in Retrieval?",
+    "url": "https://arxiv.org/abs/2605.27436",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-28T04:00:00+00:00",
+    "summary": "arXiv:2605.27436v1 Announce Type: new Abstract: Multimodal alignment is critical for bridging the semantic gap in information retrieval. However, traditional pairwise strategies introduce a geometric blind spot: while they align anchor modalities (e.g., text) with others, they lack constraints to enforce mutual consistency between peripheral modalities (e.g., video and audio). The TRIANGLE framework addresses this by minimizing the area of modality triplets on a hypersphere to enforce holistic a…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "f3da6718822f",
+    "title": "MGRetrieval: Memory-Guided Reflective Retrieval for Long-Term Dialogue Agents",
+    "url": "https://arxiv.org/abs/2605.27437",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-28T04:00:00+00:00",
+    "summary": "arXiv:2605.27437v1 Announce Type: new Abstract: Large Language Models (LLMs) have made significant progress in dialogue, yet redundant memory contexts severely limit their effectiveness in long-term dialogue agents. External memory systems have been proposed to improve memory maintenance. However, these systems mainly rely on one-shot retrieval, which limits their ability to retrieve sufficient and relevant evidence. Although recent methods introduce reflection into retrieval, their retrieval pa…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "246f78faaa6a",
+    "title": "Prominence-Stratified Failure Modes in Retrieval-Augmented Commercial Recommendation: A 37,000-Run Audit",
+    "url": "https://arxiv.org/abs/2605.27439",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-28T04:00:00+00:00",
+    "summary": "arXiv:2605.27439v1 Announce Type: new Abstract: AI assistants like ChatGPT and Claude are recommendation engines, not search engines: they answer commercial queries by directly nominating brands rather than returning a list of links. Marketing to AI is therefore a broader problem than \"show up in search\" -- positioning, content, and product fit matter as much as discoverability. We audit ~37,000 production runs across four model configurations and 215 commercially-framed prompts spanning 19 sect…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "35697f032d48",
+    "title": "Paraphrase Brittleness in Production Retrieval-Augmented Commercial Recommendation: Reproducibility Below the Rerun-Stability Baseline",
+    "url": "https://arxiv.org/abs/2605.27440",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-28T04:00:00+00:00",
+    "summary": "arXiv:2605.27440v1 Announce Type: new Abstract: Small changes to how a buyer phrases a question -- \"best CRM\" vs \"top CRM\" vs \"best CRM for a SaaS startup\" -- produce substantially different brand recommendations from AI assistants. Across ~6,000 paraphrase runs and ~6,000 same-prompt rerun controls on OpenAI and Anthropic models, the recommendation-set similarity (Jaccard) between two paraphrases of the same underlying buying intent is 0.288 for cosmetic rewordings (clustered 95% CI [0.215, 0.3…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "144fe181b5fd",
+    "title": "A Unified Structured Query Understanding Framework for Industrial Semantic Search",
+    "url": "https://arxiv.org/abs/2605.27441",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-28T04:00:00+00:00",
+    "summary": "arXiv:2605.27441v1 Announce Type: new Abstract: Query understanding in large-scale industrial search systems is typically implemented as a cascade of disparate, task-specific components. While individually optimizable, this fragmented architecture incurs high maintenance overhead and results in inconsistent behaviors, particularly for long-tail queries. In this work, we propose and deploy a unified structured query understanding system that consolidates these heterogeneous functions into a singl…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "daf34957fa4e",
+    "title": "A Systematic Evaluation of Retrieval-Augmented Generation and Language Models for Space Operations",
+    "url": "https://arxiv.org/abs/2605.27444",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-28T04:00:00+00:00",
+    "summary": "arXiv:2605.27444v1 Announce Type: new Abstract: The rapid expansion of space activities has led to an unprecedented accumulation of technical documentation, operational guidelines, and scientific literature, creating challenges for timely decision-making in space operations. Effective management in space operations requires tools capable of efficiently processing vast and heterogeneous information sources. This paper systematically evaluates the performance of Retrieval Augmented Generation (RAG…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "adc8dee832b9",
+    "title": "RAGe: A Retrieval-Augmented Generation Evaluation Framework",
+    "url": "https://arxiv.org/abs/2605.27445",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-28T04:00:00+00:00",
+    "summary": "arXiv:2605.27445v1 Announce Type: new Abstract: Deploying Large Language Model (LLM) applications, particularly those relying on Retrieval-Augmented Generation (RAG), remains challenging due to high computational demands, outdated knowledge bases, and the need to manually select optimal pipeline components. In this work, we propose a modular framework for benchmarking and guiding the efficient development of RAG applications by focusing on resource telemetry and component recommendation, suggest…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "915da660d9af",
+    "title": "Checking Fact with Better Retrieval: Dynamic Contrastive Learning for Evidence Retrieval",
+    "url": "https://arxiv.org/abs/2605.27449",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-28T04:00:00+00:00",
+    "summary": "arXiv:2605.27449v1 Announce Type: new Abstract: In the field of multimodal fact checking, the accuracy of retrieving evidence from different modalities has a significant impact on the downstream claim verification process. Existing general multimodal retrieval methods are often constructed based on semantics, resulting in the retrieved evidence being similar but not relevant to the claim. This paper proposes a \\textbf{D}ynamic \\textbf{A}daptive \\textbf{C}ontrastive \\textbf{L}earning method for e…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "afc451ae9ab7",
+    "title": "Context Features Are Cheap: Rank-Aware Decomposition for Efficient Feature Interaction in Recommender Systems",
+    "url": "https://arxiv.org/abs/2605.27450",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-28T04:00:00+00:00",
+    "summary": "arXiv:2605.27450v1 Announce Type: new Abstract: Modern industrial recommender systems use a deep ranking model to score N candidates against the same user and context features. Standard implementations broadcast context features early in the forward pass, redundantly computing context-only operations N times per request. We present a rank-aware decomposition applicable to the dominant interaction mechanisms in modern recommender architectures-Factorization Machine (FM) pairwise products, Deep Cr…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ce705f71f56c",
+    "title": "Eliot: Interactively $\\underline{E}$xploring Fast-Changing Scientific $\\underline{Li}$terature Trends with $\\underline{O}$nline Da$\\underline{t}$a and Learning",
+    "url": "https://arxiv.org/abs/2605.27610",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-28T04:00:00+00:00",
+    "summary": "arXiv:2605.27610v1 Announce Type: new Abstract: The rapid growth of scientific publishing has made it increasingly difficult to track how fast-moving areas evolve. Search engines and LLM-based assistants retrieve or summarize papers, but often hide how the corpus was selected, organized, or connected to temporal patterns. We present $\\texttt{Eliot}$, a publicly deployed interactive system for traceable exploration of evolving scientific literature. Motivated by two studies on Large Language Mode…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "dce9a223b682",
+    "title": "Developing an Intelligent Job Recommendation System Using Semantic Retrieval and Explainable AI Techniques",
+    "url": "https://arxiv.org/abs/2605.27656",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-28T04:00:00+00:00",
+    "summary": "arXiv:2605.27656v1 Announce Type: new Abstract: Online recruitment platforms require recommendation methods capable of retrieving relevant job opportunities from large and heterogeneous collections of job postings. Keyword-based search is efficient and interpretable, but it may fail to retrieve relevant postings when equivalent roles are expressed using different terminology. This study presents a metadata-driven job recommendation system that combines TF-IDF lexical matching, Sentence-BERT sema…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "2fe7fbfb3570",
+    "title": "Joint Optimization of Relevance and Engagement in Multi-Task Ranking for E-Commerce with Efficient LLM Supervision",
+    "url": "https://arxiv.org/abs/2605.27704",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-28T04:00:00+00:00",
+    "summary": "arXiv:2605.27704v1 Announce Type: new Abstract: Optimizing industrial search ranking models solely for user engagement signals often introduces systematic biases, prioritizing popular or price-anchored items that may not satisfy semantic intent. We present a production-scale multi-task ranking system that integrates semantic relevance as a primary optimization objective, enabling explicit and controllable relevance-engagement trade-offs. Our architecture employs an ordinal relevance head that pr…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a9d4734b9f2f",
+    "title": "LRanker: LLM Ranker for Massive Candidates",
+    "url": "https://arxiv.org/abs/2605.27810",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-28T04:00:00+00:00",
+    "summary": "arXiv:2605.27810v1 Announce Type: new Abstract: Large language models (LLMs) have recently shown strong potential for ranking by capturing semantic relevance and adapting across diverse domains, yet existing methods remain constrained by limited context length and high computational costs, restricting their applicability to real-world scenarios where candidate pools often scale to millions. To address this challenge, we propose LRanker, a framework tailored for large-candidate ranking. LRanker i…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "ec2e3d168c43",
+    "title": "Fine-Tuned LLM as a Complementary Predictor Improving Ads System",
+    "url": "https://arxiv.org/abs/2605.27856",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-28T04:00:00+00:00",
+    "summary": "arXiv:2605.27856v1 Announce Type: new Abstract: Recommendation systems power engagement and monetization across feeds, ads, and short-video platforms, but translating the latest advances in Large Language Models into Recommendation Systems (RecSys) gains remains rare, particularly in advertising and production-scale real-world industry setups. Prior real-world LLM successes typically fall into three buckets: (a) generative retrieval that directly predicts the next items for candidate generation,…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c627fc27dc9c",
+    "title": "Beyond Similarity: Task-Aligned Retrieval for Language Models",
+    "url": "https://arxiv.org/abs/2605.27951",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-28T04:00:00+00:00",
+    "summary": "arXiv:2605.27951v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) ranks passages by semantic similarity to the input, implicitly assuming that semantic similarity is a reliable indication of applicability in downstream tasks. This assumption breaks down when task success depends not on topical relevance but on applying the correct rules, constraints, or procedural guidance. In such settings, the most useful context may be the rule triggered by the input rather than the most se…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "959b69fd6e01",
+    "title": "Mixture-of-Experts Knowledge Graph Retrieval-Augmented Generation for Multi-Agent LLM-based Recommendation",
+    "url": "https://arxiv.org/abs/2605.28175",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-28T04:00:00+00:00",
+    "summary": "arXiv:2605.28175v1 Announce Type: new Abstract: Large language models (LLMs) have recently been adopted for recommendations due to their ability to understand user intent and item semantics. However, LLM-based recommender systems often rely on parametric knowledge and suffer from outdated knowledge, motivating knowledge graph retrieval-augmented generation (KG-RAG) to ground recommendations on structured, up-to-date KGs. Despite this promise, effective KG-RAG in recommendations faces great chall…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "7e2f3f570484",
+    "title": "Whose Name Comes Up? III: Persona Prompting Effects in LLM-Based Scholar Recommendation",
+    "url": "https://arxiv.org/abs/2605.28187",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-28T04:00:00+00:00",
+    "summary": "arXiv:2605.28187v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used as scholar recommenders, shaping who is seen as an expert in academia. Existing audits remain English-centric, single discipline, and persona-agnostic, leaving the source of output variability poorly understood. To this end, we propose a benchmark that disentangles the effects of model choice and prompt design on recommendations. We audit 43 LLMs by varying persona prompts (language, location, role…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "195b42fc83ea",
+    "title": "Looking Farther with Confidence: Uncertainty-Guided Future Learning for Sequential Recommendation",
+    "url": "https://arxiv.org/abs/2605.28493",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-28T04:00:00+00:00",
+    "summary": "arXiv:2605.28493v1 Announce Type: new Abstract: Sequential recommendation effectively models dynamic user interests but continues to face challenges related to data sparsity. While self-supervised learning has alleviated this issue to some extent, most existing methods focus exclusively on immediate next-item prediction during training, thereby neglecting the rich information embedded in longer-term future interactions. Although a few studies have explored the utilization of future data, existin…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "05fa20467aee",
+    "title": "Search for Coverage: Learning Coverage-Aware Retrieval with Augmented Sub-Question Answerability",
+    "url": "https://arxiv.org/abs/2605.28522",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-28T04:00:00+00:00",
+    "summary": "arXiv:2605.28522v1 Announce Type: new Abstract: Long-form Retrieval-Augmented Generation (RAG) brings the challenge of coverage-based ranking, because ranking methods must ensure the inclusion of comprehensive relevant nuggets (i.e., facts), which can thereby be synthesized into a comprehensive output. In this work, we propose CoveR (Our code is available at https://github.com/DylanJoo/CoveR ) a dense retrieval method optimized for coverage-aware retrieval scenarios. CoveR is a bi-encoder traine…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "8d94ae8c75f2",
+    "title": "Subtraction Gets You More: Gap-Aware Retrieval for Multimodal Multi-Hop QA",
+    "url": "https://arxiv.org/abs/2605.28641",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-28T04:00:00+00:00",
+    "summary": "arXiv:2605.28641v1 Announce Type: new Abstract: In multimodal multi-hop question answering, we focus on the initial retrieval stage via two distinct tasks: (1) evidence set completion, retrieving missing evidence given context, and (2) sequential pool construction, iteratively building the top-$K$ pool from the scratch. Under these settings, we point out that conventional iterative retrieval frameworks often suffer from Semantic Anchoring, where previously fetched evidence traps the retriever an…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e5ce8b468ab8",
+    "title": "Do Agents Need Semantic Metadata? A Comparative Study in Agentic Data Retrieval",
+    "url": "https://arxiv.org/abs/2605.28787",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-05-28T04:00:00+00:00",
+    "summary": "arXiv:2605.28787v1 Announce Type: new Abstract: In the era of autonomous agents, machine-actionable data is critical for data-driven workflows. For more than a decade, semantic metadata like schema.org has anchored the FAIR principles (Findable, Accessible, Interoperable, and Reusable) for machine-actionable data and enabled discovery tools like Google Dataset Search. However, the rise of Large Language Models (LLMs) capable of navigating the unstructured web raises a fundamental question: Is se…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "7978fb782e27",
+    "title": "CiteCheck: Retrieval-Grounded Detection of LLM Citation Hallucinations in Scientific Text",
+    "url": "https://arxiv.org/abs/2605.27700",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-05-28T04:00:00+00:00",
+    "summary": "arXiv:2605.27700v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used to generate scientific reports, but they can produce references that appear plausible while containing corrupted metadata or pointing to papers that do not exist. We introduce CiteCheck, a hybrid framework for citation hallucination detection that verifies whether a citation corresponds to a real scholarly work and whether its metadata is faithful to that work. CiteCheck retrieves candidate publica…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "01c100258df9",
+    "title": "Co-creation of AI technology, empowering curators of cultural heritage information and guarding research commons",
+    "url": "https://arxiv.org/abs/2605.28481",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-05-28T04:00:00+00:00",
+    "summary": "arXiv:2605.28481v1 Announce Type: new Abstract: The substance of this paper is the description of the use of Retrieval-Augmented Generation (RAG) for specific digital collections of cultural assets. The collections are provided by institutions operating in the cultural sector. The topical areas are the humanities and social sciences. More concretely, most of the work presented here was enabled by a European-funded research project MuseIT which is clearly situated in the realm of fostering new te…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "0919111111ec",
+    "title": "Verified Misguidance: Measuring Structural Citation Failures in Search-Augmented LLMs",
+    "url": "https://arxiv.org/abs/2605.28565",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-05-28T04:00:00+00:00",
+    "summary": "arXiv:2605.28565v1 Announce Type: new Abstract: Users of search-augmented LLMs rely on citations as evidence that responses are grounded in real sources, and rarely verify the cited pages themselves. Millions of queries per day now pass through these systems, making citation quality a silent determinant of whether users are informed or misled-yet existing benchmarks each address one facet in isolation, leaving the joint structure that determines citation trustworthiness unmeasured. We construct …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "ae11b4aca8ac",
+    "title": "Reading or Guessing? Visual Grounding Failures of Vision-Language Models for OCR in Ancient Greek Editions",
+    "url": "https://arxiv.org/abs/2605.27750",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-05-28T04:00:00+00:00",
+    "summary": "arXiv:2605.27750v1 Announce Type: cross Abstract: Recent work has shown that Vision-Language Models (VLMs) used for optical character recognition (OCR) can generate plausible but visually unsupported text, suggesting reliance on language priors. Comparing open-weight VLMs with traditional OCR baselines on low-resource Ancient Greek critical editions, we show that VLM errors often remain fluent even when wrong, producing plausible Greek substitutions where traditional engines produce local recogn…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "86bc1834bdc6",
+    "title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
+    "url": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
+    "source": "Wired AI",
+    "date": "2026-05-28T00:10:42+00:00",
+    "summary": "The bill requires companies like OpenAI, Anthropic, and Google to have third parties confirm they’re following safety standards. Illinois governor JB Pritzker says he’ll sign it.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c1e70a429785",
+    "title": "Huawei's ‘Chip Queen’ Throws Down the Gauntlet",
+    "url": "https://www.wired.com/story/huawei-chip-queen-moores-law-tau/",
+    "source": "Wired AI",
+    "date": "2026-05-27T18:00:00+00:00",
+    "summary": "The Chinese company is adapting to the demise of Moore’s Law, which guides chip production. It could complicate US chip dominance.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "829cdb96e125",
+    "title": "SB 5 in Five: What to Know About Connecticut’s New AI Law",
+    "url": "https://fpf.org/blog/sb-5-in-five-what-to-know-about-connecticuts-new-ai-law/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-05-27T17:58:06+00:00",
+    "summary": "Connecticut’s SB 5 fits a lot of AI obligations into a small bill number. This week, Governor Lamont (D) signed the 39-section bill into law, creating new requirements across several fast-moving areas of AI policy, including companion chatbots, automated employment decision tools (AEDTs), social media, and provenance data. The law also includes provisions related to [&#8230;]",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "96550c3203ed",
+    "title": "Third Time’s the Charm: Connecticut Enacts Annual Privacy Update",
+    "url": "https://fpf.org/blog/third-times-the-charm-connecticut-enacts-annual-privacy-update/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-05-27T17:56:21+00:00",
+    "summary": "The Connecticut Data Privacy Act (CTDPA) has been revised multiple times since being enacted in 2022: SB 3 added heightened protections for consumer health data and for minors in 2023; and SB 1295 in 2025 expanded the law&#8217;s scope, updated and added consumer rights, modified the data minimization and purpose limitation requirements, prescribed impact assessment [&#8230;]",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c6108ae38f61",
+    "title": "Former Google and Apple Researchers Launch a Startup to Build AI’s Missing Feedback Loop",
+    "url": "https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/",
+    "source": "Wired AI",
+    "date": "2026-05-27T14:00:00+00:00",
+    "summary": "Trajectory is betting the rapid iteration cycle that supercharged vibe-coding can help all kinds of companies build AI products that learn continuously.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "f460ed860f78",
     "title": "Credit-assigned Policy Gradient for Early Stage Retrieval in Two-stage Ranking",
     "url": "https://arxiv.org/abs/2605.26385",
