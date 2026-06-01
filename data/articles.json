@@ -1,5 +1,230 @@
 [
   {
+    "id": "2c2a91855d11",
+    "title": "Norse Atlantic Airways Offers Dirt-Cheap Tickets. There’s a Catch",
+    "url": "https://www.wired.com/story/norse-airlines-ftc-complaints-ai-scams/",
+    "source": "Wired AI",
+    "date": "2026-06-01T11:00:00+00:00",
+    "summary": "Dozens of people have complained to the Federal Trade Commission about Norse Atlantic Airways’ tech-first customer service operation. Some said they lost thousands of dollars.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a97701ca4b12",
+    "title": "FOSTER: First-order Dataset Distillation for Text-based Sequential Recommendation",
+    "url": "https://arxiv.org/abs/2605.30772",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-01T04:00:00+00:00",
+    "summary": "arXiv:2605.30772v1 Announce Type: new Abstract: Text-based sequential recommender systems, while greatly improving recommendation accuracy by incorporating item contexts, are undeniably more expensive to train. By condensing a large dataset into a compact set of synthetic samples for model training, dataset distillation offers a promising solution. However, its adoption in text-based sequential recommendation is non-trivial given the large pool of discrete items. This challenge is further compou…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "3949b8d89061",
+    "title": "On the impact of retrieved content representations in RAG Pipelines",
+    "url": "https://arxiv.org/abs/2605.30790",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-01T04:00:00+00:00",
+    "summary": "arXiv:2605.30790v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) supplements a language model's input with retrieved documents, yet most RAG pipelines inherit retrieval components designed for human readers. How retrieved content should be represented when the consumer is a large language model (LLM) rather than a human is less well understood. Recent work has proposed transformations of retrieved content and identified properties that affect generation, but each examines a s…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "39c67708241c",
+    "title": "Inference-Free Multimodal Learned Sparse Retrieval for Production-Scale Visual Document Search",
+    "url": "https://arxiv.org/abs/2605.30917",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-01T04:00:00+00:00",
+    "summary": "arXiv:2605.30917v1 Announce Type: new Abstract: As large-scale visual-document corpora such as arXiv papers and enterprise PDFs continue to grow, visual-document retrieval has gained increasing attention; yet it still lacks a deployable system that lexically indexes visual documents to serve queries without neural encoding at scale. Existing methods either achieve strong retrieval quality with VLM-based dense or multi-vector models but require neural query encoding at serving time, or avoid quer…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "67134eace267",
+    "title": "Reading Between the Citations: A Typed Claim Network for Scientific Literature",
+    "url": "https://arxiv.org/abs/2605.30966",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-01T04:00:00+00:00",
+    "summary": "arXiv:2605.30966v1 Announce Type: new Abstract: Knowledge graphs over corpora of inter-referencing documents - scholarly papers, legal opinions, policy briefs - encode the topology of reference but not its stance. The standard representation collapses a rich evaluative relation into an untyped edge, losing the very content that supports community-level queries about how one document is received by another. We propose the claim network: a representational pattern in which each cross-document refe…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "71dad32c54a4",
+    "title": "Graph-GRPO: Dependency-Aware Credit Assignment for Generative E-commerce Search Relevance",
+    "url": "https://arxiv.org/abs/2605.31003",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-01T04:00:00+00:00",
+    "summary": "arXiv:2605.31003v1 Announce Type: new Abstract: Search relevance modeling is a core task in e-commerce search systems, assessing how well a user query matches candidate products. Rather than relying on a single holistic matching signal, relevance judgment often requires structured reasoning over query understanding, product understanding, and facet-level matching. With large language models (LLMs), this process is increasingly formulated as chain-of-thought (CoT) reasoning and optimized with rei…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "5e3cd605153f",
+    "title": "Fighting Numerical Hallucinations via Data-centric Compilation for Online Financial QA",
+    "url": "https://arxiv.org/abs/2605.31064",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-01T04:00:00+00:00",
+    "summary": "arXiv:2605.31064v1 Announce Type: new Abstract: Large Language Models (LLMs) have significantly advanced online data services, particularly in the domain of financial question answering (FinQA). However, such systems remain susceptible to numerical reasoning hallucinations, which critically undermine reliability in high-stakes financial applications. Although retrieval-augmented generation (RAG) has been widely adopted to ground responses in external knowledge, it introduces three persistent cha…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "8768395bf8fc",
+    "title": "MIMO: Multilingual Information Retrieval via Monolingual Objectives",
+    "url": "https://arxiv.org/abs/2605.31171",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-01T04:00:00+00:00",
+    "summary": "arXiv:2605.31171v1 Announce Type: new Abstract: Multilingual Information Retrieval (MLIR) reflects real-world search environments in which queries and relevant documents may appear in different languages within a mixed-language corpus. However, existing embedding models are primarily optimized for Multi-Monolingual retrieval and their performance often degrades in MLIR settings. Moreover, directly applying conventional contrastive learning to MLIR can exacerbate language clustering and expose a …",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "841a5842b3d8",
+    "title": "Contextual Scalarisation Thompson Sampling for multi-objective decisions in public media",
+    "url": "https://arxiv.org/abs/2605.31291",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-01T04:00:00+00:00",
+    "summary": "arXiv:2605.31291v1 Announce Type: new Abstract: Recommender systems may operate under multiple, competing objectives. For example, audience reach, cultural values, public service mandate, and operational constraints must be balanced in editorial decisions of public service media. Existing approaches relying on fixed combinations of objectives or Pareto-based optimisation do not adapt to changing priorities across situations. In this paper, we propose Contextual Scalarisation Thompson Sampler (CS…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "6b4f1cc91347",
+    "title": "DynaTree: Dynamic Agentic Retrieval Tree for Time-Sensitive News Retrieval",
+    "url": "https://arxiv.org/abs/2605.31377",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-01T04:00:00+00:00",
+    "summary": "arXiv:2605.31377v1 Announce Type: new Abstract: Agentic Retrieval-Augmented Generation improves retrieval by integrating planning, tool use, and iterative reasoning, but existing agentic RAG methods often couple semantic expansion with retrieval decisions in short-horizon inference loops, leading to high inference cost and limited suitability for time-sensitive news retrieval. We propose DynaTree, a two-stage framework for efficient and adaptive news retrieval. In the offline stage, DynaTree use…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "5e81a44e5b4b",
+    "title": "Beyond Instance-Level Alignment and Uniformity: Semantic Factor Learning for Collaborative Filtering",
+    "url": "https://arxiv.org/abs/2605.31414",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-01T04:00:00+00:00",
+    "summary": "arXiv:2605.31414v1 Announce Type: new Abstract: Collaborative filtering (CF) is widely used in recommender systems (RecSys) due to its simplicity and efficiency. However, existing CF methods follow an instance-level learning paradigm. During the instance learning stage, a large number of uninteracted user-item instances, of which items are potential interested by the user, are incorrectly treated as true negative samples resulting in a severe limitation to the generalization and scalability of m…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "fa65300fc19d",
+    "title": "Evaluating Factual Density in Multi-Source RAG: A Study in Medical AI Accuracy",
+    "url": "https://arxiv.org/abs/2605.31506",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-01T04:00:00+00:00",
+    "summary": "arXiv:2605.31506v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) is the current industry standard for grounding AI in real-world facts. Traditional retrieval methods rely on keyword matching and topic proximity, ranking content based on how closely it sounds like the user's query. What they do not measure is how many verified facts the content actually contains. This structural gap, termed the Expert Blindness Effect, causes standard RAG pipelines to consistently bury high-de…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "3e4356a216f0",
+    "title": "SPECTRA: Synthetic IR Test Collections with Relevance Oracles and Controlled Distractor Diagnostics",
+    "url": "https://arxiv.org/abs/2605.31575",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-01T04:00:00+00:00",
+    "summary": "arXiv:2605.31575v1 Announce Type: new Abstract: Scalable information retrieval testing needs corpora that are large enough to stress index construction, ranking latency, query routing, and evaluation tooling, yet human-judged test collections remain expensive and may be unavailable when documents are private or still under design. This paper introduces SPECTRA, a reproducible framework for generating synthetic text corpora and retrieval test collections through a separation of latent topical str…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "4e60499b9881",
+    "title": "Exploring Autonomous Agentic Data Engineering for Model Specialization",
+    "url": "https://arxiv.org/abs/2605.30407",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-01T04:00:00+00:00",
+    "summary": "arXiv:2605.30407v1 Announce Type: cross Abstract: Large Language Models (LLMs) have demonstrated strong performance on general tasks, while often struggling to adapt to specialized domains without high-quality domain-specific data. Existing LLM-based data curation methods primarily rely on human-designed workflows, leaving it unexamined whether LLMs can autonomously execute an end-to-end data engineering pipeline for model specialization. We formalize \\textbf{Autonomous Agentic Data Engineering}…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "fef8bbaab3a9",
+    "title": "An Organization-Scoped LLM Agent Runtime Architecture for Regulated Cybersecurity Operations",
+    "url": "https://arxiv.org/abs/2605.30604",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-01T04:00:00+00:00",
+    "summary": "arXiv:2605.30604v1 Announce Type: cross Abstract: Regulated cybersecurity workflows lack a runtime substrate that enforces organization-level scope across retrieval, tool calls, memory, findings, reports, and audit while remaining model-agnostic and locally deployable. Recent large language model (LLM) agent systems report strong results on isolated cybersecurity tasks, yet they do not by themselves define an auditable platform architecture for regulated security operations centre (SOC) and comp…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "715e1582cf1a",
+    "title": "SemStruct: Contextualizing Semantic Embeddings with Structural Information for Schema Matching",
+    "url": "https://arxiv.org/abs/2605.30729",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-01T04:00:00+00:00",
+    "summary": "arXiv:2605.30729v1 Announce Type: cross Abstract: Schema matching is a fundamental step in integrating heterogeneous data sources. While Pre-trained Language Models (PLMs) have revolutionized this task by capturing linguistic semantics, they typically process tabular data as serialized text sequences of standalone column descriptions. This serialization discards critical structural information -- specifically, the row-level co-occurrences, i.e. the relational context -- forcing models to rely so…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "23f17f878799",
+    "title": "Beyond Static Dialogues: Benchmarking Realistic, Heterogeneous, and Evolving Long-Term Memory",
+    "url": "https://arxiv.org/abs/2605.31086",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-01T04:00:00+00:00",
+    "summary": "arXiv:2605.31086v1 Announce Type: cross Abstract: In existing memory benchmarks for Large Language Models (LLMs), the evaluated dialogue sessions often lack long-term semantic consistency, and the underlying personas tend to be flat and static. Furthermore, in real-world scenarios, interactions between users and assistants involve more diverse, heterogeneous data streams, such as documents and emails. These shortcomings significantly limit the realism and effectiveness of current evaluations. To…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "e3d7e52dea29",
+    "title": "Vector Linking via Cross-Model Local Isometric Consistency",
+    "url": "https://arxiv.org/abs/2605.31100",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-01T04:00:00+00:00",
+    "summary": "arXiv:2605.31100v1 Announce Type: cross Abstract: We study Vector Linking: given two embedding clouds produced by different black-box encoders over partially overlapping datasets, recover cross-model object correspondences using only vectors. Empirically and theoretically, we show that independently trained contrastive encoders exhibit local geometric consistency: short-range distances are approximately preserved up to a scale factor, while long-range distances are not due to model-specific dist…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "5619e8091ef7",
+    "title": "Latent Space Disentanglement via Activation Steering for Interpretable Attribute Control in Symbolic Music Generation",
+    "url": "https://arxiv.org/abs/2605.31295",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-01T04:00:00+00:00",
+    "summary": "arXiv:2605.31295v1 Announce Type: cross Abstract: Transformer-based architectures have significantly advanced the generation of complex symbolic sequences, yet a significant gap remains in achieving fine-grained, interpretable control over discrete signal attributes. This paper investigates the mechanistic interpretability of the Multitrack Music Transformer (MMT) and proposes a framework for deterministic attribute modulation without retraining to bridge this gap via inference-time activation s…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "02f49372d497",
+    "title": "Effects of Vertex Merging & Splitting on Large Coauthorship Networks: A Counterfactual Analysis",
+    "url": "https://arxiv.org/abs/2605.31555",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-01T04:00:00+00:00",
+    "summary": "arXiv:2605.31555v1 Announce Type: cross Abstract: Researchers analyze coauthorship networks, but author name ambiguity in their network data remains a significant challenge as it can change the number of vertices, distorting network properties. Although many scholars use straightforward heuristics for author name disambiguation using author's forename initials, these techniques can skew our understanding of network properties by merging or splitting vertices, raising concerns about the reliabili…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "3d547547f17d",
+    "title": "Breaking Information Cocoons: A Hyperbolic Framework for Balancing Exploration and Exploitation in Recommender Systems",
+    "url": "https://arxiv.org/abs/2411.13865",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-01T04:00:00+00:00",
+    "summary": "arXiv:2411.13865v4 Announce Type: replace Abstract: Modern recommender systems often create information cocoons, restricting users' exposure to diverse content. The central challenge is to balance content exploration and exploitation while allowing users to adjust their recommendation preferences. Ideally, this balance can be captured with a hierarchical representation, where depth search facilitates exploitation and breadth search enables exploration. However, existing approaches face two funda…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2219a27aee8f",
+    "title": "GEM-Bench: A Benchmark for Ad-Injected Response Generation within Generative Engine Marketing",
+    "url": "https://arxiv.org/abs/2509.14221",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-01T04:00:00+00:00",
+    "summary": "arXiv:2509.14221v3 Announce Type: replace Abstract: Generative Engine Marketing (GEM) is an emerging ecosystem for monetizing generative engines, such as LLM-based chatbots, by seamlessly integrating relevant advertisements into their responses. At the core of GEM lies the generation and evaluation of ad-injected responses. However, existing benchmarks are not specifically designed for this purpose, which limits future research. To address this gap, we propose GEM-Bench, the first comprehensive …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "712b5b62322e",
+    "title": "Climber-Pilot: A Non-Myopic Generative Recommendation Model Towards Better Instruction-Following",
+    "url": "https://arxiv.org/abs/2602.13581",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-01T04:00:00+00:00",
+    "summary": "arXiv:2602.13581v2 Announce Type: replace Abstract: Generative retrieval has emerged as a promising paradigm in recommender systems, offering superior sequence modeling capabilities over traditional dual-tower architectures. However, in large-scale industrial scenarios, such models often suffer from inherent myopia: due to single-step inference and strict latency constraints, they tend to collapse diverse user intents into locally optimal predictions, failing to capture long-horizon and multi-it…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c7f4137eb222",
+    "title": "APAO: Adaptive Prefix-Aware Optimization for Generative Recommendation",
+    "url": "https://arxiv.org/abs/2603.02730",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-01T04:00:00+00:00",
+    "summary": "arXiv:2603.02730v3 Announce Type: replace Abstract: Generative recommendation has recently emerged as a promising paradigm for sequential recommendation. It formulates the task as an autoregressive generation process, predicting tokens of the next item conditioned on user interaction histories. Existing generative recommendation models are typically trained with token-level likelihood objectives such as cross-entropy loss, while employing beam search during inference to generate ranked candidate…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "7fd7804e223d",
+    "title": "Requirements for a cooperative information infrastructure for the digital preservation of scholarly blogs",
+    "url": "https://arxiv.org/abs/2605.31117",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-01T04:00:00+00:00",
+    "summary": "arXiv:2605.31117v1 Announce Type: new Abstract: The long-term accessibility and reusability of scholarly knowledge is a central concern of Open Science. Research and infrastructure development in this area have so far focused predominantly on how traditional scientific outputs, such as journal articles, monographs, and conference proceedings, can be preserved and made openly available over time. Alternative forms of scholarly communication such as scholarly blogs, by contrast, have received comp…",
+    "category": "Libraries & Archives"
+  },
+  {
     "id": "0a8abdd788d9",
     "title": "How Turkey Hacked the Hair Transplant Industry",
     "url": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
