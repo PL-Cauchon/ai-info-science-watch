@@ -1,5 +1,419 @@
 [
   {
+    "id": "4603b3587549",
+    "title": "The Trump Administration Is at War With Itself Over AI Regulation",
+    "url": "https://www.wired.com/story/the-white-house-is-at-war-with-itself-over-ai-regulation/",
+    "source": "Wired AI",
+    "date": "2026-06-02T09:30:00+00:00",
+    "summary": "Donald Trump killed an executive order to regulate AI. Now, administration officials and AI executives are trying to figure out if there’s anything left to piece back together.",
+    "category": "AI & Information Governance"
+  },
+  {
+    "id": "356f77dd1649",
+    "title": "How small businesses can leverage AI",
+    "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+    "source": "MIT Tech Review",
+    "date": "2026-06-02T09:00:00+00:00",
+    "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a business. A large company can hire experts to&#8230;",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "ed66533ea374",
+    "title": "Beyond Text and Tables: Vision-Language Model Integration in ComProScanner for Extracting Materials Data from Scientific Figures with High Accuracy",
+    "url": "https://arxiv.org/abs/2606.00065",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-02T04:00:00+00:00",
+    "summary": "arXiv:2606.00065v1 Announce Type: new Abstract: Automated extraction of materials composition-property data from scientific literature has advanced considerably with the development of large language model-based pipelines; however, existing frameworks remain limited to textual and tabular content, overlooking the substantial proportion of quantitative property data reported exclusively in scientific figures. Here, we extend ComProScanner, a fully end-to-end multi-agent framework for automated co…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "e706750edbfa",
+    "title": "SentimentLens: Reconciling Sentiment and Ratings via Dual-Modality in the Hospitality Sector",
+    "url": "https://arxiv.org/abs/2606.00084",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-02T04:00:00+00:00",
+    "summary": "arXiv:2606.00084v1 Announce Type: new Abstract: Online travel platforms generate vast volumes of user-generated hotel reviews, offering rich opportunities to understand traveler experiences at scale. However, transforming unstructured textual feedback into structured, actionable insights remains a challenging task. This paper presents SentimentLens, a scalable analysis system based on Aspect-Based Sentiment Analysis that performs knowledge extraction from unstructured hotel reviews and organizes…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "548846d5bc46",
+    "title": "Multimodal Music Recommendation System using LLMs",
+    "url": "https://arxiv.org/abs/2606.00125",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-02T04:00:00+00:00",
+    "summary": "arXiv:2606.00125v1 Announce Type: new Abstract: Music recommendation systems typically treat songs as opaque tokens, relying on collaborative interaction histories which overlooks semantic or acoustic content. Prior work has explored LLM-augmented, multimodal, and text-enhanced approaches to sequential recommendation, and while some methods partially combine semantic, acoustic, or engagement signals, none jointly model all three within a unified LLM-based sequential reasoning framework that grou…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "f073e7424e52",
+    "title": "Synthetic Data from Cross-Domain Events for Large-Scale Recommendation Systems",
+    "url": "https://arxiv.org/abs/2606.00282",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-02T04:00:00+00:00",
+    "summary": "arXiv:2606.00282v1 Announce Type: new Abstract: Large-scale recommendation systems operate across diverse domains, yet they face the challenges of data sparsity and noisy implicit feedback. Traditional approaches mitigate this via model-specific knowledge distillation from source domains to a target domain. Inspired by the transformative success of synthetic data generation in large language models (LLMs), we introduce Synthetic Cross-domain Augmentation and Learning for Recommendation (SCALR), …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "2f117ac911cd",
+    "title": "LLMs Need Encoders for Semantic IDs Too",
+    "url": "https://arxiv.org/abs/2606.00324",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-02T04:00:00+00:00",
+    "summary": "arXiv:2606.00324v1 Announce Type: new Abstract: Multimodal LLMs use dedicated encoders to bridge non-language modalities (vision encoders for images, depth models for audio codec tokens) because raw token embeddings alone cannot capture modality-specific structure. We argue that Semantic IDs (SIDs), the hierarchical codes used in generative recommendation, constitute another such modality: a SID level token's meaning depends on its prefix context, yet current systems simply add SID tokens to the…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "d0930393d183",
+    "title": "UniPinRec: Unifying Generative Retrieval and Ranking at Pinterest Scale",
+    "url": "https://arxiv.org/abs/2606.00422",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-02T04:00:00+00:00",
+    "summary": "arXiv:2606.00422v1 Announce Type: new Abstract: Modern recommendation systems predominantly train retrieval and ranking as separate models despite both increasingly relying on large transformers encoding the same user behavior data, duplicating parameters, compute, and serving cost. Prior work unifies the model architecture but not the full pipeline: input formats, training procedures, and serving stacks remain fragmented across stages. We present UniPinRec, which achieves full-stack unification…",
+    "category": "Information Behavior"
+  },
+  {
+    "id": "1d3e7feadc90",
+    "title": "Trustworthy Recommendation in the Era of Large Language Models: Opportunities and Challenges",
+    "url": "https://arxiv.org/abs/2606.00540",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-02T04:00:00+00:00",
+    "summary": "arXiv:2606.00540v1 Announce Type: new Abstract: The field of recommender systems (RS) is currently undergoing two profound paradigm shifts. From the perspective of objectives, the goal has shifted beyond mere recommendation accuracy to comprehensive trustworthiness, encompassing multiple dimensions such as robustness, fairness, and privacy preservation. From a technical perspective, Large Language Models (LLMs) have been extensively integrated into RS, reshaping the foundations of recommendation…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "e0b4e1b6ff3f",
+    "title": "Critic-R: Improving Agentic Search using Instruction-tuned Retrievers with Natural Language Introspective Feedback",
+    "url": "https://arxiv.org/abs/2606.00590",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-02T04:00:00+00:00",
+    "summary": "arXiv:2606.00590v1 Announce Type: new Abstract: Agentic search systems iteratively interact with retrieval models to answer complex queries. Despite substantial progress, optimizing retrievers for agentic search remains challenging, often requiring heavy co-training or gold-standard annotations that limit real-world applicability. We propose Critic-R, a framework that explicitly closes the feedback loop between the reasoning agent and the retrieval model during both inference and training. Criti…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1c4ad69ab8e5",
+    "title": "MemGraphRAG: Memory-based Multi-Agent System for Graph Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2606.00610",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-02T04:00:00+00:00",
+    "summary": "arXiv:2606.00610v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) has become an essential method for mitigating hallucinations in Large Language Models (LLMs) by leveraging external knowledge. Although effective for simple queries, traditional RAG struggles with large-scale, unstructured corpora where information is highly fragmented. Graph-based RAG (GraphRAG) incorporates knowledge graphs to capture structural relationships, enabling more comprehensive retrieval for complex …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "02db8b0640be",
+    "title": "SpikeHash: Learning Binary Codes with Spiking Neural Networks for Cross-Modal Hashing Retrieval",
+    "url": "https://arxiv.org/abs/2606.00740",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-02T04:00:00+00:00",
+    "summary": "arXiv:2606.00740v1 Announce Type: new Abstract: Cross-modal hashing retrieval encodes heterogeneous data into compact binary codes for efficient Hamming-space search. Existing methods usually learn cross-modal semantics in continuous feature spaces and generate binary codes through a final sign operation, which weakly couples training optimization with discrete hash retrieval. We propose SpikeHash, a unified spiking framework that formulates cross-modal hashing as spike-state evolution, directio…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "971ed43b0f28",
+    "title": "SkillPager: Query-Adaptive Intra-Skill Navigation via Semantic Node Retrieval",
+    "url": "https://arxiv.org/abs/2606.00822",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-02T04:00:00+00:00",
+    "summary": "arXiv:2606.00822v1 Announce Type: new Abstract: Skill-based LLM agents increasingly rely on long procedural documents, but full-document prompting wastes tokens and dilutes information critical to execution. We study this setting as intra-skill retrieval, where the goal is to select a minimal, execution-sufficient context from a known skill document given a query. We present SkillPager, a two-stage framework that parses each Markdown skill into typed semantic nodes offline and leverages Maximal …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "492687b90626",
+    "title": "Test-Time Training for Zero-Resource Dense Retrieval Reranking",
+    "url": "https://arxiv.org/abs/2606.01070",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-02T04:00:00+00:00",
+    "summary": "arXiv:2606.01070v1 Announce Type: new Abstract: Dense retrievers excel at first-stage candidate generation but lack effective reranking in zero-resource settings. Existing approaches face a fundamental dilemma: cross-encoders deliver strong reranking quality but require costly supervised training and incur high latency, while unsupervised BM25 reranking consistently degrades dense retrieval performance on most of BEIR benchmarks. We propose DART (Dense Adaptive Reranking at Test-time), which res…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "04fef746ffdb",
+    "title": "Quantizing Intent: Cross-Domain Semantic IDs from Organic Activity for Industrial Ranking",
+    "url": "https://arxiv.org/abs/2606.01396",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-02T04:00:00+00:00",
+    "summary": "arXiv:2606.01396v1 Announce Type: new Abstract: Ads click-through rate (CTR) prediction is constrained by sparse user supervision: most users engage with ads infrequently while generating dense behavioral evidence in organic surfaces such as feed. Transferring these cross-domain signals into ads ranking is difficult due to domain mismatch, serving cost, and production complexity. We introduce cross-domain user Semantic IDs (SIDs) derived from organic feed activity and show that behavioral activi…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "53a2b67df1d7",
+    "title": "Semantic Retrieval for Product Search in E-Commerce",
+    "url": "https://arxiv.org/abs/2606.01504",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-02T04:00:00+00:00",
+    "summary": "arXiv:2606.01504v1 Announce Type: new Abstract: Semantic retrieval in e-commerce must handle short, noisy, and colloquial queries over large product catalogs with fine-grained attribute distinctions. We present a Siamese LLM dual-encoder trained through a two-stage pipeline: contrastive learning with a false-negative margin mask to prevent penalization of near-duplicate products, followed by Relative Odds Alignment for Retrieval (ROAR), a preference optimization objective that extends Bradley-Te…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "8fc3132952ff",
+    "title": "TechGraphRAG: An Agentic Graph-Augmented RAG Framework for Technical Literature Reasoning",
+    "url": "https://arxiv.org/abs/2606.01613",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-02T04:00:00+00:00",
+    "summary": "arXiv:2606.01613v1 Announce Type: new Abstract: This paper presents an agentic retrieval-augmented generation (RAG) framework for domain-specific technical reasoning support, instantiated over a curated corpus of approximately 2,100 academic papers in intelligent tires, vehicle dynamics, and vehicle control. Unlike conventional single-pass RAG systems, the proposed architecture employs a 13-step autonomous pipeline that classifies queries by intent, scores evidence sufficiency against a multi-di…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "b245a1b02793",
+    "title": "Time-Aware Diffusion based on Preference Disentanglement for Generative Recommendation",
+    "url": "https://arxiv.org/abs/2606.01670",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-02T04:00:00+00:00",
+    "summary": "arXiv:2606.01670v1 Announce Type: new Abstract: Recently, Generative Recommenders (GRs) have emerged as a transformative recommendation paradigm by replacing traditional item IDs with semantic indices (SIDs). Owing to the exceptional generative capabilities of diffusion models, a few pioneering works explore developing GRs with diffusion architectures as the backbone. However, a fatal limitation of existing diffusion-based GRs is that the diffusion process applies uniformly to all items within t…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "609f971a9afc",
+    "title": "Whole-Pool Setwise Reranking with Long-Context Language Models",
+    "url": "https://arxiv.org/abs/2606.01782",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-02T04:00:00+00:00",
+    "summary": "arXiv:2606.01782v1 Announce Type: new Abstract: Previous LLM-based passage re-rankers are often expensive and slow because the input context constraints require the LLM to make many dependent model calls. We study how recent long-context LLMs change this problem: when the full set of retrieved candidate passages can be shown to the model at once, ranking no longer has to be reconstructed from many overlapping local comparisons. We propose Whole-Pool Setwise re-ranking, where each call considers …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "5bca13f507b8",
+    "title": "Breaking the Information Silo: Semantic Personas for Cross-Domain Recommendation",
+    "url": "https://arxiv.org/abs/2606.01783",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-02T04:00:00+00:00",
+    "summary": "arXiv:2606.01783v1 Announce Type: new Abstract: Digital platforms increasingly operate as isolated information silos, limiting their ability to construct comprehensive user representations across domains. Cross-domain recommender systems seek to overcome this limitation by transferring knowledge from a source domain to a target domain, yet most existing approaches depend on shared users, shared items, or structurally similar interaction graphs. These assumptions are often unrealistic across inde…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "37e3df399360",
+    "title": "Decoupled Residual Quantization for Robust Semantic IDs in Recommendation",
+    "url": "https://arxiv.org/abs/2606.01844",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-02T04:00:00+00:00",
+    "summary": "arXiv:2606.01844v1 Announce Type: new Abstract: Semantic IDs represent items as shared discrete token sequences and have become a practical tool for recommendation and retrieval. Yet it remains difficult to tell why a tokenizer fails: poor quality may come from codebook underutilization, unstable decision boundaries, or geometric distortion of the embedding space. This paper develops a quantitative framework for diagnosing these failures through expected codeword overlap and effective codebook c…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "0bbedc1d12c0",
+    "title": "Rank-Constrained Deep Matrix Completion for Group Recommendation",
+    "url": "https://arxiv.org/abs/2606.01948",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-02T04:00:00+00:00",
+    "summary": "arXiv:2606.01948v1 Announce Type: new Abstract: The growing popularity of group activities has increased the need for methods that provide recommendations to groups of users given their individual preferences. Many existing group recommender systems rely on aggregating individual user preferences, but they often struggle with high-dimensional and highly sparse rating data commonly found in real-world scenarios. We propose Group Rank-Constrained Deep Matrix Completion (Group RC-DMC), a novel fram…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "869ab1a131b5",
+    "title": "Dynamic Spectral Denoising with Global-Context Attention for Multi-Behavior Recommendation",
+    "url": "https://arxiv.org/abs/2606.02417",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-02T04:00:00+00:00",
+    "summary": "arXiv:2606.02417v1 Announce Type: new Abstract: Multi-behavior recommendation improves target-behavior prediction by exploiting heterogeneous auxiliary feedback (e.g., view, collect, and cart), yet its robustness is undermined by behavior-dependent noise and inconsistency. We argue that the key bottleneck is a representation-level failure caused by two coupled heterogeneities. First, intra-behavior representation entanglement arises when multi-hop propagation blends incidental signals with true …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "bbdf13e96964",
+    "title": "ODTQA-FoRe: An Open-Domain Tabular Question Answering Dataset for Future Data Forecasting and Reasoning",
+    "url": "https://arxiv.org/abs/2606.02433",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-02T04:00:00+00:00",
+    "summary": "arXiv:2606.02433v1 Announce Type: new Abstract: The rapid development of LLMs has significantly advanced tabular question answering, but most systems cannot perform future-oriented numerical prediction. To address this gap, we introduce a novel task, Open-Domain Tabular Question Answering for Future Data Forecasting and Reasoning, and propose the first dataset to cover time-series forecasting and forecast-based reasoning scenarios using real estate data. This task poses challenges in retrieving …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "bc7e30acf56f",
+    "title": "Grokers: Bottom-Up Inductive Comprehension and Write-Time Intelligence over Typed Knowledge Graphs",
+    "url": "https://arxiv.org/abs/2606.00050",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-02T04:00:00+00:00",
+    "summary": "arXiv:2606.00050v1 Announce Type: cross Abstract: We present Grokers, an architecture for building persistent, structured comprehension of typed knowledge graphs through bottom-up inductive traversal of dependency subgraphs. Unlike retrieval-augmented generation (RAG), which pays full comprehension cost at every query, Grokers pushes intelligence to write time: autonomous Groker agents analyze nodes in a typed stream graph, extract structured attributes via governed language model (LM) calls, an…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "ee0fce2bd47c",
+    "title": "Masking Stale Observations Helps Search Agents -- Until It Doesn't: A Regime Map and Its Mechanism",
+    "url": "https://arxiv.org/abs/2606.00408",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-02T04:00:00+00:00",
+    "summary": "arXiv:2606.00408v1 Announce Type: cross Abstract: Long-horizon search agents accumulate large amounts of retrieved content across many tool calls, making context-budget efficiency increasingly important. A minimal intervention is to mask stale observations from the context as the trajectory progresses, but it remains unclear when this form of context management helps and why. We study observation masking through a systematic sweep over various agent backbones (4B to 284B parameters) and three re…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "375719e9be15",
+    "title": "DiscourseFlip: An Oblique Discourse-Level Opinion Manipulation Attack against Black-box Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2606.01212",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-02T04:00:00+00:00",
+    "summary": "arXiv:2606.01212v1 Announce Type: cross Abstract: Retrieval-Augmented Generation (RAG) systems are widely deployed and increasingly influential, but their reliance on external corpora exposes new security risks from poisoned retrieval content. Existing RAG attacks are largely focusing on individual queries or narrow topic-local query sets, which limits their practical reach and offers limited camouflage in real-world settings. In this paper, we introduce discourse-level opinion manipulation, a n…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a722691a1a4d",
+    "title": "Beyond Metadata: The Role of DOI, ORCID, and ROR in Shaping Transparent and Interoperable Library Systems",
+    "url": "https://arxiv.org/abs/2606.00591",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-02T04:00:00+00:00",
+    "summary": "arXiv:2606.00591v1 Announce Type: new Abstract: The digital transformation of scholarly communication has changed the way libraries manage, preserve scholarly research and share it with the public. This research looks at three persistent identifier (PID) systems: the Digital Object Identifier (DOI), the Open Researcher and Contributor ID (ORCID), and the Research Organization Registry (ROR), which are necessary for a transparent and interoperable library infrastructure. Evidence from 2019-2026 s…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "b5a76b9a890d",
+    "title": "Digging Up Citations: FOSSIL, a Dataset and Workflow for Reference Extraction in Law and the Humanities",
+    "url": "https://arxiv.org/abs/2606.01109",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-02T04:00:00+00:00",
+    "summary": "arXiv:2606.01109v1 Announce Type: new Abstract: Citation extraction tools are designed for the structured end-of-document bibliographies of the natural sciences, but law and humanities scholarship cites references primarily in footnotes, where bibliographic data is interleaved with commentary and cross-references and varies widely across languages and styles. To address the scarcity of suitable gold-standard resources, we present FOSSIL (Footnote-based Open-access SSH Scientific Instance Labels)…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ad6f1d775255",
+    "title": "Frontlines and faultlines: How the Russo-Ukrainian conflict reshapes the landscape of scientific research",
+    "url": "https://arxiv.org/abs/2606.01124",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-02T04:00:00+00:00",
+    "summary": "arXiv:2606.01124v1 Announce Type: new Abstract: Geopolitical conflict poses significant challenges to research and innovation policy by disrupting scientific systems and talent mobility. This study analyzes the impact of the conflict between Russia and Ukraine, particularly the escalations in 2014 and 2022, on the academic landscapes of both countries. We analyzed publication data from 2000 to 2023, encompassing over 1.8 million papers, one million scholars, and 2300 institutions across Ukraine …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b20020a1cd35",
+    "title": "How Proposal Novelty, Topical Diversity, and Theory-Practice Balance Shape Scholarly Outcomes in Funded Education Research",
+    "url": "https://arxiv.org/abs/2606.01127",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-02T04:00:00+00:00",
+    "summary": "arXiv:2606.01127v1 Announce Type: new Abstract: Education research occupies a distinctive position in public science because it is expected to advance scholarly knowledge while also informing learning, teaching, participation, and workforce development. This study examines how the intellectual characteristics of NSF-funded education proposals are associated with the subsequent academic performance of funded scholars. Linking 8,715 NSF education awards from 1990 to 2020 with 84,519 publications b…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "7a827d170ce7",
+    "title": "The Ghost Couple: Correlated LLM Name Priors and Their Haunting of the Web and Academic Publishing",
+    "url": "https://arxiv.org/abs/2606.02184",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-02T04:00:00+00:00",
+    "summary": "arXiv:2606.02184v1 Announce Type: new Abstract: These names do not exist. Elena Vasquez and Marcus Chen have appeared as volcano experts, astronauts, thriller protagonists, podcast hosts, and academic co-authors across hundreds of independently produced AI-generated documents, never having lived. We show that large language models do not merely default to high-probability individual names when generating fictional experts: they produce correlated character ensembles, pairs and trios whose co-occ…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "ac4a19b1ee24",
+    "title": "Citation Grounding: Detecting and Reducing LLM Citation Hallucinations via Legal Citation Graphs",
+    "url": "https://arxiv.org/abs/2606.00898",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-02T04:00:00+00:00",
+    "summary": "arXiv:2606.00898v1 Announce Type: cross Abstract: Large language models systematically hallucinate legal citations -- fabricating statute references, citing repealed provisions, and confusing jurisdictions -- yet no automated method exists to measure or reduce this behavior at scale. We propose citation grounding (CG), a metric that verifies LLM-generated legal citations against a ground-truth citation graph extracted from 100.8 million Ukrainian court decisions (502 million edges, 21,736 unique…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "82188d2a5156",
+    "title": "RenoBench: A Citation Parsing Benchmark",
+    "url": "https://arxiv.org/abs/2603.25640",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-02T04:00:00+00:00",
+    "summary": "arXiv:2603.25640v2 Announce Type: replace Abstract: Accurate parsing of citations is necessary for machine-readable scholarly infrastructure. But, despite sustained interest in this problem, existing evaluation techniques are often not generalizable, based on synthetic data, or not publicly available. We introduce RenoBench, a public domain benchmark for citation parsing, sourced from PDFs released on four publishing ecosystems: SciELO, Redalyc, the Public Knowledge Project, and Open Research Eu…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "da10bc3f9764",
+    "title": "Explainable AI Through a Democratic Lens: DhondtXAI for D'Hondt-Projected Feature Attribution",
+    "url": "https://arxiv.org/abs/2411.05196",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-02T04:00:00+00:00",
+    "summary": "arXiv:2411.05196v3 Announce Type: replace-cross Abstract: This study presents DhondtXAI as a SHAP-independent, D'Hondt-based attribution framework for tabular XAI. Instead of model-native feature importance or SHAP values, DhondtXAI computes background-interventional removal effects, separates positive and negative evidence, forms optional feature alliances, applies optional thresholds, allocates seats via the D'Hondt rule, and projects onto the local model-output difference. Completeness is pre…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "281a53a079fa",
+    "title": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever",
+    "url": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
+    "source": "Wired AI",
+    "date": "2026-06-01T17:17:58+00:00",
+    "summary": "The AI giant behind Claude submitted paperwork on Monday that would take it public, just a couple of weeks after SpaceX’s splashy IPO announcement.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "6dde47131fed",
+    "title": "2026 Annual Conference Preview",
+    "url": "https://americanlibrariesmagazine.org/2026/06/01/2026-annual-conference-preview/?utm_source=rss&utm_medium=rss&utm_campaign=2026-annual-conference-preview",
+    "source": "American Libraries",
+    "date": "2026-06-01T13:00:36+00:00",
+    "summary": "The tone and content of this year’s slate of speakers, programs, and gatherings strike a balance between the retrospective and the speculative, as library workers and advocates stake out a brighter, stronger, and more inclusive and accessible future for libraries of all types. Other sessions will study the present moment, as technological advancements and cultural &#8230; Continue reading 2026 Annual Conference Preview &#8594; The post 2026 Annual Conference Preview appeared first on American Li…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "1883b573a039",
+    "title": "City of Big Appetites",
+    "url": "https://americanlibrariesmagazine.org/2026/06/01/city-of-big-appetites/?utm_source=rss&utm_medium=rss&utm_campaign=city-of-big-appetites",
+    "source": "American Libraries",
+    "date": "2026-06-01T12:58:28+00:00",
+    "summary": "From healthy breakfasts to decadent splurges and feasts, these establishments will provide whatever you need to keep your energy up for a long day of learning or feed your soul afterward. No matter what you decide to try, you’ll learn that Chicago’s reputation as one of the world’s great food cities is well deserved for &#8230; Continue reading City of Big Appetites &#8594; The post City of Big Appetites appeared first on American Libraries Magazine.",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "ff4b894bf5ba",
+    "title": "Encountering ICE",
+    "url": "https://americanlibrariesmagazine.org/2026/06/01/encountering-ice/?utm_source=rss&utm_medium=rss&utm_campaign=encountering-ice",
+    "source": "American Libraries",
+    "date": "2026-06-01T12:56:39+00:00",
+    "summary": "As ICE has raided homes, businesses, and public facilities in communities across the country, public libraries are grappling with how to prepare staff, protect patrons, respond to incidents, and develop resources for in-the-moment de-escalation and long-term recovery. In February, the Public Library Association (PLA) convened a webinar called “Responding to ICE at the Library: Real &#8230; Continue reading Encountering ICE &#8594; The post Encountering ICE appeared first on American Libraries Ma…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "1ea4010cdf35",
+    "title": "5 Questions to Ask Your Vendors about AI",
+    "url": "https://americanlibrariesmagazine.org/2026/06/01/5-questions-to-ask-your-vendors-about-ai/?utm_source=rss&utm_medium=rss&utm_campaign=5-questions-to-ask-your-vendors-about-ai",
+    "source": "American Libraries",
+    "date": "2026-06-01T12:54:52+00:00",
+    "summary": "It’s an overwhelming time to vet and license library resources. To cut through the noise, I’ve narrowed down my queries for vendors to five questions to better understand how a new AI tool might enhance my library’s user experience. 1. What content is your tool trained on? The future of generative AI models will heavily &#8230; Continue reading 5 Questions to Ask Your Vendors about AI &#8594; The post 5 Questions to Ask Your Vendors about AI appeared first on American Libraries Magazine.",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "d4ad800d62df",
+    "title": "2026 Library Systems Briefing",
+    "url": "https://americanlibrariesmagazine.org/2026/06/01/2026-library-systems-briefing/?utm_source=rss&utm_medium=rss&utm_campaign=2026-library-systems-briefing",
+    "source": "American Libraries",
+    "date": "2026-06-01T12:52:45+00:00",
+    "summary": "State of the industry Clarivate, which in recent years has subsumed the technology products of Ex Libris and Innovative, further strengthened its place as the industry leader. Clarivate has embraced AI across its businesses, including with the 2024 release of its Academic AI Platform, supporting a strategy to harness these technologies while delivering reliable content. &#8230; Continue reading 2026 Library Systems Briefing &#8594; The post 2026 Library Systems Briefing appeared first on America…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "7c670afa9149",
+    "title": "The Gnome Depot",
+    "url": "https://americanlibrariesmagazine.org/2026/06/01/the-gnome-depot/?utm_source=rss&utm_medium=rss&utm_campaign=the-gnome-depot",
+    "source": "American Libraries",
+    "date": "2026-06-01T12:50:43+00:00",
+    "summary": "Bunker, children’s librarian at Centennial Park Library (CPL) in Greeley, Colorado, had that opportunity as she prepared for one of her most popular summer programs last year. She also set out twigs, moss, leaves, pine cones, acorns, rocks, grass, berries, and other items gathered from her own home and around the library grounds. Her workshop, &#8230; Continue reading The Gnome Depot &#8594; The post The Gnome Depot appeared first on American Libraries Magazine.",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "9e9adbd47044",
+    "title": "Newsmaker: Megha Majumdar",
+    "url": "https://americanlibrariesmagazine.org/2026/06/01/newsmaker-megha-majumdar/?utm_source=rss&utm_medium=rss&utm_campaign=newsmaker-megha-majumdar",
+    "source": "American Libraries",
+    "date": "2026-06-01T12:48:58+00:00",
+    "summary": "Born and raised in Kolkata, India, Majumdar studied social anthropology at Harvard, then earned a master’s in anthropology at Johns Hopkins. Her gripping second novel, A Guardian and a Thief, is set in a near-future Kolkata besieged by the ever-worsening climate crisis. It received this year’s Carnegie Medal, which will be presented to Majumdar on &#8230; Continue reading Newsmaker: Megha Majumdar &#8594; The post Newsmaker: Megha Majumdar appeared first on American Libraries Magazine.",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "c7d595b154e8",
+    "title": "By the Numbers: Pride",
+    "url": "https://americanlibrariesmagazine.org/2026/06/01/by-the-numbers-pride/?utm_source=rss&utm_medium=rss&utm_campaign=by-the-numbers-pride",
+    "source": "American Libraries",
+    "date": "2026-06-01T12:46:45+00:00",
+    "summary": "Pride Month is celebrated annually in June. 2015 Year that author and activist Michelle Tea launched Drag Story Hour (DSH), in which drag performers read books to children. DSH, first hosted at San Francisco Public Library’s Eureka Valley/Harvey Milk Memorial branch, has since become a nonprofit with 30 international chapters and inspired countless spin-offs. 90 &#8230; Continue reading By the Numbers: Pride &#8594; The post By the Numbers: Pride appeared first on American Libraries Magazine.",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "9b8a2ec1a750",
+    "title": "Fighting Words",
+    "url": "https://americanlibrariesmagazine.org/2026/06/01/fighting-words/?utm_source=rss&utm_medium=rss&utm_campaign=fighting-words",
+    "source": "American Libraries",
+    "date": "2026-06-01T12:44:41+00:00",
+    "summary": "Policy issues and legalities aside, what I find concerning are the abusive communication and behavior patterns I see being used by many who attempt to challenge books, ban books, and “protect children.” Here are the patterns I have pointed out to my staff: Character assassination. This includes smear campaigns designed to intimidate and destroy the &#8230; Continue reading Fighting Words &#8594; The post Fighting Words appeared first on American Libraries Magazine.",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "bcaab23a3a63",
+    "title": "Confident Readers’ Advisory",
+    "url": "https://americanlibrariesmagazine.org/2026/06/01/confident-readers-advisory/?utm_source=rss&utm_medium=rss&utm_campaign=confident-readers-advisory",
+    "source": "American Libraries",
+    "date": "2026-06-01T12:42:26+00:00",
+    "summary": "LGBTQIA+ Books for Children and Teens, 2nd edition By Kathleen Breitenbach and Liz Deskins This resource text provides suggestions for librarians wanting to choose a variety of titles across the LGBTQIA+ spectrum, while contextualizing the significance of these collections. It includes an overview of the history of LGBTQIA+ children’s and YA literature with perspectives from &#8230; Continue reading Confident Readers’ Advisory &#8594; The post Confident Readers’ Advisory appeared first on Americ…",
+    "category": "Libraries & Archives"
+  },
+  {
     "id": "2c2a91855d11",
     "title": "Norse Atlantic Airways Offers Dirt-Cheap Tickets. There’s a Catch",
     "url": "https://www.wired.com/story/norse-airlines-ftc-complaints-ai-scams/",
