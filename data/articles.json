@@ -1,5 +1,320 @@
 [
   {
+    "id": "c74259e86bcc",
+    "title": "Jeff Bezos Is Funding a Wild Hunt for the Brain’s ‘Core Algorithm’",
+    "url": "https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/",
+    "source": "Wired AI",
+    "date": "2026-06-04T10:30:00+00:00",
+    "summary": "With $500 million in funding and a reported $2.5 billion valuation, Flourish wants to reinvent AI by putting real neurons under the microscope.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b40b8f80638f",
+    "title": "Alpha School’s Ritzy New York City Campus Costs $65,000 a Year—but Isn’t Actually a School",
+    "url": "https://www.wired.com/story/alpha-schools-new-york-city-campus-isnt-actually-a-school/",
+    "source": "Wired AI",
+    "date": "2026-06-04T10:00:00+00:00",
+    "summary": "A homeschooling center in Manhattan is part of the company’s nationwide expansion. Internal documents reveal its strategy: “Opening date > safety.”",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "94694e4f891a",
+    "title": "Quantum Computing Is Having Its Public Market Moment",
+    "url": "https://www.wired.com/story/quantum-computing-is-having-its-public-market-moment-quantinuum/",
+    "source": "Wired AI",
+    "date": "2026-06-04T09:34:23+00:00",
+    "summary": "Quantinuum, a quantum computing startup, is losing millions. Investors want in anyway.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5a5810892bf1",
+    "title": "Argus-Retriever: Vision-LLM Late-Interaction Retrieval with Region-Aware Query-Conditioned MoE for Visual Document Retrieval",
+    "url": "https://arxiv.org/abs/2606.04300",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-04T04:00:00+00:00",
+    "summary": "arXiv:2606.04300v1 Announce Type: new Abstract: Late-interaction vision-language retrievers represent each document page as many visual token embeddings and score queries with MaxSim. In systems such as ColPali, ColQwen, ColNomic, and Nemotron ColEmbed, the document embeddings are produced without seeing the query, so the same page is represented identically for a table lookup, a chart question, and a layout-sensitive evidence request. We introduce \\textbf{Argus}, a family of query-conditioned l…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "f46472ab8c74",
+    "title": "Disentangling Answer Engine Optimization from Platform Growth: A Log-Based Natural Experiment on ChatGPT Referral Traffic",
+    "url": "https://arxiv.org/abs/2606.04362",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-04T04:00:00+00:00",
+    "summary": "arXiv:2606.04362v1 Announce Type: new Abstract: Large language model (LLM) \"answer engines\" such as ChatGPT now send measurable referral traffic to the open web, and a practice analogous to search engine optimization, here called Answer Engine Optimization (AEO), has emerged. Public AEO success stories typically quote large raw growth multiples, but raw referral growth is confounded by the rapid platform-level growth of the answer engines themselves. We report a longitudinal field study on a sin…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "36b49569326b",
+    "title": "DSIRM: Learning Query-Bridged Discrete Semantic Identifiers for E-commerce Relevance Modeling",
+    "url": "https://arxiv.org/abs/2606.04374",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-04T04:00:00+00:00",
+    "summary": "arXiv:2606.04374v1 Announce Type: new Abstract: Despite rapid progress of continuous embeddings for e-commerce search relevance, a long-standing open problem is the difficulty in capturing fine-grained attribute distinctions. While discrete Semantic Identifiers (SIDs) have been widely adopted as a promising alternative, existing SID generation methods rely heavily on unsupervised quantization. In realistic scenarios, the lack of explicit supervision often makes it more difficult to dictate which…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "d531a61aeeb0",
+    "title": "Rethinking Sales Lead Scoring with LLM-based Hierarchical Preference Ranking",
+    "url": "https://arxiv.org/abs/2606.04387",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-04T04:00:00+00:00",
+    "summary": "arXiv:2606.04387v1 Announce Type: new Abstract: Sales lead conversion in high-stakes domains (e.g., automotive, real estate) differs fundamentally from e-commerce recommendation due to prolonged decision cycles and multi-stage funnels. Traditional lead scoring methods rule-based scorecards, machine learning, or pointwise CTR models face severe challenges: sparse supervision, a semantic gap in unstructured CRM logs, and inability to capture relative lead priority. While Large Language Models(LLMs…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "be1688661b61",
+    "title": "Bridging Short Videos and Live Streams: Reasoning-Guided Multimodal LLMs for Cross-Domain Representation Learning",
+    "url": "https://arxiv.org/abs/2606.04448",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-04T04:00:00+00:00",
+    "summary": "arXiv:2606.04448v1 Announce Type: new Abstract: As live streaming services grow, many platforms offer short videos and live streams to meet diverse needs. Short videos carry substantial traffic and rich behavior signals, whereas live streaming is a core conversion scenario with sparse behavior data, making cold start severe. Transferring user interests from short videos to live streaming recommendation can alleviate these issues. Meanwhile, short videos and live streams are complex multimodal it…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "af5ea3abcf26",
+    "title": "SAILRec: Steering LLM Attention to Dual-Side Semantically Aligned Collaborative Embeddings for Recommendation",
+    "url": "https://arxiv.org/abs/2606.04514",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-04T04:00:00+00:00",
+    "summary": "arXiv:2606.04514v1 Announce Type: new Abstract: Recent LLM-based recommenders enhance language models with collaborative embeddings from user-item interactions, but making such embeddings available does not ensure their proper use during inference. Through a diagnostic attention analysis, we find that the utilization of collaborative embeddings is depth-dependent and alignment-sensitive, suggesting that LLMs need to balance their internal semantic knowledge with external collaborative knowledge.…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "79c94fcf9b06",
+    "title": "ANN Search: Recall What Matters",
+    "url": "https://arxiv.org/abs/2606.04522",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-04T04:00:00+00:00",
+    "summary": "arXiv:2606.04522v1 Announce Type: new Abstract: Approximate nearest neighbor (ANN) search has become a core primitive in information retrieval and modern machine learning tasks, from classification to retrieval-augmented generation. The community evaluates and tunes ANN algorithms primarily on their throughput at a given Recall@k, the fraction of true exact neighbors retrieved. We argue that what really matters in ANN search is the quality of the retrieved results and not their overlap with the …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "151e90fba4f3",
+    "title": "Beyond Retrieval: Learning Compact User Representations for Scalable LLM Personalization",
+    "url": "https://arxiv.org/abs/2606.04547",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-04T04:00:00+00:00",
+    "summary": "arXiv:2606.04547v1 Announce Type: new Abstract: Personalizing large language models requires adapting model behavior to individual users while preserving robustness and deployment-scale efficiency. Existing approaches typically personalize LLMs either at the input level, by retrieving user histories or constructing profile prompts, or at the parameter level, by maintaining user-specific parameter-efficient modules. The former makes personalization sensitive to retrieval quality and prompt design…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "e7d4ce2d6d71",
+    "title": "Trading Engagement for Sustainability: Carbon-Aware Re-ranking for E-commerce Recommendations",
+    "url": "https://arxiv.org/abs/2606.04550",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-04T04:00:00+00:00",
+    "summary": "arXiv:2606.04550v1 Announce Type: new Abstract: E-commerce recommender systems strongly influence which products users consider and purchase, yet sustainability signals such as Product Carbon Footprint (PCF) are almost never available at catalog scale. We study carbon-aware product recommendation in the realistic setting where PCF labels are missing for most items and must be inferred. We first estimate product-level carbon footprints via a retrieval-augmented PCF estimation pipeline that transf…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "54ff397307c5",
+    "title": "Distributional Approximate Nearest Neighbour Search for Uncertainty-Aware Retrieval",
+    "url": "https://arxiv.org/abs/2606.04603",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-04T04:00:00+00:00",
+    "summary": "arXiv:2606.04603v1 Announce Type: new Abstract: Approximate Nearest Neighbour search indices form the backbone of real-world recommender systems, enabling real-time candidate retrieval over million-item catalogues. Typically, a single point estimate embedding is learnt for every user and every item. At serving time, the user embedding queries the index for relevant items. Since these representations are learnt from sparse interaction data, they are noisy and might fail to capture all the nuances…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "d47004efebdc",
+    "title": "Improving the Efficiency and Effectiveness of LLM Knowledge Distillation for Conversational Search",
+    "url": "https://arxiv.org/abs/2606.04650",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-04T04:00:00+00:00",
+    "summary": "arXiv:2606.04650v1 Announce Type: new Abstract: Conversational Search (CS) considers retrieval of relevant documents based on conversational context. Large Language Models (LLMs) have significantly enhanced CS by enabling effective query rewriting. However, employing LLMs during inference poses efficiency challenges. A method to balance effectiveness and efficiency is the use of knowledge distillation from LLM-based query rewriting. Recent work applies the Kullback-Leibler Divergence (KLD) for d…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "ac5e1cf608eb",
+    "title": "EviRank: Evidence-Based Confidence Estimation for LLM-Based Ranking",
+    "url": "https://arxiv.org/abs/2606.04727",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-04T04:00:00+00:00",
+    "summary": "arXiv:2606.04727v1 Announce Type: new Abstract: Large Language Models show promise for recommendation, but they raise reliability concerns due to limited domain coverage and inherent stochasticity. Existing uncertainty quantification methods persist two fundamental challenges: (1) the global confidence score designed for question answering fails to reveal which positions are unreliable in ranking list; (2) fine-grained confidence extracted from model internals exhibits uniformly low values acros…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "327793de5116",
+    "title": "BEATS: Bootstrapping E-commerce Attribute Taxonomies for Search through Iterative Human-AI Collaboration",
+    "url": "https://arxiv.org/abs/2606.04909",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-04T04:00:00+00:00",
+    "summary": "arXiv:2606.04909v1 Announce Type: new Abstract: E-commerce platforms in emerging markets often operate with underdeveloped product catalogs that contain only category taxonomies but lack structured attribute schemas. This absence of fine-grained product attributes limits search capabilities -- preventing faceted filtering, degrading query understanding, and weakening semantic representations used by search systems. We present BEATS, a human-in-the-loop LLM framework for bootstrapping product att…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "bf89f2aa9a5a",
+    "title": "Dual-Stream MLP is All You Need for CTR Prediction",
+    "url": "https://arxiv.org/abs/2606.04944",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-04T04:00:00+00:00",
+    "summary": "arXiv:2606.04944v1 Announce Type: new Abstract: Click-through rate (CTR) prediction holds a pivotal role in online advertising and recommendation systems, where even small improvements can significantly boost revenue. Existing research primarily focuses on designing dual-stream architectures to capture effective complex feature interactions from both explicit and implicit perspectives. However, these approaches are faced with two major challenges: 1) the high complexity of feature interaction le…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "9e0dbeaeed91",
+    "title": "SearchLog: A Web Browser Extension for Capturing Search Logs in Laboratory Studies",
+    "url": "https://arxiv.org/abs/2606.05040",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-04T04:00:00+00:00",
+    "summary": "arXiv:2606.05040v1 Announce Type: new Abstract: Natural search logs are valuable for studying search behavior in information seeking settings. We present SearchLog, an easy-to-install web browser extension for collecting natural search logs during lab-based studies. SearchLog allows participants to search the open web using a browser while recording structured interaction data across mouse, keyboard, search activity, and browser state modules. The extension captures clicks, scrolling, hovered te…",
+    "category": "Information Behavior"
+  },
+  {
+    "id": "239dd1a79cbb",
+    "title": "PRECISE: Reducing the Bias of LLM Evaluations Using Prediction-Powered Ranking Estimation",
+    "url": "https://arxiv.org/abs/2601.18777",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-04T04:00:00+00:00",
+    "summary": "arXiv:2601.18777v1 Announce Type: cross Abstract: Evaluating the quality of search, ranking and RAG systems traditionally requires a significant number of human relevance annotations. In recent times, several deployed systems have explored the usage of Large Language Models (LLMs) as automated judges for this task while their inherent biases prevent direct use for metric estimation. We present a statistical framework extending Prediction-Powered Inference (PPI) that combines minimal human annota…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "3f3b10bbd89d",
+    "title": "Training-Free Lexical-Dense Fusion for Conversational-Memory Retrieval",
+    "url": "https://arxiv.org/abs/2606.04194",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-04T04:00:00+00:00",
+    "summary": "arXiv:2606.04194v1 Announce Type: cross Abstract: Retrieving the few past turns that answer a new query across long multi-session histories is the retrieval bottleneck behind long-term conversational memory (LoCoMo, LongMemEval). Recent concurrent work, Nano-Memory, shows that scoring a session by the maximum query-turn similarity (late interaction, \"Turn Isolation Retrieval\") beats mean-pooled session embeddings. We do not claim that effect; we replicate it and ask what a training-free, CPU-onl…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "9c262d524663",
+    "title": "The Loss Is Not Enough: Sampling Conditions and Inductive Bias in Contrastive Representation Learning",
+    "url": "https://arxiv.org/abs/2606.04280",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-04T04:00:00+00:00",
+    "summary": "arXiv:2606.04280v1 Announce Type: cross Abstract: Contrastive learning has become a leading paradigm for self-supervised representation learning, yet the conditions under which it recovers meaningful latent geometry remain incompletely understood. We develop a measure-theoretic framework formalizing the diversity condition, a support requirement on positive-pair sampling that is necessary for isometric latent recovery. We show that the standard full-support von Mises-Fisher setting implies the s…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5f2dd6202c94",
+    "title": "Creative Reading: Scaffolding Reading for Transformation",
+    "url": "https://arxiv.org/abs/2606.04308",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-04T04:00:00+00:00",
+    "summary": "arXiv:2606.04308v1 Announce Type: cross Abstract: Reading augmentation systems increasingly help readers process text at scale. While these tools address real constraints of time and cognitive load, they often implicitly frame reading as information transmission, or \"reading to discard,\" delegating interpretation and effort to the machine. Yet this delegation changes the outcome of reading. For example, in scholarly reading, deciding what a research text implies and why it matters is central to …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "dd5c737f457d",
+    "title": "LCSHBench: A Multilingual, Consensus-Grounded Benchmark for Library of Congress Subject Heading Assignment",
+    "url": "https://arxiv.org/abs/2606.04382",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-04T04:00:00+00:00",
+    "summary": "arXiv:2606.04382v1 Announce Type: cross Abstract: Automated subject cataloging assigns controlledvocabulary headings to bibliographic records, but LCSH has no standard public benchmark. We introduce LCSHBench: 22,346 books in 15 languages from the openly licensed Harvard, Columbia, and Princeton catalogs. Records enter only when at least two independent cataloging agencies assigned LCSH; we release per-catalog provenance plus union and unanimous answer views. A concordance study of 465,187 works…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "9fc7ef1dfcb3",
+    "title": "Context-as-a-Service: Surfacing Cross-File Dependency Chains for LLM-Generated Developer Documentation",
+    "url": "https://arxiv.org/abs/2606.04397",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-04T04:00:00+00:00",
+    "summary": "arXiv:2606.04397v1 Announce Type: cross Abstract: LLM agents increasingly write and maintain developer documentation, but usefulness and accuracy often rely on dependency chains that are not obvious to follow. Even with more files in context, the agent must still decide which cross-file dependencies to trace. We present Context-as-a-Service (CaaS), a retrieval layer that LLM agents query to find evidence across the codebase as they review or generate documentation. CaaS indexes source code, API …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "934b851b42a9",
+    "title": "Cascading Hallucination in Agentic RAG: The CHARM Framework for Detection and Mitigation",
+    "url": "https://arxiv.org/abs/2606.04435",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-04T04:00:00+00:00",
+    "summary": "arXiv:2606.04435v1 Announce Type: cross Abstract: Multi-step agentic retrieval-augmented generation (RAG) pipelines have demonstrated significant capability for complex reasoning tasks, yet remain vulnerable to a class of failure that existing hallucination detection mechanisms systematically miss: cascading hallucination, where errors introduced at early pipeline stages propagate and amplify across successive reasoning steps, producing confident but factually incorrect final outputs. To address…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "02bdf88c7a21",
+    "title": "Cartridges at Scale: Training Modular KV Caches over Large Document Collections",
+    "url": "https://arxiv.org/abs/2606.04557",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-04T04:00:00+00:00",
+    "summary": "arXiv:2606.04557v1 Announce Type: cross Abstract: Large Language Models can reason over long contexts, yet prefilling millions of tokens is wasteful as much of the content remains static across queries. Cartridges address this by distilling document collections into reusable key-value (KV) caches that eliminate prefilling while preserving accuracy. A critical limitation of this approach is that cartridges are monolithic and non-compositional: encoding an entire collection into a single KV block …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "8995a7c99283",
+    "title": "QO-Bench: Diagnosing Query-Operator-Preserving Retrieval over Typed Event Tuples",
+    "url": "https://arxiv.org/abs/2606.04646",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-04T04:00:00+00:00",
+    "summary": "arXiv:2606.04646v1 Announce Type: cross Abstract: Many real-world questions over business, legal, and scientific corpora are natural-language versions of database-style queries over records latent in text. Existing retrieval-augmented generation (RAG) systems are optimized primarily for semantic relevance, but retrieving plausible passages does not guarantee correct query execution. We introduce QO-Bench, a diagnostic benchmark for query-operator question answering over typed event tuples. The b…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "13c5bd573e3f",
+    "title": "Archi: Agentic Operations at the CMS Experiment",
+    "url": "https://arxiv.org/abs/2606.04755",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-04T04:00:00+00:00",
+    "summary": "arXiv:2606.04755v1 Announce Type: cross Abstract: We present Archi, an open-source, end-to-end framework for scientific collaborations that combines the systematic ingestion and organization of heterogeneous data sources with the deployment of configurable, private, and extensible agents that retrieve and reason over them. An instance of Archi has been deployed for the Computing Operations team of the CMS experiment at CERN's LHC since February 2026 as a support agent for technical operators, of…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5a56cfd1fd5d",
+    "title": "A Note on the Kullback-Leibler Divergence in Discretized Empirical Distributions",
+    "url": "https://arxiv.org/abs/2606.04852",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-04T04:00:00+00:00",
+    "summary": "arXiv:2606.04852v1 Announce Type: new Abstract: When empirical objects are represented as discrete probability distributions, within-distribution summaries such as Shannon entropy and Hill-type diversity indices describe how probability mass is spread inside each object, while Kullback-Leibler (KL) divergence provides pairwise asymmetric information. This note focuses on the KL difference $\\Delta_{\\mathrm{KL}}(p,q)=D_{\\mathrm{KL}}(p|q)-D_{\\mathrm{KL}}(q|p)$. Although $\\Delta_{\\mathrm{KL}}$ can a…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "074dfc138c67",
+    "title": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
+    "url": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
+    "source": "Wired AI",
+    "date": "2026-06-04T01:01:00+00:00",
+    "summary": "Leading AI labs, executives, and scientists are sending a letter to lawmakers urging them to improve tracking of synthetic DNA sequences that could be used for bioweapons.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "bd2b8a6746ed",
+    "title": "Privacy Becomes You, Bayou State: A Look at the Louisiana Data Privacy Act",
+    "url": "https://fpf.org/blog/privacy-becomes-you-bayou-state-a-look-at-the-louisiana-data-privacy-act/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-06-03T20:21:57+00:00",
+    "summary": "Louisiana has become the 22nd U.S. state to enact a comprehensive consumer privacy law—and the third this year following Oklahoma and Alabama—after Governor Landry signed the Louisiana Data Privacy Act (LDPA) (SB 386) on May 29. Overall, this is a fairly standard state privacy law that follows the Washington Privacy Act framework apart from the law’s [&#8230;]",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "23a95ef3d179",
+    "title": "Comparing Enacted App Store Accountability Acts",
+    "url": "https://fpf.org/blog/comparing-enacted-app-store-accountability-acts/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-06-03T19:08:12+00:00",
+    "summary": "On May 28, 2026, the 5th Circuit granted a stay on the preliminary injunction blocking enforcement of Texas’s App Store Accountability Act (ASAA)—meaning the law is now in effect while litigation on the merits continues. In 2025, Utah, Texas, and Louisiana enacted App Store Accountability Acts (ASAAs) which impose novel and significant age assurance obligations [&#8230;]",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8ae689c41bb2",
+    "title": "xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity",
+    "url": "https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/",
+    "source": "Wired AI",
+    "date": "2026-06-03T18:49:32+00:00",
+    "summary": "Four people suing Elon Musk's AI firm under pseudonyms due to the risks of being identified may face a difficult choice: Reveal your real names, or drop the lawsuit.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2e65fb48d528",
+    "title": "The Humanoid Robot of the Future Is a 6-Foot-Tall Beefcake With a Chinese Body and an American Brain",
+    "url": "https://www.wired.com/story/nvidia-unitree-humanoid-robot-h2-plus/",
+    "source": "Wired AI",
+    "date": "2026-06-03T18:00:00+00:00",
+    "summary": "Spencer Huang, Nvidia’s robotics lead, tells WIRED that the new bot combines the best of both worlds.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a60b943ffa23",
+    "title": "This Is How Trump Finally Signed the AI Executive Order",
+    "url": "https://www.wired.com/story/this-is-how-trump-finally-signed-the-ai-executive-order/",
+    "source": "Wired AI",
+    "date": "2026-06-03T15:46:52+00:00",
+    "summary": "After shelving the original executive order last month, Donald Trump finally got on board Monday night.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "4629de77d235",
     "title": "Nvidia’s RTX Spark Laptops Look Hell-Bent on Disruption",
     "url": "https://www.wired.com/story/nvidia-rtx-spark-laptop-disruption/",
