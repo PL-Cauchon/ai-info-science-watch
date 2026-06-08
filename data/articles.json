@@ -1,5 +1,221 @@
 [
   {
+    "id": "b10366100da0",
+    "title": "Momfluencers Are Pitching AI as a Better ‘Coparent’ Than Men",
+    "url": "https://www.wired.com/story/momfluencers-are-pitching-ai-as-a-better-coparent-than-men/",
+    "source": "Wired AI",
+    "date": "2026-06-08T10:30:00+00:00",
+    "summary": "Moms are outsourcing tedious household tasks to ChatGPT and selling courses teaching others to do the same. Where are all the dads?",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "aa93c605b21f",
+    "title": "Mind the Gap: Bridging Behavioral Silos with LLMs in Multi-Vertical Recommendations",
+    "url": "https://arxiv.org/abs/2606.06779",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-08T04:00:00+00:00",
+    "summary": "arXiv:2606.06779v1 Announce Type: new Abstract: In multi-vertical e-commerce platforms like DoorDash, relatively newer product verticals such as grocery and retail present a significant opportunity for personalization innovation. A key challenge lies in solving the \"cold start\" problem for users. This paper introduces a novel framework for enhancing recommendation quality by transferring knowledge from data-rich verticals (e.g., restaurants at DoorDash) to data-sparse ones. We leverage Large Lan…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "771efee9004e",
+    "title": "Towards Retrieving Interaction Spaces for Agentic Search",
+    "url": "https://arxiv.org/abs/2606.06880",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-08T04:00:00+00:00",
+    "summary": "arXiv:2606.06880v1 Announce Type: new Abstract: Retrieval for search agents is still inherited from non-agentic information retrieval: a retriever ranks the corpus and the agent reads a small set of returned documents. Recent direct corpus interaction (DCI) work shows that agents can instead interact with the raw corpus through shell tools such as grep and file reads. But unbounded interaction does not scale: every broad shell command is a scan over the whole corpus, and latency degrades sharply…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "72dfe9d7e3e4",
+    "title": "DREAM: Dynamic Refinement of Early Assignment Mappings",
+    "url": "https://arxiv.org/abs/2606.06947",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-08T04:00:00+00:00",
+    "summary": "arXiv:2606.06947v1 Announce Type: new Abstract: Generative recommendation advances item retrieval by reformulating it as autoregressive generation of Semantic IDs (SIDs), compact token sequences that encode item semantics. While SIDs offer a strong semantic prior, current SID-based methods assign each item a single static identifier through offline tokenization before sufficient user feedback is observed. For cold-start items, this one-shot commitment produces poorly discriminative codes, genera…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "85cff4d4ec79",
+    "title": "SSRLive: Live Streaming Recommendation with Dynamic Semantic ID",
+    "url": "https://arxiv.org/abs/2606.06970",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-08T04:00:00+00:00",
+    "summary": "arXiv:2606.06970v1 Announce Type: new Abstract: Live streaming has emerged as one of the fastest-growing forms of online media, enabling instant content broadcasting and real-time engagement between users and streamers. Despite the effectiveness of existing recommendation algorithms in this domain, they often suffer from limited utilization of computational resources, with low FLOPs that hinder further performance enhancement. Generative recommendation techniques, which have gained traction in v…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c72642022ca6",
+    "title": "Meaning in Order, Order in Meaning: Semantic R-precision for Keyphrase Evaluation",
+    "url": "https://arxiv.org/abs/2606.07057",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-08T04:00:00+00:00",
+    "summary": "arXiv:2606.07057v1 Announce Type: new Abstract: Evaluating the quality of automatically generated keyphrases remains a complex challenge. Traditional metrics either rely on exact lexical matching or consider semantic similarity while ignoring prediction ranking, both of which misalign with how humans judge informativeness and relevance. We introduce Semantic R-Precision (SemR-p), a novel evaluation metric that integrates semantic similarity into the rank-aware R-Precision framework. Designed fro…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b4c31754247e",
+    "title": "Decision-Theoretic Stopping Rules for Document Screening",
+    "url": "https://arxiv.org/abs/2606.07071",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-08T04:00:00+00:00",
+    "summary": "arXiv:2606.07071v1 Announce Type: new Abstract: Deciding when to stop reviewing the results of a search is a common problem with multiple applications. Existing stopping rules developed within Technology-Assisted Review (TAR) aim to achieve a pre-specified recall target and do not take into account the reason for examining the results, potentially leading to sub-optimal recommendations. This paper applies decision theory to the problem and uses it to derive three practical stopping policies base…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "acc91b005a6e",
+    "title": "Beyond Matching: Category-Guided Latent Intent Reasoning for Generative Retrieval in E-Commerce",
+    "url": "https://arxiv.org/abs/2606.07075",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-08T04:00:00+00:00",
+    "summary": "arXiv:2606.07075v1 Announce Type: new Abstract: Generative retrieval offers a new paradigm for e-commerce search by mapping user queries directly to product Semantic Identifiers (SIDs). However, e-commerce queries are often short, noisy, attribute-heavy, and associated with multiple category-consistent products, creating a substantial representation gap between natural-language shopping intent and artificially constructed item SIDs. Explicit Chain-of-Thought (CoT) reasoning can help bridge this …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f46dca9be867",
+    "title": "RISE: A Rust Library for Inverted Index Search Engines",
+    "url": "https://arxiv.org/abs/2606.07187",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-08T04:00:00+00:00",
+    "summary": "arXiv:2606.07187v1 Announce Type: new Abstract: Inverted indexes are a crucial data structure for efficient information retrieval in large text corpora. They enable fast full-text search by mapping each term to the documents in which it appears, on top of which efficient algorithms quickly retrieve the documents relevant to a user query. We present RISE, a novel inverted index library implemented in Rust, designed to deliver high performance and efficiency for information retrieval tasks. RISE l…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "e5a5e46cf054",
+    "title": "HKVM-RAG: Key-Value-Separated Hypergraph Evidence Organization for Multi-Hop RAG",
+    "url": "https://arxiv.org/abs/2606.07218",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-08T04:00:00+00:00",
+    "summary": "arXiv:2606.07218v1 Announce Type: new Abstract: Multi-hop RAG poses a data-engineering problem beyond passage matching: under fixed retrieval budgets, a system must organize retrieved text into evidence units that expose answer chains. Dense retrievers score passages independently, while graph-based memories make associations explicit but often rely on pairwise or entity-centered keys that fragment multi-hop evidence. We present HKVM-RAG, a key-value-separated evidence-organization layer. It ass…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "122e29e290a6",
+    "title": "FLOWREADER: Min-Cost Flow Optimization for Multi-Modal Long Document Q&A",
+    "url": "https://arxiv.org/abs/2606.07235",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-08T04:00:00+00:00",
+    "summary": "arXiv:2606.07235v1 Announce Type: new Abstract: Long, multimodal documents force retrieval-augmented systems to assemble answers from evidence fragmented across text, tables, and slides broken across cells in a long table, spread over multiple slides, or split between a figure and its discussion. Top-$k$ chunk retrieval treats each fragment independently and cannot represent how evidence connects. We introduce FLOWREADER, which reframes evidence assembly as a min-cost flow problem on a multimoda…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "f92cdea08025",
+    "title": "Constrained Dominant Sets for Multimodal Document Question Answering",
+    "url": "https://arxiv.org/abs/2606.07252",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-08T04:00:00+00:00",
+    "summary": "arXiv:2606.07252v1 Announce Type: new Abstract: Long multimodal document question answering is limited by which evidence reaches the reader, rather than by the quantity retrieved. In lengthy documents, findings often recur across figures, captions, and introductory sentences, causing similarity based retrievers in modern multimodal retrieval-augmented generation (RAG) systems to allocate resources to near-duplicates while overlooking complementary evidence. This work introduces a retriever that …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "4e27d27c3234",
+    "title": "Gated Bidirectional Linear Attention for Generative Retrieval",
+    "url": "https://arxiv.org/abs/2606.07317",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-08T04:00:00+00:00",
+    "summary": "arXiv:2606.07317v1 Announce Type: new Abstract: In recommender systems, generative retrieval typically uses an encoder-decoder setup: an encoder processes a user interaction history, and an autoregressive decoder then generates recommended items. In large-scale streaming services, active users accumulate very long histories over time. As histories grow, the encoder becomes a major latency bottleneck because softmax attention scales quadratically with sequence length. In our experiments, using bi…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "626f4f155633",
+    "title": "PaperFlow: Profiling, Recommending, and Adapting Across Daily Paper Streams",
+    "url": "https://arxiv.org/abs/2606.07454",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-08T04:00:00+00:00",
+    "summary": "arXiv:2606.07454v1 Announce Type: new Abstract: Scientific paper recommendation is typically evaluated as static ranking over a fixed candidate set, yet real scientific reading unfolds as a daily, longitudinal process in which interests shift and feedback accumulates. We introduce PaperFlow, a framework that organizes it into three coupled stages: Profiling, which constructs and maintains a structured, inspectable scholarly profile from heterogeneous cold-start evidence; Recommending, which rank…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "6a361f267ae7",
+    "title": "Bradley-Terry Rankings for Recommender Systems Across Dataset Taxonomies",
+    "url": "https://arxiv.org/abs/2606.07492",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-08T04:00:00+00:00",
+    "summary": "arXiv:2606.07492v1 Announce Type: new Abstract: The ranking of recommendation algorithms is a challenging problem since model performance is sensitive to dataset characteristics such as sparsity, sequential structure, and scale. This drives a demand for a proper methodology for fair comparison between algorithms. Naive aggregation of performance metrics (e.g., averaging NDCG over benchmarks) can yield misleading rankings, undermining practical selection. To address this problem, we introduce a n…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "060479872439",
+    "title": "TA-RAG: Tone-Aware Retrieval-Augmented Generation for Peer-Support Health Communication",
+    "url": "https://arxiv.org/abs/2606.06794",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-08T04:00:00+00:00",
+    "summary": "arXiv:2606.06794v1 Announce Type: cross Abstract: Retrieval-augmented generation (RAG) successfully grounds large language model (LLM) outputs in trusted documents, but factual grounding alone is insufficient for sensitive peer-support health communication. In domains such as HIV peer support, responses must also be accessible, stigma-free, empathetic, and tailored to the recipient. This paper presents TA-RAG, a lightweight, prompt-based tone-aware RAG framework that embeds explicit tone control…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "dcce3eaabc37",
+    "title": "Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings",
+    "url": "https://arxiv.org/abs/2606.07502",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-08T04:00:00+00:00",
+    "summary": "arXiv:2606.07502v1 Announce Type: cross Abstract: Large language models exhibit impressive zero-shot capabilities across a wide range of downstream tasks. However, they struggle to function as off-the-shelf embedding models, leading to suboptimal performance on massive text embedding benchmarks. In this paper, we identify a potential cause underlying this deficiency. Our motivation stems from an unexpected observation: text embeddings tend to align with frequent but uninformative tokens when pro…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "4e4a63b0d9d1",
+    "title": "HiPS: Hierarchical PDF Segmentation of Doctrinal Legal Books",
+    "url": "https://arxiv.org/abs/2509.00909",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-08T04:00:00+00:00",
+    "summary": "arXiv:2509.00909v2 Announce Type: replace Abstract: PDF parsers have recently improved on page-level layout understanding. However, recovering a document-global section hierarchy with reliable boundaries remains brittle for deeply structured books: many systems expose only page-local heading roles, assume shallow depth, or rely on high-quality PDF tags or Table of Contents (TOC) metadata, and public gold-standard data for deep book hierarchies is scarce. We present HiPS for hierarchical PDF segm…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "b92cd6933ab1",
+    "title": "Caption Injection for Optimization in Generative Search Engine",
+    "url": "https://arxiv.org/abs/2511.04080",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-08T04:00:00+00:00",
+    "summary": "arXiv:2511.04080v3 Announce Type: replace Abstract: Generative Search Engine (GSE) leverages the Retrieval-Augmented Generation (RAG) technique and the Large Language Model (LLM) to integrate multi-source information and provide users with accurate and comprehensive responses. Unlike traditional search engines that present results in ranked lists, GSE shifts users' attention from sequential browsing to content-driven subjective perception, not only driving a paradigm shift in information retriev…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "f04a8ec426be",
+    "title": "Ask Safely: Privacy-Aware LLM Query Generation for Knowledge Graphs",
+    "url": "https://arxiv.org/abs/2512.04852",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-08T04:00:00+00:00",
+    "summary": "arXiv:2512.04852v2 Announce Type: replace Abstract: Large Language Models (LLMs) are increasingly used to query knowledge graphs (KGs) due to their strong semantic understanding and extrapolation capabilities compared to traditional approaches. However, when KGs contain sensitive information and users lack local access to generative models, privacy becomes a critical concern. To address this issue, we propose a privacy-aware query generation approach for KGs. Our method identifies sensitive info…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "bf0cfee44b58",
+    "title": "Evaluating AI-based Scientific Knowledge Synthesis with Epidemiological Systematic Reviews",
+    "url": "https://arxiv.org/abs/2603.22327",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-08T04:00:00+00:00",
+    "summary": "arXiv:2603.22327v2 Announce Type: replace Abstract: Systematic literature reviews (SLRs) are a demanding and high-stakes form of scientific knowledge synthesis that remains underspecified as an evaluation setting for large language models (LLMs). We introduce AgentSLR, a large-scale evaluation harness comprising an SLR automation workflow and an expert annotated dataset covering 16,248 articles, designed to test LLM capabilities across the stages of SLRs in epidemiology. Reference annotations we…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "bf91e653a9a6",
+    "title": "MCERF: Advancing Multimodal LLM Evaluation of Engineering Documentation with Enhanced Retrieval",
+    "url": "https://arxiv.org/abs/2604.09552",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-08T04:00:00+00:00",
+    "summary": "arXiv:2604.09552v2 Announce Type: replace Abstract: Engineering rulebooks and technical standards contain multimodal information like dense text, tables, and illustrations that are challenging for retrieval augmented generation (RAG) systems. Building upon the DesignQA framework [1], which relied on full-text ingestion and text-based retrieval, this work establishes a Multimodal ColPali Enhanced Retrieval and Reasoning Framework (MCERF), a system that couples a multimodal retriever with large la…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "df8b2fa5249a",
+    "title": "Bounded-Abstention Pairwise Learning to Rank",
+    "url": "https://arxiv.org/abs/2505.23437",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-08T04:00:00+00:00",
+    "summary": "arXiv:2505.23437v2 Announce Type: replace-cross Abstract: Ranking systems influence decision-making in high-stakes domains like health, education, and employment, where they can have substantial economic and social impacts. This makes the integration of safety mechanisms essential. One such mechanism is abstention, which enables algorithmic decision-making systems to defer uncertain or low-confidence decisions to human experts. While abstention has been predominantly explored in the context of c…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "813817e595b4",
+    "title": "The disruption index does not measure scientific innovation",
+    "url": "https://arxiv.org/abs/2606.07332",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-08T04:00:00+00:00",
+    "summary": "arXiv:2606.07332v1 Announce Type: new Abstract: A paper recently published in Science under the rubric of Policy Article argued that what the authors call scientific disruption declines with academic age, and that this decline is related to the absence of mandatory retirement for older academics. Since its publication, its conclusions and policy suggestions in relation to mandatory retirement have received considerable media attention. Thus, it is worth taking a closer look at the proposed measu…",
+    "category": "Information Retrieval & Search"
+  },
+  {
     "id": "477544daec49",
     "title": "Crypto-Funded Chinese Peptide Labs Are Booming",
     "url": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/",
