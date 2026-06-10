@@ -1,11 +1,290 @@
 [
   {
+    "id": "4c4ac71a3191",
+    "title": "Artificial Intelligence Sneaks Into the World Cup Thanks to Google Gemini",
+    "url": "https://www.wired.com/story/artificial-intelligence-sneaks-into-the-world-cup-thanks-to-google-gemini/",
+    "source": "Wired AI",
+    "date": "2026-06-10T10:00:00+00:00",
+    "summary": "The Argentine national team will be Google’s test bench and technological showcase during the World Cup.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5d17311f8fcf",
+    "title": "Mult-DPO: Multinomial Direct Preference Optimization for Recommender Systems",
+    "url": "https://arxiv.org/abs/2606.10078",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-10T04:00:00+00:00",
+    "summary": "arXiv:2606.10078v1 Announce Type: new Abstract: Direct preference optimization (DPO) is a simple and effective alignment strategy for large language models (LLMs) based on pairwise preferences. In recommender systems, however, user feedback is rarely pairwise. For a given context, e.g., a user, a session, or a conversation, we typically observe set-wise preferences with multiple positive items, where every positive item should outrank every unobserved or explicitly negative item, with no prescri…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "d3d8f5a42168",
+    "title": "MetaPlate: Counterfactual-Guided RAG-LLM Tool for Personalized Food Recommendation and Hyperglycemia Prevention",
+    "url": "https://arxiv.org/abs/2606.10120",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-10T04:00:00+00:00",
+    "summary": "arXiv:2606.10120v1 Announce Type: new Abstract: Postprandial hyperglycemia is a key risk factor for metabolic disorders; however, existing dietary guidance is often static, impractical, and insufficiently personalized, providing recommendations that are difficult to follow or not impactful. While recent advances leverage continuous glucose monitoring (CGM) and machine learning to predict glycemic responses, these approaches are largely predictive and lack actionable guidance. Moreover, recommend…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "b414ef0c7162",
+    "title": "$\\tau$-Rec: A Verifiable Benchmark for Agentic Recommender Systems",
+    "url": "https://arxiv.org/abs/2606.10156",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-10T04:00:00+00:00",
+    "summary": "arXiv:2606.10156v1 Announce Type: new Abstract: As recommender systems transition toward agentic, multi-turn conversational interfaces, evaluation paradigms have struggled to keep pace. Current benchmarks often rely on \"LLM-as-a-judge\" evaluations, which introduce subjectivity, high costs and inconsistency. We present $\\tau$-Rec, a benchmark for agentic recommender systems that replaces subjective evaluation with verifiable rewards and a reveal-tagged elicitation (RTE) mechanism that controls ho…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "de7cf2d73fef",
+    "title": "Atomic Intent Reasoning: Bringing LLM Semantics to Industrial Cross-Domain Recommendations",
+    "url": "https://arxiv.org/abs/2606.10357",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-10T04:00:00+00:00",
+    "summary": "arXiv:2606.10357v1 Announce Type: new Abstract: Cross-domain recommendation is a core problem in content-to-e-commerce platforms. Its objective is to leverage user interactions with content to infer potential purchasing intent on the e-commerce side, thereby enhancing conversion rates and commercial value. However, in real industrial scenarios, cross-domain recommendation faces multiple challenges: significant semantic gaps exist between different domains, and user cross-domain behavior sequence…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "e421bb615cf7",
+    "title": "SIDInspector: A Mapping-First Diagnostic Resource for Semantic-ID Tokenizers",
+    "url": "https://arxiv.org/abs/2606.10375",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-10T04:00:00+00:00",
+    "summary": "arXiv:2606.10375v1 Announce Type: new Abstract: Semantic-ID (\\sid) tokenizers are increasingly reused as standalone artifacts in generative recommendation: an exported item-to-code mapping becomes the address space that a later sequence generator must use. These mappings rarely come with a common inspection interface, so coverage gaps, full-code aliasing, behaviorally weak prefixes, tail compression, and prefix fan-out are often found only after downstream training. We present \\tool, a mapping-f…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0a48d26d6317",
+    "title": "SkillResolve-Bench: Measuring and Resolving Same-Capability Ambiguity in Agent Skill Retrieval",
+    "url": "https://arxiv.org/abs/2606.10388",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-10T04:00:00+00:00",
+    "summary": "arXiv:2606.10388v1 Announce Type: new Abstract: Agent skill libraries are becoming routable software assets: a retrieved skill can contribute instructions, scripts, resource bindings, and execution assumptions to an agent. This makes skill retrieval more than broad relevance matching. A retriever can find the right capability family yet expose the wrong same-capability representative. We study this failure as same-capability execution-risk retrieval. Each query pairs a helpful skill with a query…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "c27efc6c7b93",
+    "title": "Selection, Not Salience: The Shape and Limits of Personalization in Social Highlighting",
+    "url": "https://arxiv.org/abs/2606.10398",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-10T04:00:00+00:00",
+    "summary": "arXiv:2606.10398v1 Announce Type: new Abstract: Does personalizing what a reader sees pay off, and where does it stop? Using a social web highlighter and a co-readership identity control (the same document highlighted by many users, which holds document and topic fixed and asks whether a person's own history predicts their marks better than another reader's does), we map the shape and limits of personalization across reading altitudes. At the document altitude we give the clean, leakage-free, id…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0a7dff8652c6",
+    "title": "STORM: Stepwise Token Optimization with Reward-Guided Beam Search",
+    "url": "https://arxiv.org/abs/2606.10621",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-10T04:00:00+00:00",
+    "summary": "arXiv:2606.10621v1 Announce Type: new Abstract: Modern retrieval increasingly relies on dense and learned-sparse neural models that are effective but require encoding the entire corpus into a specialized index, rebuilt whenever the model changes. Lexical retrievers like BM25 stay efficient and transparent on a standard inverted index that need not change as models evolve, but suffer from vocabulary mismatch. LLM query rewriting can help, yet prompted rewriters emit well-formed but retrieval-inef…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "017a479a204b",
+    "title": "Beyond Patches: Superpixel Token-based Transformers for Attribute-Specific Fashion Retrieval",
+    "url": "https://arxiv.org/abs/2606.10697",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-10T04:00:00+00:00",
+    "summary": "arXiv:2606.10697v1 Announce Type: new Abstract: Attribute-Specific Fashion Retrieval (ASFR) aims to improve fine-grained image retrieval by focusing on specific attributes. However, existing patch-based attention and Transformer methods often misalign with irregular attribute regions and are prone to background noise, limiting their ability to capture subtle, pixel-level microstructures. To tackle these challenges, we propose SuperFashion, the first ASFR framework that adopts superpixel tokens w…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8512f73a206d",
+    "title": "Effective Reinforcement Learning for Agentic Search by Recycling Zero-Variance Queries During Training",
+    "url": "https://arxiv.org/abs/2606.10709",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-10T04:00:00+00:00",
+    "summary": "arXiv:2606.10709v1 Announce Type: new Abstract: The use of GRPO-style algorithms has become the standard strategy for training LLM search agents under outcome-only rewards. With these algorithms, a query contributes to parameter updates only when its rollout group mixes successes and failures; all-correct (too-easy) and all-incorrect (too-hard) groups are zero-variance and waste rollout cost. Existing approaches treat zero-variance as a static property and either discard or pre-filter such group…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "032e92cb81e7",
+    "title": "miniReranker: Efficient Multimodal Reranking through Visual Cache Reuse and Interaction Sparsity",
+    "url": "https://arxiv.org/abs/2606.10759",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-10T04:00:00+00:00",
+    "summary": "arXiv:2606.10759v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) have recently shown strong potential as point-wise rerankers by directly modeling query--document relevance through next-token prediction. However, point-wise reranking suffers from substantial repeated computation across query--document pairs, while the causal structure of transformers allows only prefix segments to be reused via pre-caching. To address the misalignment of existing query-first and document-…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "5f209e13cf23",
+    "title": "Generative Archetype-Grounded Item Representations for Sequential Recommendation",
+    "url": "https://arxiv.org/abs/2606.11023",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-10T04:00:00+00:00",
+    "summary": "arXiv:2606.11023v1 Announce Type: new Abstract: Sequential recommendation aims to predict users' next interaction with items by analyzing their historical behavior. However, the limited quality of item representations remains a critical bottleneck. While pre-trained large language models (LLMs) can provide rich semantic representations, existing approaches only rely on static encoding of fixed attributes, overlooking the crucial role of target audiences in defining item identity. Moreover, the s…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c9cbbfe7b83b",
+    "title": "LLM-as-a-Discriminator: When Synthetic Tables Still Look Real",
+    "url": "https://arxiv.org/abs/2606.09865",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-10T04:00:00+00:00",
+    "summary": "arXiv:2606.09865v1 Announce Type: cross Abstract: Privacy and data sharing are often in tension. Many organizations use synthetic data to reduce privacy risk and still share useful data. For tabular data, auditing privacy remains hard. In many cases, even humans cannot easily tell if a table is real or synthetic. In this paper, we propose a method based on LLM discrimination. We ask an LLM to classify each table sample as REAL or SYNTHETIC. We test two settings: C1 with table only, and C2 with t…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "f87cb568c1b9",
+    "title": "Representation Curriculum: Stagewise Training for Robust Ranking and Allocation",
+    "url": "https://arxiv.org/abs/2606.09891",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-10T04:00:00+00:00",
+    "summary": "arXiv:2606.09891v1 Announce Type: cross Abstract: Ranking in digital marketplaces is a dynamic exposure-allocation mechanism: displayed items shape discovery trajectories and success events logged by the platform to update future allocation policies. Modern ranking systems rely heavily on exposure-confounded signals (e.g. popularity estimates, CTR/CVR aggregates, and ID-based representation), because they are highly predictive under stationary demand. Yet this predictive power can become a learn…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f229f3356219",
+    "title": "Less Context, More Accuracy: A Bi-Temporal Memory Engine for LLM Agents Where a Lean Retrieved Context Beats the Full History",
+    "url": "https://arxiv.org/abs/2606.09900",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-10T04:00:00+00:00",
+    "summary": "arXiv:2606.09900v1 Announce Type: cross Abstract: Long-term memory is the missing layer for LLM agents: across sessions they forget, and the common workaround -- replaying the whole history into the prompt -- is expensive, slow, and, as distractors accumulate, less accurate. Most memory systems win on cost or latency but still lose to the full-context baseline on accuracy, and benchmark numbers are reported on inconsistent, non-reproducible harnesses, so one system appears at wildly different sc…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "cd9d997bbab5",
+    "title": "Stability in Competitive Search with Results Diversification",
+    "url": "https://arxiv.org/abs/2606.10053",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-10T04:00:00+00:00",
+    "summary": "arXiv:2606.10053v1 Announce Type: cross Abstract: In a competitive search setting, publishers strategically modify their documents in response to induced rankings so as to improve their future ranking. We present a novel game-theoretic analysis of a competitive search setting where search-results diversification is applied. Our analysis reveals an inherent tradeoff between corpus diversity and corpus stability, where the latter corresponds to an equilibrium in a game. We analyze two representati…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "3c77d2627442",
+    "title": "Agentic Hybrid RAG for Evidence-Grounded Muon Collider Analysis",
+    "url": "https://arxiv.org/abs/2606.10381",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-10T04:00:00+00:00",
+    "summary": "arXiv:2606.10381v1 Announce Type: cross Abstract: Muon collider research spans accelerator physics, detector instrumentation, and high-energy phenomenology, with relevant evidence scattered across a rapidly expanding and heterogeneous body of scientific literature. As high-energy physics (HEP) increasingly explores agent-assisted analysis workflows, efficiently locating, integrating, and verifying scientific evidence becomes an essential capability. While retrieval-augmented generation (RAG) off…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "db7747c3c286",
+    "title": "ConvMemory v2: A Recall-Preserving Top-10 Evidence Reranker for Conversational Memory Retrieval",
+    "url": "https://arxiv.org/abs/2606.10842",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-10T04:00:00+00:00",
+    "summary": "arXiv:2606.10842v1 Announce Type: cross Abstract: We describe ConvMemory v2, an opt-in token-evidence reranker that sits after the lightweight ConvMemory v1 reranker and reorders only v1's protected top-10 candidate set. v2 is a fine-tuned ms-marco-MiniLM-L-6-v2 cross-encoder (22,713,601 parameters, measured from the released checkpoint) applied to the ten (query, memory) pairs that v1 has already selected; it does not change which ten memories are returned, so Recall@10 and Hit@10 are identical…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b7d0365f4bd1",
+    "title": "Flash-GMM: A Memory-Efficient Kernel for Scalable Soft Clustering",
+    "url": "https://arxiv.org/abs/2606.10896",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-10T04:00:00+00:00",
+    "summary": "arXiv:2606.10896v1 Announce Type: cross Abstract: We present \\textbf{Flash-GMM}, a fused Triton kernel for efficient computation of Gaussian Mixture Models (GMMs) over large-scale data in a single GPU pass. By eliminating the need to materialize the full responsibility matrix in GPU memory, Flash-GMM achieves a \\textbf{20$\\times$} speedup over existing implementations and enables training on datasets more than \\textbf{100$\\times$} larger than previously feasible on one device. To demonstrate its…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "3f4e33b5c901",
+    "title": "From Prompt to Purchase: How AI Brand Recommendations Move Consumers on the Open Web",
+    "url": "https://arxiv.org/abs/2606.10907",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-10T04:00:00+00:00",
+    "summary": "arXiv:2606.10907v1 Announce Type: cross Abstract: When a conversational assistant recommends a brand to a user with no recent observed engagement, that user's same-name Google search rises +4.3 percentage points (pp) [3.1, 5.5], visits to the brand's own site +2.4 pp [1.4, 3.5], and brand-specific retailer-page visits +1.0 pp [0.3, 1.7] over matched backward placebos. Recovering that estimate is the work. The mention creates a brand exposure no web log attributes to the assistant, and the naive …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "214be8ea710c",
+    "title": "HiGR: Industrial-Scale Hierarchical Generative Slate Recommendation Framework in Tencent",
+    "url": "https://arxiv.org/abs/2512.24787",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-10T04:00:00+00:00",
+    "summary": "arXiv:2512.24787v3 Announce Type: replace Abstract: Slate recommendation, which presents users with a ranked item list in a single display, is ubiquitous across mainstream online platforms. While recent generative recommendation methods have shown strong potential in modeling item sequences with semantic IDs, directly applying them to industrial-scale slate recommendation faces a fundamental disconnect: entangled SID spaces confound high-level list planning, fine-grained autoregressive decoding …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f2d7e266080b",
+    "title": "Reasoning over Semantic IDs Enhances Generative Recommendation",
+    "url": "https://arxiv.org/abs/2603.23183",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-10T04:00:00+00:00",
+    "summary": "arXiv:2603.23183v2 Announce Type: replace Abstract: Recent advances in generative recommendation have leveraged pretrained LLMs by formulating sequential recommendation as autoregressive generation over a unified token space comprising language tokens and itemic identifiers, where each item is represented by a compact sequence of discrete tokens, namely Semantic IDs (SIDs). This SID-based formulation enables efficient decoding over large-scale item corpora and provides a natural interface for LL…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "4b1e0cd8cf68",
+    "title": "How Many Submissions May an Author Make? A Harmonic Quota for Submissions under Coauthorship",
+    "url": "https://arxiv.org/abs/2606.10293",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-10T04:00:00+00:00",
+    "summary": "arXiv:2606.10293v1 Announce Type: new Abstract: Research evaluation systems -- including journals, conferences, and funders -- are increasingly using author-level submission limits to manage growing submission loads. Most existing policies charge each submission as a unit cost against every coauthor's quota. This treats a solo-authored submission and a large collaborative submission identically for each author, even though the reviewing demand of a collaborative submission is jointly attributabl…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0bef3b9dd247",
+    "title": "Beyond Journals: Rethinking Research Evaluation in Hungarian Computer Science",
+    "url": "https://arxiv.org/abs/2606.10726",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-10T04:00:00+00:00",
+    "summary": "arXiv:2606.10726v1 Announce Type: new Abstract: This study examines the role of top-tier conference publications in Hungarian computer science research. We show that the national scientometric practice, which is currently journal-oriented, diverges from international norms, creating incentive distortions in researcher evaluation. By linking multiple databases (iCore, DBLP, MTMT, MTA-ATT), we mapped Hungarian-affiliated CORE A* and A conference papers, their temporal and thematic distribution, an…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "59026220b856",
+    "title": "Making a Name for Myself: On Academic Naming Policies and their Impact",
+    "url": "https://arxiv.org/abs/2606.11021",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-10T04:00:00+00:00",
+    "summary": "arXiv:2606.11021v1 Announce Type: new Abstract: In academic publishing, names connect scholars to their work. When scholars change their names, including for marriage, academic recognition, or gender transition, they may lose credit for past publications.However, despite significant impacts on citation accuracy and researcher well-being, no existing studies examine how naming policies in computer science serve researchers who change their names.We use a mixed-methods approach combining surveys, …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2de1216a64a2",
+    "title": "POPSICLE: Benchmark Datasets for Segmentation and Localization in CryoET",
+    "url": "https://arxiv.org/abs/2606.10255",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-10T04:00:00+00:00",
+    "summary": "arXiv:2606.10255v1 Announce Type: cross Abstract: Cryo-electron tomography (cryoET) has emerged as a powerful tool in structural and cellular biology by enabling direct visualization of macromolecular structures within intact cells, thereby linking molecular architecture to cellular organization in a native context. Realizing the full potential of cryoET, however, increasingly depends on advances in computational analysis, particularly machine learning (ML), to interpret its complex and informat…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ebbbb3d08eac",
+    "title": "Future of Privacy Forum Releases Comprehensive Report On Algorithmic Personalization in Youth Online Experiences",
+    "url": "https://fpf.org/press-releases/future-of-privacy-forum-releases-comprehensive-report-on-algorithmic-personalization-in-youth-online-experiences/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-06-09T21:58:19+00:00",
+    "summary": "As policymakers continue to debate youth online safety regulations, a new FPF report assesses the role of data-driven personalization and its implications for emerging policy and product design WASHINGTON, D.C. — (June 10, 2026) — The Future of Privacy Forum — a global non-profit focused on data protection, AI, and emerging technologies —today released Personalization [&#8230;]",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e1cf5ec362d2",
+    "title": "Anthropic Offers Mythos Upgrade for Cyber Partners and a ‘Safe’ Version for the Rest of You",
+    "url": "https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/",
+    "source": "Wired AI",
+    "date": "2026-06-09T17:00:46+00:00",
+    "summary": "Anthropic is releasing Claude Mythos 5 to trusted organizations and Claude Fable 5 to the public, a version it says can’t be used for cyberattacks.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "3eaa8e72a3ed",
+    "title": "Frontier AI Goes Federal: How the Great American AI Act Compares to State Laws",
+    "url": "https://fpf.org/blog/frontier-ai-goes-federal-how-the-great-american-ai-act-compares-to-state-laws/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-06-09T14:21:35+00:00",
+    "summary": "Introduction It has been an unusually active few weeks for AI safety policy. Following a new frontier model safety bill passed in Illinois, and a White House executive order on AI security, Rep. Jay Obernolte (R-CA) and Rep. Lori Trahan (D-MA) released a bipartisan discussion draft for the Great American AI Act of 2026, adding [&#8230;]",
+    "category": "AI & Information Governance"
+  },
+  {
     "id": "91f4fc354ebd",
     "title": "Alex Vindman Survived Trump’s Retaliation Machine. Now He’s Running for Senate",
     "url": "https://www.wired.com/story/the-big-interview-podcast-alex-vindman/",
     "source": "Wired AI",
     "date": "2026-06-09T10:30:00+00:00",
     "summary": "In 2019, Alex Vindman testified during President Trump’s first impeachment trial–a decision that ended his military career. Now he wants to challenge the president from the halls of Congress.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1eb60741c6b7",
+    "title": "Learning to lead in a hybrid human-AI enterprise",
+    "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+    "source": "MIT Tech Review",
+    "date": "2026-06-09T10:20:06+00:00",
+    "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce. Unlike existing enterprise-level automation that relies on manual input, AI agents are capable of autonomously coordinating complex tasks, interacting with multiple tools and environments across&#8230;",
     "category": "AI & Information Sciences"
   },
   {
