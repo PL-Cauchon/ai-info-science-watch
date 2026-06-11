@@ -1,5 +1,293 @@
 [
   {
+    "id": "11e089b70b07",
+    "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+    "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+    "source": "MIT Tech Review",
+    "date": "2026-06-11T11:00:45+00:00",
+    "summary": "Google DeepMind is funding research into the potential dangers of millions of different AI agents interacting with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without human oversight and follow instructions given to them by other agents creates&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "cb2b8c74a643",
+    "title": "A PubMed-Scale Dataset of Structured Biomedical Abstracts",
+    "url": "https://arxiv.org/abs/2606.11361",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-11T04:00:00+00:00",
+    "summary": "arXiv:2606.11361v1 Announce Type: new Abstract: Structured abstracts are important for biomedical literature processing, by facilitating information retrieval, text mining, and knowledge synthesis. However, a vast portion of abstracts indexed in PubMed remain unstructured, presenting a significant bottleneck for downstream text-processing workflows and applications. To resolve this limitation, we introduce Structured PubMed, a comprehensive corpus of section-labeled biomedical abstracts compiled…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "ed4d482e7ecd",
+    "title": "Factions Within, Uncertain Across: Within-Document Reader Sub-Groups in Social Highlighting",
+    "url": "https://arxiv.org/abs/2606.11613",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-11T04:00:00+00:00",
+    "summary": "arXiv:2606.11613v1 Announce Type: new Abstract: When many people highlight the same document, is the crowd a single consensus, or is it internally structured into reader sub-groups that mark different things -- and is that structure a stable property of a reader or of the document? Building on prior work showing an individual's within-document highlighting signal is a whisper while individuality lives in selection, we ask the group-level question on a co-readership platform using a margin-preser…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d3250a218fe0",
+    "title": "The Long Tail, Not the Front Page: Cold-Start Prediction of Crowd Highlight Salience",
+    "url": "https://arxiv.org/abs/2606.11654",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-11T04:00:00+00:00",
+    "summary": "arXiv:2606.11654v1 Announce Type: new Abstract: A social highlighter's most useful signal -- which passages a crowd of readers marks -- exists only for documents people have already read. Can the aggregate crowd salience of a document be predicted from its text before its marks accumulate? Prior work on this data found that zero-shot language models recover highlight locations worse than a trivial lead (position) baseline, so we ask whether a model trained on the highlight corpus can beat that b…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "798947f158b7",
+    "title": "CompRank: Efficient LLM Reranking via Token-Level Compression and Decoding-Free Scoring",
+    "url": "https://arxiv.org/abs/2606.11700",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-11T04:00:00+00:00",
+    "summary": "arXiv:2606.11700v1 Announce Type: new Abstract: Large language model (LLM) rerankers have become an important component of modern retrieval and retrieval-augmented generation pipelines, but their high computational cost limits their applicability to long candidate lists. In this paper, we propose \\textbf{CompRank}, a token-efficient reranking framework that reduces redundant computation by aligning reranker design with the sparsity of ranking signals. CompRank decouples document representations …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "898420bfe914",
+    "title": "FAST-MEL: A Fast, Accurate, and Storage Efficient Solution for Multimodal Entity Linking",
+    "url": "https://arxiv.org/abs/2606.11749",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-11T04:00:00+00:00",
+    "summary": "arXiv:2606.11749v1 Announce Type: new Abstract: Multimodal entity linking (MEL) is the task that consists of matching textual and visual mentions of entities in unstructured data to their corresponding entities in a knowledge base (KB). To be effective in large-scale practical settings, MEL systems must meet three objectives: high linking accuracy, computational efficiency, and storage efficiency, i.e., a compact yet efficient index of the KB. In this paper, we highlight that state-of-the-art sy…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "f65d6e947481",
+    "title": "What Limits Does Quantization Place on Dense Top-$k$ Retrieval? A Theoretical Study",
+    "url": "https://arxiv.org/abs/2606.11780",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-11T04:00:00+00:00",
+    "summary": "arXiv:2606.11780v1 Announce Type: new Abstract: We establish conditions for embedding a corpus of $N$ documents as $d$-dimensional vectors such that every $k$-subset $S \\subseteq [N]$ is realizable as a result of top-$k$ retrieval by some query vector. Recent work shows that $d = O(k)$ suffices for such embeddings to exist in $\\mathbb{R}^d$, independently of $N$. We theoretically prove that this corpus-independent bound is specific to infinite precision. With $B$ bits per coordinate, perfect top…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "ffcd9e40d477",
+    "title": "CORE-Bench: A Comprehensive Benchmark for Code Retrieval in the Era of Agentic Coding",
+    "url": "https://arxiv.org/abs/2606.11864",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-11T04:00:00+00:00",
+    "summary": "arXiv:2606.11864v1 Announce Type: new Abstract: Code retrieval is becoming central to coding agents, but agentic coding requires more than matching a natural-language query to an isolated snippet. Given a user request, a coding agent needs to navigate a concrete repository state, locate relevant files and functions, gather supporting context, and filter similar in-repository distractors. Existing code retrieval benchmarks mainly evaluate docstring-to-function or snippet-level matching, thereby m…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b1ed6b533032",
+    "title": "Tail-Aware Adaptive-k: Query-Adaptive Context Selection for Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2606.11907",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-11T04:00:00+00:00",
+    "summary": "arXiv:2606.11907v1 Announce Type: new Abstract: Adaptive context selection is critical for retrieval-augmented generation (RAG) systems, as fixed Top-K retrieval fails under query-dependent and heavy-tailed similarity distributions. While Extreme Value Theory (EVT) offers a principled framework for adaptive truncation, existing approaches apply EVT globally across the entire ranked list, incurring prohibitive computational costs and statistical instability. We propose Tail-Aware Adaptive-k(TAA-k…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "8437295df85e",
+    "title": "LLM-Based User Personas for Recommendations at Scale",
+    "url": "https://arxiv.org/abs/2606.12198",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-11T04:00:00+00:00",
+    "summary": "arXiv:2606.12198v1 Announce Type: new Abstract: Large Language Models (LLMs) offer unprecedented potential for enhancing recommendation systems through their world knowledge and reasoning capabilities. However, existing approaches often rely on structured IDs or offline processing, limiting semantic richness, real-time adaptability, and user-facing interpretability. In this paper, we introduce a novel framework that enables real-time generation of LLM-based user interest personas for a large-sca…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "f26a1bfe7380",
+    "title": "DiffCold: A Diffusion-based Generative Model for Cold-Start Item Recommendation",
+    "url": "https://arxiv.org/abs/2606.12245",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-11T04:00:00+00:00",
+    "summary": "arXiv:2606.12245v1 Announce Type: new Abstract: Cold-start item recommendation remains a persistent challenge in real-world systems due to the absence of interaction histories. While prior models attempt to bridge this gap using item content features, they universally suffer from the \\textbf{seesaw dilemma}: enhancing performance for cold items inevitably degrades performance for warm items, and vice versa. We identify that this dilemma stems from a fundamental \\textbf{distributional disparity}:…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "565c072d958a",
+    "title": "NightFeats @ MMU-RAGent NeurIPS 2025: A Context-Optimized Multi-Agent RAG System for the Text-to-Text Track",
+    "url": "https://arxiv.org/abs/2606.11199",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-11T04:00:00+00:00",
+    "summary": "arXiv:2606.11199v1 Announce Type: cross Abstract: We present NightFeats, a structured multi-agent retrieval-augmented generation (RAG) system submitted to the MMU-RAGent competition at NeurIPS 2025, where it was awarded Best Dynamic Evaluation in the text-to-text track. Rather than targeting benchmark maximization, this work proposes a principled pipeline that decomposes knowledge synthesis into three coordinated phases: retrieval, curation, and composition, each governed by explicit intermediat…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "ad4bdd7b115f",
+    "title": "Benchmarking Large Language Models for Safety Data Extraction",
+    "url": "https://arxiv.org/abs/2606.11204",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-11T04:00:00+00:00",
+    "summary": "arXiv:2606.11204v1 Announce Type: cross Abstract: Accurate extraction of structured information from Safety Data Sheets (SDS) remains challenging in industrial safety due to heterogeneous document formats and the limitations of traditional rule-based methods. This study benchmarks state-of-the-art Large Language Models (LLMs) for automated SDS data extraction, comparing text-based and multimodal processing pipelines. We systematically evaluate four models: Gemini 1.5 Pro, GPT-4o, Claude 3.7 Sonn…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "b194ae5cb6d2",
+    "title": "When More Documents Hurt RAG: Mitigating Vector Search Dilution with Domain-Scoped, Model-Agnostic Retrieval",
+    "url": "https://arxiv.org/abs/2606.11350",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-11T04:00:00+00:00",
+    "summary": "arXiv:2606.11350v1 Announce Type: cross Abstract: Retrieval-augmented generation degrades when scaled to large, heterogeneous document collections, where dense similarity loses discriminative power, and top-k retrieval increasingly returns semantically similar but contextually incorrect chunks. We refer to this failure mode as vector search dilution. Even when using hybrid dense+sparse retrieval, we observed this firsthand in a deployed Wyoming Department of Transportation corpus, where scaling …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "1582d1ab2295",
+    "title": "DeMix: Debugging Training Data with Mixed Data Error Types by Investigating Influence Vectors",
+    "url": "https://arxiv.org/abs/2606.11616",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-11T04:00:00+00:00",
+    "summary": "arXiv:2606.11616v1 Announce Type: cross Abstract: High-quality training data is essential for the success of machine learning models. However, real-world datasets often contain mixed types of errors arising from systematic flaws in data preparation pipelines, including label errors, feature errors, and spurious correlations. Effective debugging of training data requires both detecting erroneous samples and identifying their specific error types to enable targeted repair, yet existing data cleani…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "889ad44d7161",
+    "title": "uva-irlab-conv at SemEval-2026 Task 8: Multi-Turn RAG with Learned Sparse Retrieval and Listwise Reranking",
+    "url": "https://arxiv.org/abs/2606.11945",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-11T04:00:00+00:00",
+    "summary": "arXiv:2606.11945v1 Announce Type: cross Abstract: This report describes our participation in SemEval-2026 Task 8 on multi-turn retrieval and question answering. The task evaluates conversational systems across four domains (finance, cloud documentation, government, Wikipedia), and includes unanswerable queries where the available collection does not contain sufficient evidence to produce a complete response. We propose a multi-turn retrieval-augmented generation pipeline that combines learned sp…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "d33c7b948090",
+    "title": "MLT-Dedup: Efficient Large-Scale Online Video Deduplication via Multi-Level Representations and Spatial-Temporal Matching",
+    "url": "https://arxiv.org/abs/2606.12215",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-11T04:00:00+00:00",
+    "summary": "arXiv:2606.12215v1 Announce Type: cross Abstract: The explosive growth of user-generated video content on online platforms is accompanied by the emergence of numerous near-duplicate videos--videos that are identical or highly similar but differ by partial edits. These duplicates degrade user experience and increase storage and bandwidth costs, making large-scale video deduplication a critical task. Existing video deduplication frameworks face a fundamental challenge in retrieving sufficient high…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "98915fbe0793",
+    "title": "Efficient and Robust Online Learning to Rank in Decentralized Systems",
+    "url": "https://arxiv.org/abs/2606.12246",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-11T04:00:00+00:00",
+    "summary": "arXiv:2606.12246v1 Announce Type: cross Abstract: In Online Learning to Rank (OLTR), ranking models are trained directly from live user interactions, but existing systems rely on a trusted central server to collect and process these interactions. This leaves operators free to introduce biases that conflict with user interests. Decentralized learning offers an attractive alternative, allowing users to collaboratively train a shared ranking model by exchanging model updates directly with one anoth…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1a7c4483e527",
+    "title": "Findings of the MAGMaR 2026 Shared Task",
+    "url": "https://arxiv.org/abs/2606.12295",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-11T04:00:00+00:00",
+    "summary": "arXiv:2606.12295v1 Announce Type: cross Abstract: This overview paper presents the results of the shared task for the second workshop on Multimodal Augmented Generation via Multimodal Retrieval (MAGMaR). In this shared task participants submitted systems focused on either (i) video retrieval or (ii) grounded generation of articles given retrieved videos. Teams could submit to either task. For the retrieval task, we had 2 participating teams that submitted a total of 17 systems -- all of which be…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "17560e95283f",
+    "title": "Doc-to-Atom: Learning to Compile and Compose Memory Atoms",
+    "url": "https://arxiv.org/abs/2606.12400",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-11T04:00:00+00:00",
+    "summary": "arXiv:2606.12400v1 Announce Type: cross Abstract: Long input sequences are central to document understanding and multi-step reasoning in Large Language Models, yet the quadratic cost of attention makes inference both memory-intensive and slow. Context distillation mitigates this by compressing contextual information into model parameters, and recent work such as Doc-to-LoRA amortizes context distillation into a single forward pass that generates one LoRA adapter per document. However, producing …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a317d60c2f19",
+    "title": "MOTOR: Learning ID-free Item Representation with Token Crossing for Embedding-based Multimodal Recommendation",
+    "url": "https://arxiv.org/abs/2410.19276",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-11T04:00:00+00:00",
+    "summary": "arXiv:2410.19276v2 Announce Type: replace Abstract: While multimodal recommendation models have effectively integrated visual and textual information, their reliance on unique ID embeddings constitutes a fundamental performance bottleneck. Specifically, ID-based paradigms suffer from three limitations: (1) \\textbf{Information Isolation}, where unique IDs prevent semantic information exchange among related items; (2) \\textbf{Cold-Start Vulnerability}, as ID embeddings are difficult to optimize wi…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "1e9e7696223c",
+    "title": "Uncertainty-aware Generative Recommendation",
+    "url": "https://arxiv.org/abs/2602.11719",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-11T04:00:00+00:00",
+    "summary": "arXiv:2602.11719v2 Announce Type: replace Abstract: Generative Recommendation has emerged as a transformative paradigm, reformulating recommendation as an end-to-end autoregressive sequence generation task. Despite its promise, existing preference optimization methods typically rely on binary outcome correctness, suffering from a systemic limitation we term uncertainty blindness. This issue manifests in the neglect of the model's intrinsic generation confidence, the variation in sample learning …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "3bb15193bd83",
+    "title": "APTLAS: An Indexed APT Literature Repository",
+    "url": "https://arxiv.org/abs/2606.11241",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-11T04:00:00+00:00",
+    "summary": "arXiv:2606.11241v1 Announce Type: new Abstract: Atom probe tomography (APT) literature is broad, rapidly growing, and dispersed across a wide range of journals, which can make it difficult to identify prior work on a given material system, instrument, or analytical approach. Conventional search engines (e.g., Google Scholar) excel at general retrieval but do not preserve the domain-specific metadata that often determines the relevance of an APT publication (e.g., analysis mode, laser wavelength,…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "26ce82caefee",
+    "title": "Towards a Bridge Layer Between Bibliographic and Formalized Mathematical Knowledge",
+    "url": "https://arxiv.org/abs/2606.11430",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-11T04:00:00+00:00",
+    "summary": "arXiv:2606.11430v1 Announce Type: new Abstract: Mathematical knowledge is split between bibliographic databases (e.g., MathSciNet, zbMATH Open) and formal proof libraries (e.g., Lean mathlib), preventing unified access between published results and their formalizations. We propose a relational bridge-database that aligns publication metadata with formal artifacts, providing an interoperability layer between mathematical literature and machine-verifiable proofs. We introduce a paper-level formali…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "3c66b7c144e5",
+    "title": "On the Limits of LLM-as-Judge for Scientific Novelty Assessment",
+    "url": "https://arxiv.org/abs/2606.12071",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-11T04:00:00+00:00",
+    "summary": "arXiv:2606.12071v1 Announce Type: new Abstract: LLMs are increasingly used to generate and judge scientific ideas. This makes novelty evaluation a central problem. Full idea evaluation is difficult because it often requires judging a method, its feasibility, and its empirical promise. We therefore study a cleaner upstream object: the research question (RQ). RQ generation is a prerequisite for scientific ideation, and RQs can be compared against questions pursued in real papers. We introduce RQ-B…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "9027902804d9",
+    "title": "Mapping Scientific Literature with Large Language Models and Topic Modeling",
+    "url": "https://arxiv.org/abs/2510.16152",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-11T04:00:00+00:00",
+    "summary": "arXiv:2510.16152v2 Announce Type: replace Abstract: Scientific literature is increasingly fragmented by disciplinary boundaries, specialized terminology, and potentially sparse keyword systems, making it difficult to capture the evolving structure of modern science. This study introduces a large language model (LLM)-driven framework for mapping scientific literature from a topic modeling perspective. The approach is demonstrated on a 20-year corpus of more than 1,500 engineering-related articles…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "fa69ad739850",
+    "title": "A Semantic Geometry for Uncovering Paradigm Dynamics via Scientific Publications",
+    "url": "https://arxiv.org/abs/2604.15150",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-11T04:00:00+00:00",
+    "summary": "arXiv:2604.15150v2 Announce Type: replace Abstract: Science advances not only by accumulating discovered patterns but by changing how new problems and solutions are expressed. While structural indicators track scholarly attention, they offer only an indirect proxy for the reorganization of meaning. We propose a semantic geometry based on the R-P-C (references, focal publication, and citing publications) framework to quantify how a publication positions itself relative to its knowledge base and d…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "f530039ea3fe",
+    "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
+    "url": "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/",
+    "source": "Wired AI",
+    "date": "2026-06-11T03:11:22+00:00",
+    "summary": "The company changed course after researchers spoke out against the policy, which would have covertly limited Claude’s ability to develop competing AI models.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "df7e05228cfc",
+    "title": "Reading the room: What global library leadership conversations teach us",
+    "url": "https://hangingtogether.org/reading-the-room-what-global-library-leadership-conversations-teach-us/",
+    "source": "OCLC Research",
+    "date": "2026-06-10T15:08:08+00:00",
+    "summary": "Magic happens when global library leaders engage in person. But be aware of some practical realities that shape those conversations. The post Reading the room: What global library leadership conversations teach us appeared first on Hanging Together.",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "5d7ba645d679",
+    "title": "Wrongful Arrest Exposes Failures in One of the Oldest Police Face-Recognition Tools in the US",
+    "url": "https://www.wired.com/story/wrongful-arrest-tests-one-of-the-oldest-police-face-recognition-tools-in-the-us/",
+    "source": "Wired AI",
+    "date": "2026-06-10T14:00:00+00:00",
+    "summary": "The ACLU is suing two Florida police departments over the arrest of a Fort Myers man in a child-abduction case, saying officers treated a flawed face-recognition match as a near-certain ID.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "84d8a63cd8c7",
+    "title": "China Opens World’s First Wind-Powered Underwater Data Center",
+    "url": "https://www.wired.com/story/china-opens-worlds-first-wind-powered-underwater-data-center/",
+    "source": "Wired AI",
+    "date": "2026-06-10T13:39:32+00:00",
+    "summary": "With an initial capacity of 24 megawatts, the innovative data center uses seawater as a natural cooling system.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f7eb3d3bb404",
+    "title": "The World in an Archive: Preserving the Websites of Geographers, Cartographers, and Map Enthusiasts",
+    "url": "https://blogs.loc.gov/thesignal/2026/06/the-world-in-an-archive/",
+    "source": "LOC Signal",
+    "date": "2026-06-10T13:00:32+00:00",
+    "summary": "The Geographic and Cartographic Professional Societies and Organizations Web Archive preserves the websites of groups shaping our understanding of the world. In this interview, Carissa Pastuch discusses how the collection was built, what it includes and why preserving born-digital content is increasingly important for documenting the field of geography and cartography.",
+    "category": "Libraries & Archives"
+  },
+  {
     "id": "4c4ac71a3191",
     "title": "Artificial Intelligence Sneaks Into the World Cup Thanks to Google Gemini",
     "url": "https://www.wired.com/story/artificial-intelligence-sneaks-into-the-world-cup-thanks-to-google-gemini/",
