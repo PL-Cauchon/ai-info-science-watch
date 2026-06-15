@@ -1,5 +1,230 @@
 [
   {
+    "id": "15f195e49fd1",
+    "title": "Meta Tapped a Pentagon Supplier to Prototype Face Recognition for Its Glasses",
+    "url": "https://www.wired.com/story/meta-rank-one-computing-face-recognition-smart-glasses/",
+    "source": "Wired AI",
+    "date": "2026-06-15T09:00:00+00:00",
+    "summary": "Rank One, whose board includes a former CIA deputy director and a former FBI science chief, supplied face recognition to Meta for internal development of its smart glasses app.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "cfd8aa636e01",
+    "title": "Personalization and Evaluation of Conversational Information Access",
+    "url": "https://arxiv.org/abs/2606.13717",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-15T04:00:00+00:00",
+    "summary": "arXiv:2606.13717v1 Announce Type: new Abstract: Conversational interactions have reshaped information retrieval systems, as users increasingly favour direct answers over traditional hyperlinks. To build reliable Conversational Information Access (CIA) systems that account for personal context, this thesis addresses challenges: (1) personal context extraction, (2) personalized response generation, and (3) effective and interpretable system evaluation. First, we tackle personal context extraction …",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "3c60cd98fa09",
+    "title": "Nomenclature Ontology for Medical And Disease names (NOMAD): taxonomy of types and origins of disease names",
+    "url": "https://arxiv.org/abs/2606.13719",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-15T04:00:00+00:00",
+    "summary": "arXiv:2606.13719v1 Announce Type: new Abstract: The nomenclature of human disease has developed organically over the past centuries using Greek, Latin, and Arabic terminology and reflects the idiosyncrasies of different eras of medical discovery. Despite evident heterogeneity in naming practices, no systematic framework exists for characterising these conventions across all diseases. In this paper, we describe the Nomenclature Ontology for Medical And Disease names (NOMAD), a meta-taxonomy that …",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "c1e9f3b3a013",
+    "title": "TASR: Training-Free Adaptive Stopping for Iterative Retrieval",
+    "url": "https://arxiv.org/abs/2606.13814",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-15T04:00:00+00:00",
+    "summary": "arXiv:2606.13814v1 Announce Type: new Abstract: Iterative retrieval-augmented generation agents commonly overspend by continuing to retrieve after the model has converged on an answer, incurring calls that change neither the prediction nor the supporting evidence. Existing remedies learn a stopping policy from labeled trajectories, tying the decision to a trained component that requires retraining for each new model or task. We propose TASR (Training-Free Adaptive Stopping Rule), a one-line pred…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "1c2dcc364623",
+    "title": "Hybrid Neural Retrieval with Generative Query Refinement for Quranic Passage Retrieval",
+    "url": "https://arxiv.org/abs/2606.13837",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-15T04:00:00+00:00",
+    "summary": "arXiv:2606.13837v1 Announce Type: new Abstract: Quranic Passage Retrieval (PR) could be a challenging task due to the linguistic complexity and the semantic gap between the Modern Standard Arabic (MSA) used in daily queries and the Classical Arabic (CA) of the Holy Quran. These factors hinder conventional retrieval methods. To handle these limitations and improve multi-verse retrieval and filter the zero-answer queries, this paper proposes a four-phase neural architecture designed to enhance ret…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "dd65fb25e556",
+    "title": "Mood-Aware Music Recommendation: Integrating User Affective Signals into Ranking Systems",
+    "url": "https://arxiv.org/abs/2606.13858",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-15T04:00:00+00:00",
+    "summary": "arXiv:2606.13858v1 Announce Type: new Abstract: Recommendation systems are essential in modern music streaming platforms due to the vast amount of available content. While collaborative filtering is widely used to suggest items based on the preferences of others with similar patterns, it performs poorly in domains where user-item interactions are sparse, such as music. Content-based filtering is an alternative approach that examines the qualities of the items themselves. Genre, instrumentation, …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ff6b306dbde5",
+    "title": "ADORE: Iterative Query Expansion with Retrieval-Grounded Relevance Feedback",
+    "url": "https://arxiv.org/abs/2606.13905",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-15T04:00:00+00:00",
+    "summary": "arXiv:2606.13905v1 Announce Type: new Abstract: LLM-based query expansion improves retrieval by enriching the original query with additional context. Yet most methods remain generation-driven, producing plausible pseudo-documents or expansions without checking how the target corpus responds. This can introduce retrieval drift, amplify misleading vocabulary, or miss terms that distinguish relevant from non-relevant documents. We argue that effective expansion requires retrieval-grounded feedback,…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "bb1333e67888",
+    "title": "When Recommendation Denoising Meets Popularity Bias: Understanding and Mitigating Their Interaction",
+    "url": "https://arxiv.org/abs/2606.14046",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-15T04:00:00+00:00",
+    "summary": "arXiv:2606.14046v1 Announce Type: new Abstract: Implicit feedback is the dominant data source for recommender systems, but behavioral logs are often contaminated by false-positive interactions caused by mis-clicks, biased exposure, and interface effects. Denoising recommendation methods improve robustness by down-weighting or filtering interactions suspected to be noisy, often relying on the small-loss heuristic. We revisit this heuristic through the lens of popularity bias. Tail-item positives …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1c6fa90d0fc9",
+    "title": "Knowledge Graph Enhanced Memory-Augmented Retrieval for Long Context Modeling",
+    "url": "https://arxiv.org/abs/2606.14047",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-15T04:00:00+00:00",
+    "summary": "arXiv:2606.14047v1 Announce Type: new Abstract: Long-context language modeling requires not only extending context windows but maintaining coherent understanding of entity states and relationships across thousands of tokens -- a challenge that semantic similarity alone cannot address. KGERMAR addresses this by constructing dynamic, context-specific knowledge graphs from input text during inference, enabling domain-adaptive retrieval that leverages both semantic similarity and explicit entity rel…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "bce2a4ee5fe4",
+    "title": "CoRe: A Continuously Reward-Finetuned LLM Query Rewriter for Multi-Stage Context-Aware Relevance in Web-Scale Video Search",
+    "url": "https://arxiv.org/abs/2606.14127",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-15T04:00:00+00:00",
+    "summary": "arXiv:2606.14127v1 Announce Type: new Abstract: LLM-based query rewriters in production face a tension: the training reward must reflect how the rewrite is consumed by the production ranker, yet the training procedure must be cheap enough to support continuous redeployment as data drifts. We present CoRe (Context Relevance), such a system, redeployed weekly for over five months in a major short-video search engine. Our reward uses the deployed multimodal relevance model as its source and a multi…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a3b484386c96",
+    "title": "ChronoID: Infusing Explicit Temporal Signals into Semantic IDs for Generative Recommendation",
+    "url": "https://arxiv.org/abs/2606.14260",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-15T04:00:00+00:00",
+    "summary": "arXiv:2606.14260v1 Announce Type: new Abstract: Semantic IDs are crucial in generative recommendation, but with a fundamental limitation: temporal information is not well incorporated into semantic IDs. Instead, time influences recommendation only implicitly (e.g., through session construction heuristics, preference alignment, or sequence order), while existing semantic ID learning remains entirely time-agnostic. This design conflates interactions occurring under distinct temporal contexts into …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "99f36142895d",
+    "title": "ScoreGate: Adaptive Chunk Selection for Retrieval-Augmented Generation via Dual-Score Statistical Fusion",
+    "url": "https://arxiv.org/abs/2606.14269",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-15T04:00:00+00:00",
+    "summary": "arXiv:2606.14269v1 Announce Type: new Abstract: Fixed-cardinality retrieval injects a constant top-K chunks into the generator regardless of query complexity, causing over-retrieval for narrow queries and under-retrieval for compositional ones. We describe ScoreGate, a lightweight score-space decision mechanism that controls retrieval cardinality at inference time using two scores already produced by the standard pipeline: bi-encoder similarity s_i and cross-encoder reranker score r_i, with no a…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a19bf5b7231a",
+    "title": "Verifiable User Simulation for Search and Recommendation Systems",
+    "url": "https://arxiv.org/abs/2606.14474",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-15T04:00:00+00:00",
+    "summary": "arXiv:2606.14474v1 Announce Type: new Abstract: Large-language-model (LLM) based user simulation is increasingly adopted for evaluating search engines, recommender systems, and retrieval-augmented generation pipelines, yet most simulators remain opaque: it is difficult to determine why a simulated user made a particular choice or whether that choice is consistent with the intended user profile. Compounding this, recent research shows that LLMs can produce biased or discriminatory responses depen…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "f96cf23b17f6",
+    "title": "Private Information Retrieval for Large-Scale DNA-Based Data Storage",
+    "url": "https://arxiv.org/abs/2606.14557",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-15T04:00:00+00:00",
+    "summary": "arXiv:2606.14557v1 Announce Type: new Abstract: We investigate Private Information Retrieval (PIR) in the context of synthetic DNA-based data storage. While PIR is a well-studied primitive for digital databases, extending it to DNA-based databases presents unique challenges arising from biochemical query mechanisms and their complexity. We propose two approaches for adapting two-server PIR protocols to DNA-based storage, balancing privacy, efficiency, and feasibility. These approaches illustrate…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "05f9ae47f947",
+    "title": "Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation",
+    "url": "https://arxiv.org/abs/2305.07609",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-15T04:00:00+00:00",
+    "summary": "arXiv:2305.07609v4 Announce Type: replace Abstract: The remarkable achievements of Large Language Models (LLMs) have led to the emergence of a novel recommendation paradigm -- Recommendation via LLM (RecLLM). Nevertheless, it is important to note that LLMs may contain social prejudices, and therefore, the fairness of recommendations made by RecLLM requires further investigation. To avoid the potential risks of RecLLM, it is imperative to evaluate the fairness of RecLLM with respect to various se…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "59d2b325064c",
+    "title": "PCR-CA: Parallel Codebook Representations with Contrastive Alignment for Multiple-Category App Recommendation",
+    "url": "https://arxiv.org/abs/2508.18166",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-15T04:00:00+00:00",
+    "summary": "arXiv:2508.18166v5 Announce Type: replace Abstract: Modern app store recommender systems struggle with multiple-category apps, as traditional taxonomies fail to capture overlapping semantics, leading to suboptimal personalization. We propose PCR-CA (Parallel Codebook Representations with Contrastive Alignment), an end-to-end framework for improved CTR prediction. PCR-CA first extracts compact multimodal embeddings from app text, then introduces a Parallel Codebook VQ-AE module that learns discre…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "c27dbb7c6095",
+    "title": "Succeeding at Scale: Enterprise Retrieval Benchmark Construction and Index-Preserving Query Adaptation for Multi-Tenant Search",
+    "url": "https://arxiv.org/abs/2601.04646",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-15T04:00:00+00:00",
+    "summary": "arXiv:2601.04646v4 Announce Type: replace Abstract: Large-scale multi-tenant retrieval systems generate extensive query logs but lack curated relevance labels for effective domain adaptation, resulting in substantial underutilized \"dark data.\" This challenge is compounded by the high cost of model updates, as jointly fine-tuning query and document encoders requires full corpus re-indexing, which is impractical in multi-tenant settings with thousands of isolated indices. We introduce DevRev-Searc…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "9ddfdd20b0d1",
+    "title": "Rank4Gen: RAG-Preference-Aligned Document Set Selection and Ranking",
+    "url": "https://arxiv.org/abs/2601.11273",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-15T04:00:00+00:00",
+    "summary": "arXiv:2601.11273v3 Announce Type: replace Abstract: In the RAG paradigm, document ranking determines the evidence available to downstream generators. Through controlled analysis, we identify two phenomena underexplored by existing rankers: (i) downstream response quality depends not only on relevance but also on the composition and ordering of selected documents, and (ii) such preferences differ systematically across generators. However, existing rankers are trained purely on query--document rel…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c9d0fc5f48b0",
+    "title": "SciDef: Datasets and Tools for Automated Definition Extraction from Scientific Literature with LLMs",
+    "url": "https://arxiv.org/abs/2602.05413",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-15T04:00:00+00:00",
+    "summary": "arXiv:2602.05413v2 Announce Type: replace Abstract: Scientific concepts are often defined inconsistently across papers, making it difficult to compare findings, reuse terminology, and build reliable downstream resources. We present SciDef, a resource suite for scientific definition extraction. The suite contains DefExtra, a benchmark of 268 human-validated author-stated definitions from 75 academic papers; DefSim, 60 human-labeled definition-pair similarity judgments; and an open LLM-based pipel…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "b91c669bf5df",
+    "title": "Doctor-RAG: A Failure-Aware Repair Framework for Agentic Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2604.00865",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-15T04:00:00+00:00",
+    "summary": "arXiv:2604.00865v2 Announce Type: replace Abstract: Agentic Retrieval-Augmented Generation interleaves retrieval and reasoning for multi-hop QA and complex knowledge tasks. As reasoning trajectories lengthen, failures become more frequent, while existing methods often either stop at diagnosis or rely on coarse replanning and rerun-style recovery, incurring high computational cost. We propose DoctorRAG (DR-RAG), a diagnose-and-repair framework that corrects failures via explicit error localizatio…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "122c3031c90d",
+    "title": "UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities",
+    "url": "https://arxiv.org/abs/2504.20734",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-15T04:00:00+00:00",
+    "summary": "arXiv:2504.20734v5 Announce Type: replace-cross Abstract: Retrieval-Augmented Generation (RAG) has shown substantial promise in improving factual accuracy by grounding model responses with external knowledge relevant to queries. However, most existing approaches are limited to a text-only corpus, and while recent efforts have extended RAG to other modalities such as images and videos, they typically operate over a single modality-specific corpus. In contrast, real-world queries vary widely in th…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "60c76f729692",
+    "title": "Verbatim Chunks Beat Extracted Artifacts: A Controlled Ablation of Memory Representations for Long LLM Conversations",
+    "url": "https://arxiv.org/abs/2601.00821",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-15T04:00:00+00:00",
+    "summary": "arXiv:2601.00821v3 Announce Type: replace-cross Abstract: A growing class of conversational-memory systems compresses dialogue history into structured artifacts -- extracted facts, decisions, or events -- on the premise that distilled structure retrieves better than raw text. We test this premise with a controlled ablation: within one fixed retrieval-rerank-reasoning pipeline, we swap only the stored representation -- LLM-extracted typed artifacts versus verbatim conversation chunks -- holding t…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a39ca707fb1a",
+    "title": "Towards an open registry of Earth observation instruments",
+    "url": "https://arxiv.org/abs/2606.13923",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-15T04:00:00+00:00",
+    "summary": "arXiv:2606.13923v1 Announce Type: cross Abstract: Earth observation (EO) is essential to understanding the Earth system, enabling the transformation of planetary properties into measurable variables that can be analysed, compared, and modelled. In recent decades, EO capabilities have grown rapidly, accompanied by an even faster expansion in the number and variety of available EO instruments. Today, EO includes instruments deployed on satellites, airborne platforms, and terrestrial or in-situ sys…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c998e7a61329",
+    "title": "Application of Artificial Intelligence and Machine Learning in Libraries: A Systematic Review",
+    "url": "https://arxiv.org/abs/2112.04573",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-15T04:00:00+00:00",
+    "summary": "arXiv:2112.04573v2 Announce Type: replace Abstract: As the concept and implementation of cutting-edge technologies like artificial intelligence and machine learning has become relevant, academics, researchers and information professionals involve research in this area. The objective of this systematic literature review is to provide a synthesis of empirical studies exploring application of artificial intelligence and machine learning in libraries. To achieve the objectives of the study, a system…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "6da74fef6f68",
+    "title": "The Shrinking Lifespan of LLMs in Science",
+    "url": "https://arxiv.org/abs/2604.07530",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-15T04:00:00+00:00",
+    "summary": "arXiv:2604.07530v2 Announce Type: replace Abstract: Scaling laws describe how language model capabilities grow with compute and data, but say nothing about how long a model matters once released. We introduce time-to-peak and lifespan as measures of model obsolescence and use them to characterize the scientific adoption trajectories of 62 LLMs across more than 108k citing papers (2019-2025), separating active adoption from background citation to recover per-model trajectories that citation count…",
+    "category": "AI & Knowledge Management"
+  },
+  {
     "id": "0a8062c6161f",
     "title": "A German Court Has Ruled That Google Is Liable for False Statements Generated by AI Overviews",
     "url": "https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/",
