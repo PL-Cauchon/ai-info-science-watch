@@ -1,5 +1,347 @@
 [
   {
+    "id": "6ba264516912",
+    "title": "‘Pretty Crazy’ Token Usage Is Testing Bosses’ Bet on AI",
+    "url": "https://www.wired.com/story/claude-tokens-compute-cost-code-8x8/",
+    "source": "Wired AI",
+    "date": "2026-06-16T09:30:00+00:00",
+    "summary": "A Silicon Valley software maker and an ecommerce company reveal to WIRED how they are navigating the emerging challenge of “tokenomics.”",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "937310d55ba0",
+    "title": "Want to get a data center online quickly? Give it some flex.",
+    "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+    "source": "MIT Tech Review",
+    "date": "2026-06-16T09:00:00+00:00",
+    "summary": "At the end of a tense and scoreless first half of a soccer match between the English men’s team and rival Germany, millions of Brits let out a collective sigh and did what they so often do in moments of stress: They made tea. That wave of electric kettles clicking on, however, caused a different&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5442f9ef7156",
+    "title": "Combining Retrieval-Augmented Text Generation with LLMs for Reading Content Recommendations",
+    "url": "https://arxiv.org/abs/2606.14817",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-16T04:00:00+00:00",
+    "summary": "arXiv:2606.14817v1 Announce Type: new Abstract: This work presents the design, implementation, and evaluation of a system for generating personalized reading content using Large Language Models (LLMs) combined with Retrieval-Augmented Generation (RAG). The proposed architecture consists of four modules: Input, RAG, Generation, and Judging and enables users to specify both a question and a target reading content complexity. RAG is employed to retrieve relevant information from the Internet, enric…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "1f1241499a99",
+    "title": "Co-Scraper: query-aware DOM Pruning and Reusable Scraper Synthesis for Lightweight Web Data Extraction",
+    "url": "https://arxiv.org/abs/2606.14821",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-16T04:00:00+00:00",
+    "summary": "arXiv:2606.14821v1 Announce Type: new Abstract: The abundant and heterogeneous nature of web content necessitates automated information extraction, and generating scrapers that can be reused across similar web pages offers an effective solution for scalable data extraction. In this work, we propose Co-Scraper, a two-stage framework capable of handling the hierarchical complexity of long HTML documents. By integrating a query-aware DOM pruning mechanism with stable extraction strategy induction, …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c06f54e9d7a2",
+    "title": "Retrieval-as-a-Service:A System-Oriented Analysis of Industrial Retrieval Pipelines in Web Systems",
+    "url": "https://arxiv.org/abs/2606.14932",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-16T04:00:00+00:00",
+    "summary": "arXiv:2606.14932v1 Announce Type: new Abstract: Retrieval systems have become a foundational infrastructure component in modern Web services, supporting applications such as content recommendation, advertising targeting, and API discovery. In large-scale industrial environments, retrieval is increasingly deployed as an independent service layer, commonly referred to as Retrieval-as-a-Service (RaaS). This paper presents a system-oriented survey of industrial retrieval pipelines, focusing on archi…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "15b73f3b4178",
+    "title": "Beyond Positive Signals: Unlocking Implicit Negative Behaviors for Enhanced Sequential User Modeling",
+    "url": "https://arxiv.org/abs/2606.15252",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-16T04:00:00+00:00",
+    "summary": "arXiv:2606.15252v1 Announce Type: new Abstract: User behavior sequence modeling has become a central component in modern click-through rate (CTR) prediction. Over the past years, the community has invested substantial effort into improving how sequences are encoded, from target-aware attention and interest evolution networks to unified architectures that jointly process sequential and non-sequential features. However, a more fundamental question remains under-explored: what should constitute the…",
+    "category": "Information Behavior"
+  },
+  {
+    "id": "4634c2340318",
+    "title": "Guiding Federated Graph Recommendation with LLM-encoded knowledge",
+    "url": "https://arxiv.org/abs/2606.15277",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-16T04:00:00+00:00",
+    "summary": "arXiv:2606.15277v1 Announce Type: new Abstract: Graph-based recommender systems are highly effective at extracting collaborative signals from user--item interactions, and federated learning (FL) allows these models to be trained while preserving user privacy. However, aggregating graph representations across distributed, non-IID clients remains a challenge; structural embeddings learned locally often misalign, and naive averaging fails to capture meaningful cross-client relationships. Most exist…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "50b51044cb61",
+    "title": "OneBar: An End-to-End Content-Grounded Generative Query Recommendation Framework for E-Commerce Video Feeds",
+    "url": "https://arxiv.org/abs/2606.15330",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-16T04:00:00+00:00",
+    "summary": "arXiv:2606.15330v1 Announce Type: new Abstract: Short-video platforms now expose clickable search entries beneath the video player, enabling users to easily express content-induced search intent. However, conventional query recommendation systems on short-video platforms suffer from latency constraints and objective misalignment, while recent generative approaches struggle with noisy content-side metadata and preference drift. To address these issues, we propose OneBar, an end-to-end generative …",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "7e7d132ae169",
+    "title": "HoloRec: Holistic Encoding and Interleaved Reasoning for Generative Recommendation",
+    "url": "https://arxiv.org/abs/2606.15331",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-16T04:00:00+00:00",
+    "summary": "arXiv:2606.15331v1 Announce Type: new Abstract: Generative recommendation models that formulate the task as sequence generation overcome the objective fragmentation problem of traditional cascade architectures, yet existing approaches still suffer from flat semantic representations lacking hierarchical structure for multi-step reasoning and an externally constructed chain-of-thought (CoT) that requires expensive annotations and remains disconnected from the generation objective. We propose HoloR…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8b01c1f8a07e",
+    "title": "Confidence-Based Stopping Methods for Systematic Reviews",
+    "url": "https://arxiv.org/abs/2606.15380",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-16T04:00:00+00:00",
+    "summary": "arXiv:2606.15380v1 Announce Type: new Abstract: Technology Assisted Review stopping methods aim to ensure that no more documents are screened than necessary. Most existing approaches focus on achieving a target recall, which does not consider whether an information need has been met. This paper introduces two heuristic stopping methods that instead monitor whether screened documents contain enough information to make a decision. Evaluation on a standard dataset of Diagnostic Test Accuracy System…",
+    "category": "Information Behavior"
+  },
+  {
+    "id": "be933f9dab20",
+    "title": "EventConnector: Mining Social Event Relations through Temporal Graphs",
+    "url": "https://arxiv.org/abs/2606.15448",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-16T04:00:00+00:00",
+    "summary": "arXiv:2606.15448v1 Announce Type: new Abstract: Understanding and retrieving related real-world events based on their temporal dynamics is a fundamental challenge in time-sensitive applications such as forecasting, information retrieval, and social analysis. Existing methods often rely on semantic similarity or global time-series alignment, which overlook the transient and directional dependencies that frequently underlie real-world correlations. In this work, we introduce \\textit{EventConnector…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "b3b0bc73c2a8",
+    "title": "One Sequential Recommendation Model Pretrained from Synthetic Priors Predicts Multiple Datasets",
+    "url": "https://arxiv.org/abs/2606.15752",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-16T04:00:00+00:00",
+    "summary": "arXiv:2606.15752v1 Announce Type: new Abstract: Existing sequential recommendation models rely on dataset-specific training, where the learned parameters are fitted to the item catalog and the observed interaction distribution of the training data. This limits generalization to new domains, typically requiring retraining from scratch. In this work, we propose SRPFN, a Prior-data Fitted Network for sequential recommendation -- predicting the next item in a single forward pass without any gradient…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "6711fc2c90ed",
+    "title": "Intelligent Multimodal Retrieval and Reasoning for Geospatial Knowledge Discovery on the I-GUIDE Platform",
+    "url": "https://arxiv.org/abs/2606.15838",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-16T04:00:00+00:00",
+    "summary": "arXiv:2606.15838v1 Announce Type: new Abstract: Geospatial knowledge discovery increasingly requires search across heterogeneous artifacts: datasets, maps, notebooks, software, publications, and the provenance links among them. Conventional geoportals support metadata and spatial filtering, but they rarely provide semantic retrieval, graph-aware provenance traversal, and conversational synthesis in one integrated system. This paper presents I-GUIDE Smart Search, a production multimodal geospatia…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "a705c20c8fde",
+    "title": "MAGE-RAG: Multigranular Adaptive Graph Evidence for Agentic Multimodal RAG in Long-Document QA",
+    "url": "https://arxiv.org/abs/2606.15906",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-16T04:00:00+00:00",
+    "summary": "arXiv:2606.15906v1 Announce Type: new Abstract: Long-document multimodal question answering requires a system to locate sparse evidence in long PDFs and integrate clues from text, tables, images, charts, and complex layouts. Existing RAG methods mostly rely on fixed Top-k retrieval over text chunks or pages. Text retrieval can compress the context but often loses visual and layout information; page-level visual retrieval preserves the original page, yet it also sends large irrelevant regions to …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "1da9ef675054",
+    "title": "Entity Labels Are Not Entity Signals: A Framework for Observable Relevance in Document Re-Ranking",
+    "url": "https://arxiv.org/abs/2606.15998",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-16T04:00:00+00:00",
+    "summary": "arXiv:2606.15998v1 Announce Type: new Abstract: Entity-aware document retrieval uses query-associated entities as ranking signals, assuming that semantically relevant entities are also useful retrieval signals. We show this assumption is insufficient- and explain why. Unlike terms, which are ground-truth observations, entity links are hypotheses produced by an imperfect linker: an entity can be topically central yet provide no discriminative signal if the linker fires indiscriminately across rel…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5202061841c8",
+    "title": "Theorem-Grounded Execution Ontologies for Interpretable Machine Reasoning",
+    "url": "https://arxiv.org/abs/2606.16010",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-16T04:00:00+00:00",
+    "summary": "arXiv:2606.16010v1 Announce Type: new Abstract: Large language models have achieved impressive performance on reasoning tasks spanning mathematics, science, programming, and commonsense inference. Despite these advances, their reasoning processes remain largely latent, making them difficult to interpret, verify, replay, debug, and transfer across domains. Existing approaches such as chain-of-thought, tree-of-thoughts, graph-of-thoughts, and tool-augmented reasoning expose intermediate reasoning …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "2f14e08dba6d",
+    "title": "RL-Index: Reinforcement Learning for Retrieval Index Reasoning",
+    "url": "https://arxiv.org/abs/2606.16316",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-16T04:00:00+00:00",
+    "summary": "arXiv:2606.16316v1 Announce Type: new Abstract: Retrieving external knowledge is essential for solving real-world tasks, yet it remains challenging when the relationship between a query and its relevant knowledge involves implicit and complex reasoning beyond surface-level semantic or lexical matching (e.g., mathematical problems relying on the same theorem or coding requiring deep reasoning). Existing approaches primarily rely on query-side reasoning (e.g., query rewriting), which introduces si…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "dfdc0b5d212c",
+    "title": "Leveraging Code-Mixed Product Metadata and User Feedback for Personalized Recommendation on Daraz Bangladesh",
+    "url": "https://arxiv.org/abs/2606.16387",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-16T04:00:00+00:00",
+    "summary": "arXiv:2606.16387v1 Announce Type: new Abstract: Bangladeshi e-commerce platforms host millions of product reviews written in Bengali Unicode, English, and Banglish, where Bengali is phonetically transcribed in Latin script. However, the impact of code-mixed reviews on recommendation performance remains largely unexplored. We present the first such benchmarking on product reviews from Daraz Bangladesh, evaluating six model families under a per-user chronological leave-last-out protocol. To addres…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "7b9e5664c75a",
+    "title": "PIANO: Personalized Reranking via Information Aggregation Node for Music Search Optimization",
+    "url": "https://arxiv.org/abs/2606.16641",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-16T04:00:00+00:00",
+    "summary": "arXiv:2606.16641v1 Announce Type: new Abstract: Unlike short-video content, music tracks have long lifecycles and lasting value. Effective music search re-ranking must therefore align the user's current query with long-term preferences while jointly optimizing Click-Through Rate (CTR) and Conversion Rate (CVR). However, existing methods suffer from two limitations: (1) sequential methods rely on item-interaction history and therefore cannot use historical search queries to tell which past prefer…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "6e9ccfc313df",
+    "title": "SCAR: Semantic Continuity-Aware Retrieval for Efficient Context Expansion in RAG",
+    "url": "https://arxiv.org/abs/2606.16661",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-16T04:00:00+00:00",
+    "summary": "arXiv:2606.16661v1 Announce Type: new Abstract: Fixed-length chunking in Retrieval-Augmented Generation (RAG) often leads to boundary fragmentation, where critical evidence is split across segments, degrading retrieval recall. While static windowing and parent retrieval improve recall, they introduce significant token overhead. We propose SCAR (Semantic Continuity-Aware Retrieval), an adaptive retrieval policy that selectively expands neighboring chunks by weighing query-neighbor relevance again…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "86660cac527a",
+    "title": "Harmonizing Semantic and Collaborative in LLMs: Reasoning-based Embedding Generator for Sequential Recommendation",
+    "url": "https://arxiv.org/abs/2606.16703",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-16T04:00:00+00:00",
+    "summary": "arXiv:2606.16703v1 Announce Type: new Abstract: Sequential Recommender Systems (SRS) predict the next item of interest based on users' interaction histories and have been widely deployed, but hindered by long-tail problem. Large Language Models (LLMs), with strong semantic understanding and reasoning capabilities, offer a promising way to enrich item semantics and have recently been used as embedding generators. However, two fundamental gaps remain. First, current LLM-based embedding methods fai…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "9b068dc24b98",
+    "title": "OneRank: Unified Transformer-Native Ranking Architecture for Multi-Task Recommendation",
+    "url": "https://arxiv.org/abs/2606.16838",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-16T04:00:00+00:00",
+    "summary": "arXiv:2606.16838v1 Announce Type: new Abstract: Multi-task learning (MTL) is essential in recommender systems to enable complementary learning among diverse user feedback. While modern industrial practices have shifted from DNNs to Transformer-centric architectures to strengthen sequence modeling and scaling capacity, they still decouple feature encoding from multi-task prediction, treating the Transformer as a task-agnostic encoder. This design fundamentally limits the performance and scalabili…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d1e7f4c536e2",
+    "title": "A Theoretical Framework for Risk Analysis of Stochastic Rankers",
+    "url": "https://arxiv.org/abs/2606.16970",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-16T04:00:00+00:00",
+    "summary": "arXiv:2606.16970v1 Announce Type: new Abstract: Different from deterministic rankers that seek to maximize relevance at top ranks, stochastic ranking policies instead estimate distributions over permutations, from which rankings are sampled, towards obtaining diversified or fair exposure. Such policies are commonly evaluated in terms of expected effectiveness postreranking. However, the randomness inherent in these policies gives rise to a fundamental but under-explored ex ante question: prior t…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "47723e969f78",
+    "title": "How Much Do Reviews Really Contribute? A Study on Text-Enriched Matrix Factorization for Recommendations",
+    "url": "https://arxiv.org/abs/2606.16973",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-16T04:00:00+00:00",
+    "summary": "arXiv:2606.16973v1 Announce Type: new Abstract: Incorporating textual reviews into a Recommender System has become a prominent strategy for enriching collaborative signals with semantic information. However, the actual contribution of review-derived representations remains an open question, particularly when strong collaborative baselines are employed. In this work, we systematically investigate the impact of textual information on Matrix Factorization by introducing and comparing three enrichme…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "14ebf7114f73",
+    "title": "An Empirical Analysis of Optimization Dynamics and Sparsity Boundaries in Large-Scale Pedestrian Attribute Recognition",
+    "url": "https://arxiv.org/abs/2606.14770",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-16T04:00:00+00:00",
+    "summary": "arXiv:2606.14770v1 Announce Type: cross Abstract: Pedestrian Attribute Recognition (PAR) is critical for video surveillance, enabling forensic search and re-identification systems. Extreme class imbalance remains a fundamental obstacle when merging PETA and PA-100K into a 109,000-image composite corpus, where minority attributes have positive sample fractions below 1%. This causes standard BCE optimization to suppress rare traits, a phenomenon we term the majority negative class cheating trap. W…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f653ac1992d6",
+    "title": "MVEB: Massive Video Embedding Benchmark",
+    "url": "https://arxiv.org/abs/2606.14958",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-16T04:00:00+00:00",
+    "summary": "arXiv:2606.14958v1 Announce Type: cross Abstract: We introduce the Massive Video Embedding Benchmark (MVEB), a 23-task benchmark for video embeddings spanning classification, zero-shot classification, clustering, pair classification, retrieval, and video-centric question answering. We evaluate 33 models and find that no single model dominates: MLLM-based embeddings lead on classification, clustering, pair classification, and QA; multimodal binding leads on retrieval and zero-shot classification;…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "cb0b2200d11a",
+    "title": "Edu-Theater: A Data-Efficient Agent Framework for Scalable Learner Behavior Simulation through Staging Roll-Call",
+    "url": "https://arxiv.org/abs/2606.15225",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-16T04:00:00+00:00",
+    "summary": "arXiv:2606.15225v1 Announce Type: cross Abstract: Large-scale learner-task interaction data are crucial for intelligent educational systems but are costly to collect and constrained by privacy and learner engagement. Learner simulators play a critical role in simulating scalable learner behavior without the need for continuous involvement of real learners. However, existing methods are predominantly \\textbf{individual-centric}, pairing a simulator with each learner to iteratively infer latent kn…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a68c751aba2e",
+    "title": "Viral Images: Identifying Reprintings within 1.5 Million Photographs in Chronicling America",
+    "url": "https://arxiv.org/abs/2606.16209",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-16T04:00:00+00:00",
+    "summary": "arXiv:2606.16209v1 Announce Type: new Abstract: Within the millions of digitized historic American newspapers in the Chronicling America initiative are tens of millions of photographs, illustrations, cartoons, and advertisements. Much of this visual culture is shared across newspaper titles and issues. Just as reprinted texts within these newspapers speak to the virality of textual content, so too does this reprinted visual culture speak to newspapers as sites of constant information circulation…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b54236437795",
+    "title": "Provenance-Enhanced Statements in Knowledge Graphs",
+    "url": "https://arxiv.org/abs/2606.15246",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-16T04:00:00+00:00",
+    "summary": "arXiv:2606.15246v1 Announce Type: cross Abstract: Provenance-enhanced statements of the form \"according to $X$, $\\varphi$\" are pervasive in contemporary knowledge graphs, especially in domains where graph content primarily represents claims, interpretations, and hypotheses (\\emph{capta}) rather than observer-independent facts (\\emph{data}). Current provenance models can record who asserted what, but they typically treat provenance as semantically neutral, leaving underspecified how attributed cl…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "41fab043c4d6",
+    "title": "AthDGC: An Open Diachronic Greek Treebank with Indo-European Parallels",
+    "url": "https://arxiv.org/abs/2606.15510",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-16T04:00:00+00:00",
+    "summary": "arXiv:2606.15510v1 Announce Type: cross Abstract: AthDGC (\"Athens-PROIEL\") is an open, end-to-end workflow and dataset. It is, to the best of our knowledge, the first openly licensed dependency-parsed treebank of Greek that spans eight diachronic periods, namely Archaic, Classical, Koine, Late Antique, Byzantine, Late Byzantine, Early Modern, and Modern Greek, under a single PROIEL XML 2.0 schema, with verse-level cross-alignment of the New Testament to Latin (Vulgate), Gothic (Wulfila), Old Chu…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8738c4f09598",
+    "title": "A Text Recognition Dataset from Sahidic Coptic Ancient Manuscripts",
+    "url": "https://arxiv.org/abs/2606.15987",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-16T04:00:00+00:00",
+    "summary": "arXiv:2606.15987v1 Announce Type: cross Abstract: In this work, we target Handwritten Text Recognition (HTR) in low-resource scenarios, which arise from underrepresented languages, rare scripts, and degraded visual conditions typical of historical documents. We introduce SCAM (Sahidic Coptic Ancient Manuscripts), a new line-level dataset built from digitized ancient manuscripts written in the extinct Sahidic Coptic dialect. The dataset reflects a realistic and challenging setting, as it combines…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "bde8709faab8",
+    "title": "Any Old Tom, Dick or Harry: The Citation Impact of First Name Genderedness",
+    "url": "https://arxiv.org/abs/2512.08219",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-16T04:00:00+00:00",
+    "summary": "arXiv:2512.08219v3 Announce Type: replace Abstract: This paper examines the relationship between the genderedness of authors' first names and citation distributions in scholarly production. Merging a first name genderedness table derived from Wikidata with bibliometric data from articles by US-affiliated authors published between 2010 and 2019 and indexed in the Web of Science, we develop a relative distributional framework that compares name, article, and citation counts along a continuous gend…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "1c9fb54fa192",
+    "title": "Generative AI and the future of scientometrics: current topics and future questions",
+    "url": "https://arxiv.org/abs/2507.00783",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-16T04:00:00+00:00",
+    "summary": "arXiv:2507.00783v2 Announce Type: replace-cross Abstract: In this paper, we contribute to the debate on generative artificial intelligence (GenAI) in scientometrics. We argue that moving from a trial-and-error approach to an explainable and actionable use requires a principled understanding of strengths and weaknesses of GenAI as compared with other techniques and with human judgment. To this end, we introduce a conceptual framework based on the distinction between the semantic dimensions of tex…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c273d7c2ed81",
+    "title": "DOJ Lawyers Argue xAI Is ‘Vital’ for National Security in NAACP Lawsuit",
+    "url": "https://www.wired.com/story/doj-lawyers-argue-xai-vital-national-security-naacp-lawsuit/",
+    "source": "Wired AI",
+    "date": "2026-06-16T03:06:37+00:00",
+    "summary": "In a bid to dismiss a lawsuit over xAI’s polluting gas turbines, the Justice Department claimed the company is integral to military operations—including the Iran War.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "413d3e31088e",
+    "title": "Anthropic Is Still at Odds With the White House Over Claude Fable 5",
+    "url": "https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/",
+    "source": "Wired AI",
+    "date": "2026-06-16T00:53:46+00:00",
+    "summary": "Anthropic leaders flew to Washington, DC, to meet with White House officials on Monday. After high-level talks, they’re still split on the risk Claude Fable 5 presents.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d54649fd3b3a",
+    "title": "Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’",
+    "url": "https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/",
+    "source": "Wired AI",
+    "date": "2026-06-15T21:33:46+00:00",
+    "summary": "In an internal memo seen by WIRED, Bosworth promised employees more stability, better communication, and the return of workplace perks as the company seeks to improve morale.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "13373cd83650",
+    "title": "Why do South Koreans love AI so much?",
+    "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+    "source": "MIT Tech Review",
+    "date": "2026-06-15T18:46:08+00:00",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my face and passport. On the subway home,&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "49dcdfb303b9",
+    "title": "Full Circle: Library Collaboration Leads to Significant DNA Data Storage Milestone",
+    "url": "https://blogs.loc.gov/thesignal/2026/06/dna-data-storage-milestone/",
+    "source": "LOC Signal",
+    "date": "2026-06-15T13:37:42+00:00",
+    "summary": "This post was authored by Vincent Coltellino from the Library of Congress. Vincent leads the Library’s synthetic DNA data storage initiative, which investigates the feasibility of synthetic DNA as a high-density, scalable, and durable medium for storing the Library’s digital collections. During his first year at the Library, he established a contract with the University of Washington designed to critically analyze the processes required to implement DNA data storage technology on the Library’s d…",
+    "category": "Libraries & Archives"
+  },
+  {
     "id": "15f195e49fd1",
     "title": "Meta Tapped a Pentagon Supplier to Prototype Face Recognition for Its Glasses",
     "url": "https://www.wired.com/story/meta-rank-one-computing-face-recognition-smart-glasses/",
