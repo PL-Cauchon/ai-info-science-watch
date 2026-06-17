@@ -1,5 +1,194 @@
 [
   {
+    "id": "5966bfdb22c6",
+    "title": "On the Memorization Behavior of LLMs in Generative Recommendation: Observations, Implications, and Training Strategies",
+    "url": "https://arxiv.org/abs/2606.17276",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-17T04:00:00+00:00",
+    "summary": "arXiv:2606.17276v1 Announce Type: new Abstract: Generative recommendation (GR) has emerged as a promising direction for recommender systems. Recently, large language models (LLMs) have been increasingly adopted for GR, as their rich pretrained knowledge is expected to help them generalize beyond common user behavior patterns that traditional memorization-oriented baselines can capture. However, existing LLM-based GR works largely ignore LLMs' well-known tendency to memorize, which, if present in…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c87265e75fc9",
+    "title": "RSRank: Learning Relevance from Representational Shifts",
+    "url": "https://arxiv.org/abs/2606.17468",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-17T04:00:00+00:00",
+    "summary": "arXiv:2606.17468v1 Announce Type: new Abstract: As enterprises deploy RAG-based systems to provide grounded responses to user queries, reranking has become a critical component for the final filtering step that separates relevant from distracting or irrelevant documents. Existing rerankers often rely on heuristic thresholds to achieve optimal filtering. Moreover, for relevance scoring, state-of-the-art methods use a language model's logit signals, which are designed for next-token prediction, no…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ec091abfc91c",
+    "title": "Temporal Preference Optimization for Unsupervised Retrieval",
+    "url": "https://arxiv.org/abs/2606.17664",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-17T04:00:00+00:00",
+    "summary": "arXiv:2606.17664v1 Announce Type: new Abstract: Unsupervised dense retrievers offer scalability by learning semantic similarity from unlabeled documents via contrastive learning, but they struggle to capture the temporal relevance, retrieving semantically related but temporally misaligned documents-an important aspect when a document collection spans multiple time periods (e.g., retrieving documents from 2018-2025 for \"Who is the president in 2019?\" introduces temporal ambiguity). Existing metho…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5983b3be49c3",
+    "title": "Do Generative Recommenders Deepen the Information Cocoon? A Closed-Loop Simulation with LLM-powered User Simulators",
+    "url": "https://arxiv.org/abs/2606.17707",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-17T04:00:00+00:00",
+    "summary": "arXiv:2606.17707v1 Announce Type: new Abstract: Recommender systems alleviate information overload, yet repeated feedback between recommendations and user interactions can reinforce existing preferences and narrow users' exposure, forming information cocoons. While this phenomenon has been widely studied in traditional sequential recommendation, its impact on generative recommendation remains unclear. By replacing atomic item IDs with Semantic ID (SID) sequences, generative recommenders introduc…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "bf130a03b13a",
+    "title": "Understanding and Debugging Failures in N-Gram-Based Generative Retrieval",
+    "url": "https://arxiv.org/abs/2606.17721",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-17T04:00:00+00:00",
+    "summary": "arXiv:2606.17721v1 Announce Type: new Abstract: Generative Retrieval (GR) is an emerging Information Retrieval (IR) paradigm that is motivated by increasingly capable language models. In GR, a model directly generates identifiers for relevant documents. While these systems offer unique advantages, they also introduce distinct failure mechanisms. We explore these failure modes in three contributions: (1) We present a taxonomy of GR failure modes based on GR literature. (2) We empirically investig…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "a4d647fa41ab",
+    "title": "Non-negative Elastic Net Decoding for Information Retrieval",
+    "url": "https://arxiv.org/abs/2606.17910",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-17T04:00:00+00:00",
+    "summary": "arXiv:2606.17910v1 Announce Type: new Abstract: Dense retrieval has become the dominant paradigm in information retrieval, in which each document is scored against a query by the inner product of their vector embeddings, and the top-$k$ documents by score are retrieved for this query. However, since each document's score depends solely on the embedding of the query and itself, the retrieval process is oblivious to the content of the entire corpus. Therefore, dense retrieval cannot avoid selectin…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "675a3e8a8710",
+    "title": "IUU+DB: Tracking Illegal, Unreported, and Unregulated Fishing, Seafood Fraud, and Labor Abuse through LLM-driven Information Extraction",
+    "url": "https://arxiv.org/abs/2606.18181",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-17T04:00:00+00:00",
+    "summary": "arXiv:2606.18181v1 Announce Type: new Abstract: Illegal, unreported, and unregulated fishing (IUU) traditionally refers to fishing activities that violate applicable laws or occur in areas that lack applicable laws. We propose the term IUU+ to capture a broader suite of fisheries sector environmental and associated supply chain trade-related crimes and behaviors. Although IUU+ activity is widely recognized as a serious threat to marine ecosystems, markets, and livelihoods, a quantitative underst…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "4bf86145c733",
+    "title": "Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search",
+    "url": "https://arxiv.org/abs/2606.17209",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-17T04:00:00+00:00",
+    "summary": "arXiv:2606.17209v1 Announce Type: cross Abstract: Test-time scaling for agentic search typically increases depth (i.e., more turns and tokens per trajectory) or breadth (i.e., more parallel rollouts). Here we focus on breadth scaling, showing that standard parallel sampling yields diminishing returns, tracing this to query redundancy at the first turn. When models issue similar first queries across rollouts, the threads retrieve overlapping evidence, and subsequent turns are conditioned on this …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "3852bbe2cf53",
+    "title": "Designing Recommendation Exposure and Favorite Lists: A Field Experiment in a Spot-Work Platform",
+    "url": "https://arxiv.org/abs/2606.17397",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-17T04:00:00+00:00",
+    "summary": "arXiv:2606.17397v1 Announce Type: cross Abstract: How should recommender systems be designed when recommendations shape access to scarce, short-lived opportunities? We study this question in a production setting: Timee, Japan's largest platform for spot work, where workers favorite job templates and receive notifications when firms post shifts from those templates. Maximizing predicted favoriting can generate misdirected concentration: recommendations accumulate on popular templates that create …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "bbe6feb2dbf1",
+    "title": "HistoRAG: Embedding Historical Methodology in Retrieval-Augmented Generation Through Critical Technical Practice",
+    "url": "https://arxiv.org/abs/2606.18103",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-17T04:00:00+00:00",
+    "summary": "arXiv:2606.18103v1 Announce Type: cross Abstract: Retrieval-Augmented Generation (RAG) is the prevailing architecture for grounding language model outputs in external evidence, yet its dominant evaluation paradigms and default configurations remain oriented toward factual question-answering. For interpretive disciplines such as historical studies, RAG embeds assumptions that conflict with scholarly practice. We introduce HistoRAG, a framework that translates historiographical principles into con…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "8e4d221768a0",
+    "title": "BioArtlas: Computational Clustering of Multi-Dimensional Complexity in Bioart",
+    "url": "https://arxiv.org/abs/2511.19162",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-17T04:00:00+00:00",
+    "summary": "arXiv:2511.19162v3 Announce Type: replace Abstract: Bioart brings living material into artistic practice, where a single work can be at once an aesthetic object, a scientific instrument, and an ethical provocation. Traditional categories sort such works along one axis at a time, which flattens the very hybridity that defines the field and leaves curators no way to compare works across many dimensions together. I introduce BioArtlas, a computational atlas that represents each bioartwork along man…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d50e9e7e8e8f",
+    "title": "RecQuest: Towards Estimating User Domain Knowledge in Conversational Recommender Systems",
+    "url": "https://arxiv.org/abs/2512.13173",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-17T04:00:00+00:00",
+    "summary": "arXiv:2512.13173v2 Announce Type: replace Abstract: The ideal conversational recommender system (CRS) acts like a savvy salesperson, adapting its language and suggestions to a user's expertise level. However, most current systems treat all users as experts, leading to frustrating and inefficient interactions when users are unfamiliar with a domain. Systems that can adapt their conversational strategies to a user's knowledge level stand to offer a much more natural and effective experience. To en…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0f7194fe09b4",
+    "title": "From Noise to Order: Learning to Rank via Denoising Diffusion",
+    "url": "https://arxiv.org/abs/2602.11453",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-17T04:00:00+00:00",
+    "summary": "arXiv:2602.11453v3 Announce Type: replace Abstract: Learning-to-rank (LTR) methods have traditionally been limited to discriminative machine learning approaches that model the probability of the document being relevant to the query given some feature representation of the query-document pair. We propose an alternative denoising diffusion-based generative approach to LTR that instead models the full joint distribution over features and relevance labels. While in discriminative LTR, an over-parame…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a0c24d3ceee6",
+    "title": "From Latent to Observable Position-Based Click Models in Carousel Interfaces",
+    "url": "https://arxiv.org/abs/2602.16541",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-17T04:00:00+00:00",
+    "summary": "arXiv:2602.16541v3 Announce Type: replace Abstract: Click models are a central component of learning and evaluation in recommender systems, yet most existing models are designed for single ranked list interfaces. In contrast, modern recommender platforms increasingly use complex interfaces, such as carousels, which consist of multiple swipeable lists that enable complex user browsing behaviors. In this paper, we study position-based click models in carousel interfaces and examine optimization me…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2cb19719f596",
+    "title": "Benchmarking LLM Agents on Meta-Analysis Articles from Nature Portfolio",
+    "url": "https://arxiv.org/abs/2606.17041",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-17T04:00:00+00:00",
+    "summary": "arXiv:2606.17041v2 Announce Type: replace-cross Abstract: Meta-analysis is a demanding form of evidence synthesis that combines literature retrieval, PI/ECO-guided study selection, and statistical aggregation. Its structured, verifiable workflow makes it an ideal substrate for evaluating systematic scientific reasoning, yet existing benchmarks lack ground truth across the full retrieval-screening-synthesis pipeline. We introduce MetaSyn, a dataset of 442 expert-curated meta-analyses from Nature …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "581859cb7a96",
+    "title": "Beyond Citations: Comparing Scholarly, Policy, and Patent Impact Across the FT50 Journals",
+    "url": "https://arxiv.org/abs/2606.17610",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-17T04:00:00+00:00",
+    "summary": "arXiv:2606.17610v1 Announce Type: new Abstract: The Financial Times 50 (FT50) journal list shapes hiring, promotion, accreditation, and research evaluation across business schools worldwide. Yet journals on the list are typically treated as if they represent a homogeneous tier of excellence. We test this assumption by comparing 53 FT50 and recently removed journals across three distinct impact channels: scholarly influence (field-weighted citations and visibility), policy uptake, and technologic…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "3f2cd6f81778",
+    "title": "Darshana Graph: A Parallel Commentary Corpus for Comparative Indian Philosophy, with Stylometric and Exploratory Graph Analyses",
+    "url": "https://arxiv.org/abs/2606.18222",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-17T04:00:00+00:00",
+    "summary": "arXiv:2606.18222v1 Announce Type: cross Abstract: We introduce Darshana Graph, a corpus of over 125,000 text records spanning classical Hindu, Buddhist, and Jain philosophical traditions, drawn from public-domain and openly licensed translations of sources including the Bhagavad Gita, Brahma Sutras, principal Upanishads, the Pali Canon, and core Jain texts. Its distinctive contribution lies in a structurally unique subset of roughly 8,500 Hindu and Jain records in which the same root verse or su…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "6f3af89b1362",
+    "title": "A New Threat to E-Rate",
+    "url": "https://americanlibrariesmagazine.org/2026/06/16/a-new-threat-to-e-rate/?utm_source=rss&utm_medium=rss&utm_campaign=a-new-threat-to-e-rate",
+    "source": "American Libraries",
+    "date": "2026-06-17T02:02:31+00:00",
+    "summary": "This year marks the 30th anniversary of the federal E-Rate program, which provides broadband funding for public libraries and schools. On June 25, however, the Federal Communications Commission (FCC) will decide whether to limit or sunset E-Rate, which could adversely affect libraries, schools, and other community groups that rely on it most. On June 11, &#8230; Continue reading A New Threat to E-Rate &#8594; The post A New Threat to E-Rate appeared first on American Libraries Magazine.",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "d0bca4be0bc6",
+    "title": "‘Dangerous’ AI Models Are Coming No Matter What",
+    "url": "https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/",
+    "source": "Wired AI",
+    "date": "2026-06-16T17:50:52+00:00",
+    "summary": "The US government crackdown on Anthropic’s Claude Fable 5 and Mythos 5 hides a glaring truth: AI models with advanced hacking capabilities will soon be the norm.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f65bb40e04b5",
+    "title": "My Father Wants to Age in Place. AI Will Be Watching",
+    "url": "https://www.wired.com/story/sensi-ai-seniors-home-care-aging-in-place/",
+    "source": "Wired AI",
+    "date": "2026-06-16T14:00:00+00:00",
+    "summary": "Devices that monitor seniors for safety are appealing to worried loved ones and underresourced home care agencies.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e579041fb7a2",
+    "title": "What Do We Need From Our Homes Right Now?",
+    "url": "https://www.wired.com/story/wired-architectural-digest-future-of-home-editors-letter/",
+    "source": "Wired AI",
+    "date": "2026-06-16T14:00:00+00:00",
+    "summary": "The global editorial directors of WIRED and Architectural Digest on teaming up to help you understand how we live today, and what comes next.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "6ba264516912",
     "title": "‘Pretty Crazy’ Token Usage Is Testing Bosses’ Bet on AI",
     "url": "https://www.wired.com/story/claude-tokens-compute-cost-code-8x8/",
