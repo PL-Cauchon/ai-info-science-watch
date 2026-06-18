@@ -1,5 +1,239 @@
 [
   {
+    "id": "08245c2bbfb3",
+    "title": "The UK Will Scan Asylum-Seekers’ Faces for Age Checks—Despite Knowing the Tech Is Flawed",
+    "url": "https://www.wired.com/story/facial-age-estimate-uk-asylum-seekers/",
+    "source": "Wired AI",
+    "date": "2026-06-18T06:00:00+00:00",
+    "summary": "Internal Home Office tests of age-verification technology show the risks of life-altering errors. It’s moving forward anyway.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0e8379de3563",
+    "title": "RankGraph-2: Lifecycle Co-Design for Billion-Node Graph Learning in Recommendation",
+    "url": "https://arxiv.org/abs/2606.18379",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-18T04:00:00+00:00",
+    "summary": "arXiv:2606.18379v1 Announce Type: new Abstract: Graph-based retrieval at billion-node scale requires jointly solving three tightly coupled problems -- graph construction, representation learning, and real-time serving -- yet existing work addresses each in isolation. We present RankGraph-2, a framework deployed at Meta that co-designs all three lifecycle stages for similarity-based retrieval (U2U2I and U2I2I), where each stage's requirements shape the others. Serving requires a co-learned cluste…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "27540834aad4",
+    "title": "SHIFT: Semantic Harmonization via Index-side Feature Transformation for Multilingual Information Retrieval",
+    "url": "https://arxiv.org/abs/2606.18801",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-18T04:00:00+00:00",
+    "summary": "arXiv:2606.18801v1 Announce Type: new Abstract: With the rapid expansion of massive multilingual corpora, Multilingual Information Retrieval (MLIR) has emerged as a critical technology for global information access. MLIR enables users to retrieve semantically relevant documents from multilingual text collections using a single-language query. However, recent multilingual dense retrieval models often exhibit a strong preference for documents in the same language as the query. This leads to severe…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "0a7848743c63",
+    "title": "Rescaling MLM-Head for Neural Sparse Retrieval",
+    "url": "https://arxiv.org/abs/2606.18811",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-18T04:00:00+00:00",
+    "summary": "arXiv:2606.18811v1 Announce Type: new Abstract: Learned sparse retrieval (LSR) models such as SPLADE have traditionally used BERT-style masked language models as backbone encoders. A natural expectation is that replacing BERT with stronger pretrained encoders should improve retrieval effectiveness. However, we find that under standard SPLADE training recipes, backbones with large MLM-head L2 norms can suffer performance degradation and even training collapse under standard SPLADE training recipe…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8a158275eeee",
+    "title": "LensKit-Auto",
+    "url": "https://arxiv.org/abs/2606.18814",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-18T04:00:00+00:00",
+    "summary": "arXiv:2606.18814v1 Announce Type: new Abstract: Recommender systems have a wide area of application, e.g. in fields like video streaming, social media, or digital marketplaces. But, for a recommender-system, finding the right algorithm with the right hyperparameters is a reoccurring challenge. There is no one-fits-all solution, since the performance of one algorithm can vary immensely on different data sets. Due to the challenges of finding the right algorithm and the broad use of recommender-sy…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "00582b039857",
+    "title": "SAERec: Constructing Fine-grained Interpretable Intents Priors via Sparse Autoencoders for Recommendation",
+    "url": "https://arxiv.org/abs/2606.18897",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-18T04:00:00+00:00",
+    "summary": "arXiv:2606.18897v1 Announce Type: new Abstract: Intent-based recommender systems have gained significant attention for improving accuracy and interpretability by modeling the underlying motivations behind user behaviors. Most existing models derive intents directly from user sequences via clustering or prototype learning. However, they are sensitive to sequence quality, require presetting the number of intents, and lack explicit semantic grounding. These issues lead to an incomplete and coarse i…",
+    "category": "Information Behavior"
+  },
+  {
+    "id": "3be404f0c102",
+    "title": "Querit-Reranker: Training Compact Multilingual Rerankers via Efficient Label-Free Distribution Adaptation",
+    "url": "https://arxiv.org/abs/2606.19037",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-18T04:00:00+00:00",
+    "summary": "arXiv:2606.19037v1 Announce Type: new Abstract: Deployable multilingual rerankers must generalize across languages, domains, and target ranking tasks while remaining efficient enough for second-stage reranking. However, adapting them to new target distributions typically requires extensive task-specific relevance annotations, which are costly to obtain. We present Querit-Reranker, a family of multilingual cross-encoder rerankers trained with a data-centric pipeline for label-efficient adaptation…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "58d9c67edcf0",
+    "title": "SproutRAG: Attention-Guided Tree Search with Progressive Embeddings for Long-Document RAG",
+    "url": "https://arxiv.org/abs/2606.18381",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-18T04:00:00+00:00",
+    "summary": "arXiv:2606.18381v1 Announce Type: cross Abstract: Retrieval-augmented generation (RAG) systems must balance retrieval granularity with contextual coherence, a challenge that existing methods address through LLM-guided chunking, single-level context expansion, or hierarchical summarization. These approaches variously depend on costly LLM calls during indexing or retrieval, limit context aggregation to a single granularity level, or introduce information loss through summarization. We present Spro…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "889a9c6b54ae",
+    "title": "MCompassRAG: Topic Metadata as a Semantic Compass for Paragraph-Level Retrieval",
+    "url": "https://arxiv.org/abs/2606.18508",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-18T04:00:00+00:00",
+    "summary": "arXiv:2606.18508v1 Announce Type: cross Abstract: Retrieval-augmented generation (RAG) systems depend critically on how documents are chunked and searched. Fine-grained chunks can improve retrieval precision but expand the search space, increasing latency and cost; larger chunks reduce the number of candidates but make dense similarity less reliable, as the representation for each chunk mixes multiple topics and introduces more semantic noise. This trade-off becomes especially limiting in deep r…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "f84d33472959",
+    "title": "Compact Geometric Representations of Hierarchies",
+    "url": "https://arxiv.org/abs/2606.18520",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-18T04:00:00+00:00",
+    "summary": "arXiv:2606.18520v1 Announce Type: cross Abstract: Computing geometric representations of data is a cornerstone of modern machine learning, typically achieved by training dual encoders which map queries and documents into a shared embedding space. Recent work of You et al. [NeurIPS '25] has extended this approach to hierarchical retrieval, where relevance is determined by the ancestor-descendant relationships in a Directed Acyclic Graph (DAG). While previous work has shown that valid embeddings e…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "85b2807a5789",
+    "title": "TW-LegalBench: Measuring Taiwanese Legal Understanding",
+    "url": "https://arxiv.org/abs/2606.18699",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-18T04:00:00+00:00",
+    "summary": "arXiv:2606.18699v1 Announce Type: cross Abstract: Large language models (LLMs) have shown impressive capabilities across diverse tasks, yet their performance on jurisdiction-specific legal reasoning remains underexplored. We present TW-LegalBench that utilizes Taiwanese legal system's rich official corpus open to the public to fill the gap in evaluating LLMs on Taiwanese law, among common-law benchmarks that focus on English sources and civil-law benchmarks focusing on sources of Simplified Chin…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "8423091a2019",
+    "title": "ScholarSum: Student-Teacher Abstractive Summarization via Knowledge Graph Reasoning and Reflective Refinement",
+    "url": "https://arxiv.org/abs/2606.18850",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-18T04:00:00+00:00",
+    "summary": "arXiv:2606.18850v1 Announce Type: cross Abstract: Abstractive summarization plays a crucial role in enabling efficient understanding of scientific literature, yet it inherently demands both linguistic fluency and factual faithfulness. Existing approaches often fail to reconcile these two requirements. Extractive methods rely on rigid sentence splicing that disrupts macro-level logical coherence, while large language model (LLM)-based generative approaches, despite mastering linguistic fluency, e…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "d82795efd2c1",
+    "title": "LARE: Low-Attention Region Encoding for Text-Image Retrieval",
+    "url": "https://arxiv.org/abs/2606.18885",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-18T04:00:00+00:00",
+    "summary": "arXiv:2606.18885v1 Announce Type: cross Abstract: Image retrieval in crowded scenes is particularly challenging due to the salience bias of conventional visual encoders, which tend to focus on dominant objects while neglecting low-attention regions that are often crucial for fine-grained retrieval. We propose LARE (Low-Attention Region Encoding), a framework that explicitly models these overlooked regions. LARE adopts a dual-encoding strategy that encodes low-attention regions of an image and th…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5475e8ec93c3",
+    "title": "Zero-Shot Active Feature Acquisition via LLM-Elicitation",
+    "url": "https://arxiv.org/abs/2606.18933",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-18T04:00:00+00:00",
+    "summary": "arXiv:2606.18933v1 Announce Type: cross Abstract: Active feature acquisition (AFA) sequentially selects which features to observe to reach a classification or ranking decision. Its central limitation is reliance on large amount of labeled data to fit probabilistic models guiding acquisition. Large language models (LLMs) supply unsupervised domain knowledge, but are poor sequential planners. Asking one to both know and decide conflates capabilities best kept separate. Here, we develop a framework…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "756cd0a432fc",
+    "title": "Decoupling Search from Reasoning: A Vendor-Agnostic Grounding Architecture for LLM Agents",
+    "url": "https://arxiv.org/abs/2606.18947",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-18T04:00:00+00:00",
+    "summary": "arXiv:2606.18947v1 Announce Type: cross Abstract: Production LLM agents increasingly depend on real-time search, yet native search grounding bundles retrieval policy, provider choice, evidence injection, cost, latency, and generation behavior behind a single model-provider boundary. This coupling makes grounding hard to inspect, tune, reuse, or port, and can trigger Search-Induced Verbosity that breaks strict output contracts. We present Decoupled Search Grounding (DSG), a vendor-agnostic bounda…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "fbccd15a56c3",
+    "title": "Which Sections of a Research Paper Best Reveal Its Research Methods? Evidence from Library and Information Science",
+    "url": "https://arxiv.org/abs/2606.19051",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-18T04:00:00+00:00",
+    "summary": "arXiv:2606.19051v1 Announce Type: cross Abstract: Research methods are essential carriers of knowledge contribution in academic papers. Automatic multi-label classification of research methods can support knowledge services such as method retrieval, review generation, and research intelligence analysis. While existing studies primarily rely on titles and abstracts, abstracts often provide only limited methodological information, whereas utilizing full-text content faces challenges related to exc…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "155bee8a04be",
+    "title": "Improving Scientific Document Retrieval with Academic Concept Index",
+    "url": "https://arxiv.org/abs/2601.00567",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-18T04:00:00+00:00",
+    "summary": "arXiv:2601.00567v2 Announce Type: replace Abstract: Adapting general-domain retrievers to scientific domains is challenging due to the scarcity of large-scale domain-specific relevance annotations and the substantial mismatch in vocabulary and information needs. Recent approaches address these issues through two independent directions that leverage large language models (LLMs): (1) generating synthetic queries for fine-tuning, and (2) generating auxiliary contexts to support relevance matching. …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "76d9ca73ef00",
+    "title": "TWICE: Modeling the Temporal Evolution of Personalized User Behavior via Event-Driven Agents",
+    "url": "https://arxiv.org/abs/2602.22222",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-18T04:00:00+00:00",
+    "summary": "arXiv:2602.22222v2 Announce Type: replace Abstract: User simulators are widely used for data generation, evaluation, and agent-based interaction, but existing approaches often model users as static personas or rely on generic historical context, making it difficult to capture how individual behavior evolves over time. To address this limitation, we propose TWICE, an LLM-based framework for temporally grounded personalized user simulation. TWICE combines structured user profiling, an event-driven…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "ae6755356ce0",
+    "title": "ActMem: Bridging the Gap Between Memory Retrieval and Reasoning in LLM Agents",
+    "url": "https://arxiv.org/abs/2603.00026",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-18T04:00:00+00:00",
+    "summary": "arXiv:2603.00026v2 Announce Type: replace-cross Abstract: Memory management is essential for LLM agents in long-term interactions. Current memory frameworks typically treat agents as passive ``recorders'' and retrieve information without understanding its deeper implications. They may fail in scenarios requiring reasoning and complex decision-making. To bridge this critical gap, we propose a novel actionable memory framework called ActMem that integrates memory retrieval with active causal reaso…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "3b59edc9573c",
+    "title": "Beyond Monolingual Deep Research: Evaluating Agents and Retrievers with Cross-Lingual BrowseComp-Plus",
+    "url": "https://arxiv.org/abs/2606.15345",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-18T04:00:00+00:00",
+    "summary": "arXiv:2606.15345v2 Announce Type: replace-cross Abstract: Deep research agents are increasingly evaluated on their ability to search for evidence, reason over retrieved sources, and produce grounded answers. Existing browsing benchmarks, however, largely assume that the user's query and the supporting evidence are written in the same language, leaving open whether agentic search systems can operate when relevant evidence appears in another language. We introduce XBCP (Cross-lingual BrowseComp-Pl…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4b91a40d6dfc",
+    "title": "The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy",
+    "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+    "source": "Wired AI",
+    "date": "2026-06-17T22:52:00+00:00",
+    "summary": "Days before Anthropic took its most advanced AI models offline, the White House ordered the company to revoke SK Telecom’s access to Claude Mythos over claims of alleged ties to China.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "28468ce8fdaf",
+    "title": "120 blocks, one story: The collective creation of the OCLC Quilt",
+    "url": "https://hangingtogether.org/120-blocks-one-story-the-collective-creation-of-the-oclc-quilt/",
+    "source": "OCLC Research",
+    "date": "2026-06-17T21:41:58+00:00",
+    "summary": "The OCLC Quilters collaborated on a bold quilt for a silent auction benefiting the Christopher Hoy Scholarship Fund. The auction is during ALA Annual in Chicago The post 120 blocks, one story: The collective creation of the OCLC Quilt appeared first on Hanging Together.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "11c9362eda13",
+    "title": "Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital",
+    "url": "https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/",
+    "source": "Wired AI",
+    "date": "2026-06-17T18:25:35+00:00",
+    "summary": "In Shenzhen, workers at IO-AI Tech control humanoid robots using a VR rig reminiscent of Ready Player One.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "7f7f3ec65e46",
+    "title": "The White House Wants Anthropic to Block All Jailbreaks. That May Not Be Possible",
+    "url": "https://www.wired.com/story/the-white-house-wants-anthropic-to-block-all-jailbreaks-that-may-not-be-possible/",
+    "source": "Wired AI",
+    "date": "2026-06-17T17:00:00+00:00",
+    "summary": "Trump administration officials tell WIRED that if Anthropic wants to rerelease Fable 5, it will need to ensure the model's guardrails can't be circumvented. Security experts say that can't be done.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d7251ad78e96",
+    "title": "Perseverance Pays Off for Vermont Privacy Efforts",
+    "url": "https://fpf.org/blog/perseverance-pays-off-for-vermont-privacy-efforts/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-06-17T13:54:58+00:00",
+    "summary": "Vermont has become the 23rd U.S. state to enact a comprehensive consumer privacy law after Governor Scott signed S.71, the Vermont Data Privacy and Online Surveillance Act (VDPOSA), on June 16. This new law is amongst the broadest in the country, closely resembling the 2025 version of the Connecticut Data Privacy Act (CTDPA). For example, [&#8230;]",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "edc0b0389260",
+    "title": "The Gemini-Powered Google Home Speaker Is Finally Here",
+    "url": "https://www.wired.com/story/the-gemini-powered-google-home-speaker-is-finally-here/",
+    "source": "Wired AI",
+    "date": "2026-06-17T13:00:00+00:00",
+    "summary": "Arriving six years after Google’s last smart speaker, the new HomePod-style device was redesigned to play host to Gemini’s chatbot.",
+    "category": "AI & Knowledge Management"
+  },
+  {
     "id": "5966bfdb22c6",
     "title": "On the Memorization Behavior of LLMs in Generative Recommendation: Observations, Implications, and Training Strategies",
     "url": "https://arxiv.org/abs/2606.17276",
