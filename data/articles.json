@@ -1,5 +1,257 @@
 [
   {
+    "id": "a97e6c8ae1b7",
+    "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+    "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+    "source": "MIT Tech Review",
+    "date": "2026-06-19T10:40:24+00:00",
+    "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has started to bring the receipts, sharing the&#8230;",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "aaf5de09aedb",
+    "title": "MonaVec: A Training-Free Embedded Vector Search Kernel for Edge and Offline AI Systems",
+    "url": "https://arxiv.org/abs/2606.19458",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-19T04:00:00+00:00",
+    "summary": "arXiv:2606.19458v1 Announce Type: new Abstract: We present MonaVec, a deterministic, embedded vector-search kernel for edge and offline AI -- settings where server infrastructure, network connectivity, and training data are all unavailable. Existing vector-search systems assume a persistent server, gigabytes of RAM, or a training pass over the corpus; MonaVec instead targets the deployment profile of SQLite: one file, one function call, runs anywhere. Its quantization core is training-free by de…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "ed29f7d364b7",
+    "title": "VCG: A Multimodal Retrieval Framework for E-Commerce Video Feeds under Extreme Cold-Start Conditions",
+    "url": "https://arxiv.org/abs/2606.19627",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-19T04:00:00+00:00",
+    "summary": "arXiv:2606.19627v1 Announce Type: new Abstract: The digital commerce landscape is shifting from static, search-driven catalogs to dynamic, immersive video feeds. This transition introduces an ``extreme cold-start'' problem: unlike traditional items, new short-form videos lack the dense interaction history required for collaborative filtering. Furthermore, immersive feeds introduce strong position and duration biases that distort standard engagement signals. In this paper, we demonstrate the Vide…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4a7aa93fe4f0",
+    "title": "Token Factory: Efficiently Integrating Diverse Signals into Large Recommendation Models",
+    "url": "https://arxiv.org/abs/2606.19635",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-19T04:00:00+00:00",
+    "summary": "arXiv:2606.19635v1 Announce Type: new Abstract: Large Recommendation Models (LRMs) have demonstrated promising capabilities in industry-scale recommendation tasks. However, holistically integrating traditional signals into these transformer-based architectures effectively and efficiently remains a major challenge. Conventional approaches that \"textualize\" these signals directly or create discrete item representations often lead to excessively long prompts, substantial memory footprints, and high…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a1ddf6a3ab39",
+    "title": "SAFE-Cascade: Cost-Adaptive Vision-Language Routing for Chart Question Answering",
+    "url": "https://arxiv.org/abs/2606.19646",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-19T04:00:00+00:00",
+    "summary": "arXiv:2606.19646v1 Announce Type: new Abstract: Vision-language models (VLMs) are powerful for chart question answering, but invoking a VLM for every query can be unnecessarily expensive when many questions are answerable from OCR text and lightweight language reasoning. We demonstrate SAFE-Cascade, an interactive system for cost-adaptive chart question answering. Given a chart image and a natural-language question, SAFE-Cascade first extracts chart text with OCR, obtains a provisional answer fr…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "35d3d8d4a279",
+    "title": "Closing the Calibration Gap in Semantic Caching",
+    "url": "https://arxiv.org/abs/2606.19719",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-19T04:00:00+00:00",
+    "summary": "arXiv:2606.19719v1 Announce Type: new Abstract: Semantic caching cuts LLM inference costs by serving a cached response to semantically similar queries. Standard practice evaluates these systems using PR-AUC, a metric that only measures how well scores rank and ignores whether they are usable at a fixed threshold. We show this mismatch leads to systematically poor deployment choices, as models with the highest PR-AUC are often the worst in operation. We introduce Precision-Cache Hit Ratio (P-CHR)…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "3addc7ff3914",
+    "title": "Stellar: Scalable Multimodal Document Retrieval for Natural Language Queries",
+    "url": "https://arxiv.org/abs/2606.19960",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-19T04:00:00+00:00",
+    "summary": "arXiv:2606.19960v1 Announce Type: new Abstract: Multimodal document retrieval--selecting the most relevant multimodal document from a large corpus to answer a natural language query--plays an essential role in Retrieval-Augmented Generation (RAG) systems. State-of-the-art methods represent each document and query with multiple token-level embeddings and use late interaction to achieve high effectiveness. However, such multi-vector representations incur substantial memory overhead during retrieva…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "cd4f7dc84ab9",
+    "title": "PACMS: Submodular Context Selection as a Pluggable Engine for LLM Agents",
+    "url": "https://arxiv.org/abs/2606.20047",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-19T04:00:00+00:00",
+    "summary": "arXiv:2606.20047v1 Announce Type: new Abstract: Conversational and tool-using LLM agents operate over a context window that fills from several directions simultaneously. As a session proceeds, the agent accumulates user and assistant turns, entries drawn from a persistent memory store, and often largest of all, the verbatim outputs of tool calls such as file reads, search results, and API responses. Once the cumulative context exceeds the model's token budget, the framework must decide what to k…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "3a622bf72ac2",
+    "title": "Generative Engine Optimization at Scale: Measuring Brand Visibility Across AI Search Engines",
+    "url": "https://arxiv.org/abs/2606.20065",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-19T04:00:00+00:00",
+    "summary": "arXiv:2606.20065v1 Announce Type: new Abstract: People increasingly get answers straight from AI search engines like ChatGPT, Claude, Perplexity, and Gemini rather than scrolling search results. Brands that once focused on search engine optimization (SEO) must now optimize for how these engines represent, cite, and recommend them -- a shift variously called Generative Engine Optimization (GEO), Answer Engine Optimization (AEO), and AI Search Visibility. We treat AEO and AI Visibility as part of …",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "67b6ca91019f",
+    "title": "ScholarQuest: A Taxonomy-Guided Benchmark for Agentic Academic Paper Search in Open Literature Environments",
+    "url": "https://arxiv.org/abs/2606.20235",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-19T04:00:00+00:00",
+    "summary": "arXiv:2606.20235v1 Announce Type: new Abstract: Academic paper search is a core step in scientific research, and LLM-based search agents are emerging as a promising paradigm for iterative, intent-driven literature exploration. However, existing benchmarks are insufficient for systematically evaluating agentic academic search under realistic open literature environments. We propose ScholarQuest, a large-scale, taxonomy-guided benchmark for agentic academic paper search. ScholarQuest is constructe…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "873d4e27a2e8",
+    "title": "ELVA: Exploring Ranking-Driven Universal Multimodal Retrieval",
+    "url": "https://arxiv.org/abs/2606.20280",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-19T04:00:00+00:00",
+    "summary": "arXiv:2606.20280v1 Announce Type: new Abstract: Leveraging Multimodal Large Language Models (MLLMs) via contrastive learning has become a mainstream paradigm for improving the performance of Universal Multimodal Retrieval (UMR). However, previous works have ignored the grain blindness when adapting the contrastive paradigm into retrieval tasks. Grain blindness refers to the tendency of the model to overlook grain-level information contained in the query, which is crucial for effectively handling…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "b513fb432016",
+    "title": "Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation",
+    "url": "https://arxiv.org/abs/2606.20554",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-19T04:00:00+00:00",
+    "summary": "arXiv:2606.20554v1 Announce Type: new Abstract: Generative recommendation is an emerging paradigm that has shown promise in industrial recommendation systems, aiming to predict users' next interactions from their historical behaviors. At the core of generative recommendation lies item tokenization, which bridges item semantics and recommendation models. However, existing methods often struggle to effectively organize and inject complex user-behavioral and item-semantic contexts into recommendati…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "3f88e9aa0f41",
+    "title": "Cost-Optimal LLM Routing with Limited User Feedback under User Satisfaction Guarantees",
+    "url": "https://arxiv.org/abs/2606.19376",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-19T04:00:00+00:00",
+    "summary": "arXiv:2606.19376v1 Announce Type: cross Abstract: Inference costs for large language model (LLM) applications are rapidly growing, driven by surging demand and rising infrastructure cost. Users expect high-quality responses, and in commercial settings this is formally codified in Service Level Agreements (SLAs), creating a fundamental tension between cost and quality. Recent progress on cost-aware LLM request routing has shown potential to resolve this tension, but existing approaches rely on co…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "3e652bfdca6c",
+    "title": "Denoising Implicit Feedback for Cold-start Recommendation",
+    "url": "https://arxiv.org/abs/2606.19658",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-19T04:00:00+00:00",
+    "summary": "arXiv:2606.19658v1 Announce Type: cross Abstract: Implicit feedback is widely used in recommender systems due to its accessibility and generality, yet it usually presents noisy samples (e.g., clickbait, position bias). Meanwhile, recommenders inevitably face the item cold-start problem due to the continuous influx of new items. We identify that cold items are more prone to noisy samples due to the aforementioned factors, and researchers often overlook the significance of denoising implicit feedb…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f0add7d54d7d",
+    "title": "When Global Gating Is Enough: Admission-Time Hubness Control in Anisotropic Vector Retrieval Systems",
+    "url": "https://arxiv.org/abs/2606.19692",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-19T04:00:00+00:00",
+    "summary": "arXiv:2606.19692v1 Announce Type: cross Abstract: Vector hubness, where a few points become nearest neighbors of many queries, creates a poisoning risk in retrieval-augmented generation (RAG): one injected document can influence unrelated requests. Existing defenses use periodic reverse-kNN scans, leaving an exposure window and repeated corpus-wide work. We study admission-time control, scoring each candidate against sentinel queries and quarantining hub-like documents before insertion. Across t…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a4d2b8561102",
+    "title": "Query-aware Routing for Filtered Approximate Nearest Neighbors Search",
+    "url": "https://arxiv.org/abs/2606.19898",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-19T04:00:00+00:00",
+    "summary": "arXiv:2606.19898v1 Announce Type: cross Abstract: Filtered ANN search, which combines vector similarity with attribute predicates, is a core primitive in modern vector databases and retrieval-augmented generation. We benchmark all major categorical filtered ANN methods across multiple datasets under three predicates and find that no single method dominates. Moreover, even within a single dataset and predicate type, the best method for a query can vary. Therefore, we propose a query-aware routing…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "78e1d972e41b",
+    "title": "Multi-Agent Transactive Memory",
+    "url": "https://arxiv.org/abs/2606.19911",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-19T04:00:00+00:00",
+    "summary": "arXiv:2606.19911v1 Announce Type: cross Abstract: The decentralized deployment of LLM agents with diverse capabilities across diverse tasks motivates infrastructure for knowledge sharing across heterogeneous agent populations. Just as search engines index human-generated artifacts to support human problem solving, retrieval systems can organize agent-generated artifacts for reuse across agent populations. We extend retrieval-augmented generation - which demonstrates the value of human-authored a…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "fdf16d4fd238",
+    "title": "When Does Streaming Tool Use Help? Characterizing Tool-Intent Stabilization in Streaming Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2606.20113",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-19T04:00:00+00:00",
+    "summary": "arXiv:2606.20113v1 Announce Type: cross Abstract: Streaming Retrieval-Augmented Generation (Streaming RAG) reduces user-perceived latency by issuing tool queries in parallel with ongoing user input, before the utterance is complete. Reported gains are aggregate, yet the mechanism's benefit is fundamentally query-intrinsic: speculation can only help when the correct tool query becomes determinable before the user stops speaking or typing. We isolate and measure this property -- tool-intent stabil…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "668aadf87c55",
+    "title": "Easy Reads: A Python program for making Scientific Papers on arXiv more Reader Friendly and Accessible",
+    "url": "https://arxiv.org/abs/2606.20550",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-19T04:00:00+00:00",
+    "summary": "arXiv:2606.20550v1 Announce Type: cross Abstract: Scientific papers are frequently dense and characterized by features such as small fonts and line spacing, double columns of text, and tightly arranged figures. While these features make papers more compact, they can hinder readability, make them less accessible, and can strain the reader. arXiv is a premier open-access repository for scientific papers across different fields and is used extensively by researchers, including those in the physics …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a1af92893faf",
+    "title": "Bid Farewell to Seesaw: Towards Accurate Long-tail Session-based Recommendation via Dual Constraints of Hybrid Intents",
+    "url": "https://arxiv.org/abs/2511.08378",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-19T04:00:00+00:00",
+    "summary": "arXiv:2511.08378v4 Announce Type: replace Abstract: Session-based recommendation (SBR) aims to predict anonymous users' next interaction based on their interaction sessions. In the practical recommendation scenario, low-exposure items constitute the majority of interactions, creating a long-tail distribution that severely compromises recommendation diversity. Existing approaches attempt to address this issue by promoting tail items but incur accuracy degradation, exhibiting a \"see-saw\" effect be…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "41a3ffdb4cf2",
+    "title": "AI4SE and SE4AI Exploration: A Decade Looking Back and Forward",
+    "url": "https://arxiv.org/abs/2606.19630",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-19T04:00:00+00:00",
+    "summary": "arXiv:2606.19630v1 Announce Type: cross Abstract: The March 2020 INCOSE INSIGHT special issue on AI and Systems Engineering (SE) became the most downloaded issue in the publication's history and launched a research community that now draws over 250 registrants to its annual workshop. In this article, we trace the progress in AI and SE across three phases (labeled here foundational, applied, and LLM inflection) based on the authors' reading of the field's core papers, and describe our opinions of…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "08a255481286",
+    "title": "Charting the Future of Scholarly Knowledge with AI: A Community Perspective",
+    "url": "https://arxiv.org/abs/2509.02581",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-19T04:00:00+00:00",
+    "summary": "arXiv:2509.02581v2 Announce Type: replace Abstract: Despite the growing availability of tools designed to support scholarly knowledge extraction and organization, many researchers still rely on manual methods, sometimes due to unfamiliarity with existing technologies or limited access to domain-adapted solutions. Meanwhile, the rapid increase in scholarly publications across disciplines has made it increasingly difficult to stay current, further underscoring the need for scalable, AI-enabled app…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "abb8cecdaa08",
+    "title": "More Parameters Than Populations: A Systematic Literature Review of Large Language Models within Survey Research",
+    "url": "https://arxiv.org/abs/2509.03391",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-19T04:00:00+00:00",
+    "summary": "arXiv:2509.03391v2 Announce Type: replace Abstract: [Working Paper] Survey research has a long-standing history of being a human-powered field, but one that embraces various technologies for the collection, processing, and analysis of various behavioral, political, and social outcomes of interest, among others. At the same time, Large Language Models (LLMs) bring new technological challenges and prerequisites in order to fully harness their potential. In this paper, we report work-in-progress on…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "8d603505d2bf",
+    "title": "How the Peter Thiel-Linked Dialog Club Secretly Ranks Its Members",
+    "url": "https://www.wired.com/story/how-peter-thiels-private-dialog-club-secretly-ranks-its-members/",
+    "source": "Wired AI",
+    "date": "2026-06-18T22:12:45+00:00",
+    "summary": "Leaked files show the invite-only network grades members by their money and fame, shaping who’s in, who’s out, and who pays.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "9b7a325aa594",
+    "title": "The White House Is Making Up Its Rules for AI in Real Time",
+    "url": "https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/",
+    "source": "Wired AI",
+    "date": "2026-06-18T21:03:43+00:00",
+    "summary": "Anthropic still can’t distribute Claude Mythos or Fable 5 after running afoul of the Trump administration. But no one can say exactly what the company did wrong.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "7cc1e7bb4db7",
+    "title": "Understanding Data Embassies and Corridors",
+    "url": "https://fpf.org/blog/understanding-data-embassies-and-corridors/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-06-18T20:18:14+00:00",
+    "summary": "The following is a guest post to the FPF blog authored by Yeong Zee Kin, Chief Executive of the Singapore Academy of Law and FPF Senior Fellow. The guest post reflects the opinion of the author only and does not necessarily reflect the position or views of FPF and our stakeholder communities. FPF provides this [&#8230;]",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f49569cae1ef",
+    "title": "Meta’s AI Workers Are Revolting, Peter Thiel’s Secret Society, and SBF’s Plea to Trump",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-meta-ai-workers-revolting-peter-thiel-secret-society-sbf-plea-to-trump/",
+    "source": "Wired AI",
+    "date": "2026-06-18T19:29:51+00:00",
+    "summary": "On today’s Uncanny Valley, we dive into the dysfunction in Meta’s newly formed AI unit and why it’s been driving already-low employee morale even further into the ground.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c5dad241e214",
+    "title": "3 Amazon Workers Say They’re Under Investigation for Speaking Out About Data Centers",
+    "url": "https://www.wired.com/story/amazon-workers-under-internal-investigation-after-speaking-out-about-data-centers/",
+    "source": "Wired AI",
+    "date": "2026-06-18T16:03:27+00:00",
+    "summary": "The software engineers filed a complaint with Seattle’s civil rights office accusing Amazon of illegally retaliating against them for expressing their personal political beliefs.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "08245c2bbfb3",
     "title": "The UK Will Scan Asylum-Seekers’ Faces for Age Checks—Despite Knowing the Tech Is Flawed",
     "url": "https://www.wired.com/story/facial-age-estimate-uk-asylum-seekers/",
