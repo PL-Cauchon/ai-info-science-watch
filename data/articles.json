@@ -1,5 +1,50 @@
 [
   {
+    "id": "e2a1ba3f18bb",
+    "title": "The $400 million machine powering the future of chipmaking",
+    "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
+    "source": "MIT Tech Review",
+    "date": "2026-06-23T09:00:00+00:00",
+    "summary": "Jos Benschop is climbing a ladder to get to the top of his newest machine.&#160; It’s a bit of a schlep. The contraption is the size of a double-decker bus—more than 150 tons of gleaming precision-milled aluminum covered in thousands of snaking tubes, colored cables, and pressurized tanks. From the ground, it looks like a&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2b96fe3254e0",
+    "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
+    "url": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
+    "source": "Wired AI",
+    "date": "2026-06-22T21:08:09+00:00",
+    "summary": "The move comes after the company left potentially sensitive data from the initiative exposed internally.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1f9a185ab72c",
+    "title": "Meta Exposed Data Internally From Its Controversial Employee-Tracking Program",
+    "url": "https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/",
+    "source": "Wired AI",
+    "date": "2026-06-22T20:28:53+00:00",
+    "summary": "Employees had previously raised concerns about the initiative, which involves collecting workers’ keystroke data to train AI models.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ba261c1fc5bd",
+    "title": "Three things to watch amid Anthropic’s latest feud with the government",
+    "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+    "source": "MIT Tech Review",
+    "date": "2026-06-22T18:00:00+00:00",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI model called Mythos&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "913c7ed3b409",
+    "title": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos",
+    "url": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
+    "source": "Wired AI",
+    "date": "2026-06-22T17:00:00+00:00",
+    "summary": "Amid concerns about AI models’ cybersecurity capabilities, OpenAI revealed an improved version of GPT-5.5-Cyber and its “Patch the Planet” initiative to fix open-source software bugs.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "20f3fc66c6ca",
     "title": "Some Electricians Think Building Data Centers Is for Sellouts",
     "url": "https://www.wired.com/story/data-center-buildout-electricians-selling-out/",
