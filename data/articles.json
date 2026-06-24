@@ -1,5 +1,221 @@
 [
   {
+    "id": "0e20cc1f34b1",
+    "title": "EvidenceLens: A Claim-Evidence Matrix for Auditing Financial Question Answering",
+    "url": "https://arxiv.org/abs/2606.23724",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-24T04:00:00+00:00",
+    "summary": "arXiv:2606.23724v1 Announce Type: new Abstract: Large language models are increasingly used to answer questions over annual reports, earnings decks, and analyst notes, yet their outputs remain difficult to verify in high-stakes financial workflows. A fluent answer can blend directly grounded statements, weak synthesis, and unsupported claims across narrative text, tables, and charts. We present EvidenceLens, a visual analytics prototype that treats financial question answering as a claim-evidenc…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a2d148b7ed1f",
+    "title": "INSPIRE: Intent-aware Neural Sponsored Product Retrieval for E-commerce",
+    "url": "https://arxiv.org/abs/2606.23889",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-24T04:00:00+00:00",
+    "summary": "arXiv:2606.23889v1 Announce Type: new Abstract: Walmart holds the largest share of the U.S. ecommerce grocery market, where food and beverage categories generate some of the highest search traffic and, consequently, drive a substantial portion of sponsored search revenue. At this scale, even small mismatches between user intent and retrieved products can lead to losses in both user engagement and monetization. Yet, understanding user intent in grocery search is inherently challenging. Queries ar…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "fa7e8c622324",
+    "title": "Scaling Dense Retrieval with LLM-Annotated Training Data: Structured Mining and Progressive Curriculum for E-Commerce Sponsored Search",
+    "url": "https://arxiv.org/abs/2606.23911",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-24T04:00:00+00:00",
+    "summary": "arXiv:2606.23911v1 Announce Type: new Abstract: How can we generate high-quality training data for dense retrieval models at production scale, without relying on click signals or manual annotation? This question is critical for e-commerce sponsored search, where click-based training suffers from position bias and tail-query sparsity, and manual labeling at the scale of hundreds of millions of query-item pairs is economically infeasible. Our work is driven by the following insight: heterogeneous …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c95a6e3007b2",
+    "title": "Unified Multi-Task Relevance Modeling for E-Commerce: Comparing Task Routing Architectures Across LLMs and Cross-Encoders",
+    "url": "https://arxiv.org/abs/2606.23919",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-24T04:00:00+00:00",
+    "summary": "arXiv:2606.23919v1 Announce Type: new Abstract: How can we build a single relevance model that handles six different entity pair relationship types in e commerce from query product matching to product type similarity when each task has different data volumes, different semantic requirements, and potentially conflicting learning signals? This question is important because current industry practice relies on separate models for each task, preventing knowledge transfer and producing inconsistent re…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a77df229fd88",
+    "title": "ChartWalker: Benchmarking the Cross-Chart RAG Task",
+    "url": "https://arxiv.org/abs/2606.23997",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-24T04:00:00+00:00",
+    "summary": "arXiv:2606.23997v1 Announce Type: new Abstract: Cross-Chart Retrieval-Augmented Generation (RAG) is critical for complex multi-modal analytical tasks in scientific, business, and political domains. However, existing benchmarks either focus on tables, which are well-structured and textualized, or generate cross-chart questions by simply extracting key points, which often induces lexical overlap between queries and evidence and yields logically inconsistent reasoning chains. To address this, we in…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "12424ab10cc6",
+    "title": "Dialogue to Discovery: Attribute-Aware Preference Elicitation for Conversational Product Search Assistants",
+    "url": "https://arxiv.org/abs/2606.24194",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-24T04:00:00+00:00",
+    "summary": "arXiv:2606.24194v1 Announce Type: new Abstract: Conversational product search assistants offer a more expressive, natural, and interactive alternative to traditional keyword-based product search. With limited screen space, showing only a few items increases the need for precise preference elicitation, which can prolong conversations, leading to user frustration and session abandonment. Conversely, rushing to recommend items without a clear understanding of preferences risks poor matches and a de…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1d25c2f24101",
+    "title": "PETRA: Transforming Web Text for Petroleum-Engineering Domain Adaptation",
+    "url": "https://arxiv.org/abs/2606.24346",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-24T04:00:00+00:00",
+    "summary": "arXiv:2606.24346v1 Announce Type: new Abstract: Petroleum-engineering search exposes a supervision gap for strong general retrievers: relevant evidence exists in public web text, but domain relevance labels are scarce. To address this gap, we propose PETRA, a large-scale Petroleum Engineering Text for Retrieval Adaptation dataset and pipeline that converts noisy public web data into a curated domain corpus and synthetic supervision for dense retrieval and reranking. PETRA contains 1.36M curated …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b761383799dc",
+    "title": "EXPO-SQL: Execution-based Clause-level Policy Optimization for Text-to-SQL",
+    "url": "https://arxiv.org/abs/2606.23693",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-24T04:00:00+00:00",
+    "summary": "arXiv:2606.23693v1 Announce Type: cross Abstract: Text-to-SQL enables users to query databases using natural language by generating executable SQL queries. Recent methods have increasingly adopted Large Language Models based reinforcement learning (RL) to leverage execution feedback for training. However, existing RL methods assign uniform query-level rewards to all clauses in a SQL query, treating correct and incorrect clauses equally. This coarse-grained reward design leads to insufficient lea…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "d4d63e4a0c34",
+    "title": "HANCLIP: A Family of Hyperbolic Angular Negation Vision Language Models",
+    "url": "https://arxiv.org/abs/2606.23843",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-24T04:00:00+00:00",
+    "summary": "arXiv:2606.23843v1 Announce Type: cross Abstract: Vision-Language Models (VLMs) are typically pre-trained on large-scale image-text datasets to capture semantic correspondences between visual content and natural language. However, they remain surprisingly brittle to negation: models often rely on shallow word co-occurrence and are easily distracted by misleading or irrelevant textual cues, even when their overall retrieval or classification performance is strong. Moreover, directly finetuning on…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "7bcaefe382bc",
+    "title": "Ground Then Rank: Revisiting Knowledge-Based VQA with Training-Free Entity Identification",
+    "url": "https://arxiv.org/abs/2606.23881",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-24T04:00:00+00:00",
+    "summary": "arXiv:2606.23881v1 Announce Type: cross Abstract: Knowledge-Based Visual Question Answering (KB-VQA) requires grounding visual queries to external knowledge beyond directly observable content in images. While recent multi modal large language models (MLLMs) show strong perceptual abilities, they struggle on KB-VQA tasks requiring groundings from both fine-grained entity and evidence levels. Most existing multi-modal retrieval augmented generation (MM-RAG) methods tightly couple entity discrimina…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "f759f4ef7ff8",
+    "title": "Do LLM Attribution Metrics Transfer? Auditing Retrieval-Augmented Generation Evaluation Across Datasets and Constructs",
+    "url": "https://arxiv.org/abs/2606.23915",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-24T04:00:00+00:00",
+    "summary": "arXiv:2606.23915v1 Announce Type: cross Abstract: Practice often treats automatic metrics for attribution in LLM retrieval-augmented generation as interchangeable. We audit eight automatic scorers -- lexical, embedding, and BERTScore baselines alongside entailment/grounding-trained models (clean and FEVER NLI, the checker MiniCheck) -- across three evaluation constructs (provenance/topicality, generated-answer attribution, and fact-check entailment), asking whether any scorer transfers: stays wi…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "0b31db8a55ef",
+    "title": "Is Higher Team Gender Diversity Correlated with Better Scientific Impact?",
+    "url": "https://arxiv.org/abs/2606.24098",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-24T04:00:00+00:00",
+    "summary": "arXiv:2606.24098v1 Announce Type: cross Abstract: Collaborative research involving scholars of various genders constitutes a prominent theme in scientific research that has garnered substantial attention. While several studies have investigated the connection between gender-specific collaboration patterns and the scientific impact of paper, the specific gender diversity factors that contribute to enhanced scientific impact remain largely unexplored. In this study, we analyze the correlation betw…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8de47c210198",
+    "title": "Exploring Academic Influence of Algorithms by Co-occurrence Network Based on Full-text of Academic Papers",
+    "url": "https://arxiv.org/abs/2606.24099",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-24T04:00:00+00:00",
+    "summary": "arXiv:2606.24099v1 Announce Type: cross Abstract: Algorithms have become central to scientific research in the era of artificial intelligence (AI). Although algorithm mentions in papers are often used to indicate popularity and influence, existing studies usually evaluate individual algorithms in isolation and pay limited attention to the collective influence formed through their interconnections. This study constructs large-scale algorithm co-occurrence networks in natural language processing (…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "6bd404cdcce1",
+    "title": "Aspect-Based Sentiment Evolution and its Correlation with Review Rounds in Multi-Round Peer Reviews: A Deep Learning Approach",
+    "url": "https://arxiv.org/abs/2606.24188",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-24T04:00:00+00:00",
+    "summary": "arXiv:2606.24188v1 Announce Type: cross Abstract: Mining sentiment information from the textual content of peer review comments offers valuable insights into the scientific evaluation process. However, previous studies are often constrained by coarse-grained analysis and the lack of differentiation across review rounds. Notably, the dynamic shifts in reviewers' focus and sentiment tendencies throughout multiple review stages remain underexplored. To address this gap, the present study investigat…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "390216787179",
+    "title": "MMed-Bench-IR: A Heterogeneous Benchmark for Multilingual Medical Information Retrieval",
+    "url": "https://arxiv.org/abs/2606.24200",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-24T04:00:00+00:00",
+    "summary": "arXiv:2606.24200v1 Announce Type: cross Abstract: Retrieval-augmented generation (RAG) in clinical settings increasingly requires multilingual retrieval against predominantly English evidence corpora. Multilingual medical retrieval demands three capabilities: cross-lingual alignment, concept discrimination, and evidence retrieval. However, existing benchmarks evaluate these only in isolation, leaving the interaction between biomedical expertise and multilingual coverage unmeasured. We introduce …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "99a819634207",
+    "title": "Unified Dominance Graph for Interval-Predicate Approximate Nearest Neighbor Search",
+    "url": "https://arxiv.org/abs/2606.24204",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-24T04:00:00+00:00",
+    "summary": "arXiv:2606.24204v1 Announce Type: cross Abstract: Approximate Nearest Neighbor Search (ANNS) is a core primitive for unstructured data retrieval. Real-world applications--such as temporal databases, financial data analysis, and retrieval-augmented generation--often require hybrid queries whose valid objects are constrained by continuous interval attributes, such as lifespans or price ranges. We study Interval-Predicate ANNS (IPANNS), where validity is determined by a predicate between an object …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "1343ef0f8048",
+    "title": "Are We Ready For An Agent-Native Memory System?",
+    "url": "https://arxiv.org/abs/2606.24775",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-24T04:00:00+00:00",
+    "summary": "arXiv:2606.24775v1 Announce Type: cross Abstract: Memory for large language model (LLM) agents has rapidly evolved from simple retrieval-augmented mechanisms into a data management system that supports persistent information storage, retrieval, update, consolidation, and dynamic lifecycle governance throughout agent execution. Despite this evolution, existing evaluations still benchmark agent memory mainly through end-to-end task success metrics (e.g., F1, BLEU), while treating the underlying sy…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "ee096eb8f51c",
+    "title": "Macro Graph of Experts for Billion-Scale Multi-Task Recommendation",
+    "url": "https://arxiv.org/abs/2506.10520",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-24T04:00:00+00:00",
+    "summary": "arXiv:2506.10520v5 Announce Type: replace Abstract: Graph-based multi-task learning at billion-scale presents a significant challenge, as different tasks correspond to distinct billion-scale graphs. Traditional multi-task learning methods often neglect these graph structures, relying solely on individual user and item embeddings. However, disregarding graph structures overlooks substantial potential for improving performance. In this paper, we introduce the Macro Graph of Experts (MGOE) framewor…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "b817758391e3",
+    "title": "Unifying Search and Recommendation in LLMs via Gradient Multi-Subspace Tuning",
+    "url": "https://arxiv.org/abs/2601.09496",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-24T04:00:00+00:00",
+    "summary": "arXiv:2601.09496v2 Announce Type: replace Abstract: Search and recommendation (S&amp;R) are core to online platforms, addressing explicit intent through queries and modeling implicit intent from behaviors, respectively. Their complementary roles motivate a unified modeling paradigm. Early studies to unify S&amp;R adopt shared encoders with task-specific heads, while recent efforts reframe item ranking in both S&amp;R as conditional generation. The latter holds particular promise, enabling end-to…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "163042091a54",
+    "title": "The $\\mathbf{P}$-Completeness of Inverted Index Traversal: On the Complexity of Evaluating Boolean Query DAGs",
+    "url": "https://arxiv.org/abs/2601.18747",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-24T04:00:00+00:00",
+    "summary": "arXiv:2601.18747v2 Announce Type: replace Abstract: Modern AI agents increasingly rely on search infrastructure to execute complex, neuro-symbolic reasoning workflows. These workflows often compile into deeply nested, non-monotonic Boolean queries over text fields. However, standard query evaluation strategies over inverted indices face severe theoretical limits when handling these structures. Stateful iterator models (Document-at-a-Time) are structurally bounded by $\\text{NC}^1$ formula evaluat…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "04ec9875fe98",
+    "title": "Towards Fast Domain Adaptation and Fine-Grained User Simulation for Evaluating Conversational Recommender Systems",
+    "url": "https://arxiv.org/abs/2606.22803",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-24T04:00:00+00:00",
+    "summary": "arXiv:2606.22803v2 Announce Type: replace Abstract: Conversational Recommender Systems (CRSs) enhance user experience through multi-turn interactions, yet evaluating their performance remains challenging. While Large Language Model (LLM) based user simulators are effective, they suffer from three key limitations: (1) Lack of Domain Adaptability: Reliance on fixed prompts and predefined action spaces hinders transfer to novel domains; (2) Limited User Modeling: Inability to accurately replicate s…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c42f861cce9e",
+    "title": "Analysis of Autonomic Regulation in Cancer Survivors During Daily Physical Activity: A Real-World Wearable ECG Study",
+    "url": "https://arxiv.org/abs/2606.23461",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-24T04:00:00+00:00",
+    "summary": "arXiv:2606.23461v2 Announce Type: replace Abstract: This study investigates heart rate (HR) and heart rate variability (HRV) responses to physical activity in breast cancer survivors using wearable electrocardiogram (ECG) data collected in real-world settings. Reliable HRV analysis in such environments is challenging due to motion artifacts and activity-related signal degradation. To address this, we use an approach that combines accelerometer and gyroscope data for activity intensity segmentati…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "22cf88a8e803",
+    "title": "How Much Can We Trust LLM Search Agents? Measuring Endorsement Vulnerability to Web Content Manipulation",
+    "url": "https://arxiv.org/abs/2606.16821",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-24T04:00:00+00:00",
+    "summary": "arXiv:2606.16821v2 Announce Type: replace-cross Abstract: Large language model (LLM)-based search agents synthesize open-web content into actionable recommendations on behalf of users, creating a risk that attacker-published pages are transformed into endorsed claims. We introduce SearchGEO, a controlled evaluation framework for measuring endorsement corruption in LLM-based web-search agents, combining a web-evidence manipulation pipeline, a five-mode attack taxonomy, and multiple output-level m…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c5d2d1b4c884",
+    "title": "TrOCR for Medieval HTR: A Systematic Ablation Study with Cross-Dataset Validation",
+    "url": "https://arxiv.org/abs/2606.24302",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-24T04:00:00+00:00",
+    "summary": "arXiv:2606.24302v1 Announce Type: cross Abstract: Fine-tuning transformer-based handwritten text recognition (HTR) models on medieval manuscripts is challenging because these models are pre-trained on modern text and must adapt to a very different visual domain. This paper studies how three controllable fine-tuning choices (contrast normalization, data augmentation, and layer freezing) affect recognition accuracy when adapting TrOCR to small historical datasets. We run controlled experiments on …",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "e2a1ba3f18bb",
     "title": "The $400 million machine powering the future of chipmaking",
     "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
