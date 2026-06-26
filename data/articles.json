@@ -1,5 +1,338 @@
 [
   {
+    "id": "284417f7e484",
+    "title": "How Qatar Became FIFA’s Technology Test Lab",
+    "url": "https://www.wired.com/story/how-qatar-became-fifas-technology-test-lab/",
+    "source": "Wired AI",
+    "date": "2026-06-26T10:00:00+00:00",
+    "summary": "Qatar has become the place where FIFA experiments with the next generation of football technology. The results are already visible across this year’s World Cup.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1c4fff588390",
+    "title": "Reducing Redundancy in Whole-Slide Image Patching for Scalable Indexing and Retrieval",
+    "url": "https://arxiv.org/abs/2606.26157",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-26T04:00:00+00:00",
+    "summary": "arXiv:2606.26157v1 Announce Type: new Abstract: The rapid growth of digital pathology has created an urgent need for efficient indexing and retrieval of whole slide images (WSIs). This need is intensified by emerging generative AI workflows, particularly retrieval-augmented generation (RAG), which require dependable similarity search to support high-stakes clinical decision-making. Yet the substantial cost of high-performance storage limits the scalability and accessibility of WSI indexing for m…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "f2b7163175c5",
+    "title": "From Clicks to Intent: Cross-Platform Session Embeddings with LLM-Distilled Taxonomy for Financial Services Recommendations",
+    "url": "https://arxiv.org/abs/2606.26277",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-26T04:00:00+00:00",
+    "summary": "arXiv:2606.26277v1 Announce Type: new Abstract: Sequential user behavior modeling is widely adopted in industrial recommender systems; however, significant gaps remain in financial services, where pre-login web interactions and authenticated in-app experiences differ drastically. Specifically, pre-login web users typically explore new products, whereas logged-in app users focus on account servicing. Due to the challenge of cross-channel entity resolution (e.g., matching anonymous web sessions to…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "6b23d1336be4",
+    "title": "Scoring Is Not Enough: Addressing Gaps in Utility-fairness Trade-offs for Ranking",
+    "url": "https://arxiv.org/abs/2606.26369",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-26T04:00:00+00:00",
+    "summary": "arXiv:2606.26369v1 Announce Type: new Abstract: Scoring functions are used to represent the relevance of individual documents. In modern information retrieval or recommendation systems, they are often learned from data and play a pivotal role in ranking sets of documents or items in a way that maximizes utility to a query or user. With the recent interest in algorithmic fairness, the success of scoring has naturally led to methods that learn scores that simultaneously trade off fairness and util…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "3817908fda60",
+    "title": "TileMaxSim: IO-Aware GPU MaxSim Scoring with Dimension Tiling and Fused Product Quantization",
+    "url": "https://arxiv.org/abs/2606.26439",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-26T04:00:00+00:00",
+    "summary": "arXiv:2606.26439v1 Announce Type: new Abstract: Multi-vector retrieval models such as ColBERT achieve state-of-the-art accuracy through fine-grained token-level MaxSim scoring, yet existing GPU implementations leave most hardware performance unused. We give a roofline analysis of MaxSim on modern GPUs and identify a severe bandwidth gap: naive implementations reach only 5-18% of peak HBM bandwidth because they materialize the Nq x Nd similarity matrix, wasting memory traffic on data that is cons…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "cea4f1337bba",
+    "title": "GPUSparse: GPU-Accelerated Learned Sparse Retrieval with Parallel Inverted Indices",
+    "url": "https://arxiv.org/abs/2606.26441",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-26T04:00:00+00:00",
+    "summary": "arXiv:2606.26441v1 Announce Type: new Abstract: Learned sparse retrieval models such as SPLADE achieve retrieval quality competitive with dense models while preserving the interpretability and exact-match advantages of sparse representations. However, inference-time scoring still relies on CPU-bound inverted index traversal algorithms (WAND, Block-Max WAND), creating a fundamental bottleneck for real-time serving at scale. We present GPUSparse, a system for GPU-accelerated exact learned sparse r…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "e39d71b7b6f9",
+    "title": "Attributed, But Not Incremental: Cannibalization-Corrected Attribution for Large-Scale Advertising",
+    "url": "https://arxiv.org/abs/2606.26690",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-26T04:00:00+00:00",
+    "summary": "arXiv:2606.26690v1 Announce Type: new Abstract: In large-scale paid acquisition and growth advertising systems, production attribution outputs are widely used for daily budget allocation and channel diagnosis. However, paid-attributed conversions such as daily new users (DNU) may systematically overstate true incremental growth when paid channels overlap with organic demand, brand-driven traffic, or other acquisition channels. This attribution-cannibalization mismatch can distort incremental ROI…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2bceb2444e47",
+    "title": "A Shared IPTC Topic Space for Cross-Source Topic Modelling",
+    "url": "https://arxiv.org/abs/2606.26845",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-26T04:00:00+00:00",
+    "summary": "arXiv:2606.26845v1 Announce Type: new Abstract: Comparing topic attention across different media is hindered by a fundamental modelling problem: topic models fitted separately to each corpus produce corpus-specific topic spaces that cannot be aligned directly. This paper presents a reproducible framework that places corpora in a single shared topic space defined by a taxonomy. Discovered topics are obtained with guided BERTopic, scored against the ninety-four IPTC Media Topics' taxonomy topics (…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "870ee8fe2326",
+    "title": "TriPAH: Imbalance-Aware Tri-Prompt Affinity Hashing for Cross-Modal Medical Retrieval",
+    "url": "https://arxiv.org/abs/2606.27010",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-26T04:00:00+00:00",
+    "summary": "arXiv:2606.27010v1 Announce Type: new Abstract: In the era of big medical data, efficient cross-modal retrieval is pivotal for evidence-based diagnosis and large-scale case management. Cross-modal medical hashing retrieval aims to enable efficient image-text search and support downstream tasks such as case-based reasoning and decision support by learning compact, semantically aligned binary codes. However, current methods suffer from semantic fragmentation due to noisy clinical language, long-ta…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e6d9ce9f2dee",
+    "title": "UniFormer: Efficient and Unified Model-Centric Scaling for Industrial Recommendation",
+    "url": "https://arxiv.org/abs/2606.27058",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-26T04:00:00+00:00",
+    "summary": "arXiv:2606.27058v1 Announce Type: new Abstract: Recently, substantial progress has been made in industrial recommendation through component-centric model scaling, where individual components such as behavior modeling, feature interaction, or task modeling are independently scaled to improve model capacity. Although recent methods such as HyFormer and OneTrans further explore cross-module co-scaling by jointly modeling behavior and interaction, their designs are still confined to the feature spac…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "47c015fef286",
+    "title": "TRUST: Item-Calibrated Interval Evidence for Temporal Session-Based Recommendation",
+    "url": "https://arxiv.org/abs/2606.27214",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-26T04:00:00+00:00",
+    "summary": "arXiv:2606.27214v1 Announce Type: new Abstract: Temporal signals have been widely used in session-based recommendation to infer user interest. Existing temporal session-based recommenders primarily rely on absolute interval values, implicitly assuming that the same interval carries similar interest signals across items. However, we empirically find that this assumption does not hold: each item has its own interval distribution, so an interval should be interpreted relative to the item it belongs…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "856983c77954",
+    "title": "NOVA: A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Systems",
+    "url": "https://arxiv.org/abs/2606.27243",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-26T04:00:00+00:00",
+    "summary": "arXiv:2606.27243v1 Announce Type: new Abstract: Industrial advertising recommender models are continuously improved through architecture evolution. Upgrades such as RankMixer, TokenMixer-Large, and MixFormer show that better structures remain a key source of quality and business gains. Yet developing such upgrades in production is expert-intensive and difficult to scale. Existing automation is insufficient: AutoML mainly tunes hyper-parameters, while effective gains often require cross-module ch…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "951a03229718",
+    "title": "Lacuna: A Research Map for Machine Learning",
+    "url": "https://arxiv.org/abs/2606.26246",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-26T04:00:00+00:00",
+    "summary": "arXiv:2606.26246v1 Announce Type: cross Abstract: Lacuna is a research map for machine learning that uses LLMs to turn papers and scholarly metadata into markdown summaries, concept elements, research directions, and research proposals. Each item keeps links to the primary source records and papers that support it. We release the map with web, markdown, and MCP interfaces. Across LitSearch, Multi-XScience-CS/ML, and ScholarQA-CS-ML, Lacuna outperforms OpenScholar with the strongest gains on LitS…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "86ed14726e86",
+    "title": "Instruction Bleed: Cross-Module Interference in Prompt-Composed Agentic Systems",
+    "url": "https://arxiv.org/abs/2606.26356",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-26T04:00:00+00:00",
+    "summary": "arXiv:2606.26356v1 Announce Type: cross Abstract: Practitioners of prompt-composed agentic systems report a recurring failure mode: editing one prompt module silently shifts the behavior of others despite no shared variable or executable dependency. We formalize this as compositional behavioral leakage (CBL): interference between modules sharing a context window. CBL is enabled by architectural non-isolation: transformer self-attention provides no formal boundary between concatenated modules. We…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a12681615175",
+    "title": "Hybrid privacy-aware semantic search: SVD-truncated document geometry and CKKS-encrypted query reranking under a restricted threat model",
+    "url": "https://arxiv.org/abs/2606.26373",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-26T04:00:00+00:00",
+    "summary": "arXiv:2606.26373v1 Announce Type: cross Abstract: Dense embeddings power semantic search and retrieval-augmented generation, but embedding-inversion attacks can reconstruct source text from a vector: when a vector database leaks, the documents behind it leak too. The textbook defences are extremes - encrypting the whole search homomorphically is sound but too slow at million-document scale, while privacy noise degrades ranking long before it protects. We study a middle path exploiting the asymme…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "7fbaed602bb4",
+    "title": "ProvenAI: Provenance-Native Traces of Evidence in Generated Answers",
+    "url": "https://arxiv.org/abs/2606.26449",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-26T04:00:00+00:00",
+    "summary": "arXiv:2606.26449v1 Announce Type: cross Abstract: Retrieval-augmented systems routinely present citations alongside generated answers, yet a citation does not confirm that the corresponding source meaningfully shaped the output. This paper introduces ProvenAI, a framework that decomposes transparency in multi-hop question answering into three independently measurable layers: answer correctness, citation fidelity against benchmark supporting evidence, and per-document influence under leave-one-re…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "058d68e85196",
+    "title": "3D Spatial Pattern Matching",
+    "url": "https://arxiv.org/abs/2606.26465",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-26T04:00:00+00:00",
+    "summary": "arXiv:2606.26465v1 Announce Type: cross Abstract: Spatial pattern matching is the process of matching query entities and constraints with database entities and relations. It has many applications, including similar region search, housing market search, landmark search, and road network matching. To our knowledge, all existing spatial pattern matching approaches frame the problem in a 2 dimensional space, where entities lie in a cartesian plane and relationships defined between them are contained…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "20adeccb5c5d",
+    "title": "Extracting Problem and Method Sentence from Scientific Papers: A Context-enhanced Transformer Using Formulaic Expression Desensitization",
+    "url": "https://arxiv.org/abs/2606.26481",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-26T04:00:00+00:00",
+    "summary": "arXiv:2606.26481v1 Announce Type: cross Abstract: Billions of scientific papers lead to the need to identify essential parts from the massive text. Scientific research is an activity from putting forward problems to using methods. To learn the main idea from scientific papers, we focus on extracting problem and method sentences. Annotating sentences within scientific papers is labor-intensive, resulting in small-scale datasets that limit the amount of information models can learn. This limited i…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "43642e3e157d",
+    "title": "Utilizing Cognitive Signals Generated during Human Reading to Enhance Keyphrase Extraction from Microblogs",
+    "url": "https://arxiv.org/abs/2606.26485",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-26T04:00:00+00:00",
+    "summary": "arXiv:2606.26485v1 Announce Type: cross Abstract: Microblogging platforms generate massive amounts of short, noisy, and dispersed user content, making automatic keyphrase extraction (AKE) an important but challenging task. Prior studies have used eye-tracking signals to improve microblog-based AKE because such signals reflect readers' attention to salient words. However, eye tracking alone is limited by physiological, acquisition, and feature-decoding constraints. To address this issue, we inves…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2962485cc98a",
+    "title": "SocialPersona: Benchmarking Personalized Profiling and Response with Multimodal Social-Media Context",
+    "url": "https://arxiv.org/abs/2606.26654",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-26T04:00:00+00:00",
+    "summary": "arXiv:2606.26654v1 Announce Type: cross Abstract: Personalized language-model assistants are often evaluated through a memory lens: can a model recall preferences users have explicitly stated in dialogue? More comprehensive personalization demands a harder capability -- inferring what users care about from the multimodal traces they naturally leave behind. We introduce SocialPersona, a benchmark for evaluating whether multimodal large language models (MLLMs) can recover revealed preferences from…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "e8d8ad3cf8b6",
+    "title": "ConvMemory v3: A Validity Context Layer for Conversational Memory via Target-Conditioned Relation Verification",
+    "url": "https://arxiv.org/abs/2606.26753",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-26T04:00:00+00:00",
+    "summary": "arXiv:2606.26753v1 Announce Type: cross Abstract: Conversational memory retrieval optimizes relevance, yet a retrieved memory can be relevant and simultaneously outdated: a later turn updates, corrects, or supersedes it. ConvMemory v3 adds a validity context layer that detects and surfaces this update evidence through target-conditioned relation verification, sitting after the v1/v2 retrieval path. The core mechanism is a dual-evidence gate that conditions a relation judgment on the specific tar…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "68eabc72f536",
+    "title": "From Vajrayana Tara to Bengali Baul: A Computational Study of Lexical Transmission Across Buddhist, Shakta, and Vaishnava Traditions in Bengal",
+    "url": "https://arxiv.org/abs/2606.26803",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-26T04:00:00+00:00",
+    "summary": "arXiv:2606.26803v1 Announce Type: cross Abstract: We present a computational corpus study of vocabulary relationships across eight tradition layers of Bengali and Sanskrit devotional literature spanning the 8th to 19th centuries, encompassing Buddhist Vajrayana, Shakta Tantra, Vaishnava, and Baul traditions. Using a corpus of 75 texts and TF-IDF character n-gram vectorization with cosine similarity analysis, we address the historically argued but previously unquantified claim that Buddhist Vajra…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "da4630207afb",
+    "title": "AgentX: Towards Agent-Driven Self-Iteration of Industrial Recommender Systems",
+    "url": "https://arxiv.org/abs/2606.26859",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-26T04:00:00+00:00",
+    "summary": "arXiv:2606.26859v1 Announce Type: cross Abstract: Recommendation algorithm iteration is moving from an artisanal, engineer-bound process toward an industrialized research loop, but this transition remains blocked by a structural execution bottleneck: the idea-to-launch cycle still depends on human engineers to generate hypotheses, modify production code, launch A/B experiments, and attribute online results. Innovation therefore scales linearly with headcount rather than compounding with evidence…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0abb8b283c72",
+    "title": "The Best of the Two Worlds: Harmonizing Semantic and Hash IDs for Sequential Recommendation",
+    "url": "https://arxiv.org/abs/2512.10388",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-26T04:00:00+00:00",
+    "summary": "arXiv:2512.10388v3 Announce Type: replace Abstract: Conventional Sequential Recommender Systems (SRS) typically assign unique hash IDs (HID) to construct item embeddings, which mainly capture collaborative signals from historical user-item interactions. However, such embeddings are vulnerable in long-tail scenarios where most items are rarely consumed. Recent methods that incorporate auxiliary information often face noisy collaborative sharing from co-occurrence signals or semantic homogeneity c…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "f7ad3d48420f",
+    "title": "Rank, Don't Generate: Statement-level Ranking for Explainable Recommendation",
+    "url": "https://arxiv.org/abs/2604.03724",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-26T04:00:00+00:00",
+    "summary": "arXiv:2604.03724v2 Announce Type: replace Abstract: Textual explanations, generated with large language models (LLMs), are increasingly used to justify recommendations. Yet, evaluating these explanations remains a critical challenge. We advocate a shift in objective: rank, don't generate. We formalize explainable recommendation as a statement-level ranking problem, where systems rank candidate explanatory statements derived from reviews and return the top-k as explanation. This formulation mitig…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "922aefc032c3",
+    "title": "EconSimulacra: A Digital Twin Platform of Socio-Economic Systems Powered by LLM Agents",
+    "url": "https://arxiv.org/abs/2606.26883",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-26T04:00:00+00:00",
+    "summary": "arXiv:2606.26883v1 Announce Type: new Abstract: Real-world social behavior emerges from tightly coupled domains: economic conditions shape mobility and social interactions, while online attention and offline activity feed back into local popularity and consumer behavior. Capturing these feedback loops requires artificial societies in which agents carry experiences from one domain into decisions in another. Large language models (LLMs) provide a promising foundation for such societies. However, e…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "9655b5408036",
+    "title": "Codex Mutabilis: Preserving The Reasons For Changes In Scientific Names",
+    "url": "https://arxiv.org/abs/2606.27271",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-26T04:00:00+00:00",
+    "summary": "arXiv:2606.27271v1 Announce Type: new Abstract: Digital preservation infrastructures often prioritize the stability of content and metadata. In taxonomy, species names are formed according to the Articles listed in the International Code of Zoological Nomenclature. The reasons for these changes are rarely recorded in detail or made machine-readable. This paper examines this preservation gap. Here, we cover issues in the Code by looking at approaches to recording nomenclatural changes related to …",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "064d9da586f8",
+    "title": "Thinking Like a Scientist? A Structural Study of LLM-Generated Research Methods",
+    "url": "https://arxiv.org/abs/2606.26130",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-26T04:00:00+00:00",
+    "summary": "arXiv:2606.26130v1 Announce Type: cross Abstract: Large Language Models (LLMs) are increasingly used to guide research methodology, yet their default methodological tendencies under minimal prompting remain unclear. Here, we prompt GPT-5.1, Gemini 3 Pro, and DeepSeek-V3.2 with an LLM-extracted research question from each of 1,000 recent arXiv computer-science papers and compare the resulting methodology suggestions against a paper-derived experimental inventory. Since we provide only the researc…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "9595660549f6",
+    "title": "Charting the Growth of Social-Physical HRI (spHRI): A Systematic Review Pipeline Augmented by Small Language Models",
+    "url": "https://arxiv.org/abs/2606.26382",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-26T04:00:00+00:00",
+    "summary": "arXiv:2606.26382v1 Announce Type: cross Abstract: Social-physical human-robot interaction (spHRI) has grown rapidly across robotics, human-computer interaction, human-robot interaction, and haptics. Yet, fragmented terminology and inconsistent methodologies make systematic synthesis difficult. To support scalable review practices, we evaluated the extent to which small language models (SLMs; < 1.5B parameters) can assist with title and abstract screening for a large spHRI systematic review. Whil…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "fe66e1d234c0",
+    "title": "Do more heads imply better performance? An empirical study of team thought leaders' impact on scientific team performance",
+    "url": "https://arxiv.org/abs/2606.26483",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-26T04:00:00+00:00",
+    "summary": "arXiv:2606.26483v1 Announce Type: cross Abstract: Thought leadership plays a crucial role in boosting team performance; thus, teams with more thought leaders may perform better. However, the impact of the number of thought leaders on team performance in a scientific context remains understudied. In this study, we consider the authors of a publication as a scientific team and define authors responsible for conceptual tasks, such as conceived and designed the experiments in the PLOS contribution s…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8d24dac91ba9",
+    "title": "Assessing Post-Reform Changes in Risk Disclosure Quality with a Multidimensional Text Analysis Approach",
+    "url": "https://arxiv.org/abs/2606.26522",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-26T04:00:00+00:00",
+    "summary": "arXiv:2606.26522v1 Announce Type: cross Abstract: While corporate narrative disclosures provide crucial information to capital markets, comprehensively evaluating their qualitative changes over time remains challenging. Narrative text is inherently multidimensional, meaning that an improvement in one textual dimension often occurs alongside changes in others. To capture these underlying dynamics, we propose a longitudinal text analysis approach combining Japanese-language NLP metric extraction w…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4667dd1498b6",
+    "title": "How Surprising Is Historical Italian to Language Models? Tokenization Tax, Comprehension Tax, and a Simple Mitigation",
+    "url": "https://arxiv.org/abs/2606.27275",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-26T04:00:00+00:00",
+    "summary": "arXiv:2606.27275v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly critical to digital library workflows, yet their ability to process historical language remains poorly understood. Historical difficulty is typically treated as a monolithic barrier, conflating orthographic variation, linguistic distance, and pretraining exposure. In this paper, we propose a diagnostic framework that decomposes this difficulty into four distinct dimensions: tokenization cost, predicti…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "4175d2c719c1",
+    "title": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
+    "url": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
+    "source": "Wired AI",
+    "date": "2026-06-26T00:49:13+00:00",
+    "summary": "Anthropic's critics argue it's rapidly accumulating power. The company says that's what responsible AI development looks like.",
+    "category": "AI & Information Governance"
+  },
+  {
+    "id": "fdc04f4e34d7",
+    "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/",
+    "source": "Wired AI",
+    "date": "2026-06-25T23:13:45+00:00",
+    "summary": "The decision by Amazon-owned MGM Studios to drop the OpenAI movie is just part of AI and film industries becoming increasingly intertwined. On Uncanny Valley, we look at where this is all headed.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e1257961d483",
+    "title": "Repositioning retail for the AI era",
+    "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+    "source": "MIT Tech Review",
+    "date": "2026-06-25T14:22:59+00:00",
+    "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inventory moves through supply chains, how engineers ship code faster, and&#8230;",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "f8bf4afd5903",
+    "title": "“For the Benefit of Humankind:” The Library of Congress and AI for Libraries, Archives and Museums",
+    "url": "https://blogs.loc.gov/thesignal/2026/06/library-of-congress-and-ai4lam/",
+    "source": "LOC Signal",
+    "date": "2026-06-25T13:24:28+00:00",
+    "summary": "The Library of Congress recently signed on as a founding member of an international organization devoted to exploring the use of artificial intelligence (AI) in cultural heritage and research contexts “for the benefit of humankind.” The eighth meeting of the organization’s flagship annual conference, Fantastic Futures, is scheduled for September 15-17, 2026. The theme of the conference is Fantastic Futures 2026: Trust in the Loop, and the meeting will be co-hosted by the Library, the National Ga…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "a02a2d3cd867",
+    "title": "World Cup Teams Are in a Race for AI Dominance",
+    "url": "https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools/",
+    "source": "Wired AI",
+    "date": "2026-06-25T11:00:00+00:00",
+    "summary": "This year, FIFA is providing an AI agent that any team can use. Is it enough to level the playing field or will future winners be determined by which team can afford the best tools?",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "14e4a45c3aee",
     "title": "British Police Built a Sprawling Crime-Prediction Machine. Some Results Couldn’t Be Trusted",
     "url": "https://www.wired.com/story/british-police-built-a-sprawling-crime-prediction-machine-some-results-couldnt-be-trusted/",
