@@ -1,5 +1,41 @@
 [
   {
+    "id": "5b338281853c",
+    "title": "Trump Administration Allows Anthropic to Release Mythos to Select US Organizations",
+    "url": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
+    "source": "Wired AI",
+    "date": "2026-06-27T00:26:14+00:00",
+    "summary": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "925f63228e2e",
+    "title": "OpenAI Has New AI Models. Here’s Why You Can’t Use Them",
+    "url": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
+    "source": "Wired AI",
+    "date": "2026-06-26T17:05:40+00:00",
+    "summary": "The White House asked OpenAI to delay the rollout of its GPT-5.6 AI models, two weeks after Anthropic had to take its most advanced AI models offline.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0782cbdc52b8",
+    "title": "Europe Is Fed Up and Wants Its Own AI",
+    "url": "https://www.wired.com/story/europe-is-fed-up-and-wants-its-own-ai/",
+    "source": "Wired AI",
+    "date": "2026-06-26T15:00:00+00:00",
+    "summary": "It's a stretch to think that the continent can build a top-tier model, but it has an advantage: Donald Trump.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "63115a82c537",
+    "title": "Vintage Records Meet Novel Technology: Using Artificial Intelligence to Find New Stories for America’s 250th Birthday",
+    "url": "https://blogs.loc.gov/thesignal/2026/06/using-artificial-intelligence-to-find-new-stories-for-americas-250th/",
+    "source": "LOC Signal",
+    "date": "2026-06-26T13:24:53+00:00",
+    "summary": "This year, libraries and cultural institutions around the nation are celebrating America’s 250th birthday. The 225-year-old Library of Congress is almost as old as the country itself, and this year, we’ve joined forces with the Smithsonian Institution to find new stories about America’s founding in our treasure trove of records and artifacts. The collaboration, called Revolution Crossroads, is exploring how advanced technologies can surface new connections in history. Staff are working to expand…",
+    "category": "Libraries & Archives"
+  },
+  {
     "id": "284417f7e484",
     "title": "How Qatar Became FIFA’s Technology Test Lab",
     "url": "https://www.wired.com/story/how-qatar-became-fifas-technology-test-lab/",
