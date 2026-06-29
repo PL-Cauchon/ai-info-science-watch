@@ -1,5 +1,221 @@
 [
   {
+    "id": "50638ca7e8c1",
+    "title": "This Humanoid Robot Is a Terrifyingly Competent Office Intern",
+    "url": "https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/",
+    "source": "Wired AI",
+    "date": "2026-06-29T08:00:00+00:00",
+    "summary": "Flexion Robotics, a startup founded by ex-Nvidia engineers, has a clever way of training robots to do useful work.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b807296da284",
+    "title": "A Sensitivity-Aware Test Collection for Search Among Personal Information",
+    "url": "https://arxiv.org/abs/2606.27559",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-29T04:00:00+00:00",
+    "summary": "arXiv:2606.27559v1 Announce Type: new Abstract: Traditional search tasks aim to satisfy user information needs by returning a subset of a collection of documents, ranked by the documents' relevance to a user query. However, some collections that contain useful information also contain sensitive personal information. Recently, there has been increasing interest in the development of Sensitivity-Aware Search (SAS) retrieval models to provide users with effective retrieval results without revealing…",
+    "category": "Information Behavior"
+  },
+  {
+    "id": "1d8f9810dcfc",
+    "title": "Intuition-Guided Latent Reasoning for LLM-Based Recommendation",
+    "url": "https://arxiv.org/abs/2606.27684",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-29T04:00:00+00:00",
+    "summary": "arXiv:2606.27684v1 Announce Type: new Abstract: Large Language Models (LLMs) have demonstrated impressive reasoning capabilities in complex problem-solving tasks, motivating their use for preference reasoning in recommender systems. Latent reasoning, which operates in continuous hidden spaces rather than discrete tokens, has recently emerged as a promising paradigm for LLM-based recommendation. However, existing methods often start from unconstrained reasoning points, where hidden representation…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "3c8dc324a818",
+    "title": "Bifocal Diffusion Language Models: Asymmetric Bidirectional Context for Parallel Generation",
+    "url": "https://arxiv.org/abs/2606.27732",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-29T04:00:00+00:00",
+    "summary": "arXiv:2606.27732v1 Announce Type: new Abstract: Discrete diffusion language models (dLLMs) recover masked tokens in parallel, offering significant speedups over autoregressive (AR) generation. However, such promising frameworks face a fundamental architectural design dilemma: \\ding{182} Adopting bidirectional attention achieves strong generation quality by allowing each position to access the full context, but is inherently incompatible with KV caching, limiting inference throughput in batch-ser…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "f7ae97dc9497",
+    "title": "End-to-End Dynamic Sparsity for Resource-Adaptive LLM Inference",
+    "url": "https://arxiv.org/abs/2606.27743",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-29T04:00:00+00:00",
+    "summary": "arXiv:2606.27743v1 Announce Type: new Abstract: Large Language Models (LLMs) inference is typically deployed under a static resource assumption, where models execute a fixed computational graph regardless of the runtime environment. However, real-world cloud infrastructure is inherently dynamic, characterized by fluctuating availability (e.g., spot instance preemption) and tiered Quality-of-Service requirements. In such volatile settings, static models are inflexible: they either crash under res…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "0f88210173cb",
+    "title": "From Bootstrapping to Sequence Modeling: A Unified Generative Framework for Personalized Landing-Page Modeling",
+    "url": "https://arxiv.org/abs/2606.27865",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-29T04:00:00+00:00",
+    "summary": "arXiv:2606.27865v1 Announce Type: new Abstract: Modern online platforms increasingly adopt multi-page architectures to accommodate diverse user needs. On these platforms, page navigation (the process of directing users to specific functional pages upon app entry) serves as a critical gateway that shapes user's first impression and significantly influences subsequent engagement. To optimize this process, Kuaishou formulated the task of Personalized Landing Page Modeling (PLPM) and proposed KLAN, …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "381814c88507",
+    "title": "An LLM-Powered Semantic Alignment Framework for Journal Recommendation",
+    "url": "https://arxiv.org/abs/2606.27930",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-29T04:00:00+00:00",
+    "summary": "arXiv:2606.27930v1 Announce Type: new Abstract: Journal recommendation is an important task in scholarly information systems. Existing approaches typically rely on supervised learning models, manually engineered features, or historical interaction data, which may limit their generalizability and interpretability. We propose an LLM-powered semantic alignment framework that formulates journal recommendation as a semantic matching problem between manuscript content and journal scope descriptions. T…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "f92cbfa4ca0c",
+    "title": "Listwise Explanation of Embedding-Based Rankings via Semantic Chunk Grouping",
+    "url": "https://arxiv.org/abs/2606.27980",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-29T04:00:00+00:00",
+    "summary": "arXiv:2606.27980v1 Announce Type: new Abstract: Dense embedding rankers score documents through contextual sentence- and passage-level representations. Yet many listwise explanation methods still attribute rankings to isolated words. This feature-unit mismatch leaves word-level features too fragmented for dense semantic ranking. We introduce ChunkGroupSHAP, a listwise Shapley method that clusters semantically related chunks into shared cross-document features. Masking a group perturbs all docume…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "fd5b8b4ecea9",
+    "title": "Fast and Feasible: Permutation-based Constrained Reranking for Revenue Maximization",
+    "url": "https://arxiv.org/abs/2606.28059",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-29T04:00:00+00:00",
+    "summary": "arXiv:2606.28059v1 Announce Type: new Abstract: Search and recommender systems have produced highly relevant search results. A natural next step in the development of such systems in e-commerce is to rerank these results to increase the platform's revenue from paid promotion products. However, maximizing revenue alone may degrade the user experience by reducing relevance or increasing fraud risk. To avoid this, we state the reranking problem as an integer linear program ($ILP$) that maximizes re…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e8af768feb39",
+    "title": "Recall Before Rerank: Benchmarking Deep Learning Models for Large-Scale Code-to-Code Retrieval",
+    "url": "https://arxiv.org/abs/2606.27401",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-29T04:00:00+00:00",
+    "summary": "arXiv:2606.27401v1 Announce Type: cross Abstract: Semantic code search and clone detection are essential for software development, maintenance, and reuse. This paper evaluates the effectiveness, efficiency, and scalability of contemporary deep learning models for first-stage recall in large-scale code-to-code search engines. Benchmarking across multiple programming languages and datasets reveals critical limits in the precision and scalability of these models on Terabyte-scale source-code collec…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "3912bbd5208f",
+    "title": "DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums",
+    "url": "https://arxiv.org/abs/2606.27619",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-29T04:00:00+00:00",
+    "summary": "arXiv:2606.27619v1 Announce Type: cross Abstract: Dyslexic learners increasingly use artificial intelligence (AI) tools to support reading, writing, organisation, and study-related tasks. However, their lived experiences with these tools remain largely underexamined. This paper proposes DysLexLens, a low-resource LLM framework, designed to analyse dyslexic learners experience with AI through online forum discussions. DysLexLens is designed as an end-to-end, evidence-traceable architecture which …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "4efa25574be9",
+    "title": "SHARD: cell-keyed residual splitting for alignment-resistant private dense retrieval",
+    "url": "https://arxiv.org/abs/2606.27976",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-29T04:00:00+00:00",
+    "summary": "arXiv:2606.27976v1 Announce Type: cross Abstract: Dense embeddings underpin semantic search and RAG, yet a leaked vector store hands much of the underlying text back to whoever holds it. The attacks that make this possible (few-shot alignment, zero-shot inversion, unsupervised cross-space translation) share one weakness: the protected store is a single global geometry that can be aligned to a known one. A secret global rotation, the usual lightweight defence, is no exception: orthogonal Procrust…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "363cfd4396f5",
+    "title": "Single and Multi Truth Data Fusion using Large Language Models",
+    "url": "https://arxiv.org/abs/2606.28062",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-29T04:00:00+00:00",
+    "summary": "arXiv:2606.28062v1 Announce Type: cross Abstract: Data fusion, also known as truth discovery, is a data integration problem that aims to determine the correct value or set of values for each attribute of an object when presented with potentially conflicting values from multiple sources. Data fusion tasks belong to two main categories: single-truth scenarios, where each attribute has only one correct value, and multi-truth scenarios, where multiple values can be valid simultaneously. This paper i…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "31469c118174",
+    "title": "Context-Aware Explanations for Spatialized Document Layouts",
+    "url": "https://arxiv.org/abs/2606.28081",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-29T04:00:00+00:00",
+    "summary": "arXiv:2606.28081v1 Announce Type: cross Abstract: Spatialized document layouts are widely used for exploratory analysis of text corpora, but interpreting the spatial organization of documents and the relationships between regions remains challenging. Existing approaches primarily summarize document content or explain how layouts are generated, providing limited support for understanding spatial relationships within the layout itself. We present CAPE, a context-aware explanation framework that ge…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d2e0367e60b0",
+    "title": "Hybrid Fact-Checking that Integrates Knowledge Graphs, Large Language Models, and Search-Based Retrieval Agents Improves Interpretable Claim Verification",
+    "url": "https://arxiv.org/abs/2511.03217",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-29T04:00:00+00:00",
+    "summary": "arXiv:2511.03217v2 Announce Type: replace-cross Abstract: Large language models (LLMs) excel in generating fluent utterances but can lack reliable grounding in verified information. At the same time, knowledge-graph-based fact-checkers deliver precise and interpretable evidence, yet suffer from limited coverage or latency. By integrating LLMs with knowledge graphs and real-time search agents, we introduce a hybrid fact-checking approach that leverages the individual strengths of each component. …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "b119ec1918ff",
+    "title": "CalBrief: A Pilot Diagnostic Benchmark for Evidence-Calibrated Scientific Briefing with Large Language Models",
+    "url": "https://arxiv.org/abs/2606.27383",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-29T04:00:00+00:00",
+    "summary": "arXiv:2606.27383v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used as research assistants, yet it remains unclear whether they can calibrate research takeaways to the strength and scope of the supporting evidence. We study evidence-calibrated scientific briefing: given a bounded package of related papers, a system should generate package-level takeaways with evidence strength, scope boundaries, and missing-evidence caveats. We contribute a verified pilot benchmark…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "fd2ae30d5807",
+    "title": "A General Pipeline for Digesting Scientific Literature into a Shared Scientific Knowledge Base",
+    "url": "https://arxiv.org/abs/2606.27384",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-29T04:00:00+00:00",
+    "summary": "arXiv:2606.27384v1 Announce Type: new Abstract: The published scientific literature is a rich, continuously growing record of measurements, correlations, and observations that modern AI tools can now make accessible in new ways. The Materials Explorer Pipeline digests collections of scientific papers into a structured, queryable database, producing sample records with full provenance and confidence, making them interactively explorable, and surfacing hypothesis candidates for scientist review. E…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "32ad3534d011",
+    "title": "Agentic Publication Protocol: An Attempt to Modernize Scientific Publication",
+    "url": "https://arxiv.org/abs/2606.27386",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-29T04:00:00+00:00",
+    "summary": "arXiv:2606.27386v1 Announce Type: new Abstract: Scientific publication is still organized primarily around static manuscripts, even though much of scientific progress depends on tacit know-how: how to run code, reproduce figures, interpret edge cases, choose useful follow-up directions, and avoid failed paths. Large language model agents create an opportunity to publish not only knowledge, but also operational know-how in a form that future readers and researchers can directly use. This paper ou…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "575b0339dd81",
+    "title": "Forecasting Technological Directions in Wireless Networks and Mobile Computing via AutoML Framework",
+    "url": "https://arxiv.org/abs/2606.27394",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-29T04:00:00+00:00",
+    "summary": "arXiv:2606.27394v1 Announce Type: new Abstract: The exponential increase in scientific publications has driven the emergence of new trends. Accurate forecasting of these developments is essential for researchers and professionals to stay updated with advancements in the field. This study presents an automated pipeline for trend prediction in the wireless networks and mobile computing domain by integrating clustering, topic modeling, and time series analysis. The process begins with the collectio…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ec110d3fd328",
+    "title": "How is Latin America engaging with responsible metrics? A systematic review comparing regional and global scientific production",
+    "url": "https://arxiv.org/abs/2606.27395",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-29T04:00:00+00:00",
+    "summary": "arXiv:2606.27395v1 Announce Type: new Abstract: Responsible metrics and responsible research assessment constitute an expanding field, driven primarily from the Global North through initiatives such as the San Francisco Declaration on Research Assessment (DORA), the Leiden Manifesto, and CoARA (Coalition for Advancing Research Assessment). However, despite growing international interest, Latin American scholarship on this subject remains largely unexamined. To address this gap, this paper presen…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a353f0f292f7",
+    "title": "A&A community survey on the future of scientific publishing: Credibility over speed, fairness over profit, human judgment over automation",
+    "url": "https://arxiv.org/abs/2606.27447",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-29T04:00:00+00:00",
+    "summary": "arXiv:2606.27447v1 Announce Type: new Abstract: (Abridged) Scientific publishing is undergoing major change, driven by a shift toward open access (OA), the rise of artificial intelligence (AI), and growing demands for transparency, reproducibility, and equity. At the same time, rapid growth in article output strains editors and reviewers and means that metrics and speed can eclipse quality and rigor. To better understand how the community is responding, Astronomy \\& Astrophysics (A\\&amp;A) commi…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "bb017e6bf7c0",
+    "title": "MathModDB: A Database for Mathematical Models",
+    "url": "https://arxiv.org/abs/2606.27933",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-29T04:00:00+00:00",
+    "summary": "arXiv:2606.27933v1 Announce Type: new Abstract: When researchers need a mathematical model for a research problem, they face a fragmented landscape: relevant formulas, quantities, assumptions, and model variants are scattered across publications and domain-specific conventions. The Mathematical Models Database (MathModDB) addresses this challenge by providing a curated knowledge graph for mathematical models, deployed on the MaRDI Portal as part of the German National Research Data Infrastructur…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "b0b04c0cf2a8",
+    "title": "The Reciprocal Impact of Science and Software: A Cross-Corpus Analysis of How Research Shapes Software and Software Enables Research",
+    "url": "https://arxiv.org/abs/2606.28120",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-29T04:00:00+00:00",
+    "summary": "arXiv:2606.28120v1 Announce Type: new Abstract: Software and scientific knowledge co-evolve, yet they are catalogued in separate corpora that rarely speak to one another. We bridge them at global scale by linking World of Code (a near-complete mirror of public version-control history) to Semantic Scholar and OpenAlex through a typed cross-corpus graph of 69.8M edges over eight relation types (paper-to-software mentions, software-to-paper citations, software dependencies, authorship, affiliation,…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c16392b5abd7",
+    "title": "Mitigating LLM-based p-Hacking by Preregistering for the Next LLM",
+    "url": "https://arxiv.org/abs/2606.27687",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-29T04:00:00+00:00",
+    "summary": "arXiv:2606.27687v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly used to generate, classify, and annotate data whose outputs feed downstream hypothesis tests. However, LLM-based research is easy to p-hack: a researcher can tune the prompts, decoding parameters, or output format until a desired result is reached. We propose a protocol to mitigate p-hacking in LLM-based research: preregistering the experiment and eligible models, and then running it on the first elig…",
+    "category": "AI & Knowledge Management"
+  },
+  {
     "id": "5b338281853c",
     "title": "Trump Administration Allows Anthropic to Release Mythos to Select US Organizations",
     "url": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
