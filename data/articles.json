@@ -1,5 +1,374 @@
 [
   {
+    "id": "931032dcaa21",
+    "title": "ADEPT: An Entropy-Driven Dual-Strategy Agent for Interactive Video Retrieval",
+    "url": "https://arxiv.org/abs/2606.28326",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-30T04:00:00+00:00",
+    "summary": "arXiv:2606.28326v1 Announce Type: new Abstract: This research aims to solve the challenge of video retrieval from massive datasets, caused by ambiguous user queries. Prevailing single-round retrieval paradigms face a performance bottleneck, as they lack effective feedback mechanisms to handle complex search intentions. The root cause is the \"Intent-Query Gap\", where users' intent cannot be captured by a simple text query. To solve this, we propose the ADEPT framework: a training-free agent that …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d8d508e0a57a",
+    "title": "The Interference Gap: Comparing Retrieval Bounds in Human Memory and RAG Systems",
+    "url": "https://arxiv.org/abs/2606.28327",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-30T04:00:00+00:00",
+    "summary": "arXiv:2606.28327v1 Announce Type: new Abstract: How do retrieval bounds compare between human episodic memory and Retrieval-Augmented Generation (RAG) systems under semantic interference? We present a unified signal detection theory (SDT) framework that applies to both, and use it to fit behavioral and computational data in matched paradigms. Both systems show logarithmic accuracy decline with association count (fan), but humans exhibit lower interference sensitivity ($\\alpha/\\sigma = 0.41$) tha…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "0d1c30aed713",
+    "title": "TextClusterLab: An Integrated Framework for Reliable Text Clustering Studies",
+    "url": "https://arxiv.org/abs/2606.28328",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-30T04:00:00+00:00",
+    "summary": "arXiv:2606.28328v1 Announce Type: new Abstract: In recent years, text clustering has become a critical technique for applications including intent discovery, topic mining, and recommendation systems. However, evaluating text clustering algorithms remains challenging since many real-world textual datasets are not suitable for clustering assessment due to ambiguous semantic boundaries, the high dimensionality of embeddings, and inconsistent cluster structure. Current clustering dataset generators …",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "ddc5f51256bb",
+    "title": "$M^3 QuestionIng$: Multi-modal Multi-span Medical Question Answering",
+    "url": "https://arxiv.org/abs/2606.28329",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-30T04:00:00+00:00",
+    "summary": "arXiv:2606.28329v1 Announce Type: new Abstract: The growing adoption of AI in healthcare, particularly in preventive care, highlights the critical need for accessibility and precision in Medical Question Answering (MedQA). In recent years, significant efforts have been made to develop multi-span medical question-answering systems, where the answer to a query may span multiple sections or paragraphs of a source document. However, existing systems fall short of aligning with real-world scenarios, …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0243a3bf0a9e",
+    "title": "High-Dimensional Concentration and Retrieval Instability in Embedding Spaces: Implications for Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2606.28330",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-30T04:00:00+00:00",
+    "summary": "arXiv:2606.28330v1 Announce Type: new Abstract: Embedding-based retrieval systems rely on the assumption that geometric proximity in highdimensional representation spaces reflects semantic relevance. However, high-dimensional geometry induces concentration phenomena that can reduce the discriminative power of similarity measures and can destabilize nearest-neighbor retrieval. This work studies distance concentration, cosine concentration, contrast collapse, hubness, and retrieval instability thr…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "6e639a1bf32e",
+    "title": "HyBIRD: Hyperbolic Bridge Retrieval and Diagnosis for Methodology Inspiration Retrieval",
+    "url": "https://arxiv.org/abs/2606.28336",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-30T04:00:00+00:00",
+    "summary": "arXiv:2606.28336v1 Announce Type: new Abstract: Methodology Inspiration Retrieval (MIR) asks a system to retrieve prior papers whose methods can inspire a new research proposal. Unlike general scientific retrieval, the central challenge is not topical similarity but whether a candidate paper provides concrete mechanisms that can instantiate an abstract methodological need. Existing MIR dense retrievers provide strong paper-level rankings, but the returned lists do not expose how proposal needs a…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "293c7ffb7c0b",
+    "title": "A Systems-Level Analysis of Sensitivity, Robustness, and Stability in Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2606.28337",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-30T04:00:00+00:00",
+    "summary": "arXiv:2606.28337v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) systems are often evaluated using final answer accuracy, even though their failures can originate from preprocessing, retrieval, context packing, or generation. This paper presents a controlled empirical study of RAG sensitivity, robustness, and stability across 56 experimental runs. We evaluate how chunk size, retrieval depth (top k), embedding-based reranking, probabilistic retrieval noise, and repeated seeded…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "f5ad506a7d49",
+    "title": "Memory Shot for Long-Term Dialogue",
+    "url": "https://arxiv.org/abs/2606.28338",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-30T04:00:00+00:00",
+    "summary": "arXiv:2606.28338v1 Announce Type: new Abstract: Large Language Models (LLMs) have demonstrated strong capabilities in general conversation, instruction following, and complex reasoning. However, in long-term dialogue settings, they often struggle to locate and utilize historical information most relevant to the current query. Existing approaches address this issue by constructing structured text-centered memory units through compressing and reorganizing user interaction history. However, these s…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "e62090be178d",
+    "title": "Rethinking Fairness in LLM-Based Recommender Systems: A Survey",
+    "url": "https://arxiv.org/abs/2606.28340",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-30T04:00:00+00:00",
+    "summary": "arXiv:2606.28340v1 Announce Type: new Abstract: Large Language Models (LLMs) are reshaping recommender systems by enabling more semantic, generative, and interactive recommendation pipelines. However, this shift also introduces new fairness challenges, as biases may arise from pretrained knowledge, prompts, generated explanations, decoding strategies, and feedback loops. This survey provides a systematic review of fairness in LLM-based recommender systems (LLM4Rec), organizing existing studies t…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "b40e1a8851c2",
+    "title": "The Crowded Embedding Space: A Mean-Field Mechanism for Emergent Marginalization in Retrieval-Augmented Agents",
+    "url": "https://arxiv.org/abs/2606.28343",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-30T04:00:00+00:00",
+    "summary": "arXiv:2606.28343v1 Announce Type: new Abstract: Retrieval-augmented generative agents rely on retrieval for grounding, yet are typically evaluated on a query-by-query basis. This isolates interactions that are geometrically coupled in a shared embedding space. For example, we show that the high document density required to serve majority interests (e.g., generic \"Crime\" movies) can geometrically overcrowd the retrieval neighborhood of a semantically similar minority (e.g., \"Film Noir\"), effectiv…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c287c494c79b",
+    "title": "PIXELRAG: Web Screenshots Beat Text for Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2606.28344",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-30T04:00:00+00:00",
+    "summary": "arXiv:2606.28344v1 Announce Type: new Abstract: Augmenting large language models (LLMs) with retrieved web text has become a dominant paradigm, yet the web is not natively textual: existing systems depend on complex parsing pipelines that linearize HTML and discard layout, visual structure, and formatting. We introduce PixelRAG, a new retrieval-augmented method that represents websites in their native visual form and performs retrieval and reading entirely in pixel space, enabling an end-to-end …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "354722a921d3",
+    "title": "HMARS: A Hierarchical Multi-Agent Memory System for Long-Context Reasoning",
+    "url": "https://arxiv.org/abs/2606.28349",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-30T04:00:00+00:00",
+    "summary": "arXiv:2606.28349v1 Announce Type: new Abstract: Long-context reasoning requires models to access, retrieve, and integrate evidence scattered across documents, dialogues, and accumulated interaction histories. Standard retrieval-augmented generation reduces this problem to top-$K$ chunk retrieval, but such passive access can discard relevant evidence before reasoning begins, especially when relevance depends on broader context. We propose HMARS, a hierarchical multi-agent memory system that treat…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "cf58d0204fe6",
+    "title": "UniCA: Bi-directional Cross-Attention with Positive Similarity Loss for Robust Multi-Modal Retrieval",
+    "url": "https://arxiv.org/abs/2606.28350",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-30T04:00:00+00:00",
+    "summary": "arXiv:2606.28350v1 Announce Type: new Abstract: Multi-modal retrieval has become increasingly critical for handling the growing volume of integrated visual-textual data in real-world applications, but existing frameworks rely on implicit fusion via text encoder self-attention, limiting explicit cross-modal semantic alignment. To address this gap, this paper proposes UniCA (Unified Cross-Attention Encoder), a multi-modal retrieval model with four key innovations: 1) a bi-directional cross-attenti…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d0a54b7129f4",
+    "title": "HyperSU: Corpus-Driven Semantic-Unit Hypergraph for Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2606.28351",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-30T04:00:00+00:00",
+    "summary": "arXiv:2606.28351v1 Announce Type: new Abstract: Recent Hypergraph-based retrieval-augmented generation (HyperRAG) methods use hyperedges to connect multiple entities simultaneously, enabling more efficient multi-entity evidence organization than pairwise graph structures. However, existing HyperRAG methods often rely on LLM-generated summaries to construct hyperedges, which can introduce hallucinations while also incurring high indexing costs. In addition, during retrieval, existing methods typi…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "563d9d7a963a",
+    "title": "Sifei at SemEval-2026 Task 8: Hybrid Retrieval and Query Rewriting for Multi-Turn RAG",
+    "url": "https://arxiv.org/abs/2606.28352",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-30T04:00:00+00:00",
+    "summary": "arXiv:2606.28352v1 Announce Type: new Abstract: Multi-turn retrieval-augmented generation (RAG) is challenging due to evolving user intent, conversational noise, and strict context limits. We propose a training-free hybrid retrieval pipeline for SemEval-2026 Task 8 that combines dense and sparse retrieval with controlled query rewriting and cross-encoder reranking. On the official test set of Task A, our system achieves 0.5453 nDCG@5, ranking third among 38 teams and outperforming the strongest …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "f95b2c7798f0",
+    "title": "From Regulatory Approvals to Patents: Cross-Domain Linking for Cardiovascular Device Traceability",
+    "url": "https://arxiv.org/abs/2606.28353",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-30T04:00:00+00:00",
+    "summary": "arXiv:2606.28353v1 Announce Type: new Abstract: Linking FDA-approved medical devices to their underlying United States Patent and Trademark Office (USPTO) patents enables critical applications such as recall root-cause analysis, M&amp;A-driven IP discovery, and technology trajectory mapping. However, this cross-domain entity linking task remains unexplored due to severe *semantic gaps*: FDA documents focus on clinical outcomes, while patents describe technical mechanisms, yielding minimal lexica…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "9bb8fdd52946",
+    "title": "DBpedia-Enriched Company Representation for B2B Lead Recommendation",
+    "url": "https://arxiv.org/abs/2606.28355",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-30T04:00:00+00:00",
+    "summary": "arXiv:2606.28355v1 Announce Type: new Abstract: Selecting which companies to approach is a central challenge in business-to-business (B2B) sales, where decisions are often based on manual research and fragmented information sources. Modern B2B sales platforms centralize company records and use learned company embeddings to support tasks such as recommending and prioritizing potential clients. In this study, we investigate whether enriching these company embeddings with Semantic knowledge from DB…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "5ae9e2996087",
+    "title": "SafeGEO: Understanding Generative Engine Optimization Risks in Recommendation Agents",
+    "url": "https://arxiv.org/abs/2606.28356",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-30T04:00:00+00:00",
+    "summary": "arXiv:2606.28356v1 Announce Type: new Abstract: Generative Engine Optimization (GEO) lets content owners rewrite web content to increase their visibility in generative systems. In recommendation agents, this creates a risk that seller-controlled sources make flawed products appear better supported than they are. We study this risk by asking whether recommendation agents preserve utility-aligned decisions when seller-controlled sources are rewritten for GEO. To make this question measurable, we c…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4d9c00fcb859",
+    "title": "ReasonRec: A Reasoning-Augmented Multimodal Agent for Unified Recommendation",
+    "url": "https://arxiv.org/abs/2606.28357",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-30T04:00:00+00:00",
+    "summary": "arXiv:2606.28357v1 Announce Type: new Abstract: Recent advances in multimodal recommenders excel at feature fusion but remain opaque and inefficient decision-makers, lacking explicit reasoning and self-awareness of uncertainty. We introduce ReasonRec, a reasoning-augmented multimodal agent structured around a three-stage explicit reasoning pipeline. Specifically, we propose a reasoning-aware visual instruction tuning strategy that systematically transforms diverse recommendation tasks into unifi…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c1e243aab4d8",
+    "title": "How Do LLMs Cite? A Mechanistic Interpretation of Attribution in Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2606.28358",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-30T04:00:00+00:00",
+    "summary": "arXiv:2606.28358v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) aims to enhance the trustworthiness of Large Language Models (LLMs) by grounding their outputs in external documents, often using inline citations for verifiability. However, the faithfulness of these citations -- whether the model genuinely uses a source to generate an answer -- remains a critical, unverified assumption. This paper offers the first mechanistic account of how a large language model decides wheth…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "2762658e85ef",
+    "title": "The Voronoi Bottleneck: Capacity-Aware Dense Retrieval for Product Search",
+    "url": "https://arxiv.org/abs/2606.28359",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-30T04:00:00+00:00",
+    "summary": "arXiv:2606.28359v1 Announce Type: new Abstract: Dense embedding retrieval compresses all relevance information into a single inner product, imposing a fundamental geometric limit -- the Voronoi Bottleneck -- on the number of query-document relevance patterns expressible at fixed embedding dimension (d). We make three contributions. (1) Unified capacity theory. We prove that Voronoi complexity and sign-rank are equivalent for top-1 retrieval, yielding tight dimension bounds and a computable diagn…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "9ab9e9db99cf",
+    "title": "Carolina Guide: A Multi-Agent RAG System with Institutional Guardrails for Academic Policy Assistance",
+    "url": "https://arxiv.org/abs/2606.28360",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-30T04:00:00+00:00",
+    "summary": "arXiv:2606.28360v1 Announce Type: new Abstract: University students often struggle to navigate complex academic policies, leading to advising bottlenecks and delayed access to critical information. Although large language models (LLMs) offer promise for automated assistance, their tendency toward hallucination and inability to enforce institutional constraints make them unsuitable for high-stakes policy guidance without careful architectural design. We present Carolina Guide, a retrieval-augment…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "2e837ac1dcb9",
+    "title": "ConCise: Training-Free Conclusion-Chain State Compression for Cost-Efficient Multi-Step RAG Services",
+    "url": "https://arxiv.org/abs/2606.28361",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-30T04:00:00+00:00",
+    "summary": "arXiv:2606.28361v1 Announce Type: new Abstract: Multi-step retrieval-augmented generation (RAG) has been widely deployed as LLM-powered web services for complex question answering, where iterative retrieval-reasoning rounds deliver strong multi-hop accuracy. However, this paradigm causes historical documents and reasoning traces to accumulate across rounds, inflating cumulative input tokens approximately as $O(N^2)$ with progressively increasing noise density. In API-based service architectures,…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "254a7fc347e9",
+    "title": "LUMEN: Cost-Transparent Multi-Agent Pipeline for Automated Systematic Review and Meta-Analysis",
+    "url": "https://arxiv.org/abs/2606.28362",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-30T04:00:00+00:00",
+    "summary": "arXiv:2606.28362v1 Announce Type: new Abstract: Systematic reviews and meta-analyses (SR/MA) remain the gold standard for evidence synthesis, yet completing one typically requires 67 weeks and substantial expert effort. Recent large language model (LLM) systems have demonstrated strong performance on individual SR phases - screening (otto-SR: 96.7% sensitivity), extraction (Gartlehner et al.: 91.0% accuracy), and search (TrialMind: 0.83 recall) - but no study has reported what it actually costs …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a4d86b826d1f",
+    "title": "meta-pipe: An LLM-agent pipeline for end-to-end automated systematic review and meta-analysis",
+    "url": "https://arxiv.org/abs/2606.28363",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-06-30T04:00:00+00:00",
+    "summary": "arXiv:2606.28363v1 Announce Type: new Abstract: Objective: To describe the architecture and design rationale of meta-pipe, an open-source large language model (LLM)-agent pipeline that integrates the complete systematic review and meta-analysis (SR/MA) workflow -- from literature search through statistical analysis, manuscript generation, and quality assurance -- with mandatory human oversight at critical decision points. Study Design and Setting: We developed a 10-stage modular pipeline integra…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "96de5097ce66",
+    "title": "AICID: Unique Identifiers for AI Scientists",
+    "url": "https://arxiv.org/abs/2606.28756",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-30T04:00:00+00:00",
+    "summary": "arXiv:2606.28756v1 Announce Type: new Abstract: AI scientists are now a reality, with the ability to generate complete research papers, maintain scholarly profiles, receive citations, and attract peer review invitations. Yet no standard mechanism exists to distinguish an AI scientist from a human one in bibliographic databases, citation indexes, or journal submission systems. This white paper defines the problem, analyzes its consequences for the integrity of scholarly communication, and propose…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "7a662346db43",
+    "title": "Categorizing Mathematical Concepts with LLM Voting Ensembles in Mathswitch",
+    "url": "https://arxiv.org/abs/2606.28815",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-30T04:00:00+00:00",
+    "summary": "arXiv:2606.28815v1 Announce Type: new Abstract: Mathswitch is an open-source project that imports mathematical concept records from sources such as Wikidata, Wikipedia, MathWorld, Encyclopedia of Mathematics, nLab, ProofWiki, and Agda-Unimath, and links records that refer to the same concept. It does not reorganize or redefine the imported content; each source retains its own structure. The current focus is on importing concept data from Wikidata and the resources it links to, with plans to expa…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "43d184e358a6",
+    "title": "Attribution Bias in Philosophical Knowledge Graphs: Corpus Frequency versus Temporal Sourcing",
+    "url": "https://arxiv.org/abs/2606.29070",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-30T04:00:00+00:00",
+    "summary": "arXiv:2606.29070v1 Announce Type: new Abstract: Computational knowledge graphs assign philosophical concepts to traditions based on corpus frequency: the school that mentions a concept most becomes its attributed tradition. We argue this conflates three measurements: textual power, historical priority, and philosophical significance, demonstrated using the darshana-graph, a knowledge graph of 28,322 relationships across Hindu, Buddhist, and Jain traditions. Seven of the top 25 concepts by betwee…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "beaa088f36d3",
+    "title": "Should children follow their parents' research paths? Intergenerational research continuity and divergence in academic families",
+    "url": "https://arxiv.org/abs/2606.29488",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-30T04:00:00+00:00",
+    "summary": "arXiv:2606.29488v1 Announce Type: new Abstract: How academic advantages are transmitted within families is usually studied as occupational inheritance, but it is not clear whether scholarly research orientations persist across generations and if it is an advantage when it does. To address this, we link Wikidata kinship records with OpenAlex bibliometric profiles to study 3,229 documented parent-child scholar pairs and 488,659 publications. Field-level research similarity was evident but not univ…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5988271cdcc5",
+    "title": "Em-ergence of the em-dash: a population-level rise in em-dash frequency in medRxiv preprints at the dawn of the large-language-model era",
+    "url": "https://arxiv.org/abs/2606.29540",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-30T04:00:00+00:00",
+    "summary": "arXiv:2606.29540v1 Announce Type: new Abstract: Large language models (LLMs) can leave subtle stylistic traces in assisted text; one of the most cited is the em-dash (Unicode U+2014). Yet no one has measured whether em-dash use has changed in the scientific literature. This study, pre-registered on the Open Science Framework (HFT8C), used the full set of medRxiv full-text XML preprints from the official Text-and-Data-Mining resource. The primary cohort was first, original versions deposited 2020…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "6fe76d4c9cc0",
+    "title": "Unveiling Novelty Evolution in the field of Library and Information Science in China",
+    "url": "https://arxiv.org/abs/2606.29872",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-30T04:00:00+00:00",
+    "summary": "arXiv:2606.29872v1 Announce Type: new Abstract: This study analyzes the novelty distribution of scholarly papers in the field of Library and Information Science (LIS) in China, with a focus on differences across journals, research topics, and time periods. Articles published in Chinese LIS journals indexed by the Chinese Social Sciences Citation Index (CSSCI) from 2000 to 2022 were collected as the research sample. BERTopic was applied to paper abstracts to identify research topics, and novelty …",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "431dc41a263f",
+    "title": "Specialisation and experience of research teams: Which matters more for the impact of their publications?",
+    "url": "https://arxiv.org/abs/2606.30060",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-30T04:00:00+00:00",
+    "summary": "arXiv:2606.30060v1 Announce Type: new Abstract: Scientists' topic choices strongly influence both individual careers and the advancement of the scientific frontier. While a sizeable body of literature shows that specialisation in a few topics benefits individual careers and fosters impactful research, the role of research teams and their experience have been largely overlooked. This paper introduces experience as a concept distinct from specialisation and shifts the level of analysis from the in…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d679ed18c96e",
+    "title": "Submission Responsibility Matters: Role-Aware Submission Quotas under Coauthorship",
+    "url": "https://arxiv.org/abs/2606.30285",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-30T04:00:00+00:00",
+    "summary": "arXiv:2606.30285v1 Announce Type: new Abstract: Author-level submission quotas are increasingly used to control growing peer-review load. Recent coauthorship-sensitive quota rules improve over fixed per-author limits by reducing the quota cost of multi-author submissions, often using harmonic authorship-credit models to prevent simple author-list padding. However, these rules conflate three distinct quantities: review burden, authorship credit, and submission responsibility. As a result, they ca…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "fd7e7c5cfdd4",
+    "title": "Research Entity Extraction and Topic Detection from UKRI Grant Proposals",
+    "url": "https://arxiv.org/abs/2606.30304",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-30T04:00:00+00:00",
+    "summary": "arXiv:2606.30304v1 Announce Type: new Abstract: This paper presents preliminary findings from a UKRI-funded Metascience project comparing three LLM-based approaches, GPT-4o, Mistral, and a bespoke algorithm, DSIT-Taxonomies, for extracting and classifying research entities from funding proposals. Our project \"Tracking Stars and Unicorns\" aims to identify early signals of emerging research areas to inform public investment. Our methodology employed a three-stage pipeline, leveraging Mistral for p…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "0c222dcbba2a",
+    "title": "When Editors Revolt: Characterizing Journal Declarations of Independence",
+    "url": "https://arxiv.org/abs/2606.30394",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-30T04:00:00+00:00",
+    "summary": "arXiv:2606.30394v1 Announce Type: new Abstract: When editorial boards resign from their journals and publishers and declare their independence, two competing journals can result: the original journal under a new editorial board (a \"zombie\" journal), and a new journal established by the departing editors (a \"breakaway\"). The bibliometric community saw such an event when the board of Journal of Informetrics left Elsevier to found Quantitative Science Studies. We analyzed 39 breakaway-zombie journa…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d528f6b1f92b",
+    "title": "Customized Generative AI Agent for Transportation Engineering Practice: A Development and Continued Pre-training Guideline",
+    "url": "https://arxiv.org/abs/2606.29014",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-30T04:00:00+00:00",
+    "summary": "arXiv:2606.29014v1 Announce Type: cross Abstract: Recent advancements in generative artificial intelligence (AI) and large language models (LLMs) have shown significant promise in automating complex reasoning, summarization, and question-answering tasks. However, the effectiveness of general-purpose LLMs in specialized engineering domains remains limited due to insufficient exposure to technical standards, engineering terminology, and domain-specific semantics. This study proposes a systematic a…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "458413a9d417",
+    "title": "Revealing the Technology Development of Natural Language Processing: A Scientific Entity-Centric Perspective",
+    "url": "https://arxiv.org/abs/2606.29836",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-30T04:00:00+00:00",
+    "summary": "arXiv:2606.29836v1 Announce Type: cross Abstract: Most studies on technology development have been conducted from a thematic perspective, but the topics are coarse-grained and insufficient to accurately represent technology. The development of automatic entity recognition techniques makes it possible to extract technology-related entities on a large scale. Thus, we perform a more accurate analysis of technology development from an entity-centric perspective. To begin with, we extract technology-…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a59a5cc717e3",
+    "title": "Exploring Motivations for Algorithm Mention in the Domain of Natural Language Processing: A Deep Learning Approach",
+    "url": "https://arxiv.org/abs/2606.29859",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-06-30T04:00:00+00:00",
+    "summary": "arXiv:2606.29859v1 Announce Type: cross Abstract: With the rise of data-intensive science, algorithms have become central to scientific research. In academic papers, algorithms are mentioned for different purposes, such as describing, using, comparing, or improving methods for specific research tasks. Identifying these purposes can reveal relationships among algorithms and help assess their roles and value. Taking natural language processing (NLP) as an example, this study proposes a sentence-le…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "dfb2b6ee05c3",
+    "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
+    "url": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
+    "source": "Wired AI",
+    "date": "2026-06-29T21:49:26+00:00",
+    "summary": "Hundreds of contractors working on a project for Meta pretended to be kids in order to see how other chatbots like Gemini and ChatGPT would respond to high-risk subjects, WIRED found.",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "457b06c6dfee",
+    "title": "AI agents are not your “coworkers”",
+    "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+    "source": "MIT Tech Review",
+    "date": "2026-06-29T18:00:00+00:00",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex, an&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d00f84824557",
+    "title": "Agent confidence on the technical frontier",
+    "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+    "source": "MIT Tech Review",
+    "date": "2026-06-29T14:44:01+00:00",
+    "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial outcomes their businesses seek. A prime opportunity for AI agents&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "50638ca7e8c1",
     "title": "This Humanoid Robot Is a Terrifyingly Competent Office Intern",
     "url": "https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/",
