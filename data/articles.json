@@ -1,5 +1,293 @@
 [
   {
+    "id": "173ad5afb29e",
+    "title": "Modality Relevance is not Modality Utility: Post-hoc Selective Modality Escalation for Cost-Aware Multimodal RAG",
+    "url": "https://arxiv.org/abs/2607.05438",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-08T04:00:00+00:00",
+    "summary": "arXiv:2607.05438v1 Announce Type: new Abstract: Multimodal retrieval-augmented generation (RAG) grounds a generator in evidence drawn from heterogeneous modalities -- text, tables, and images. The dominant deployment choice is binary and made before the model has tried to answer: either run a cheap text(+table) pipeline, or pay for an expensive vision-language model (VLM) over every image. Recent adaptive systems improve on this by selecting the modality or fidelity pre-retrieval, from a questio…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "01facabbb1de",
+    "title": "PORTS: Preference-Optimized Retrievers for Tool Selection with Large Language Models",
+    "url": "https://arxiv.org/abs/2607.05441",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-08T04:00:00+00:00",
+    "summary": "arXiv:2607.05441v1 Announce Type: new Abstract: Integrating external tools with Large Language Models (LLMs) has emerged as a promising paradigm for accomplishing complex tasks. Since LLMs still struggle to effectively manage large tool collections, researchers have begun exploring retrieval-based methods to pre-select the most relevant options, addressing input length and latency constraints. However, existing retrievers are often misaligned with tool-calling LLMs due to their separate training…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c21ffae34be6",
+    "title": "Scientific Code Search at Scale: A Multi-Domain Dataset and Benchmark",
+    "url": "https://arxiv.org/abs/2607.05443",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-08T04:00:00+00:00",
+    "summary": "arXiv:2607.05443v1 Announce Type: new Abstract: Scientists increasingly rely on open-source tools to support their research workflows, yet discovering relevant software among over 600 million GitHub repositories remains challenging. Existing code search benchmarks focus on general software engineering tasks and fail to capture the domain-specific vocabulary and needs of scientific computing. We present a curated corpus of 5,264 high-quality, domain-classified scientific repositories spanning fiv…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4e727a98512e",
+    "title": "Prompting Beats Fine-Tuning: Generative Expected Value Scoring for Statutory Term Retrieval",
+    "url": "https://arxiv.org/abs/2607.05582",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-08T04:00:00+00:00",
+    "summary": "arXiv:2607.05582v1 Announce Type: new Abstract: Legal concepts in statutes are often expressed using vague terms, and practitioners frequently turn to case law to interpret them. We study the task of ranking case-law sentences by their usefulness for explaining a concept or target statutory term, using an established dataset of 26,959 sentences covering 42 U.S. Code concepts labeled into four explanatory-value categories. We compare two families of methods: (i) supervised fine-tuning of encoder-…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d777888a8f09",
+    "title": "Retrieving a Set, Not Independent Passages: Set-Level Compatibility Learning for Efficient Set Exploration",
+    "url": "https://arxiv.org/abs/2607.05712",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-08T04:00:00+00:00",
+    "summary": "arXiv:2607.05712v1 Announce Type: new Abstract: Multi-hop question answering and retrieval-augmented reasoning require selecting evidence passages that are jointly useful for answering a query. However, most retrievers still score passages independently or make locally supervised sequential decisions, which can fail when evidence usefulness depends on compatibility among passages. LLM-based set selection can model such interactions, but its computational cost limits practical use. We address thi…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "6112c75d6ee6",
+    "title": "SCOReD: Student-Aware CoT Optimization for Recommendation Distillation",
+    "url": "https://arxiv.org/abs/2607.05734",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-08T04:00:00+00:00",
+    "summary": "arXiv:2607.05734v1 Announce Type: new Abstract: Chain-of-thought (CoT) distillation in the recommendation domain is a necessary precursor to RL training, but raw teacher traces are ill-suited to this task. Large teachers approach the recommendation task with unusually high reasoning uncertainty, repeatedly rechecking their answers without revising them; supervised fine-tuning on such traces produces verbose students that never revise their initial guess. Furthermore, due to the novelty of the re…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4c18cd013215",
+    "title": "Quantifying and Expanding the Theoretical Capacity of Late-Interaction Retrieval Models",
+    "url": "https://arxiv.org/abs/2607.05803",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-08T04:00:00+00:00",
+    "summary": "arXiv:2607.05803v1 Announce Type: new Abstract: Late-interaction retrieval models that use the MaxSim similarity function have shown strong empirical performance, often outperforming single-vector dense and sparse retrieval models. Despite these empirical findings, little is known about the theoretical representation power of MaxSim and how it compares to other retrieval approaches. This paper shows by construction that MaxSim similarity can exactly replicate the inner product between any two no…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a33c00e4b1fe",
+    "title": "CMDR: Contextual Multimodal Document Retrieval",
+    "url": "https://arxiv.org/abs/2607.05927",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-08T04:00:00+00:00",
+    "summary": "arXiv:2607.05927v1 Announce Type: new Abstract: Multimodal document retrieval aims to retrieve relevant pages while preserving both textual and visual content from the original document. However, existing benchmarks primarily evaluate simple lexical or semantic matching, and most methods encode pages independently. Consequently, they overlook the contextual information in the document required to resolve queries that aggregate information across multiple pages. In this paper, we introduce CMDR a…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ecbf53a01fb4",
+    "title": "Faithful or Findable? Evaluating LLM-Generated Metadata for RDF Dataset Search",
+    "url": "https://arxiv.org/abs/2607.05970",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-08T04:00:00+00:00",
+    "summary": "arXiv:2607.05970v1 Announce Type: new Abstract: Dataset search depends heavily on metadata, making LLM-generated metadata a consequential form of synthetic content in retrieval systems. We study six metadata-generation settings for RDF datasets, ranging from simple rewriting to profile-grounded and agentic graph-based generation, and evaluate them jointly for retrieval effectiveness and faithfulness. Unconstrained metadata rewriting delivers the strongest retrieval gains over the original metada…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a8dd96d187c0",
+    "title": "Uncertainty-Aware Cross-Modal Remote Sensing Image-Text Retrieval via Evidential Learning",
+    "url": "https://arxiv.org/abs/2607.06032",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-08T04:00:00+00:00",
+    "summary": "arXiv:2607.06032v1 Announce Type: new Abstract: In cross-modal remote sensing image-text retrieval (CMRSITR), test-time remote sensing (RS) images and textual descriptions may deviate from well-curated benchmark conditions due to sensor- and atmosphere-related image degradations and text-side RS-vocabulary heterogeneity. Under such non-ideal conditions, existing CMRSITR methods may produce unreliable retrieval results because they perform retrieval with full certainty for each query and do not d…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1fad15388f82",
+    "title": "Learn to Pool: Lightweight Fine-Tuning for Flexible Multi-Vector Compression",
+    "url": "https://arxiv.org/abs/2607.06036",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-08T04:00:00+00:00",
+    "summary": "arXiv:2607.06036v1 Announce Type: new Abstract: Late interaction models have shown strong generalization capabilities, often outperforming much larger dense embedding models. One challenge to their widespread deployment is the large number of token vectors they produce per document and the associated storage and memory costs. Pooling tokens at inference time has shown great promise to reduce the vector count with limited effects on retrieval accuracy. Large-scale pooling-aware training has demon…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "9aec2264c2db",
+    "title": "Linking Hadith Narrator Identities Across Heterogeneous Arabic Biographical Databases: A Multi-Signal Entity Resolution Pipeline",
+    "url": "https://arxiv.org/abs/2607.05424",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-08T04:00:00+00:00",
+    "summary": "arXiv:2607.05424v1 Announce Type: cross Abstract: The transmission chains (sanad) of Islamic Hadith literature encode relationships among tens of thousands of historical narrators whose biographical records are dispersed across independently maintained digital databases that share no common identifier. We present a two-phase entity resolution pipeline that links narrator names from the Sanadset 650K corpus - 650,986 Hadith records from 926 books containing 185,216 unique narrator name variants -…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b7531c0c1e29",
+    "title": "Narrative World Model: Narratology-Grounded Writer Memory for Long-Form Fiction",
+    "url": "https://arxiv.org/abs/2607.05577",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-08T04:00:00+00:00",
+    "summary": "arXiv:2607.05577v1 Announce Type: cross Abstract: Long-form fiction writers need memory that answers multi-hop questions about evolving story state: who knows a secret and when they learned it, whether an event preceded the narration that revealed it, whether a setup paid off, and how a relationship shifted. General-purpose retrieval and agent-memory systems represent entities and facts but not the narratological structure these questions turn on, so they surface the wrong evidence or none at al…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5bf1aa6f7b6b",
+    "title": "Inject or Navigate? Token-Efficient Retrieval for LLM Analysis of Transactional Legal Documents",
+    "url": "https://arxiv.org/abs/2607.05764",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-08T04:00:00+00:00",
+    "summary": "arXiv:2607.05764v1 Announce Type: cross Abstract: Answering questions over a set of transactional legal documents is most simply done by injecting the whole corpus into the LLM's context window on every query. That baseline maximises retrieval recall, but its token footprint scales with the corpus rather than the question, and long-context degradation scales with it. We report what it took to replace full-corpus injection in a legal-document analysis system, comparing it against two structured r…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c18428098162",
+    "title": "InfluMatch: Frontier-Quality KOL Search at 4B-Model Cost",
+    "url": "https://arxiv.org/abs/2607.05968",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-08T04:00:00+00:00",
+    "summary": "arXiv:2607.05968v1 Announce Type: cross Abstract: Matching influencers (KOLs) to free-form, multi-part Thai marketing criteria is today served either by keyword search over structured profiles, which misses semantic fit, or by prompting frontier LLMs over every candidate, which is accurate but slow and expensive. We present InfluMatch, a low-cost three-stage cascade -- retrieval $\\rightarrow$ rerank $\\rightarrow$ reason -- built entirely from small open-weight models: dense retrieval returns 50 …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "e9b4a97cd2be",
+    "title": "DynaKRAG: A Unified Framework for Learnable Evidence Control in Multi-Hop Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2607.06507",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-08T04:00:00+00:00",
+    "summary": "arXiv:2607.06507v1 Announce Type: cross Abstract: Multi-hop retrieval-augmented generation (RAG) acquires evidence sequentially, with each new document potentially revealing missing facts, bridge entities, query defects, or sufficient support for answering. Existing methods provide useful operations such as iterative retrieval, query reformulation, evidence critique, and sufficiency judging, but typically organize them within method-specific pipelines or predefined control topologies. This leave…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "9a8aa23397a1",
+    "title": "LLMs Meet Isolation Kernel: Lightweight, Learning-free Binary Embeddings for Fast Retrieval",
+    "url": "https://arxiv.org/abs/2601.09159",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-08T04:00:00+00:00",
+    "summary": "arXiv:2601.09159v4 Announce Type: replace Abstract: Large language models (LLMs) have recently enabled remarkable progress in text representation. However, their embeddings are typically high-dimensional, leading to substantial storage and retrieval overhead. Although recent approaches such as Matryoshka Representation Learning (MRL) and Contrastive Sparse Representation (CSR) alleviate these issues to some extent, they still suffer from retrieval accuracy degradation. This paper proposes Isolat…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "b0211ae5cfcd",
+    "title": "Probability-turbulence divergence: A tunable allotaxonometric instrument for comparing heavy-tailed categorical distributions",
+    "url": "https://arxiv.org/abs/2008.13078",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-08T04:00:00+00:00",
+    "summary": "arXiv:2008.13078v4 Announce Type: replace-cross Abstract: Real-world complex systems often comprise many distinct types of elements as well as many more types of networked interactions between elements. When the relative abundances of types can be measured well, we often observe heavy-tailed categorical distributions for type frequencies. For the comparison of type frequency distributions of two systems or a system with itself at different time points in time -- a facet of allotaxonometry -- a g…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4afde972e37a",
+    "title": "OrchANN: Hierarchical Orchestration for Skewed Out-of-Core Vector Search",
+    "url": "https://arxiv.org/abs/2512.22838",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-08T04:00:00+00:00",
+    "summary": "arXiv:2512.22838v2 Announce Type: replace-cross Abstract: At billion scale, approximate nearest neighbor search (ANNS) often becomes an out-of-core problem: the full vector collection and index structures exceed memory capacity, making query performance dominated by SSD accesses and DRAM-SSD data movement. Existing systems struggle to strike a balance between accuracy and efficiency: physical-overlap methods replicate vectors or index entries across partitions, enlarging the SSD-resident index a…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "96a9a53d62f8",
+    "title": "Curated retrieval versus open web search in public AI information services: a coverage-trust trade-off",
+    "url": "https://arxiv.org/abs/2607.05217",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-08T04:00:00+00:00",
+    "summary": "arXiv:2607.05217v2 Announce Type: replace-cross Abstract: Public institutions increasingly use large language models (LLMs) to answer citizens' questions, often pairing a curated knowledge base with live web search, yet whether the sources behind these answers can be trusted has received little empirical scrutiny. We report a pre-launch expert evaluation of Evr\\'opuvefur, an independent, government-funded service run by the University of Iceland that answers questions about the European Union, c…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a67484463185",
+    "title": "Catalyst Papers in Artificial Intelligence Research: A Landscape on ICLR from 2017 to 2025",
+    "url": "https://arxiv.org/abs/2607.05401",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-08T04:00:00+00:00",
+    "summary": "arXiv:2607.05401v1 Announce Type: new Abstract: A small number of methodological contributions, including word2vec, the Transformer, large-scale pre-training, and reinforcement learning from human feedback, have reshaped NLP and AI research over the past decade. OpenReview now makes numeric reviewer scores and accept/reject decisions public for every ICLR submission. Whether such review signals identify trajectory-changing papers at submission time, however, remains untested at corpus scale. We …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0570008a82c3",
+    "title": "When AI Classifies: What Counts as Public Administration?",
+    "url": "https://arxiv.org/abs/2607.05420",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-08T04:00:00+00:00",
+    "summary": "arXiv:2607.05420v1 Announce Type: new Abstract: This study examines how alternative systems of scholarly representation identify and characterize broad public administration (PA) and artificial intelligence related public administration (AI-in-PA) scholarship. Using Web of Science and OpenAlex, it compares five approaches based on author-defined, citation-driven, and AI-assisted representations. The results highlight substantial differences in corpus size, publication types, publishing outlets, …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "cfb2ada79204",
+    "title": "Women Enter Too, but Men Persist:The Temporal Structure of Gender Inequality in the Global Citation Elite",
+    "url": "https://arxiv.org/abs/2607.05427",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-08T04:00:00+00:00",
+    "summary": "arXiv:2607.05427v1 Announce Type: new Abstract: In this research, I analyze the gender dynamics of the global citation elite using annual top 2% Stanford/Elsevier lists for 2019-2024. My database includes 1.22 million person-year observations (N=1,221,363), which corresponds to 465,707 unique scientists and scholars from more than 150 countries. I move away from static representations of women in the citation elite toward analyses of entry, exit, and permanent membership in the durable core of t…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "3fa8a0e6c140",
+    "title": "CHARLIE: An On-Premise Multi-Agent Retrieval-Augmented Generation System for Evidential Reasoning in Forensic Science",
+    "url": "https://arxiv.org/abs/2607.05428",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-08T04:00:00+00:00",
+    "summary": "arXiv:2607.05428v1 Announce Type: new Abstract: We present Charlie, an on-premise multi-agent Retrieval-Augmented Generation (RAG) system for structured evidential processing in digital forensic environments. Contemporary forensic workflows must handle large volumes of heterogeneous and unstructured documents under strict requirements of traceability, confidentiality, and legal compliance. Charlie addresses this challenge through a controlled agent architecture that combines local retrieval, tas…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "27efb8337fd9",
+    "title": "Bibby AI: An Editor-Native Agentic Platform for Academic Research, Writing, and Publishing",
+    "url": "https://arxiv.org/abs/2607.05435",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-08T04:00:00+00:00",
+    "summary": "arXiv:2607.05435v1 Announce Type: new Abstract: Academic output is produced across a fragmented toolchain: literature discovery in one application, reference management in another, writing in a LaTeX editor, formatting against venue templates by hand, and submission through yet another portal. Each boundary between tools forces a context switch, a format conversion, or a manual copy-paste step, and the cumulative cost dominates the time researchers spend on activities that are not research. We p…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "20a20452883e",
+    "title": "Publishing Without Journals: An Open, Forkable Archive with Attributed Review",
+    "url": "https://arxiv.org/abs/2607.05454",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-08T04:00:00+00:00",
+    "summary": "arXiv:2607.05454v1 Announce Type: new Abstract: The journal is a seventeenth-century technology asked to do four modern jobs at once: disseminate results, certify their quality, allocate scholarly attention, and confer career credit. It does none of them well. Pre-publication peer review is slow, only weakly reliable, demonstrably biased toward established authors and institutions, and expensive, while the reviewing effort it consumes is spent largely on work that will never matter. We argue tha…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "e387b90eb273",
+    "title": "Whose fairness? Structural concentration in AI bias research",
+    "url": "https://arxiv.org/abs/2607.05574",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-08T04:00:00+00:00",
+    "summary": "arXiv:2607.05574v1 Announce Type: cross Abstract: Artificial intelligence increasingly mediates consequential decisions in healthcare, law, and public services, and the field has responded with an extensive methodology for measuring and mitigating bias. Yet the fairness definitions, benchmarks, and debiasing frameworks on which this methodology rests are treated as universal while being produced by a research community whose composition has never been characterized. We show that the AI bias rese…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "adfe18ed8c02",
+    "title": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out",
+    "url": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/",
+    "source": "Wired AI",
+    "date": "2026-07-07T21:59:29+00:00",
+    "summary": "As part of Meta’s Muse Image model rollout, Instagram users with public accounts need to opt out to block AI generations of their content.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "93cf38114867",
+    "title": "OpenAI’s Chief Futurist Is Leaving the Company",
+    "url": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
+    "source": "Wired AI",
+    "date": "2026-07-07T21:30:00+00:00",
+    "summary": "Joshua Achiam spent nearly nine years at OpenAI researching AI safety and made a memorable appearance in the Musk v. Altman trial.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b557df5f1c6c",
+    "title": "Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone",
+    "url": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/",
+    "source": "Wired AI",
+    "date": "2026-07-07T16:00:00+00:00",
+    "summary": "Claude Cowork now keeps working on tasks even after you close your laptop. It’s part of a larger push toward smartphone-controlled agents.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "7dbf653867da",
+    "title": "These New Smart Glasses From Solos Come With a Privacy Shield for the Cameras",
+    "url": "https://www.wired.com/story/these-new-smart-glasses-from-solos-come-with-a-privacy-shield-for-the-cameras/",
+    "source": "Wired AI",
+    "date": "2026-07-07T13:00:00+00:00",
+    "summary": "You can clip a cover over the cameras, which could be a double-edged sword.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0ff288a559a3",
+    "title": "The foundational elements of AI architecture that IT leaders need to scale",
+    "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+    "source": "MIT Tech Review",
+    "date": "2026-07-07T11:10:52+00:00",
+    "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the future. Returning to the foundational elements of AI architecture—the&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "2ec4de22e6a2",
     "title": "Erling Haaland Is Everywhere at the World Cup. Most of It Is AI",
     "url": "https://www.wired.com/story/erling-haaland-is-everywhere-at-the-world-cup-most-of-it-is-ai/",
@@ -570,6 +858,15 @@
     "id": "b413fb7e4a59",
     "title": "Teaching AI to run with the turbines",
     "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+    "source": "MIT Tech Review",
+    "date": "2026-07-02T12:51:44+00:00",
+    "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is becoming a core operating layer. With its sprawling industrial systems and constant stream of operational&#8230;",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "63b21bb79818",
+    "title": "Building the foundation for an autonomous enterprise",
+    "url": "https://www.technologyreview.com/2026/07/02/1138433/building-the-foundation-for-an-autonomous-enterprise/",
     "source": "MIT Tech Review",
     "date": "2026-07-02T12:51:44+00:00",
     "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is becoming a core operating layer. With its sprawling industrial systems and constant stream of operational&#8230;",
