@@ -1,5 +1,167 @@
 [
   {
+    "id": "64f5eb1c0c94",
+    "title": "When and How to Ask: Dynamic Preference Elicitation Strategies for Conversational Recommendation",
+    "url": "https://arxiv.org/abs/2607.06765",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-09T04:00:00+00:00",
+    "summary": "arXiv:2607.06765v1 Announce Type: new Abstract: Conversational Recommender Systems (CRSs) are interactive systems that use multi-turn natural language dialogue to understand evolving user preferences and provide personalized recommendations. To achieve this goal, CRSs rely on preference elicitation strategies to actively gather informative preference cues from users; however, the timing and selection of these strategies during a conversation remain largely unexplored. While many existing studies…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d969368da638",
+    "title": "Seeing and Reflecting: Multimodal Memory-Enhanced Agent Collaboration for Recommendation",
+    "url": "https://arxiv.org/abs/2607.07108",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-09T04:00:00+00:00",
+    "summary": "arXiv:2607.07108v1 Announce Type: new Abstract: Large language model (LLM)-based agentic recommender systems show promise in modeling user preferences through natural-language reasoning, yet they remain limited by text-centric inputs and coarse-grained memory updates, making agents prone to missing visual evidence, semantic noise, and preference drift. To address these limitations, we propose MMEACR, a Multimodal Memory-Enhanced Agent Collaboration framework for recommendation. MMEACR introduces…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "4ebde0b71fae",
+    "title": "Granularity in Actoin: Graphing sources for social history",
+    "url": "https://arxiv.org/abs/2607.07183",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-09T04:00:00+00:00",
+    "summary": "arXiv:2607.07183v1 Announce Type: new Abstract: This working paper describes a pipeline for turning historical sources into structured data organised around the principle of foregrounding action as the basic and constitutive unit of analysis. It is rooted in a desire for pipelines that suit a granular approach to social history. The pipeline rests on the principles developed in the GRAM-framework (Graph of Roles and Actions Model), but leverages a range of machine learning tools to allow for an …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "9c780ab040e6",
+    "title": "Interpretable Uncertainty for Adaptive Retrieval and Reasoning in Question Answering",
+    "url": "https://arxiv.org/abs/2607.07380",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-09T04:00:00+00:00",
+    "summary": "arXiv:2607.07380v1 Announce Type: new Abstract: Large language models (LLMs) achieve a strong performance in question answering (QA), but remain prone to hallucinations and suffer from limited transparency. Retrieval-augmented generation (RAG) can improve factuality, yet decisions about when and how to retrieve from external resources are typically based on opaque policies or computationally inefficient multi-step prompting procedures. We propose an uncertainty-aware framework for adaptive QA ba…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "2cdd7cf4c16a",
+    "title": "InductWave: Inductive Multi-Hop Logical Query Answering on Knowledge Graphs",
+    "url": "https://arxiv.org/abs/2607.07422",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-09T04:00:00+00:00",
+    "summary": "arXiv:2607.07422v1 Announce Type: cross Abstract: Logical Multi-Hop Query Answering over Knowledge Graphs (KGs) can be formulated as querying, with an implicit completeness assumption. Current works mainly focus on Existential First Order Logic (EFO) queries. These EFO queries contain conjunction, disjunction, and negation operators. Most existing works employ transductive reasoning, meaning they are not capable of reasoning over entities unseen during training. In the real world, there is a res…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "7023cf56d5a7",
+    "title": "Human-in-the-Loop Nugget Annotation for Accountable LLM-as-a-Judge Evaluations",
+    "url": "https://arxiv.org/abs/2606.29033",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-09T04:00:00+00:00",
+    "summary": "arXiv:2606.29033v2 Announce Type: replace Abstract: Evaluating AI/Agentic system outputs reliably requires human judgment, but how one incorporates the human determines whether one gets a real quality signal or expensive theater. The common approaches either accidentally anchor human experts (leading to rubber-stamping) or leave them unsupported in cognitively demanding labeling tasks. We present a prototype of an annotation tool that implements a different division of labor: humans identify wha…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c5f7e5d9be03",
+    "title": "Refine Thought: A Test-Time Inference Method for Embedding Model Reasoning",
+    "url": "https://arxiv.org/abs/2511.13726",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-09T04:00:00+00:00",
+    "summary": "arXiv:2511.13726v2 Announce Type: replace-cross Abstract: We propose RT (Refine Thought), a method that can enhance the semantic reasoning ability of text embedding models. The method obtains the final semantic representation by running multiple forward passes of the text embedding model. Experiments show that RT achieves significant improvements on semantic reasoning tasks in BRIGHT and the person-job matching benchmark PJBenchmark, while maintaining consistent performance on general-purpose se…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "7a0f2466a8a4",
+    "title": "Event-Centric World Modeling with Memory-Augmented Retrieval for Embodied Decision-Making",
+    "url": "https://arxiv.org/abs/2604.07392",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-09T04:00:00+00:00",
+    "summary": "arXiv:2604.07392v3 Announce Type: replace-cross Abstract: Autonomous agents operating in dynamic environments increasingly demand decision-making systems that are both efficient and interpretable. Hence we propose the Event-Retrieve-Action (ERA) framework, an alternative formulation for embodied decision-making that bridges the gap between black-box imitation and interpretable memory retrieval while enabling online refinement without retraining. The environment is represented as structured seman…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "174fbf552a6d",
+    "title": "MTEB-BR: A Text Embedding Benchmark for Brazilian Portuguese",
+    "url": "https://arxiv.org/abs/2607.04581",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-09T04:00:00+00:00",
+    "summary": "arXiv:2607.04581v2 Announce Type: replace-cross Abstract: Text embeddings for Portuguese have no dedicated benchmark: evaluation rests on translated corpora such as English MS MARCO or on thin multilingual coverage, with native tasks scattered and unconsolidated. We introduce MTEB-BR, a benchmark of 22 native Brazilian-Portuguese tasks across seven categories (classification, multilabel classification, pair classification, semantic textual similarity, clustering, retrieval, and reranking), admit…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "85657a312007",
+    "title": "Exploring Serendipity in Information Seeking for Digital Collections: A Mixed-Methods Survey Study toward Human-Centered Design",
+    "url": "https://arxiv.org/abs/2607.06937",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-09T04:00:00+00:00",
+    "summary": "arXiv:2607.06937v1 Announce Type: new Abstract: In this paper, we explore user experience and perception of serendipity in information seeking for digital collections through a human-centered design lens. Beginning with an exploratory scoping literature review, we collated the theoretical foundations of serendipity, serendipity in information seeking, search user interfaces, and digital collections. By positioning researchers interacting with digital collections as our primary stakeholders, we u…",
+    "category": "Information Behavior"
+  },
+  {
+    "id": "3f96a4044233",
+    "title": "HDRL Staff Strategy Meeting Report",
+    "url": "https://arxiv.org/abs/2607.06650",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-09T04:00:00+00:00",
+    "summary": "arXiv:2607.06650v1 Announce Type: cross Abstract: HDRL held its first HDRL wide strategy meeting in January 2026, pulling in a majority of HDRL member staff and selected HDRL grantees. Just over 40 people attended with a few more online to listen to over 30 lightning talks presented by their colleagues and leaders, participate in several breakout and group discussions, and cast 324 votes on over 50 strategic topic ideas contributed by the attendees. The many ideas generated by attendees can be g…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "7b3673495c78",
+    "title": "A Word-Level Digital Reader of the Prasthanatrayi with Sankara's Bhasya: Corpus, Method, and an Open, Offline Reading Aid for the Advaita Vedanta Canon",
+    "url": "https://arxiv.org/abs/2607.07282",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-09T04:00:00+00:00",
+    "summary": "arXiv:2607.07282v1 Announce Type: cross Abstract: The Prasthanatrayi -- the ten principal Upanisads, the Brahmasutra, and the Bhagavadgita, with Sankara's commentaries (bhasya) -- is the foundational corpus of Advaita Vedanta. Continuous euphonic combination (sandhi), long compounds (samasa), and dense scholastic prose make it hard to read at the word level: where one word ends, and what each word means grammatically, are both obscured. We present an open, fully offline, word-level digital reade…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a836b5868d17",
+    "title": "Research on Domain Information Mining and Theme Evolution of Scientific Papers",
+    "url": "https://arxiv.org/abs/2204.08476",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-09T04:00:00+00:00",
+    "summary": "arXiv:2204.08476v2 Announce Type: replace Abstract: In recent years, with the increase of social investment in scientific research, the number of research results in various fields has increased significantly. Cross-disciplinary research results have gradually become an emerging frontier research direction. There is a certain dependence between a large number of research results. It is difficult to effectively analyze today's scientific research results when looking at a single research field in…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d743080d15c0",
+    "title": "Causal evidence of racial and institutional biases in accessing paywalled articles and scientific data",
+    "url": "https://arxiv.org/abs/2509.08299",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-09T04:00:00+00:00",
+    "summary": "arXiv:2509.08299v2 Announce Type: replace Abstract: Scientific progress depends on researchers' ability to access and build upon the work of others. Yet, much published work remains behind expensive paywalls, and even accessible articles often rest on datasets shared only \"upon reasonable request\" to the authors. Researchers can try to overcome these barriers through informal channels, such as emailing authors directly, but whether such channels are hindered by racial or institutional biases rem…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "97dfb1924cac",
+    "title": "Messi and Ronaldo Are Building Tech Portfolios. Mo Salah Is Playing a Different Game",
+    "url": "https://www.wired.com/story/messi-ronaldo-tech-portfolios-salah-playing-a-different-game/",
+    "source": "Wired AI",
+    "date": "2026-07-08T21:08:26+00:00",
+    "summary": "Lionel Messi and Cristiano Ronaldo are betting on AI, health tech, and startups. Mohamed Salah is taking a more traditional route beyond football.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0d551b01101b",
+    "title": "I Built a Self-Improving AI, and So Can You",
+    "url": "https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai/",
+    "source": "Wired AI",
+    "date": "2026-07-08T20:09:21+00:00",
+    "summary": "Experiments in using AI to build AI show that the future doesn’t just belong to the frontier labs.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d47cb63cda00",
+    "title": "Pickup Artist Mystery Has an AI Girlfriend",
+    "url": "https://www.wired.com/story/pickup-artist-mystery-has-an-ai-girlfriend/",
+    "source": "Wired AI",
+    "date": "2026-07-08T11:00:00+00:00",
+    "summary": "A new book claims that Mystery, who teaches awkward men how to hit on women, had sex and smoked weed with an AI chatbot named Miss Shira Always.",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "f3ea001343b2",
+    "title": "This Former DeepMind Exec Thinks the AI Arms Race Could End in Disaster",
+    "url": "https://www.wired.com/story/verity-harding-ai-arms-race-dangers-anthology/",
+    "source": "Wired AI",
+    "date": "2026-07-08T09:30:00+00:00",
+    "summary": "Verity Harding tells WIRED that the US government’s nationalistic attitude toward AI is evidence that a worst-case scenario is taking shape.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "173ad5afb29e",
     "title": "Modality Relevance is not Modality Utility: Post-hoc Selective Modality Escalation for Cost-Aware Multimodal RAG",
     "url": "https://arxiv.org/abs/2607.05438",
