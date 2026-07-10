@@ -1,5 +1,257 @@
 [
   {
+    "id": "84596821fdd3",
+    "title": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
+    "url": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
+    "source": "Wired AI",
+    "date": "2026-07-10T06:00:00+00:00",
+    "summary": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an increasingly urgent question: Can global governance catch up before the technology races beyond its control?",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5c1bcebd1135",
+    "title": "BACH: A Bayesian Admixture of Contrastive Heads for Multi-Interest Two-Tower Retrieval",
+    "url": "https://arxiv.org/abs/2607.08107",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-10T04:00:00+00:00",
+    "summary": "arXiv:2607.08107v1 Announce Type: new Abstract: Two-tower retrievers compress each user into a single embedding, limiting their ability to serve diverse interests. Multi-interest models give each user several heads scored by a maximum inner product, but their hard-routing training under-utilizes heads (routing collapse) and gives no per-user estimate of how much each interest matters for serving. We present \\textbf{BACH} (\\emph{Bayesian Admixture of Contrastive Heads}), which casts multi-interes…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "a5408aca7e58",
+    "title": "DaV-Gen: End-to-End Generative Retrieval via Draft-and-Verify",
+    "url": "https://arxiv.org/abs/2607.08365",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-10T04:00:00+00:00",
+    "summary": "arXiv:2607.08365v1 Announce Type: new Abstract: Mainstream industrial information retrieval systems (e.g., search and recommendation) are usually built upon Multi-Stage Cascade Architectures (MCAs), which balance effectiveness and efficiency through a coarse-to-fine ``retrieval-ranking'' pipeline. However, the optimization objectives across different stages are substantially inconsistent, propagating or even amplifying the early-stage errors that ultimately degrade the quality of final results. …",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "fade524e3457",
+    "title": "H3D: Benchmarking Unsupervised Text Hashing for Fine-Grained Document Deduplication",
+    "url": "https://arxiv.org/abs/2607.08382",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-10T04:00:00+00:00",
+    "summary": "arXiv:2607.08382v1 Announce Type: new Abstract: Document hashing provides compact representations for efficient similarity search and document deduplication, but existing studies rarely compare hashing pipelines under a unified protocol for fine-grained scientific documents. H3D is an unsupervised text hashing benchmark for fine-grained document deduplication. It evaluates representative unsupervised non-learning hashing approaches (MinHash, SimHash, Winnowing, FuzzyHash, FlyHash) together with …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "9e6cf6d7bc0c",
+    "title": "Conversational Retrieval and On-the-Fly Knowledge Modeling of Historical Penitentiary Repression Records",
+    "url": "https://arxiv.org/abs/2607.08459",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-10T04:00:00+00:00",
+    "summary": "arXiv:2607.08459v1 Announce Type: new Abstract: Recent developments in digital libraries increasingly favor conversational and natural language access to information through Retrieval-Augmented Generation (RAG). Although these approaches are effective for extractive tasks grounded in individual records, they remain limited in their ability to interpret document collections holistically and to incorporate expert knowledge dynamically. In this article, we present a document analysis system designe…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "4a191327bb82",
+    "title": "Log-Insight: Automating Microservice Incident Diagnosis via Neuro-Symbolic Log Analysis",
+    "url": "https://arxiv.org/abs/2607.08529",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-10T04:00:00+00:00",
+    "summary": "arXiv:2607.08529v1 Announce Type: new Abstract: Diagnosing production incidents in large-scale microservice systems is time-critical for Site Reliability Engineers (SREs). A single 30-minute incident window in our deployment can generate over two million log lines--approximately 1.2 billion characters, far exceeding standard LLM context windows--making direct LLM-based Root Cause Analysis (RCA) infeasible. Existing approaches leave gaps: template-based parsers lack semantic anomaly reasoning, de…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "72353db54695",
+    "title": "Improving Ad-hoc Search Effectiveness for Conversational Information Retrieval via Model Merging",
+    "url": "https://arxiv.org/abs/2607.08540",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-10T04:00:00+00:00",
+    "summary": "arXiv:2607.08540v1 Announce Type: new Abstract: Conversational information retrieval is challenging since it requires the consideration of the conversation history which potentially gives rise to topic shifts and coreference resolution across previous turns. To address these challenges, previous work mainly rely on traditional fine-tuning of ad-hoc retrievers on conversational datasets or extrapolates their generalizability through multi-tasking. However, this mainstream approach is costly - sin…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "40268e02ca56",
+    "title": "Who Broke the System? Failure Localization in LLM-Based Multi-Agent Systems",
+    "url": "https://arxiv.org/abs/2607.07989",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-10T04:00:00+00:00",
+    "summary": "arXiv:2607.07989v1 Announce Type: cross Abstract: Large language model (LLM) based multi-agent systems enable complex problem solving through coordinated reasoning and action, but their distributed structure also introduces new challenges in diagnosing system-level failures. When an execution fails, identifying which agent is responsible and at what point the trajectory first becomes irreversibly misdirected is difficult due to long-horizon interactions and tightly coupled agent behaviors. In th…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "00f98a9ebee3",
+    "title": "Beware What You Autocomplete: Forensic Attribution of Backdoored Code Completions",
+    "url": "https://arxiv.org/abs/2607.08011",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-10T04:00:00+00:00",
+    "summary": "arXiv:2607.08011v1 Announce Type: cross Abstract: Large language models have enabled powerful code completion systems that assist developers by predicting subsequent lines of code. However, these models remain vulnerable to backdoor attacks, where malicious fine-tuning data covertly implants unsafe behaviors. Despite advances in defensive techniques, adaptive and sophisticated backdoor attacks still evade detection and mitigation. We present CodeTracer, a forensic framework that traces malicious…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "fdb20bb076d8",
+    "title": "ICDAR 2026 HIPE-OCRepair Competition on LLM-Assisted OCR Post-Correction for Historical Documents",
+    "url": "https://arxiv.org/abs/2607.08143",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-10T04:00:00+00:00",
+    "summary": "arXiv:2607.08143v1 Announce Type: cross Abstract: We present the results of HIPE-OCRepair-2026, an ICDAR competition on LLM-assisted OCR post-correction of historical documents. OCR post-correction remains a long-standing challenge in digital heritage: large-scale collections of digitized documents are affected by legacy OCR errors, while re-digitization at scale remains impractical. Large language models (LLMs) offers a major opportunity to revisit this challenge, yet their effectiveness across…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c800f3e04ab0",
+    "title": "ProjAgent: Procedural Similarity Retrieval for Repository-Level Code Generation",
+    "url": "https://arxiv.org/abs/2607.08691",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-10T04:00:00+00:00",
+    "summary": "arXiv:2607.08691v1 Announce Type: cross Abstract: Repository-level code generation requires implementing target functions while accounting for complex cross-file dependencies and project-specific conventions. Existing retrieval methods predominantly rely on lexical, structural, or semantic similarity, often overlooking repository functions that implement similar procedural logic despite differing in identifiers or application domains. We propose ProjAgent, a repository-level code generation syst…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a1f67ceb4b20",
+    "title": "Retrieval of Scientific and Technological Resources for Experts and Scholars",
+    "url": "https://arxiv.org/abs/2204.06142",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-10T04:00:00+00:00",
+    "summary": "arXiv:2204.06142v2 Announce Type: replace Abstract: Institutions of higher learning, research institutes and other scientific research units have abundant scientific and technological resources of experts and scholars, and these talents with great scientific and technological innovation ability are an important force to promote industrial upgrading. The scientific and technological resources of experts and scholars are mainly composed of basic attributes and scientific research achievements. The…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "438f92da92ae",
+    "title": "Self-EvolveRec: Self-Evolving Recommender Systems with LLM-based Directional Feedback",
+    "url": "https://arxiv.org/abs/2602.12612",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-10T04:00:00+00:00",
+    "summary": "arXiv:2602.12612v2 Announce Type: replace Abstract: Traditional methods for automating recommender system design, such as Neural Architecture Search (NAS), are often constrained by a fixed search space defined by human priors, limiting innovation to pre-defined operators. While recent LLM-driven code evolution frameworks shift fixed search space target to open-ended program spaces, they primarily rely on scalar metrics (e.g., NDCG, Hit Ratio) that fail to provide qualitative insights into model …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "57bf8f9f9efd",
+    "title": "GateSID: Adaptive Gating for Balancing Semantic and Collaborative Signals in Recommendation",
+    "url": "https://arxiv.org/abs/2603.22916",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-10T04:00:00+00:00",
+    "summary": "arXiv:2603.22916v2 Announce Type: replace Abstract: In cold-start scenarios, the scarcity of collaborative signals for new items exacerbates the Matthew effect, undermining platform diversity and posing a persistent challenge in practice. Existing methods augment cold-start items' collaborative signals with semantic information, yet face a collaborative-semantic trade-off: collaborative signals work well for popular items but degrade on cold-start ones, while excessive reliance on semantics igno…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "763f2d1f9659",
+    "title": "Diffusion-GR2: Diffusion Generative Reasoning Re-ranker",
+    "url": "https://arxiv.org/abs/2607.01170",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-10T04:00:00+00:00",
+    "summary": "arXiv:2607.01170v3 Announce Type: replace Abstract: Generative reasoning re-rankers achieve strong recommendation accuracy by emitting a chain-of-thought before re-ordering a candidate list, but they are slow at inference: an autoregressive (AR) decoder spends one sequential forward pass per reasoning token, and the reasoning trace far exceeds the ranking it produces. To reduce this cost, block-diffusion language models decode many positions in parallel over a few denoising steps and are substan…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "7ee396c2a59d",
+    "title": "Efficient Partitioning Method of Large-Scale Public Safety Spatio-Temporal Data based on Information Loss Constraints",
+    "url": "https://arxiv.org/abs/2306.12857",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-10T04:00:00+00:00",
+    "summary": "arXiv:2306.12857v3 Announce Type: replace-cross Abstract: The storage, management, and application of massive spatio-temporal data are widely used in practical scenarios, including public safety. However, due to the unique spatio-temporal distribution characteristics of real-world data, existing methods still face limitations in preserving spatio-temporal proximity and achieving load balancing in distributed storage. This paper proposes an efficient partitioning method for large-scale public saf…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "bd6bafc58970",
+    "title": "Truncated Step-Level Sampling with Process Rewards for Retrieval-Augmented Reasoning",
+    "url": "https://arxiv.org/abs/2602.23440",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-10T04:00:00+00:00",
+    "summary": "arXiv:2602.23440v4 Announce Type: replace-cross Abstract: Reinforcement learning has emerged as an effective paradigm for training large language models to interleave reasoning with search engine calls. However, existing approaches face a fundamental credit assignment problem: methods like Search-R1 assign a single outcome reward to the entire multi-step trajectory, providing no signal about which reasoning or retrieval decisions were responsible for success or failure. Process-reward methods su…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "9cc86166f01d",
+    "title": "Retrieval-Augmented Generation Must Move Beyond Factual Grounding to Represent Diverse Opinions",
+    "url": "https://arxiv.org/abs/2604.12138",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-10T04:00:00+00:00",
+    "summary": "arXiv:2604.12138v3 Announce Type: replace-cross Abstract: This position paper argues that Retrieval-Augmented Generation (RAG) systems exhibit a factual bias-optimizing for epistemic uncertainty reduction while ignoring the aleatoric uncertainty inherent in opinion-rich content. This misalignment demands a paradigm shift in RAG system design. A survey of 34 major RAG benchmarks reveals that only one addresses opinion synthesis, confirming that the bias is structural and embedded in datasets, ret…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "d2b6eed678db",
+    "title": "A 'normal' research trap limits scientific breakthroughs and disruptive innovation in the European Union",
+    "url": "https://arxiv.org/abs/2607.08328",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-10T04:00:00+00:00",
+    "summary": "arXiv:2607.08328v1 Announce Type: new Abstract: Europe is experiencing prolonged slow growth, resulting in part from a shortage of disruptive innovations that has locked its industry into a middle technology trap. Although greater investment and deeper integration among EU member states are widely proposed as solutions, this study argues that these measures alone will be insufficient if breakthrough research is not improved. In research systems, breakthrough discoveries depend on both size and e…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "71dd2524f960",
+    "title": "Accurate Portraits of Scientific Resources and Knowledge Service Components",
+    "url": "https://arxiv.org/abs/2204.04883",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-10T04:00:00+00:00",
+    "summary": "arXiv:2204.04883v2 Announce Type: replace Abstract: With the advent of the cloud computing era, the cost of creating, capturing, and managing information has gradually decreased. The amount of data on the Internet is showing explosive growth, and more scientific and technological resources are being uploaded to the network. Different from news and social media data, scientific and technological resources are mainly composed of academic-style resources or entities, such as papers, patents, author…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "6b0da1cf1a5d",
+    "title": "Knowledge Graph and Accurate Portrait Construction of Scientific and Technological Academic Conferences",
+    "url": "https://arxiv.org/abs/2204.04888",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-10T04:00:00+00:00",
+    "summary": "arXiv:2204.04888v2 Announce Type: replace Abstract: In recent years, with the continuous progress of science and technology, the number of scientific research achievements has increased rapidly. As an exchange platform and medium for scientific research achievements, scientific and technological academic conferences have become increasingly abundant. The convening of academic conferences brings large numbers of papers, researchers, institutions, projects, and research topics, but massive confere…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "e10b3f5e94a9",
+    "title": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
+    "url": "https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/",
+    "source": "Wired AI",
+    "date": "2026-07-09T23:13:18+00:00",
+    "summary": "The move comes after Simo took significant medical leave. She will stay on as a part-time adviser.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ffdf99aeb53c",
+    "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+    "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+    "source": "MIT Tech Review",
+    "date": "2026-07-09T20:22:28+00:00",
+    "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or&#8230;",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "261dc486642a",
+    "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
+    "url": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
+    "source": "Wired AI",
+    "date": "2026-07-09T18:30:00+00:00",
+    "summary": "Claude subscribers must soon pay usage-based fees to access Anthropic’s best consumer AI model—a sign that the golden era of AI subscriptions is ending.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a240430712d2",
+    "title": "The 1X Neo Robot Has Freaky Fast Fingers",
+    "url": "https://www.wired.com/story/the-1x-neo-robot-has-freaky-fast-fingers/",
+    "source": "Wired AI",
+    "date": "2026-07-09T16:01:22+00:00",
+    "summary": "The soft, oddly intimate home-chore robot has been given some very tactile hands.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4fd0d5805d58",
+    "title": "Who’s in the room: The hidden costs of global library leadership conversations",
+    "url": "https://hangingtogether.org/whos-in-the-room-the-hidden-costs-of-global-library-leadership-conversations/",
+    "source": "OCLC Research",
+    "date": "2026-07-09T15:23:21+00:00",
+    "summary": "There are costs involved in participating in global leadership conversations. But they are not always shared equally by everyone in the room. The post Who’s in the room: The hidden costs of global library leadership conversations appeared first on Hanging Together.",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "74ba1c4e72d7",
+    "title": "FPF Hosts Frontiers Workshop on Privacy, AI, and Emerging Infrastructure",
+    "url": "https://fpf.org/blog/fpf-hosts-frontiers-workshop-on-privacy-ai-and-emerging-infrastructure/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-07-09T13:46:00+00:00",
+    "summary": "On June 10, 2026, the FPF Center for Artificial Intelligence convened a Frontiers Workshop in Washington, DC. Held as part of FPF’s National Science Foundation (NSF) and the Department of Energy (DoE)-funded Privacy-Enhancing Technologies (PETs) Research Coordination Network, the workshop brought together privacy and frontier AI practitioners to examine challenges at the intersection of data [&#8230;]",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d9d74c8b4e5c",
+    "title": "The $28 Million Mistake That Inspired Estonia’s AI ‘Fuckup Finder’",
+    "url": "https://www.wired.com/story/the-28-million-dollar-mistake-that-inspired-estonias-ai-fuckup-finder/",
+    "source": "Wired AI",
+    "date": "2026-07-09T10:01:30+00:00",
+    "summary": "A single wording mistake cost the government millions. Now Estonia is using AI to spot legal errors before they become law—and to automate more of the state.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "64f5eb1c0c94",
     "title": "When and How to Ask: Dynamic Preference Elicitation Strategies for Conversational Recommendation",
     "url": "https://arxiv.org/abs/2607.06765",
