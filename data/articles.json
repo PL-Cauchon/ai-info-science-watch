@@ -1,5 +1,41 @@
 [
   {
+    "id": "f5cdb355020a",
+    "title": "OpenAI’s Head of Safety Is Leaving the Company",
+    "url": "https://www.wired.com/story/openai-head-of-safety-leaving/",
+    "source": "Wired AI",
+    "date": "2026-07-11T01:07:26+00:00",
+    "summary": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c75ce236064c",
+    "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
+    "url": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
+    "source": "Wired AI",
+    "date": "2026-07-10T20:44:05+00:00",
+    "summary": "The iPhone maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8d6354a30a5d",
+    "title": "Data Brokers & Beyond: Navigating New Jersey’s Data Broker & “Data Collector” Registration Law",
+    "url": "https://fpf.org/blog/data-brokers-beyond-navigating-new-jerseys-data-broker-data-collector-registration-law/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-07-10T12:45:00+00:00",
+    "summary": "Co-authored with Kelly Brandmeyer, FPF U.S. Policy Intern In a two-day span from June 28 to June 30, the New Jersey legislature introduced and passed A5328, amending New Jersey’s comprehensive privacy law and establishing new data broker and “data collector” registration requirements. The new data broker law has a uniquely broad scope and high financial [&#8230;]",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "340e44d2c63e",
+    "title": "A New Experiential Gallery Just Might Change Your Mind About AI Art",
+    "url": "https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/",
+    "source": "Wired AI",
+    "date": "2026-07-10T10:30:00+00:00",
+    "summary": "Billed as the “world’s first museum of AI arts,” Dataland uses wearables and troves of material from the Amazon to merge nature, biometrics, and art.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "84596821fdd3",
     "title": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
     "url": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
