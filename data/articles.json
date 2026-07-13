@@ -1,5 +1,122 @@
 [
   {
+    "id": "6c315bff5467",
+    "title": "Beyond Topicality: A Conceptual Analysis of Societal Relevance and Its Application to Search Results and AI Responses",
+    "url": "https://arxiv.org/abs/2607.09264",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-13T04:00:00+00:00",
+    "summary": "arXiv:2607.09264v1 Announce Type: new Abstract: This paper examines \"societal relevance,\" a concept introduced by Haider and Sundin to address the limitations of traditional relevance models in web search. While topical and user relevance are foundational to information science, they are insufficient for managing harmful content such as misinformation or discrimination found on the uncontrolled web. This study investigates three analytical questions: the definition of societal relevance, its pra…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2a20d2f6f978",
+    "title": "From Raw IDs to Semantic Planning: How Recommender Systems Utilize Information at Scale",
+    "url": "https://arxiv.org/abs/2607.09540",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-13T04:00:00+00:00",
+    "summary": "arXiv:2607.09540v1 Announce Type: new Abstract: The evolution of recommender systems can be explored by asking how they utilize information at scale. Throughout most of the historical period under consideration during the past two decades, industrial systems have relied on raw IDs, which are discrete, globally unique, and semantically opaque identifiers that enable exact lookup, logging, and item-specific memorization at scale. Over time, however, recommender systems have sought to utilize riche…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "bfd8af1b20bc",
+    "title": "Automatic Thematic Indexing of Large Literary Corpora: A Machine Learning Approach to Voltaire's Complete Works",
+    "url": "https://arxiv.org/abs/2607.09316",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-13T04:00:00+00:00",
+    "summary": "arXiv:2607.09316v1 Announce Type: cross Abstract: Thematic indexing -- the practice of assigning structured conceptual labels to sections of text -- is essential to scholarly access in large-scale literary and historical editions, yet it remains a largely manual, labour-intensive process. This paper explores the application of machine learning to automatic thematic indexing, using two substantial sub-corpora of the Complete Works of Voltaire as a test case: the Essai sur les m\\oe urs et l'esprit…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "cf54c2fac6f0",
+    "title": "Letting the Data Speak: Extracting Keywords from Crowdsourced Collections with AI",
+    "url": "https://arxiv.org/abs/2607.09324",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-13T04:00:00+00:00",
+    "summary": "arXiv:2607.09324v1 Announce Type: cross Abstract: Identifying and assigning keywords at scale is a technical, practical, and ethical challenge for crowdsourced collections. This article reports the findings of the \"Extracting Keywords from Crowdsourced Collections\" project, which used the Their Finest Hour Online Archive, a crowdsourced Second World War digital collection hosted by the University of Oxford, as a case study. The project evaluated three Natural Language Processing approaches to au…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "869d114ba433",
+    "title": "All Explanations are Wrong, But Many Are Useful: Exploring the Rashomon Explanation Set with Large Language Models",
+    "url": "https://arxiv.org/abs/2607.09502",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-13T04:00:00+00:00",
+    "summary": "arXiv:2607.09502v1 Announce Type: cross Abstract: Explaining machine-learning models is increasingly important for decision-making and consumer trust, yet it is widely believed to come at a cost: existing Explainable AI (XAI) methods suffer from a persistent accuracy-explainability trade-off. We argue that this trade-off is not fundamental, but an artifact of treating explanation and prediction as separate objectives; when properly coupled, they become complementary, so that equipping a model to…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "19177e841777",
+    "title": "Cross-media Scientific Research Achievements Query based on Ranking Learning",
+    "url": "https://arxiv.org/abs/2204.12121",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-13T04:00:00+00:00",
+    "summary": "arXiv:2204.12121v2 Announce Type: replace Abstract: With the advent of the information age, the scale of data on the Internet is getting larger and larger, and it is full of text, images, videos, and other information. Different from social media data and news data, scientific research achievement information has the characteristics of many proper nouns and strong ambiguity. The traditional single-mode query method based on keywords can no longer meet the needs of scientific researchers and mana…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "76b1e3c40380",
+    "title": "Do Recommendation Algorithms Work When Users Are LLM Agents? A Case Study on Moltbook",
+    "url": "https://arxiv.org/abs/2606.29762",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-13T04:00:00+00:00",
+    "summary": "arXiv:2606.29762v2 Announce Type: replace Abstract: Large language model (LLM) agents are increasingly populating web platforms, raising a fundamental question for recommender systems: do algorithms designed for human users still work when users are LLM agents that may not have well-defined content consumption preferences? We study this question by formulating a forum recommendation problem on Moltbook, a large-scale social media platform exclusively for autonomous AI agents running on the OpenC…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "651070893e23",
+    "title": "Mining and searching association relation of scientific papers based on deep learning",
+    "url": "https://arxiv.org/abs/2204.11488",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-13T04:00:00+00:00",
+    "summary": "arXiv:2204.11488v2 Announce Type: replace-cross Abstract: There is a complex correlation among the data of scientific papers. The phenomenon reveals the data characteristics, laws, and correlations contained in the data of scientific and technological papers in specific fields, which can realize the analysis of scientific and technological big data and help to design applications to serve scientific researchers. Therefore, the research on mining and searching the association relationship of scie…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "32f189181b4b",
+    "title": "When to Repair a Graph ANN Index: A Matched-Budget Negative Result, and the Interpolated-Baseline Trap That Hid It",
+    "url": "https://arxiv.org/abs/2607.00728",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-13T04:00:00+00:00",
+    "summary": "arXiv:2607.00728v2 Announce Type: replace-cross Abstract: Graph approximate-nearest-neighbor (ANN) indexes (HNSW, DiskANN/Vamana) lose recall under insert/delete churn, because deletions orphan the greedy-search paths that route through removed nodes. Production systems restore navigability by repairing the graph on a fixed schedule (consolidate every X operations). We asked whether triggering local edge repair on a measured navigability-degradation signal, rather than a blind clock, spends a fi…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "77d5ee7c3ff7",
+    "title": "On the Complexity of Low-Rank Matrix Signing and Entrywise Power Matrix Factorization",
+    "url": "https://arxiv.org/abs/2607.04875",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-13T04:00:00+00:00",
+    "summary": "arXiv:2607.04875v2 Announce Type: replace-cross Abstract: Given a nonnegative matrix $X$, a factorization rank $r$ and {a positive integer $p$}, entrywise power matrix factorization (EPMF) looks for a low-rank matrix $X_r$ such that $X = |X_r|^{\\circ p}$ (exact case) or $X \\approx |X_r|^{\\circ p}$ (approximate case), where $(\\cdot)^{\\circ p}$ denotes the componentwise exponent. EPMF includes the modulus model ($p=1$) and componentwise square factorization ($p=2$) as special cases, the latter bei…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "62116457c14a",
+    "title": "Feeling UISTful: An Interactive Portrait of Scholarly Authorship, Readership, and the In-Between",
+    "url": "https://arxiv.org/abs/2607.09155",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-13T04:00:00+00:00",
+    "summary": "arXiv:2607.09155v1 Announce Type: new Abstract: We introduce UISTful, a system that turns reading activity into a collective portrait of a scholarly community. Readers explore a semantic globe of UIST papers and authors while the system records private reading traces that can be reviewed, reflected upon, curated, and published for others to replay. Inspired by the information fl\\^aneur, UISTful treats a reading trace as a camera through which readers frame and interpret what they read, casting r…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c78be18c362a",
+    "title": "Two Vocabularies, One Phenomenon: Metadata Bias in AI Evidence Synthesis on Fertility Decline",
+    "url": "https://arxiv.org/abs/2607.09409",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-13T04:00:00+00:00",
+    "summary": "arXiv:2607.09409v1 Announce Type: new Abstract: Declining fertility is one of the defining policy questions of the next decade, and increasingly, what policymakers know about it is shaped by AI-synthesising the evidence base. But ask such a tool about reproduction and the answer depends on the word you use. The same phenomenon, framed clinically (e.g, infertility, IVF) or socially (e.g., childlessness, fertility intentions), is catalogued with radically different completeness. And the catalogue …",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "36d986c3f0eb",
+    "title": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
+    "url": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
+    "source": "Wired AI",
+    "date": "2026-07-12T10:00:00+00:00",
+    "summary": "Researchers cobbled together funding and time to show how quantum computing could aid in the development of drugs to help underserved populations and combat rare diseases.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "f5cdb355020a",
     "title": "OpenAI’s Head of Safety Is Leaving the Company",
     "url": "https://www.wired.com/story/openai-head-of-safety-leaving/",
