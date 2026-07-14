@@ -1,5 +1,356 @@
 [
   {
+    "id": "0c4f81a84c07",
+    "title": "An LLM-powered Agentic Recommendation System for Connected TV Content Discovery",
+    "url": "https://arxiv.org/abs/2607.09988",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-14T04:00:00+00:00",
+    "summary": "arXiv:2607.09988v1 Announce Type: new Abstract: Recommendation systems, from traditional multi-stage to recent unified generative architectures, face challenges in incorporating diverse contextual signals, such as trending topics, breaking news, cultural events, and cross-surface user activities, into their ranking pipelines. These systems are designed to consume structured behavioral signals with consistent schemas, and lack the reasoning capability to naturally process unstructured or heteroge…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "824e02660288",
+    "title": "Tokenizing Numerical and Embedding Features for LLM RecSys",
+    "url": "https://arxiv.org/abs/2607.10016",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-14T04:00:00+00:00",
+    "summary": "arXiv:2607.10016v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used as backbone architectures for recommender systems because of their strong sequence modeling and representation learning capabilities. However, most LLM-based recommenders operate primarily on discrete textual tokens, whereas practical recommendation pipelines also rely on continuous numerical features and dense embedding features produced by upstream feature engineering or pretrained encoders. This…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "ae2910035455",
+    "title": "The Effect of Multi-Lingual and Keyword Adversarial Injection on LLM Relevance Judgment",
+    "url": "https://arxiv.org/abs/2607.10080",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-14T04:00:00+00:00",
+    "summary": "arXiv:2607.10080v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly being used as automated judges for relevance evaluation in information retrieval, yet their robustness to adversarial manipulation remains insufficiently understood, particularly in multilingual settings. In this work, we investigate the impact of cross-lingual prompt injection attacks on LLM-based relevance judgments using TREC Deep Learning collections and two open-weight models under established prom…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "db35d9519d9f",
+    "title": "Scaling and Stabilizing Large-Scale Embedding-Based Retrieval",
+    "url": "https://arxiv.org/abs/2607.10096",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-14T04:00:00+00:00",
+    "summary": "arXiv:2607.10096v1 Announce Type: new Abstract: Embedding-based retrieval (EBR) is foundational to large-scale e-commerce search, yet its effectiveness is often constrained by the quality of training signals and the representational capacity of the encoder. Standard dual-encoders suffer from a training-inference gap: they are optimized on narrow candidate pools but must discriminate against hundreds of millions of items during inference. Furthermore, while transitioning to higher-capacity backbo…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "0f72ede4d761",
+    "title": "Adaptive Model Compression (AMC): Saliency-Driven Resource Allocation for Ultra-Low-Power Transformer Inference",
+    "url": "https://arxiv.org/abs/2607.10109",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-14T04:00:00+00:00",
+    "summary": "arXiv:2607.10109v1 Announce Type: new Abstract: Deploying large-scale transformer models on resource-constrained edge devices remains a challenge due to the high energy and memory overhead inherent in static inference, which processes simple and complex tokens with uniform intensity. To address this, we propose Adaptive Model Compression (AMC), a saliency-driven framework that dynamically allocates hardware resources based on token importance. By implementing a multi-tier architecture, our syste…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b012a0ad7600",
+    "title": "MC-RAG System: A Structure-Driven RAG System for Multi-Constraint Queries",
+    "url": "https://arxiv.org/abs/2607.10151",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-14T04:00:00+00:00",
+    "summary": "arXiv:2607.10151v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) systems are widely adopted in question answering, yet they often fail to satisfy complex multi-constraint queries, leading to constraint violations, factual inconsistencies, or hallucinations. We present Structure-Driven RAG System for Multi-Constraint Queries(MC-RAG), a structure-driven RAG system that reformulates retrieval as a subgraph matching problem over a knowledge graph. By integrating semantic and stru…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "ee0f455ed87e",
+    "title": "From Patent Expiry to Business Pathways: AI Workflows for Activating Innovation Archives",
+    "url": "https://arxiv.org/abs/2607.10179",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-14T04:00:00+00:00",
+    "summary": "arXiv:2607.10179v1 Announce Type: new Abstract: Patent databases represent one of the largest public archives of technical knowledge, yet much of this knowledge remains difficult to identify, interpret, and reuse once patent rights expire or lapse. This paper proposes an AI-enabled framework for discovering expired and lapsing patents, identifying technology trends, and translating patent disclosures into business pathways. We use pathways to mean structured commercialization routes such as SaaS…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "7571426df89a",
+    "title": "Multilingual Semantic Retrieval for Apple Music Search",
+    "url": "https://arxiv.org/abs/2607.10239",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-14T04:00:00+00:00",
+    "summary": "arXiv:2607.10239v1 Announce Type: new Abstract: Apple Music serves listeners across 150+ storefronts in dozens of languages, with a catalog that grows by hundreds of thousands of new tracks daily. At this scale, search recall on misspelled, transliterated, and cross-lingual queries becomes a dominant driver of session quality, particularly for tail queries that account for the majority of unique queries. We present a multilingual semantic retrieval system built on a 305M-parameter Siamese bi-enc…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "84f64671fc17",
+    "title": "SVD-RAG: Efficient Tree-Organized Retrieval-Augmented Generation via Singular Value Decomposition",
+    "url": "https://arxiv.org/abs/2607.10316",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-14T04:00:00+00:00",
+    "summary": "arXiv:2607.10316v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) systems enhance large language models by retrieving relevant documents from external knowledge bases. Recent work by Sarthi et al. (2024) introduced RAPTOR, which organizes documents into hierarchical tree structures for efficient retrieval, but requires expensive LLM-based abstractive summarization at each internal node -- making large-scale deployment prohibitively costly. We present SVD-RAG, the first method …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "ca199b65783d",
+    "title": "Implicit Fine-tuning via Context Engineering: A Curriculum Learning Framework for Multimodal Entity Alignment",
+    "url": "https://arxiv.org/abs/2607.10532",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-14T04:00:00+00:00",
+    "summary": "arXiv:2607.10532v1 Announce Type: new Abstract: Multimodal Entity Alignment (MMEA) aims to identify equivalent entities across different modalities. While existing methods enhance MMEA performance through black-box context engineering strategies, their reliance on LLM parameter capacity and lack of theoretical interpretability remain unresolved. To this end, we first theoretically validate the mathematical equivalence between context engineering and model fine-tuning in MMEA tasks, demonstrating…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "2de2d2939005",
+    "title": "RecRec: Recursive Refinement for Sequential Recommendation",
+    "url": "https://arxiv.org/abs/2607.10541",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-14T04:00:00+00:00",
+    "summary": "arXiv:2607.10541v1 Announce Type: new Abstract: Sequential recommender systems typically infer user preferences through single-pass encoding of interaction histories without iterative refinement, relying on increasingly deep architectures to capture complex patterns. In this work, we revisit sequential recommendation from a recursive inference perspective: can user preferences be modeled as a persistent latent state that is recursively refined? We propose RecRec (Recursive Recommendation), a lig…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ce0b5eafb915",
+    "title": "Tool-Adaptive LLM Reranker",
+    "url": "https://arxiv.org/abs/2607.10555",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-14T04:00:00+00:00",
+    "summary": "arXiv:2607.10555v1 Announce Type: new Abstract: Generative Large Language Models (LLMs) have revolutionized information retrieval, yet their strictly parametric nature frequently leads to severe factual hallucinations when confronted with complex queries beyond their epistemic boundaries. While external tool-calling can mitigate this, indiscriminately invoking search tools for every document during reranking incurs prohibitive latency overheads, creating an intractable accuracy-efficiency dilemm…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "d3c460a7aee0",
+    "title": "Stream-aware Side Adaptation for Large Pre-trained Multimodal Embedding Models in Sequential Recommendation",
+    "url": "https://arxiv.org/abs/2607.10909",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-14T04:00:00+00:00",
+    "summary": "arXiv:2607.10909v1 Announce Type: new Abstract: Recently, large pretrained multimodal embedding models such as Qwen3-VL Embedding have shown strong promise for sequential recommendation, as they provide reusable semantic item representations across modalities and domains. However, directly using these embeddings often leads to suboptimal performance because of domain misalignment. Efficient side adaptation is therefore an attractive solution. Although adapting all backbone layers should help, ex…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "174800f4395e",
+    "title": "ZoRRO: A Zero-Weight Personalized Recommender System for Scalable News Recommendation",
+    "url": "https://arxiv.org/abs/2607.10910",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-14T04:00:00+00:00",
+    "summary": "arXiv:2607.10910v1 Announce Type: new Abstract: We present ZoRRO (Zero-Weight Personalized Recommender System), a zero-weight, training-free framework for personalized news recommendation designed for scalable real-world deployment. ZoRRO outperforms strong neural baselines in offline ranking evaluations and achieves click-through rate performance in online A/B testing that is nearly on par with a state-of-the-art deep learning model, while operating more than 600 times faster. Our experiments r…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "38f91f25cd91",
+    "title": "Normative Alignment of Recommender Systems via Internal Label Shift",
+    "url": "https://arxiv.org/abs/2607.10915",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-14T04:00:00+00:00",
+    "summary": "arXiv:2607.10915v1 Announce Type: new Abstract: We introduce NAILS (Normative Alignment of Recommender Systems via Internal Label Shift), a simple and scalable method for aligning recommendation outputs with target distributions over item-level attributes, such as categories. Recommender systems optimized solely for user engagement often fail to satisfy broader normative objectives, including fairness, diversity, and editorial values. NAILS modifies the user-conditional item distribution to indu…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "43b8156f3a2c",
+    "title": "MMRM: A Multiplex Multimodal Representation Model for Product Ranking in E-commerce Search",
+    "url": "https://arxiv.org/abs/2607.11030",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-14T04:00:00+00:00",
+    "summary": "arXiv:2607.11030v1 Announce Type: new Abstract: Multimodal information is pivotal for e-commerce search ranking. Existing works leverage multimodal data typically by fine-tuning general Multimodal Large Language Models (MLLMs) via collaborative signals, subsequently integrating the derived representations into ranking models as item features. Despite their efficacy, these methods face two primary limitations: (1) they rely on a single collaborative signal for MLLM fine-tuning, failing to exploit…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "12fc3b6f2dc0",
+    "title": "Generative Chinese Statute Retrieval",
+    "url": "https://arxiv.org/abs/2607.11109",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-14T04:00:00+00:00",
+    "summary": "arXiv:2607.11109v1 Announce Type: new Abstract: Statute retrieval is a fundamental task in legal information retrieval, yet existing approaches struggle to bridge the gap between colloquial legal queries and formal statutory language. In this paper, we propose GCSR, a generative statute retrieval framework that reformulates statute retrieval as a sequence generation problem and internalizes statutory knowledge into a generative model. Specifically, we propose a multi-granularity structured docid…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "24a21d9e3d63",
+    "title": "NGM-RAG: Neural Graph Matching based Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2607.11159",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-14T04:00:00+00:00",
+    "summary": "arXiv:2607.11159v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) significantly enhances the ability of Large Language Models (LLMs) to provide accurate and contextually relevant answers by dynamically integrating external databases. However, traditional RAG methods are primarily constrained by their reliance on text-based retrieval strategies, which often struggle with complex questions requiring multi-hop reasoning. To address this limitation, we introduce Neural Graph Match…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a2dd5a51b326",
+    "title": "Enhancing LLMs through human feedback: a journey towards self-improvement",
+    "url": "https://arxiv.org/abs/2607.11267",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-14T04:00:00+00:00",
+    "summary": "arXiv:2607.11267v1 Announce Type: new Abstract: In the rapidly evolving landscape of information retrieval systems, the ability to adapt and improve through user feedback is paramount. This study introduces a novel methodology for refining the performance of a primary Retrieval Augmented Generation (RAG) system by strategically integrating an auxiliary feedback RAG system. By systematically harnessing human-generated feedback, the approach aims to enhance the accuracy, relevance, and overall qua…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "7b331f06621a",
+    "title": "Prompt Generation Technical Report",
+    "url": "https://arxiv.org/abs/2607.11326",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-14T04:00:00+00:00",
+    "summary": "arXiv:2607.11326v1 Announce Type: new Abstract: Generative retrieval has become an increasingly adopted paradigm for industrial search, recommendation, and advertising systems, delivering significant online gains. Most existing work combines user behavior sequences with large language models (LLMs) to model user preferences. In practice, feature engineering remains critical to model effectiveness, yet its complexity slows offline iteration and makes online deployment heavy and hard to reuse, all…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "5ac837e004e3",
+    "title": "User Preference Induction with LLMs for Offline Top-N Recommendation Evaluation",
+    "url": "https://arxiv.org/abs/2607.11354",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-14T04:00:00+00:00",
+    "summary": "arXiv:2607.11354v1 Announce Type: new Abstract: Offline evaluation is the standard methodology for comparing top-N recommender systems, yet it relies on incomplete relevance information. In most benchmark datasets, only a small subset of user--item preferences is observed, and unjudged items are commonly treated as non-relevant. This missing-as-negative assumption can bias evaluation, penalize plausible recommendations with no recorded feedback, and favour algorithms that concentrate on popular …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "5967f3b88c9b",
+    "title": "Boolean queries are all you need?",
+    "url": "https://arxiv.org/abs/2607.11362",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-14T04:00:00+00:00",
+    "summary": "arXiv:2607.11362v1 Announce Type: new Abstract: We equipped an LLM-based search agent with access to a Boolean retrieval engine to search the MS MARCO V2.1 deduped segment collection used by the TREC 2024 RAG track. Over a standard track subset of 86 topics, and operating under a budget of 100 model calls/topic, the agent achieved an NDCG@10 of 0.6863, which would place it above many dense, sparse, and learned-sparse first-stage retrievers. Ranking is based solely on the density of corpus substr…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "52f1d0944b66",
+    "title": "Beyond Semantic IDs: Encoding Business-Value Ranking into Document Identifiers for Generative Retrieval",
+    "url": "https://arxiv.org/abs/2607.11392",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-14T04:00:00+00:00",
+    "summary": "arXiv:2607.11392v1 Announce Type: new Abstract: Generative Retrieval (GR) formulates retrieval as a sequence-to-sequence generation task, assigning each document a document identifier (DocID) and retrieving it through autoregressive decoding, making DocID design a critical factor in retrieval quality. However, existing schemes based on discrete representation learning suffer from inherent collision issues and create a mismatch between the DocID's encoding objective and the system's business opti…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "eba7b7e27464",
+    "title": "FAIR GraphRAG: A Retrieval-Augmented Generation Approach for Semantic Data Analysis",
+    "url": "https://arxiv.org/abs/2607.11464",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-14T04:00:00+00:00",
+    "summary": "arXiv:2607.11464v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) addresses the limitations of Large Language Models (LLMs) when providing responses to domain-specific questions. Graph-based RAG approaches, such as GraphRAG, enhance retrieval by capturing semantic relationships within knowledge graphs (KGs). While the FAIR principles (Findability, Accessibility, Interoperability, and Reusability) are becoming prevalent for scientific data management, especially in complex doma…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "698326447ff5",
+    "title": "Score-Only Distillation for Compact Dense Retrieval",
+    "url": "https://arxiv.org/abs/2607.11465",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-14T04:00:00+00:00",
+    "summary": "arXiv:2607.11465v1 Announce Type: new Abstract: Large embedding models improve retrieval quality, but serving large encoders online is expensive. We study whether a compact retriever can learn teacher ranking behavior from score vectors without access to teacher hidden states. The student trains on rows built from ground-truth positives and negative candidates produced by our data generation pipeline; we evaluate student-teacher hard-negative mining separately as an extension. We use a row-cente…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "fcb507be81e5",
+    "title": "The backbone of science: analysis of citation networks between papers and their sources",
+    "url": "https://arxiv.org/abs/2607.09771",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-14T04:00:00+00:00",
+    "summary": "arXiv:2607.09771v1 Announce Type: new Abstract: The bibliography of scientific papers lists items with variable degree of relevance for the contents of the paper itself. If we could identify the sources, i.e., the works that actually inspired the paper, their citations can help us uncover the genesis of scientific projects and would be more representative of the actual importance of papers and authors than the standard citation counts, when all references are considered. Here we present an analy…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "7cd857e55c59",
+    "title": "Hallucination Detector: A hybrid LLM and Semantic Scholar tool calling for detecting hallucination in scientific literature on AtomGPT.org",
+    "url": "https://arxiv.org/abs/2607.09774",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-14T04:00:00+00:00",
+    "summary": "arXiv:2607.09774v1 Announce Type: new Abstract: Large language models are now commonly used as partners in scientific writing, and this shift has brought a subtler type of failure: made-up references. Fabricated authors, bogus DOIs, wrongly assigned identifiers, and citations that merge elements from multiple genuine articles are now being inserted into manuscripts at a volume that traditional peer review was never meant to handle. Recent audits reveal that such references have already slipped t…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "ee4859d7d4b7",
+    "title": "Judges matter more than papers in post-publication research assessment",
+    "url": "https://arxiv.org/abs/2607.09783",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-14T04:00:00+00:00",
+    "summary": "arXiv:2607.09783v1 Announce Type: new Abstract: Research assessment relies on expert evaluations, yet human judgement is noisy, and it is unclear whether differences in assessment arise primarily from differences in genuine research quality or from unwanted differences between evaluators. While numerous studies highlight disagreement and biases in research assessment, they have not quantified judge-related noise relative to variation in the evaluated works. Here we show, in a large post-publicat…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b955f95db8fb",
+    "title": "An Autonomous Scientific Knowledge Generation Framework for AI-Driven Scientific Discovery",
+    "url": "https://arxiv.org/abs/2607.09806",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-14T04:00:00+00:00",
+    "summary": "arXiv:2607.09806v1 Announce Type: new Abstract: Artificial intelligence (AI) is transforming scientific discovery, but its effectiveness is fundamentally limited by the availability of structured scientific knowledge. Although existing databases have accelerated data-driven materials research, much of the knowledge needed for predictive modeling and inverse design remains embedded in unstructured scientific literature. We present an Autonomous Scientific Knowledge Generation Framework that trans…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e59d0c6e4d1f",
+    "title": "The INRIA DataLake: A Generic and Scalable Ecosystem of Pipelines for HAL Applied to Software Mentions Tracking",
+    "url": "https://arxiv.org/abs/2607.09824",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-14T04:00:00+00:00",
+    "summary": "arXiv:2607.09824v1 Announce Type: new Abstract: Research repositories contain a large amount of scientific knowledge, but access to structured articles and specialised information, such as datasets or software metadata, remains limited. In this paper, we present the INRIA DataLake project, which provides an ecosystem of scalable and interconnected pipelines for preparing scientific literature, extracting structured information, and applying specialised treatments. Using a large-scale shared infr…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "120b420a1b56",
+    "title": "Enhancing RAMOSE, a framework for implementing REST APIs and semantic-actionable outputs over data sources",
+    "url": "https://arxiv.org/abs/2607.11218",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-14T04:00:00+00:00",
+    "summary": "arXiv:2607.11218v1 Announce Type: new Abstract: Scholarly infrastructures increasingly expose their data through REST APIs that follow shared specifications, such as the Scientific Knowledge Graph - Interoperability Framework (SKG-IF), which defines a common data model, exchange format, and REST API for research information. Implementing such specifications over existing data sources, however, requires a development effort that many open infrastructures cannot afford. RAMOSE, the RESTful API Man…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "be43cf533e31",
+    "title": "Distributed Denial of Science: How Indirect Data Poisoning of AI Systems Can Industrialize Scientific Fraud",
+    "url": "https://arxiv.org/abs/2607.10712",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-14T04:00:00+00:00",
+    "summary": "arXiv:2607.10712v1 Announce Type: cross Abstract: Scientific fraud is the instrument of doubt that malicious entities can use to establish controversy in science. Historically, it required the resources of a company: deep pockets, ghostwritten articles, and corrupt academics. Today, Artificial Intelligence (AI) is increasingly automating scientific research, so we ask: Can a remote adversary weaponize the honest use of AI in science to compromise scientific integrity? We envision and empirically…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f4cc0b30c231",
+    "title": "Return of the solo author: The changing division of labor in science in the age of generative A",
+    "url": "https://arxiv.org/abs/2607.10780",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-14T04:00:00+00:00",
+    "summary": "arXiv:2607.10780v1 Announce Type: cross Abstract: Modern science has experienced a long shift from individual work to team production. Generative artificial intelligence (AI) might appear to extend this trajectory by lowering research costs and enabling larger-scale collaboration. Yet if tasks once performed by coauthors can be delegated to AI, the same technology may also weaken the need for collaboration in parts of the research process. Here, we examine this tension by moving beyond average t…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1aa906518952",
+    "title": "Characterising AI Models for Cataloguing",
+    "url": "https://arxiv.org/abs/2607.11353",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-14T04:00:00+00:00",
+    "summary": "arXiv:2607.11353v1 Announce Type: cross Abstract: The creation of digital collections involves not only the digitisation of content, but also the creation of catalogue records for it. This often-overlooked task requires slow and costly expert manual work. In this project, we have evaluated the application of AI models to this task, comparing different implementations and models. This work includes a qualitative and quantitative evaluation of the experiments carried out, as well as recommendation…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "b7c2bd6e95d2",
+    "title": "Research on Intellectual Property Resource Profile and Evolution Law",
+    "url": "https://arxiv.org/abs/2204.06221",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-14T04:00:00+00:00",
+    "summary": "arXiv:2204.06221v2 Announce Type: replace Abstract: In the era of big data, intellectual property-oriented scientific and technological resources show the trend of large data scale, high information density, and low value density, which brings severe challenges to the effective use of intellectual property resources, and the demand for mining hidden information in intellectual property is increasing. This makes intellectual property-oriented science and technology resource portraits and analysis…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2c4830cf51a0",
+    "title": "The Case of the Mysterious Citations",
+    "url": "https://arxiv.org/abs/2602.05867",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-14T04:00:00+00:00",
+    "summary": "arXiv:2602.05867v2 Announce Type: replace Abstract: Mysterious citations are routinely appearing in peer-reviewed publications throughout the scientific community. In this paper, we developed an automated pipeline and examine the proceedings of four major high-performance computing conferences, comparing the accuracy of citations between the 2021 and 2025 proceedings. While none of the 2021 papers contained mysterious citations, every 2025 proceeding did, impacting 2-6% of published papers. In a…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "fdad792b66fe",
+    "title": "Loci Similes: A Benchmark for Extracting Intertextualities in Latin Literature",
+    "url": "https://arxiv.org/abs/2601.07533",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-14T04:00:00+00:00",
+    "summary": "arXiv:2601.07533v2 Announce Type: replace-cross Abstract: Tracing connections between historical texts is an important part of intertextual research, enabling scholars to reconstruct the virtual library of a writer and identify the sources influencing their creative process. These intertextual links manifest in diverse forms, ranging from direct verbatim quotations to subtle allusions and paraphrases disguised by morphological variation. Language models offer a promising path forward due to thei…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "158a97b34506",
+    "title": "Siri AI Is Becoming Apple’s Everything Tool",
+    "url": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/",
+    "source": "Wired AI",
+    "date": "2026-07-13T21:39:09+00:00",
+    "summary": "Apple’s revamped Siri is more than a voice assistant; it’s now the backbone of the iPhone user experience. You can try it now through the iOS 27 public beta.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "942c07d3c6da",
+    "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+    "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+    "source": "MIT Tech Review",
+    "date": "2026-07-13T18:00:00+00:00",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s looking into whether AI models can feel pain, for example,&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "6c315bff5467",
     "title": "Beyond Topicality: A Conceptual Analysis of Societal Relevance and Its Application to Search Results and AI Responses",
     "url": "https://arxiv.org/abs/2607.09264",
