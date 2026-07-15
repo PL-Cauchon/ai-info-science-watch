@@ -1,5 +1,302 @@
 [
   {
+    "id": "d0894c313b02",
+    "title": "OpenAI Staffers Are Funding a Rival Super PAC to Take on Their Boss",
+    "url": "https://www.wired.com/story/openai-employees-donations-guardrails-alliance-leading-the-future/",
+    "source": "Wired AI",
+    "date": "2026-07-15T09:00:00+00:00",
+    "summary": "OpenAI employees have donated more than $215,000 to a political effort opposing Leading the Future, a group backed by the company’s president, Greg Brockman.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8bbc41087761",
+    "title": "Explaining When PRF Fails: Participatory Auditing for Selective Query Expansion",
+    "url": "https://arxiv.org/abs/2607.12098",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-15T04:00:00+00:00",
+    "summary": "arXiv:2607.12098v1 Announce Type: new Abstract: Pseudo-Relevance Feedback (PRF) improves retrieval effectiveness on average, but harms a substantial fraction of queries through query drift, an asymmetry hidden by aggregate offline metrics. Existing Selective PRF (sPRF) approaches typically rely on Query Performance Prediction (QPP) methods derived from the same ranking statistics, and therefore inherit, rather than resolve, this opacity. We argue that this is a core explainability problem in IR,…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5c429c5dd3e4",
+    "title": "SHEAF: Self-profiled Hardness Estimation from Answer-set Flux for Predicting Query Hardness in Graph-based ANN Search",
+    "url": "https://arxiv.org/abs/2607.12229",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-15T04:00:00+00:00",
+    "summary": "arXiv:2607.12229v1 Announce Type: new Abstract: Graph-based approximate nearest neighbor (ANN) search is usually governed by a beam-width parameter that trades recall for throughput and is fixed for the whole workload. Yet, queries may not be equally hard: for example, on the widely used data set SIFT1M, the beam that a query needs to reach 95\\% recall varies by more than $32\\times$. Therefore, serving each query at its own width would help if the system could tell, cheaply and in advance, how h…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "9a5741ea4007",
+    "title": "Not Only NTP: Extending Training Signal Coverage for Generative Recommendation",
+    "url": "https://arxiv.org/abs/2607.12277",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-15T04:00:00+00:00",
+    "summary": "arXiv:2607.12277v1 Announce Type: new Abstract: Next-Token Prediction (NTP) carries two structural training signal limitations. First, NTP optimizes for single-step prediction only, placing no supervised pressure on learning longer-range behavioral structure -- we term this \\textbf{temporal locality}. Second, in multi-domain sequences, each target item embedding receives gradient updates exclusively from the immediately preceding hidden state, with no explicit gradient pathway from cross-domain …",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "4f408f76489e",
+    "title": "SlimPer: Make Personalization Model Slim and Smart",
+    "url": "https://arxiv.org/abs/2607.12281",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-15T04:00:00+00:00",
+    "summary": "arXiv:2607.12281v1 Announce Type: new Abstract: Transformer-style architectures are increasingly adopted for industrial recommendation systems, yet they inherit a design premise misaligned with the task: generative models rely on per-token autoregressive prediction, which justifies maintaining large intermediate tensors that scale with sequence length. In contrast, recommendation systems produce a single set of relevance scores for each pair without token-level supervision. Leveraging this obser…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "cd603d2db0e8",
+    "title": "MESH: Scaling Up Retrieval with Heterogeneous Content Unification",
+    "url": "https://arxiv.org/abs/2607.12392",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-15T04:00:00+00:00",
+    "summary": "arXiv:2607.12392v1 Announce Type: new Abstract: Optimizing large-scale retrieval hinges on the ability to efficiently surface candidates across diverse content tiers. However, to capture segments such as fresh and long-tail content, modern systems typically resort to a fragmented \"zoo\" of specialized retrieval models. This operational complexity is attributed to a fundamental challenge in heterogeneous retrieval systems, the Scaling Bias of Heterogeneity, where model capacity gains do not apply …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "7a62bfe15334",
+    "title": "Where Reasoning Matters: Rethinking Latent Reasoning in Semantic ID-based Generative Recommendation",
+    "url": "https://arxiv.org/abs/2607.12425",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-15T04:00:00+00:00",
+    "summary": "arXiv:2607.12425v1 Announce Type: new Abstract: Semantic ID-based generative recommendation predicts an item by generating a short sequence of semantic ID tokens, where each token is produced autoregressively. Latent reasoning has recently been introduced to improve this process through additional hidden-state computation before each token decision. This raises a practical question: when one item is represented by a sequence of semantic ID tokens, should each token receive the same fixed number …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d322588a8fe1",
+    "title": "Cheaper is Better: A Discount-Aware Network for Conversion Rate Prediction in E-commerce Recommendation System",
+    "url": "https://arxiv.org/abs/2607.12578",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-15T04:00:00+00:00",
+    "summary": "arXiv:2607.12578v1 Announce Type: new Abstract: Post-click conversion rate (CVR) is a crucial element in online recommendation systems, which addresses significant challenges such as data sparsity (DS), sample selection bias (SSB), and delayed feedback. However, the impact of item discount rate-a key factor influencing both pricing and user purchasing behavior, has received limited attention. In this paper, we introduce the Discount-Aware Network (DANet) to model the relationship between item di…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5129901968e0",
+    "title": "Learning to Forget: Satiation-Aware Long-Sequence Transducers for Mitigating Post-Purchase Redundancy",
+    "url": "https://arxiv.org/abs/2607.12714",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-15T04:00:00+00:00",
+    "summary": "arXiv:2607.12714v1 Announce Type: new Abstract: Sequential recommendation models predominantly interpret user interactions as positive signals for preference accumulation. However, in e-commerce scenarios, a purchase action often signifies the termination of a specific intent (\"Interest Exit\") rather than its continuation. Existing models overlook this distinction, suffering from Action-Intent Asymmetry, which leads to severe post-purchase redundancy. In this paper, we propose the Satiation-Awar…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2fbf7a94dc57",
+    "title": "RecRec: Latent Interests Recursive Reasoning for Sequential Recommendation",
+    "url": "https://arxiv.org/abs/2607.12945",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-15T04:00:00+00:00",
+    "summary": "arXiv:2607.12945v1 Announce Type: new Abstract: Sequential recommender systems rely on a single forward pass to encode user interaction histories and predict the next item. Increasing inference-time computation through latent reasoning, with the model proceeding step by step before the final prediction, has been recently explored in sequential recommendation with promising results. However, how to structure the reasoning process for sequential recommendation remains an open question. Existing ap…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "82150cddbf15",
+    "title": "ViHoRec: A Quality-Controlled Vietnamese Hotel Recommendation Dataset and Cold-Start Benchmark",
+    "url": "https://arxiv.org/abs/2607.12946",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-15T04:00:00+00:00",
+    "summary": "arXiv:2607.12946v1 Announce Type: new Abstract: Recommender-system research for Vietnamese remains limited by the absence of a public, well-documented hotel interaction resource. Building such a resource is challenging for three reasons: cross-platform hotel names must be reconciled before interactions are comparable; quality must be audited with reproducible metrics rather than ad hoc cleaning; and public release must preserve privacy while remaining benchmarkable under realistic cold-start con…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c6ffb6b96b9f",
+    "title": "Transforming LLMs into Efficient Cross-Encoders via Knowledge Distillation for RAG Reranking",
+    "url": "https://arxiv.org/abs/2607.11933",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-15T04:00:00+00:00",
+    "summary": "arXiv:2607.11933v1 Announce Type: cross Abstract: Cross-encoders achieve high reranking accuracy in Retrieval-Augmented Generation (RAG) pipelines but impose quadratic inference costs that limit real-time deployment. We address this by fine-tuning LLaMA 3 (8B) as a drop-in reranker using a two-stage pipeline: supervised fine-tuning on a custom query-document relevance dataset via the Unsloth framework with LoRA adapters, followed by 4-bit quantization for efficient inference. The resulting model…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "cd269f6feaee",
+    "title": "Graph-Constrained Policy Learning for Extreme Clinical Code Prediction",
+    "url": "https://arxiv.org/abs/2607.11954",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-15T04:00:00+00:00",
+    "summary": "arXiv:2607.11954v1 Announce Type: cross Abstract: Clinical code prediction maps unstructured discharge summaries to ICD-10-CM leaf codes in a large, sparse, and deeply hierarchical label space. Most systems treat the task as flat multi-label classification, scoring codes independently and providing limited training signal for rare labels. We propose a graph-constrained traversal policy that formulates ICD prediction as a finite-horizon decision process over a pruned code hierarchy. A single lang…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "be0156598068",
+    "title": "Cost-Governed RAG: Unified Per-Tenant Cost Attribution Across Retrieval and Generation in Multi-Tenant LLM Systems",
+    "url": "https://arxiv.org/abs/2607.12188",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-15T04:00:00+00:00",
+    "summary": "arXiv:2607.12188v1 Announce Type: cross Abstract: Enterprise Retrieval-Augmented Generation (RAG) deployments face a critical governance gap: while LLM generation cost is metered per token, the retrieval layer - vector memory, similarity compute, and embedding API calls - remains an unattributed shared cost, enabling invisible cross-subsidization among tenants. We present Cost-Governed RAG, an architecture that integrates a codebook-oblivious vector index (TurboVec) with a multi-tenant LLM gover…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a5806770395c",
+    "title": "On-Device Deep Research at 4B: Exposure Bounds Faithfulness, Retrieval Bounds Coverage",
+    "url": "https://arxiv.org/abs/2607.12257",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-15T04:00:00+00:00",
+    "summary": "arXiv:2607.12257v1 Announce Type: cross Abstract: On-device research agents search a corpus, read sources, and write a cited brief on a personal laptop. Whether their citations are faithful, and at what cost, is unmeasured for a deployable small model. This study fixes one 4B generator on a 24 GB laptop and asks what makes its citations faithful. It separates two quantities usually reported as one number. Cited claim faithfulness asks whether the cited source supports the claim. Trustworthy cove…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "56fdf2bc535a",
+    "title": "Towards Vision-Free CIR: Attribute-Augmented Scoring and LLM-Based Reranking for Zero-Shot Composed Image Retrieval",
+    "url": "https://arxiv.org/abs/2607.12621",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-15T04:00:00+00:00",
+    "summary": "arXiv:2607.12621v1 Announce Type: cross Abstract: Recent work has shown that \"Vision-Free'' approaches (representing images as text) can be effective for standard image retrieval tasks. However, it remains unclear whether this paradigm can effectively handle a more complex, multimodal task, Composed Image Retrieval (CIR), due to the inherent information loss in textual descriptions. In this paper, we introduce a Vision-Free CIR framework that addresses this challenge through two key techniques: …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "3d931c416bcf",
+    "title": "What Would You Click? Personalized Video Thumbnail Generation with Preference-aware Highlight Retrieval",
+    "url": "https://arxiv.org/abs/2607.12882",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-15T04:00:00+00:00",
+    "summary": "arXiv:2607.12882v1 Announce Type: cross Abstract: Video thumbnails are a key factor for attracting user clicks on video platforms, and are increasingly supported by automation. However, existing thumbnail generation methods typically produce generic results shared across users, overlooking the diversity of individual preferences. We therefore introduce personalized video thumbnail generation, a novel task that aims to create thumbnails tailored to user-specific preferences. It is challenging in …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "fd9ea834e461",
+    "title": "Adaptive Fusion Self-supervised Learning for Recommendation",
+    "url": "https://arxiv.org/abs/2407.19692",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-15T04:00:00+00:00",
+    "summary": "arXiv:2407.19692v5 Announce Type: replace Abstract: Self-supervised learning (SSL) has recently attracted significant attention in the field of recommender systems. Contrastive learning (CL) stands out as a major SSL paradigm due to its robust ability to generate self-supervised signals. Mainstream graph contrastive learning (GCL)-based methods typically implement CL by creating contrastive views through various data augmentations. Despite these methods are effective, we argue that there still e…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e28c690aff6b",
+    "title": "E-GEO: A Testbed for Generative Engine Optimization in E-Commerce",
+    "url": "https://arxiv.org/abs/2511.20867",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-15T04:00:00+00:00",
+    "summary": "arXiv:2511.20867v2 Announce Type: replace Abstract: With the rise of large language models (LLMs), generative engines have become powerful alternatives to traditional search, reshaping retrieval tasks. In e-commerce, for instance, conversational shopping agents now guide consumers to relevant products. This shift has created the need for generative engine optimization (GEO) -- improving content visibility and relevance for generative engines. Despite its growing importance, current GEO practices…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "f5c947766bd8",
+    "title": "iTIMO: An LLM-empowered Synthesis Dataset for Travel Itinerary Modification",
+    "url": "https://arxiv.org/abs/2601.10609",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-15T04:00:00+00:00",
+    "summary": "arXiv:2601.10609v5 Announce Type: replace Abstract: Addressing itinerary modification is crucial for enhancing the travel experience as it is a frequent requirement during traveling. However, existing research mainly focuses on fixed itinerary planning, leaving modification underexplored due to the scarcity of need-to-modify itinerary data. To bridge this gap, we formally define the itinerary modification task and propose a general pipeline to construct the corresponding dataset, namely iTIMO. T…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "b346e682e8eb",
+    "title": "More Than Efficiency: Embedding Compression Improves Domain Adaptation in Dense Retrieval",
+    "url": "https://arxiv.org/abs/2601.13525",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-15T04:00:00+00:00",
+    "summary": "arXiv:2601.13525v3 Announce Type: replace Abstract: Dense retrievers powered by pretrained embeddings are widely used for document retrieval but struggle in specialized domains due to the mismatches between the training and target domain distributions. Domain adaptation typically requires costly annotation and retraining of query-document pairs. In this work, we revisit an overlooked alternative: applying PCA to domain embeddings to derive lower-dimensional representations that preserve domain-r…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "2e0403a4291d",
+    "title": "SkillSelect-Serve: QoS-Aware Budgeted Skill Service Recommendation for LLM Agents",
+    "url": "https://arxiv.org/abs/2607.00011",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-15T04:00:00+00:00",
+    "summary": "arXiv:2607.00011v2 Announce Type: replace Abstract: Reusable agent skills are emerging as a service-oriented capability layer for Large Language Model (LLM) agents. Unlike plain retrieval items, a skill exposes functional capabilities, input-output assumptions, tool dependencies, context cost, and risk metadata. Selecting skills is particularly challenging for small LLM agents, which can load only a few capability units under restricted context, tool availability, and risk tolerance. Existing fi…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c76dbe72c0c4",
+    "title": "Research Novelty in Information Systems Journals After ChatGPT: Differences Across Institutional Language Contexts",
+    "url": "https://arxiv.org/abs/2603.22510",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-15T04:00:00+00:00",
+    "summary": "arXiv:2603.22510v2 Announce Type: replace-cross Abstract: Large language models are increasingly used in scholarly work, yet it remains unclear whether their productivity gains are accompanied by changes in research novelty. We examine how relative abstract-level semantic novelty in Information Systems journals changed after ChatGPT became widely available and whether this change differed across institutional language contexts. We analyze 13,847 articles published from 2020 to 2025 in 44 A* and …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "58187f146e6c",
+    "title": "AAAI-26 Dual Submissions: Novel Challenges",
+    "url": "https://arxiv.org/abs/2607.11918",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-15T04:00:00+00:00",
+    "summary": "arXiv:2607.11918v1 Announce Type: new Abstract: Dual submissions, in which identical or substantially similar papers are simultaneously submitted to one or more archival venues, without cross-citation or disclosure, are a growing problem for the AAAI Conference and other scientific publication venues. These submissions increase the burden on the peer-review system and pollute the scientific record. As part of the AAAI-26 review process, we (conference organizers) compared AAAI main-track submiss…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "17e97ec64e58",
+    "title": "Measuring the Re-executability of Published Molecular Docking Claims",
+    "url": "https://arxiv.org/abs/2607.12117",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-15T04:00:00+00:00",
+    "summary": "arXiv:2607.12117v1 Announce Type: new Abstract: Published molecular docking scores depend on the receptor, ligand, software, search box, seed, and preparation choices; a paper reporting only the score has published a number with unknowable provenance. We ask whether such claims can be re-executed from their own published records. We introduce MERS-Dock, a 16-field Minimum Executable Reporting Set, and a deterministic E0-E4 executability ladder over audited field states. In 236 open-access SARS-C…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1c0ca4162d3b",
+    "title": "Knowledge Tectonics: A Geodynamic Inspired Framework for Modeling Epistemic Changes",
+    "url": "https://arxiv.org/abs/2607.12637",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-15T04:00:00+00:00",
+    "summary": "arXiv:2607.12637v1 Announce Type: new Abstract: Emerging knowledge can be envisioned as protruding magma. This paper describes how such a metaphoric view can be turned into a model to capture the 'continental drift' of concepts in an epistemic lithosphere. We call this new approach Knowledge Tectonics. We detail conceptual, mathematical and engineering operations to create such a scalable framework which allows us to interpret and manage knowledge evolution within Semantic Web environments. We u…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b48998ff75b7",
+    "title": "YouTube and X Have Become ‘Gateways’ to Nudify Apps",
+    "url": "https://www.wired.com/story/youtube-and-x-have-become-gateways-to-nudify-apps/",
+    "source": "Wired AI",
+    "date": "2026-07-14T16:05:18+00:00",
+    "summary": "A new study found that social media platforms are referring people to sites where they can create nonconsensual, sexually explicit deepfakes for as little as $1 an image.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4a34f10e1808",
+    "title": "Save Our E-Rate",
+    "url": "https://americanlibrariesmagazine.org/2026/07/14/save-our-e-rate/?utm_source=rss&utm_medium=rss&utm_campaign=save-our-e-rate",
+    "source": "American Libraries",
+    "date": "2026-07-14T14:31:23+00:00",
+    "summary": "As our nation marks its 250th year and E-Rate reaches its 30th anniversary, we should be celebrating a program that has expanded information access for all Americans. Unfortunately, opponents argue that because E-Rate has succeeded, we no longer need it. But success is precisely why it must continue. Just as our streets and roads require &#8230; Continue reading Save Our E-Rate &#8594; The post Save Our E-Rate appeared first on American Libraries Magazine.",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "02b26e6ce835",
+    "title": "2026 Annual Conference Wrap-Up",
+    "url": "https://americanlibrariesmagazine.org/2026/07/14/2026-annual-conference-wrap-up/?utm_source=rss&utm_medium=rss&utm_campaign=2026-annual-conference-wrap-up",
+    "source": "American Libraries",
+    "date": "2026-07-14T14:05:17+00:00",
+    "summary": "At the Opening General Session, journalist, author, and podcaster Rachel Maddow set the tone for a convening that was both celebratory and deeply reflective on what’s happening in the world. Shifting demographics, rapid advances in technology, and the rise of authoritarianism are all affecting how libraries serve their communities. But libraries give Maddow cause for &#8230; Continue reading 2026 Annual Conference Wrap-Up &#8594; The post 2026 Annual Conference Wrap-Up appeared first on American…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "f8d13845a072",
+    "title": "Saving Tangible Media for Tomorrow: A Reflection from Natalie Nemes",
+    "url": "https://blogs.loc.gov/thesignal/2026/07/natalie-nemes/",
+    "source": "LOC Signal",
+    "date": "2026-07-14T12:22:55+00:00",
+    "summary": "2026 Junior Fellow Natalie Nemes describes her work preserving tangible media items for future use and access and shares the history of the Library of Congress’s Tangible Media Project. Click through for more!",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "b707552ab4df",
+    "title": "This Luddite Puppet Hopes You’re Not Reading This on Your Smartphone",
+    "url": "https://www.wired.com/story/the-big-interview-podcast-summer-of-ludd-gowanus/",
+    "source": "Wired AI",
+    "date": "2026-07-14T10:30:00+00:00",
+    "summary": "On this week’s episode of The Big Interview podcast, WIRED’s senior culture editor Manisha Krishnan talks to Gowanus about eschewing Big Tech, going outside, and rejection in the age of dating apps.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ccc823a0e7e0",
+    "title": "The Chatbot That Foretold Why People Share Secrets With ChatGPT",
+    "url": "https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/",
+    "source": "Wired AI",
+    "date": "2026-07-14T10:00:00+00:00",
+    "summary": "In the 1960s an MIT professor named Joseph Weizenbaum created a chatbot called ELIZA. The conversations people had with it set precedents for the chatbots to come.",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "9b9cbf5bde1e",
+    "title": "DOGE Used AI for Housing Policy. The Government Won’t Say How",
+    "url": "https://www.wired.com/story/doge-deployed-ai-housing-policy/",
+    "source": "Wired AI",
+    "date": "2026-07-14T09:00:00+00:00",
+    "summary": "In response to a public records request, HUD has withheld documents about DOGE’s use of AI—in part by citing a privilege that doesn’t exist.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "0c4f81a84c07",
     "title": "An LLM-powered Agentic Recommendation System for Connected TV Content Discovery",
     "url": "https://arxiv.org/abs/2607.09988",
