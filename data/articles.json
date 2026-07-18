@@ -1,11 +1,38 @@
 [
   {
+    "id": "9f2e6ae7c441",
+    "title": "New Online at the Library of Congress: July 2026",
+    "url": "https://blogs.loc.gov/thesignal/2026/07/new-loc-july-2026/",
+    "source": "LOC Signal",
+    "date": "2026-07-17T12:48:08+00:00",
+    "summary": "In our July 2026 edition of \"What’s New Online at the Library of Congress,\" we share updates to the Library's digital collections, volunteer transcriptions, datasets, and more. Click through for more!",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "cfe5a3f57e56",
+    "title": "San Francisco Demands Apple and Google Delete AI ‘Nudify’ Apps From App Stores",
+    "url": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
+    "source": "Wired AI",
+    "date": "2026-07-17T10:00:00+00:00",
+    "summary": "The City Attorney’s Office sent the tech giants cease-and-desist letters this week telling them to stop profiting from 13 “face-swap” apps that are overwhelmingly used to target women and girls.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "8b78bfb6af59",
     "title": "A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War",
     "url": "https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/",
     "source": "Wired AI",
     "date": "2026-07-17T09:00:00+00:00",
     "summary": "The CEO of Foundation Future Industries, which counts the president’s son as its chief strategy adviser, tells WIRED it’s exploring some “kinetic things.”",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "29e789ead9ba",
+    "title": "The risk of weather data sabotage is rising",
+    "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+    "source": "MIT Tech Review",
+    "date": "2026-07-17T08:57:32+00:00",
+    "summary": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, with real money, livelihoods, and even actual lives at stake. Farmers use&#8230;",
     "category": "AI & Information Sciences"
   },
   {
