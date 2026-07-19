@@ -1,5 +1,32 @@
 [
   {
+    "id": "323caf18265b",
+    "title": "Your Period Tracker Is (Probably) Spying on You",
+    "url": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
+    "source": "Wired AI",
+    "date": "2026-07-18T10:30:00+00:00",
+    "summary": "Plus: Russian cyberspies turn to infrastructure hacking, DHS repeatedly fails to realize it’d been hacked, a breach exposes an AI music generator’s scraping ways, and more.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "50fbc7d8ee81",
+    "title": "How Google’s New Gemini Rates Work and How to Track Your Usage",
+    "url": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
+    "source": "Wired AI",
+    "date": "2026-07-18T10:00:00+00:00",
+    "summary": "Now that Google has changed how its usage quotas are tallied, you might not get as many AI responses as you did before.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b4a1dee594aa",
+    "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
+    "url": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
+    "source": "Wired AI",
+    "date": "2026-07-18T09:00:00+00:00",
+    "summary": "“Context bombing” tricks malicious AI agents into shutting down before they can do harm.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "9f2e6ae7c441",
     "title": "New Online at the Library of Congress: July 2026",
     "url": "https://blogs.loc.gov/thesignal/2026/07/new-loc-july-2026/",
