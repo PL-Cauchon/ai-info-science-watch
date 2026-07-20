@@ -1,5 +1,122 @@
 [
   {
+    "id": "64de9441356d",
+    "title": "AI is more likely than humans to form biases when hiring",
+    "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+    "source": "MIT Tech Review",
+    "date": "2026-07-20T08:39:01+00:00",
+    "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own biases from&#8230;",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a50d0ab5d67c",
+    "title": "Adaptive Retrieval Strategies for Biomedical Question Answering",
+    "url": "https://arxiv.org/abs/2607.15283",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-20T04:00:00+00:00",
+    "summary": "arXiv:2607.15283v1 Announce Type: new Abstract: Biomedical question answering (QA) encompasses diverse question types, including yes/no, factoid, list, and summary questions, each requiring distinct forms of evidence and reasoning. However, most retrieval-augmented QA systems rely on a unified retrieval pipeline, regardless of the information needs of different question categories. This one-size-fits-all approach may limit the effectiveness of evidence acquisition and downstream answer generatio…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "5f43dcaad232",
+    "title": "How Does Empowering Users with Greater System Control Affect News Filter Bubbles?",
+    "url": "https://arxiv.org/abs/2607.15284",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-20T04:00:00+00:00",
+    "summary": "arXiv:2607.15284v1 Announce Type: new Abstract: While recommendation systems enable users to find articles of interest, they can also create ``filter bubbles'' by presenting content that reinforces users' pre-existing beliefs. Users are often unaware that the system placed them in a filter bubble and, even when aware, they often lack direct control over it. To address these issues, we first design a political news recommendation system augmented with an enhanced interface that exposes the politi…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2bab6ffed257",
+    "title": "LLMs Encode Relevance as a Layer-Wise Cross-Lingual Signal",
+    "url": "https://arxiv.org/abs/2607.15555",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-20T04:00:00+00:00",
+    "summary": "arXiv:2607.15555v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used in information retrieval (IR) pipelines as relevance judges and re-rankers. Yet most analyses remain output-centric, evaluating generated labels or scores while offering limited insight into how relevance is represented inside the model. In this work, we study whether query-document (q-d) relevance is linearly decodable from residual-stream activations in instruction-tuned LLMs, how this signal com…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "cef9f70b769c",
+    "title": "RecGPT-V3 Technical Report",
+    "url": "https://arxiv.org/abs/2607.15591",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-20T04:00:00+00:00",
+    "summary": "arXiv:2607.15591v1 Announce Type: new Abstract: Large language models (LLMs) are transforming recommender systems from matching co-occurrence patterns in historical behavior toward reasoning about the intent that drives it. RecGPT-V1 pioneered this paradigm on Taobao by centering user understanding, and RecGPT-V2 scaled it via coordinated multi-agent reasoning; both are deployed in production with consistent gains in user experience and commercial outcomes. However, operating RecGPT at scale rev…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "98f9bf894c57",
+    "title": "PCTD: Preference-Guided Counterfactual Task Decomposition for Agent Tool Retrieval",
+    "url": "https://arxiv.org/abs/2607.15696",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-20T04:00:00+00:00",
+    "summary": "arXiv:2607.15696v1 Announce Type: new Abstract: Task decomposition aims to transform ambiguous instructions into executable atomic subtasks, thereby guiding high-precision tool retrieval. However, our analysis reveals that directly adopting tool retrieval metrics, i.e., Recall or NDCG, as rewards for task decomposition can easily induce reward hacking in reinforcement learning-based methods. Specifically, models tend to maximize retrieval matching through strategies such as repetitive decomposit…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d89a77776e47",
+    "title": "From Skill Extraction to Multistakeholder Recommendation: A Two-Stage Framework for Bias Governance in Skills-Based Job Matching",
+    "url": "https://arxiv.org/abs/2607.15707",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-20T04:00:00+00:00",
+    "summary": "arXiv:2607.15707v1 Announce Type: new Abstract: AI-based labor-market systems or platforms can affect access to job opportunities prior to organizational candidate rankings or hiring decisions. Such applications warrant caution, as biases in skill extraction, profile formation, and candidate-job matching may contribute to unfair treatment of candidates. In this paper, we propose a two-stage framework for detecting and governing bias in skills-based job matching. Stage 1, skill extraction and pro…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d755430a2198",
+    "title": "RECAP: Feedback-Driven Streaming Semantic User Profiles for Short-Video Recommendation",
+    "url": "https://arxiv.org/abs/2607.15730",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-20T04:00:00+00:00",
+    "summary": "arXiv:2607.15730v1 Announce Type: new Abstract: Language-based user profiles convert long behavioral histories into explicit semantic representations for recommendation. However, most profile generators are optimized in an open loop: they may summarize past behavior fluently, but are not directly trained to improve future recommendation. We study this problem in real-world short-video recommendation, where user behaviors continuously arrive as streams and profiles must be incrementally updated u…",
+    "category": "Information Behavior"
+  },
+  {
+    "id": "881580906316",
+    "title": "What Do Chinese-Language Generative Search Engines Cite and Surface? A Large-Scale Empirical Study",
+    "url": "https://arxiv.org/abs/2607.15771",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-20T04:00:00+00:00",
+    "summary": "arXiv:2607.15771v1 Announce Type: new Abstract: Generative AI question-answering systems increasingly mediate information access, shifting content visibility from ranked search results to retrieval, citation, and presentation in generated answers. We conduct a large-scale empirical study of Chinese-language generative search across the Web and App interfaces of four mainstream platforms. The controlled design covers eight platform interfaces, 614 queries, and three replications per query-platfor…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "2d11610527ef",
+    "title": "Scientific Claim-Source Retrieval Revisited: A Comparative Study of Style Transfer and Re-Ranking",
+    "url": "https://arxiv.org/abs/2607.15875",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-20T04:00:00+00:00",
+    "summary": "arXiv:2607.15875v1 Announce Type: new Abstract: Scientific claims shared on social media are often difficult to verify and may contribute to the spread of misinformation. To address this challenge, automated fact verification systems require scientific claim-source retrieval, the task of identifying the source publication underlying a given claim. However, claims often differ substantially from their source publications in language, style, and specificity, making retrieval challenging. We presen…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "684af9d6dc99",
+    "title": "Efficient and Effective In-place Graph-based Vector Index Updates",
+    "url": "https://arxiv.org/abs/2607.15576",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-20T04:00:00+00:00",
+    "summary": "arXiv:2607.15576v1 Announce Type: cross Abstract: In the era of Large Language Models (LLMs), efficient vector updates are critical for capturing real-time information from rapidly evolving data. However, it is not trivial to process frequent vector insert and delete updates and maintain a high recall of the search results simultaneously. Specifically, the cluster-based vector indexing methods have high update throughput but low search result quality. Existing out-of-place graph-based vector ind…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "5a9302158367",
+    "title": "Emotion-based Recommender System",
+    "url": "https://arxiv.org/abs/2505.16121",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-20T04:00:00+00:00",
+    "summary": "arXiv:2505.16121v3 Announce Type: replace Abstract: Recommender system is one of the most critical technologies for large internet companies such as Amazon and TikTok. Although millions of users use recommender systems globally everyday, and indeed, much data analysis work has been done to improve the technical accuracy of the system, to our limited knowledge, there has been little attention paid to analysis of users' emotion in recommender systems. In this paper, we create a new theory and metr…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "7e17cbb7737e",
+    "title": "Ruling Out to Rule In: Contrastive Hypothesis Retrieval for Medical Question Answering",
+    "url": "https://arxiv.org/abs/2604.04593",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-20T04:00:00+00:00",
+    "summary": "arXiv:2604.04593v2 Announce Type: replace Abstract: Retrieval-augmented generation (RAG) grounds large language models in external medical knowledge, yet standard retrievers frequently surface hard negatives that are semantically close to the query but describe clinically distinct conditions. While existing query-expansion methods improve query representation to mitigate ambiguity, they typically focus on enriching target-relevant semantics without an explicit mechanism to selectively suppress s…",
+    "category": "AI & Knowledge Management"
+  },
+  {
     "id": "323caf18265b",
     "title": "Your Period Tracker Is (Probably) Spying on You",
     "url": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
