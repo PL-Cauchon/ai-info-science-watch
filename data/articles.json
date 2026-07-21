@@ -1,5 +1,302 @@
 [
   {
+    "id": "3f35f422b9a6",
+    "title": "Etsy Is In Its Flop Era, and Sellers Are Fleeing",
+    "url": "https://www.wired.com/story/etsy-is-in-its-flop-era-and-sellers-are-fleeing/",
+    "source": "Wired AI",
+    "date": "2026-07-21T09:00:00+00:00",
+    "summary": "Once a quirky bastion of amateur vulva jewelry and pet portraits, Etsy is now deluged with mass-produced goods and AI knockoffs. Some customers don’t seem to mind.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "df29686b60ec",
+    "title": "A Quantum-Classical Hybrid Framework for Multivariate Time-Series Forecasting Complexity-Fidelity Trade-offs and Limitations",
+    "url": "https://arxiv.org/abs/2607.16358",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-21T04:00:00+00:00",
+    "summary": "arXiv:2607.16358v1 Announce Type: new Abstract: This paper presents a unified quantum-classical hybrid framework for multi-horizon time-series forecasting, introducing two model variants Quantum Reservoir Forecaster (QRC-F) and Variational Quantum Forecaster (VQF-F). The proposed framework investigates the complexity-fidelity trade-off of quantum forecasting under near-term NISQ hardware constraints. Continuous time-series signals are transformed into binary representations through uniform quant…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b5e24fba0785",
+    "title": "Beyond Fixed Depths and Widths: Optimizing Textual Decoding Tries in LLM-based Generative Recommendation",
+    "url": "https://arxiv.org/abs/2607.16633",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-21T04:00:00+00:00",
+    "summary": "arXiv:2607.16633v1 Announce Type: new Abstract: Generative recommendation (GR) is an increasingly popular paradigm in recommender systems, with a prominent line of work using LLMs as autoregressive backbones to predict the next item's term IDs (e.g., titles or keywords). The success of autoregressive generation hinges on constrained beam search over a decoding trie to ensure that generated outputs correspond to valid items. However, current research predominantly focuses on generating more compr…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "8159a3ca3b39",
+    "title": "WHALE: A Scalable Unified Model for Recommendation with Wukong-HSTU Architecture",
+    "url": "https://arxiv.org/abs/2607.17017",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-21T04:00:00+00:00",
+    "summary": "arXiv:2607.17017v1 Announce Type: new Abstract: As scalability becomes increasingly important in recommendation modeling, recent architectures have advanced the modeling of two broad sources of ranking signals along separate paths: non-sequence features, including user, item, context, and cross features; and sequence features from user behavior histories. Wukong and HSTU have emerged as representative scalable backbones for these paths: Wukong scales high-order non-sequence feature-interaction m…",
+    "category": "Information Behavior"
+  },
+  {
+    "id": "6af741ca6293",
+    "title": "Uncertainty as Remedy: Mitigating Satisfaction Label Bias in Short Video Multi-Objective Ensemble Ranking",
+    "url": "https://arxiv.org/abs/2607.17092",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-21T04:00:00+00:00",
+    "summary": "arXiv:2607.17092v1 Announce Type: new Abstract: The core objective of short video recommendation is to model users' unobservable true satisfaction with recommended videos. As the dominant industrial framework, end-to-end multi-objective ensemble ranking models are typically trained with multi-dimensional dense user behavioral signals, such as clicks and watch time. However, these behavioral signals are partial, fragmented, and often mutually conflicting user satisfaction proxies, introducing unc…",
+    "category": "Information Behavior"
+  },
+  {
+    "id": "6ecfe97fc273",
+    "title": "Fenced Citation-Context Retrieval for Case Law: Temporal Leakage and Degree Control Across Two Jurisdictions",
+    "url": "https://arxiv.org/abs/2607.17142",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-21T04:00:00+00:00",
+    "summary": "arXiv:2607.17142v1 Announce Type: new Abstract: Incoming citation context-the text with which later cases describe a case when citing it-is a strong signal for legal precedent retrieval, but it is evaluated without a temporal fence: at query time the target precedent has not yet been cited by future cases, so an unfenced method credits itself with evidence unavailable at deployment. Our central contribution is to measure how much: a temporal-admission decomposition that splits the naive relax-th…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b4b34e41bfdd",
+    "title": "Learning Sparse Representations of Multimodal Content for Enhanced Cold Item Recommendation",
+    "url": "https://arxiv.org/abs/2607.17184",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-21T04:00:00+00:00",
+    "summary": "arXiv:2607.17184v1 Announce Type: new Abstract: The scale and rapid growth of item catalogs in modern digital platforms present significant challenges to recommender system (RS) practitioners. Most RSs use embedding similarity to predict user-item preferences, but embedding storage and low-latency retrieval is challenging in industry-scale catalogs. Furthermore, newly added items do not have corresponding embeddings and cannot be recommended effectively; previous works often tackle this item col…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "2ced3f0a1bdb",
+    "title": "Adapting Embedding Models for Agent Capability Retrieval",
+    "url": "https://arxiv.org/abs/2607.17347",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-21T04:00:00+00:00",
+    "summary": "arXiv:2607.17347v1 Announce Type: new Abstract: Open agent marketplaces list native agents, tool bundles, and reusable skill packages in the same search interface, yet practitioners still have little guidance on how to retrieve across this mixed catalog. We study whether off-the-shelf retrieval models, trained for general text retrieval, can be adapted to match user queries to executable agent capabilities, and whether the learned signal transfers beyond the benchmark used for tuning. We fine-tu…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "c9cf5393044b",
+    "title": "The Matryoshka Hypencoder",
+    "url": "https://arxiv.org/abs/2607.17457",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-21T04:00:00+00:00",
+    "summary": "arXiv:2607.17457v1 Announce Type: new Abstract: The Hypencoder is a recently-proposed retrieval approach that encodes queries as shallow neural networks (\"Q-Nets\") that estimate relevance over pre-computed document embeddings. Inspired by Matryoshka Representation Learning, we show that the Hypencoder can be extended to support multiple sizes of Q-Nets, allowing trade-offs between effectiveness and efficiency when deployed. We find that this \"Matryoshka Hypencoder\" achieves comparable in-domain …",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "510cc88993ab",
+    "title": "HyCoRec: Hypergraph-Enhanced Multi-Preference Learning for Alleviating Matthew Effect in Conversational Recommendation",
+    "url": "https://arxiv.org/abs/2607.17461",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-21T04:00:00+00:00",
+    "summary": "arXiv:2607.17461v1 Announce Type: new Abstract: The Matthew effect is a notorious issue in Recommender Systems (RSs), \\emph{i.e.}, the rich get richer and the poor get poorer, wherein popular items are overexposed while less popular ones are regularly ignored. Most methods examine Matthew effect in static or nearly-static recommendation scenarios. However, the Matthew effect will be increasingly amplified when the user interacts with the system over time. To address these issues, we propose a no…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4241696aaeaf",
+    "title": "RAMP: Robust Ad Recommendation Under Limited Personalized-Feature Availability via Masking and Alignment Pathways",
+    "url": "https://arxiv.org/abs/2607.17473",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-21T04:00:00+00:00",
+    "summary": "arXiv:2607.17473v1 Announce Type: new Abstract: Click-through rate (CTR) and conversion rate (CVR) prediction are fundamental tasks in online advertising, aiming to estimate the likelihood of user interactions based on various features. While personalized attributes such as age and gender can significantly enhance predictive accuracy, their use is increasingly restricted by privacy regulations, thereby limiting available data for both training and inference. To address this challenge, we propose…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "257b3b80d255",
+    "title": "MagicSelector: Joint Optimization for Agent Tool Selection via Counterfactual Decomposition and Progressive Reranking",
+    "url": "https://arxiv.org/abs/2607.17751",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-21T04:00:00+00:00",
+    "summary": "arXiv:2607.17751v1 Announce Type: new Abstract: We present MagicSelector, a joint optimization framework integrating Counterfactual task decomposition, Progressive reranking, and Dynamic Top-K, designed to address the fundamental challenges of tool retrieval in agents. MagicSelector is a specialized framework capable of translating ambiguous user instructions into executable atomic subtasks and guiding high-precision tool retrieval, effectively mitigating redundant noise and severe context distr…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e1d63d07a2e7",
+    "title": "Remote Awareness of Seafloor Images Collected by AUVs over Low-Bandwidth Communication Links",
+    "url": "https://arxiv.org/abs/2607.18013",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-21T04:00:00+00:00",
+    "summary": "arXiv:2607.18013v1 Announce Type: new Abstract: This paper introduces a method for real-time processing and transmission of autonomous underwater vehicle (AUV) imagery over low-bandwidth communication links. It leverages artificial intelligence (AI) techniques to identify a set of images that best represent an entire dataset, or automatically finds the most similar images to a given query image for transmission to operators. Combined with metadata of a larger set of images, compressed versions o…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "087f0ef73a1c",
+    "title": "Evidence-in-the-Loop: Trace-Driven Optimization for Customer-Service LLM Agents",
+    "url": "https://arxiv.org/abs/2607.18039",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-21T04:00:00+00:00",
+    "summary": "arXiv:2607.18039v1 Announce Type: new Abstract: Production customer-service bots must improve answer quality across iterative releases, yet large language models must not bypass evidence boundaries, policy rules, or human-handoff safeguards. We present an \\textbf{Evidence-Grounded Customer-Service Agent Workflow} deployed in a real-world customer-service setting. BM25 recall, issue-title-vector recall, issue-description-vector recall, weighted RRF fusion, and cross-encoder reranking construct gr…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "81836a032d5e",
+    "title": "FinSAgent: Corpus-Aligned Multi-Agent RAG Framework for Evidence-Grounded SEC Filing Question Answering",
+    "url": "https://arxiv.org/abs/2607.18102",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-21T04:00:00+00:00",
+    "summary": "arXiv:2607.18102v1 Announce Type: new Abstract: Financial question answering over U.S. Securities and Exchange Commission (SEC) filings requires retrieving and synthesizing heterogeneous evidence dispersed across long, standardized, and highly redundant disclosures. Existing retrieval-augmented and multi-agent systems typically derive retrieval queries directly from the user's question and rank candidates by semantic similarity. Together, these choices create prior-corpus misalignment: a mismatc…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "80677dc96c5a",
+    "title": "jina-reranker-v3.5: An Efficient Listwise Reranker with Hybrid Attention and Self-Distillation",
+    "url": "https://arxiv.org/abs/2607.18152",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-21T04:00:00+00:00",
+    "summary": "arXiv:2607.18152v1 Announce Type: new Abstract: Listwise rerankers are the discriminative core of agentic retrieval pipelines, yet production deployment demands efficiency, domain robustness, and fluency on semi-structured data at the same time. We present jina-reranker-v3.5, a 0.6B-parameter listwise reranker that meets these demands together without sacrificing the cross-document comparison that makes its predecessor jina-reranker-v3 effective. jina-reranker-v3.5 keeps the last-but-not-late (L…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "eebd1dfd6590",
+    "title": "Discovery by Dreaming: Cross-Domain Recombination in Artificial Memory",
+    "url": "https://arxiv.org/abs/2607.16256",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-21T04:00:00+00:00",
+    "summary": "arXiv:2607.16256v1 Announce Type: cross Abstract: Dreams splice together people, places, and times that never met. Neuroscience suggests this recombination is not noise, but a function driving insight and creative discovery. This reframes memory consolidation: rather than merely defending against forgetting, its measurable value lies in recombining knowledge across experiences that have not yet co-occurred. We test this directly by isolating the recombinatory-replay mechanism and implementing it…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "70b82b415331",
+    "title": "Art Beyond Semantics: Sheaf-Informed Contrastive Learning for Multi-Relational Representations",
+    "url": "https://arxiv.org/abs/2607.16321",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-21T04:00:00+00:00",
+    "summary": "arXiv:2607.16321v1 Announce Type: cross Abstract: Understanding a painting is never a single act. Art historians may analyze the same work through concepts of style, iconography, or historical context, dimensions that are not interchangeable, and each carries distinct semantic relationships between the visual and the textual. Vision-Language Models (VLMs) like CLIP, which learn a single shared embedding space, collapse this richness into a single homogeneous alignment, thereby losing the multi-r…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "5b675ceeeaff",
+    "title": "How Do You Choose Your AI Component? An Interview Study of Secure AI Integration in Practice",
+    "url": "https://arxiv.org/abs/2607.16660",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-21T04:00:00+00:00",
+    "summary": "arXiv:2607.16660v1 Announce Type: cross Abstract: The increasing adoption of Large Language Models (LLMs) as AI components in modern software systems introduces distinct security risks to the software supply chain. While many considerations and safety mechanisms are in place for components of the traditional software supply chain, the recent rapid adoption of AI components and platforms has overlooked these hard learned lessons. Selecting and integrating AI models without clear guidance on how t…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "8d9f3b9c5738",
+    "title": "Adaptive Incident Prioritization for Security Operations at Scale",
+    "url": "https://arxiv.org/abs/2607.16963",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-21T04:00:00+00:00",
+    "summary": "arXiv:2607.16963v1 Announce Type: cross Abstract: Large security operations centers (SOCs) often face hundreds of active incidents per day, creating substantial cognitive and operational demands for analysts. Analysts must quickly decide which incidents deserve attention within long, constantly changing queues, yet incidents are commonly ordered by arrival time, coarse severity, or product-specific heuristics that leave their relative priority unclear. We introduce Adaptive Incident Prioritizati…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "7625de1cba56",
+    "title": "TurboVec: A Case Study in Cost-Efficient Private Retrieval for Enterprise RAG via Codebook-Oblivious Quantization",
+    "url": "https://arxiv.org/abs/2607.16973",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-21T04:00:00+00:00",
+    "summary": "arXiv:2607.16973v1 Announce Type: cross Abstract: Retrieval-Augmented Generation (RAG) systems increasingly power enterprise LLM applications, yet the vector retrieval layer introduces two underexplored challenges: (1) trained codebook quantizers may expose corpus statistics during index construction, creating a leakage channel in multi-tenant deployments, and (2) post-hoc filtering for tenant isolation degrades recall on selective queries. We study TurboVec, an open-source vector index built on…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c5e4267d2cb1",
+    "title": "DRNOISE: Benchmarking Deep Research Agents in Misleading Evidence Environments",
+    "url": "https://arxiv.org/abs/2607.17291",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-21T04:00:00+00:00",
+    "summary": "arXiv:2607.17291v1 Announce Type: cross Abstract: Deep research agents increasingly operate over the open web, where relevant records coexist with redundant summaries, outdated reports, and misleading documents. Existing evaluations offer limited insight into whether agents preserve sound evidential standards when an ordinary-looking false document is deliberately seeded into a searchable environment and offers a direct shortcut to a conflicting answer. We introduce DRNOISE, a 100-task benchmark…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "fa7f17acda8f",
+    "title": "D-NOVA: In-Storage Retrieval Accelerator via Dual-Bound 3D NAND-Optimized Similarity Search with Vector Adaptation",
+    "url": "https://arxiv.org/abs/2607.17538",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-21T04:00:00+00:00",
+    "summary": "arXiv:2607.17538v1 Announce Type: cross Abstract: Retrieval-Augmented Generation (RAG) enhances the factual grounding of large language model (LLM) inference by retrieving relevant information from external knowledge bases. However, its dense vector retrieval introduces significant latency and energy overhead, becoming the primary performance bottleneck. Although recent in-storage accelerators aim to reduce data movement, they still rely on host or embedded processors outside the memory, where n…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a907f1e28df5",
+    "title": "ANNLib: A Development Framework for Efficient Approximate Nearest Neighbor Search",
+    "url": "https://arxiv.org/abs/2607.17582",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-21T04:00:00+00:00",
+    "summary": "arXiv:2607.17582v1 Announce Type: cross Abstract: Approximate Nearest Neighbor Search (ANNS) plays a pivotal role in modern deep learning pipelines. Recently, many ANNS systems have been proposed to either provide broad functionality or reach high performance. However, it is yet difficult to achieve both with minimal programming efforts. We propose ANNLib to address the gap. ANNLib is a library that provides a programming framework for achieving high performance and flexible functionality in ANN…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "672c3649c162",
+    "title": "Music Recommendation with Large Language Models: Challenges, Opportunities, and Evaluation",
+    "url": "https://arxiv.org/abs/2511.16478",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-21T04:00:00+00:00",
+    "summary": "arXiv:2511.16478v2 Announce Type: replace Abstract: Music Recommender Systems (MRSs) have long relied on an information retrieval framing, where progress is measured mainly through accuracy on retrieval-oriented subtasks. While effective, this reductionist paradigm struggles to address the deeper question of what makes a good recommendation. Attempts to broaden evaluation, through user studies or fairness analyses, have had limited impact. The emergence of Large Language Models (LLMs) disrupts t…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "4f52fc4eceb9",
+    "title": "AnnoRetrieve: Efficient Structured Retrieval for Unstructured Document Analysis",
+    "url": "https://arxiv.org/abs/2604.02690",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-21T04:00:00+00:00",
+    "summary": "arXiv:2604.02690v2 Announce Type: replace Abstract: Unstructured documents dominate enterprise and web data, but their lack of explicit organization hinders precise information retrieval. Current mainstream retrieval methods, especially embedding-based vector search, rely on coarse-grained semantic similarity, incurring high computational cost and frequent LLM calls for post-processing. To address this critical issue, we propose AnnoRetrieve, a novel retrieval paradigm that shifts from embedding…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "6da232c2488a",
+    "title": "Benchmarking Resource-Efficient LLMs for Research Topic Ontology Generation in the Biomedical Field",
+    "url": "https://arxiv.org/abs/2607.17902",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-21T04:00:00+00:00",
+    "summary": "arXiv:2607.17902v1 Announce Type: new Abstract: Knowledge Organization Systems like Ontologies and taxonomies are fundamental for structuring scientific knowledge, yet their manual curation presents a persistent bottleneck in knowledge management. While Large Language Models (LLMs) offer a scalable mechanism for automated ontology generation, their capacity to classify complex, domain-specific semantics requires systematic evaluation. In this paper, we assess the performance of five small, open-…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "8de63ca2d7d0",
+    "title": "Translating AI into scientific impact: Field context, career position, and institutional capability in AI-enabled research",
+    "url": "https://arxiv.org/abs/2607.16780",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-21T04:00:00+00:00",
+    "summary": "arXiv:2607.16780v1 Announce Type: cross Abstract: Artificial intelligence (AI) is increasingly embedded in scientific research, but its scientific value is unlikely to be distributed evenly. This study examines how AI knowledge integration is associated with scientific impact and asks who benefits from AI-related knowledge in science. Using large-scale bibliographic data, we measure AI integration through references to papers in the OpenAlex Artificial intelligence subfield and link it to five-y…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "36f249b59e89",
+    "title": "Real-World Evaluation of an AI Agent Drafting Translational Impact Summaries",
+    "url": "https://arxiv.org/abs/2607.16989",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-21T04:00:00+00:00",
+    "summary": "arXiv:2607.16989v1 Announce Type: cross Abstract: Introduction. Clinical and Translational Science Award (CTSA) programs must document their scholars' research impact, but assembling each scholar's record by hand takes staff an estimated 15 hours and does not scale to a full cohort. An artificial intelligence (AI) agent could serve as a tool to gather scholar data across platforms and disciplines. Methods. We built a human-in-the-loop AI agent that assembles a dossier of sourced evidence for eac…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8f739546c730",
+    "title": "The Landscape of problematic papers in the field of non-coding RNA",
+    "url": "https://arxiv.org/abs/2509.24511",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-21T04:00:00+00:00",
+    "summary": "arXiv:2509.24511v2 Announce Type: replace Abstract: Retractions have increased sharply in recent years, alongside a growing number of papers that receive post-publication comments questioning their reliability (commented papers). Together, retracted and commented papers undermine the credibility of scientific research and may also threaten public health. In this study, we examine problematic papers in the field of non-coding RNA (ncRNA) from multiple perspectives to identify common patterns and …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "fa141aa27aa2",
+    "title": "Metadata conflicts and their impact on DataCite metadata completeness in disciplinary research data repositories",
+    "url": "https://arxiv.org/abs/2603.25468",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-21T04:00:00+00:00",
+    "summary": "arXiv:2603.25468v2 Announce Type: replace Abstract: This paper investigates how eight disciplinary research data repositories from the geosciences and social sciences navigate metadata conflicts - conflicts in implementations of the same standard and inter-standard conflicts - and how these conflicts affect the completeness of DataCite metadata. It combines results from analyzing DataCite metadata records, structural differences between three disciplinary metadata schemas and the DataCite Metada…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "587acd4645a5",
+    "title": "China’s AI models have Trump’s AI world at war with itself",
+    "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+    "source": "MIT Tech Review",
+    "date": "2026-07-20T18:00:00+00:00",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sacks, the president’s AI and crypto “czar” until&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "bed665c35e8d",
+    "title": "New Survey: Privacy Concerns Are A Top Barrier to AgeTech Adoption Among Older Adults",
+    "url": "https://fpf.org/press-releases/new-survey-privacy-concerns-are-a-top-barrier-to-agetech-adoption-among-older-adults/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-07-20T11:55:00+00:00",
+    "summary": "Rapidly growing agetech industry has a significant opportunity to close trust gap, increase product adoption with increased transparency WASHINGTON, D.C. — (July 20, 2026) — The Future of Privacy Forum (FPF) — a global non-profit focused on data protection, AI, and emerging technologies — today released findings from a comprehensive March 2026 survey about how [&#8230;]",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "64de9441356d",
     "title": "AI is more likely than humans to form biases when hiring",
     "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
