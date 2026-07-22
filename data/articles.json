@@ -1,5 +1,275 @@
 [
   {
+    "id": "2746e641804e",
+    "title": "Topology-Aware Tokenization for Generative Recommendation",
+    "url": "https://arxiv.org/abs/2607.18600",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-22T04:00:00+00:00",
+    "summary": "arXiv:2607.18600v1 Announce Type: new Abstract: Generative recommendation reformulates sequential recommendation as an autoregressive generation task, yet a critical issue in this paradigm remains overlooked: topology distortion in item tokenization. In particular, we observe that the intrinsic adjacency relationships of items in the pretrained semantic embedding space are significantly disrupted after quantization. This topology distortion misleads the model's perception of item similarity, ult…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "a72a5d4e265c",
+    "title": "AutoIndex: Learning Representation Programs for Retrieval",
+    "url": "https://arxiv.org/abs/2607.18603",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-22T04:00:00+00:00",
+    "summary": "arXiv:2607.18603v1 Announce Type: new Abstract: We present AutoIndex, a framework for learning representation programs: executable transformations that map raw documents into the representations exposed to a retrieval system. Rather than tuning retrievers, rerankers, or a small set of preprocessing hyperparameters, AutoIndex searches over programs that slice, enrich, normalize, reweight, or reorganize documents before indexing. At each iteration, AutoIndex performs validation-guided program sear…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "71331a757511",
+    "title": "Mitigating Matthew Effect: Multi-Hypergraph Boosted Multi-Interest Self-Supervised Learning for Conversational Recommendation",
+    "url": "https://arxiv.org/abs/2607.18609",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-22T04:00:00+00:00",
+    "summary": "arXiv:2607.18609v1 Announce Type: new Abstract: The Matthew effect is a big challenge in Recommender Systems (RSs), where popular items tend to receive increasing attention, while less popular ones are often overlooked, perpetuating existing disparities. Although many existing methods attempt to mitigate Matthew effect in the static or quasi-static recommendation scenarios, such issue will be more pronounced as users engage with the system over time. To this end, we propose a novel framework, Mu…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "dd8c5c6aa743",
+    "title": "PLAID-PRF: Pseudo-Relevance Feedback with Centroid-like Tokens in PLAID",
+    "url": "https://arxiv.org/abs/2607.18626",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-22T04:00:00+00:00",
+    "summary": "arXiv:2607.18626v1 Announce Type: new Abstract: Multi-vector dense retrieval models, such as ColBERT, achieve strong retrieval effectiveness by modelling fine-grained token-level interactions between queries and documents. Methods such as PLAID use centroid-based quantisation of each token's vector to reduce the index size and speed up retrieval while maintaining strong effectiveness. In this work, we introduce PLAID-PRF, a method that performs Pseudo-Relevance Feedback (PRF) over PLAID to refor…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "3c1feed68af3",
+    "title": "An Epistemic Position-Based Click Model: From Interactions to Epistemic Distributions of Relevance and Bias",
+    "url": "https://arxiv.org/abs/2607.18712",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-22T04:00:00+00:00",
+    "summary": "arXiv:2607.18712v1 Announce Type: new Abstract: User interactions with rankings are affected by both items' relevances and display positions. Accordingly, click probabilities are often modeled as a product of relevance and position factors; and for improving recommendation and search, one needs to disentangle relevance from position bias. However, existing click models only provide frequentist point-estimates that do not capture any measure of epistemic uncertainty. Consequently, there is no ind…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "3ada80bebdaa",
+    "title": "RAGAL: A Frugal, Fully Local Retrieval-Augmented Assistant for Technical Support at a Government Agency",
+    "url": "https://arxiv.org/abs/2607.18756",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-22T04:00:00+00:00",
+    "summary": "arXiv:2607.18756v1 Announce Type: new Abstract: Public institutions hold large volumes of sensitive documents and support tickets that cannot leave the premises, ruling out cloud-hosted language models entirely. We report on RAGAL, a retrieval-augmented assistant for the technical-support team of AFIR, the Romanian Agency for Financing Rural Investments, built and operated under three hard constraints: zero data egress (no external API calls, even for synthetic data), a read-only mandate (the as…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "bdb87f25500f",
+    "title": "Beyond Noisy Signals: Dual-Level Denoising for Multi-modal Sequential Recommendation",
+    "url": "https://arxiv.org/abs/2607.18786",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-22T04:00:00+00:00",
+    "summary": "arXiv:2607.18786v1 Announce Type: new Abstract: Multi-modal Sequential Recommendation (SR) incorporates rich side information (e.g., textual and visual features) to enhance dynamic user preference modeling. However, existing frameworks inevitably suffer from a \\textbf{Dual-Noise Dilemma}: (1) \\textit{Feature-level redundancy} stemming from the semantic gap between generic pre-trained representations and fine-grained recommendation intent; and (2) \\textit{Sequence-level stochasticity} induced by …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b600b739b77d",
+    "title": "TSGR: Taobao Search Generative Retrieval",
+    "url": "https://arxiv.org/abs/2607.18796",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-22T04:00:00+00:00",
+    "summary": "arXiv:2607.18796v1 Announce Type: new Abstract: Generative retrieval (GR) has demonstrated strong promise for industrial e-commerce search by training a single autoregressive model to directly generate the Semantic IDs (SIDs) of target items. However, existing GR systems are primarily optimized for semantic matching and remain insensitive to item business value: SID construction is value-unaware, and candidates are ranked without access to item side-info. Consequently, high-value items are often…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1d749e3578d8",
+    "title": "Answer-Reconstruction Search Density: Measuring the Query and Source Work Compressed by Conversational Answers",
+    "url": "https://arxiv.org/abs/2607.18904",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-22T04:00:00+00:00",
+    "summary": "arXiv:2607.18904v1 Announce Type: new Abstract: Conversational systems can collapse a visible sequence of web queries, result inspections, and source comparisons into a single synthesized answer. Existing retrieval metrics evaluate ranking, effort, or factual support, but they do not quantify the minimum conventional search work represented by a completed answer. We define answer-reconstruction search density (\\ARSD): the minimum number of distinct query actions required, under a fixed and dated…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c59e04fb57b6",
+    "title": "Spectral Biclustering-Driven Scalability for Post-Hoc Explainability in Recommender Systems",
+    "url": "https://arxiv.org/abs/2607.19189",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-22T04:00:00+00:00",
+    "summary": "arXiv:2607.19189v1 Announce Type: new Abstract: Explainability in recommender systems is essential for ensuring transparency, accountability, and trust, yet existing post-hoc methods often encounter severe scalability challenges. Observation-level deletion diagnostics offer a counterfactual way to analyze recommendations by retraining models after removing individual users or items, but their cost grows rapidly with dataset size. To improve the practical tractability of this analysis, this paper…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ab943dfb4c94",
+    "title": "PAGE-RAG: Evidence-Grounded Adaptive Graph Retrieval for Long-Document Question Answering",
+    "url": "https://arxiv.org/abs/2607.19301",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-22T04:00:00+00:00",
+    "summary": "arXiv:2607.19301v1 Announce Type: new Abstract: GraphRAG improves long-document question answering by introducing structured representations beyond conventional retrieval. However, automatically constructed graphs are inherently incomplete projections of source documents, and treating them as independent knowledge sources may lead to unreliable retrieval and generation. We propose PAGE-RAG, a projection-aware adaptive graph retrieval framework for reliable long-document question answering. PAGE-…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "92c9a2019a3c",
+    "title": "Exposure-Based Reinforcement Learning to Rank",
+    "url": "https://arxiv.org/abs/2607.18689",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-22T04:00:00+00:00",
+    "summary": "arXiv:2607.18689v1 Announce Type: cross Abstract: Reinforcement learning (RL) methods for learning-to-rank (LTR) can optimize (almost) any ranking goal, e.g., from precision or discounted cumulative gain to fairness-of-exposure or ranking distillation. However, standard RL is ineffective and computationally costly due to the enormous action space in LTR settings. Existing methods reach computational efficiency through custom gradient computation algorithms, but they are very complex to implement…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8dff9d490c03",
+    "title": "AILQA: Evaluating AI-Driven Legal Question Answering Systems for the Indian Legal System",
+    "url": "https://arxiv.org/abs/2607.18825",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-22T04:00:00+00:00",
+    "summary": "arXiv:2607.18825v1 Announce Type: cross Abstract: This comprehensive study introduces an advanced Artificial Intelligence for Indian Legal Question Answering (AILQA) system tailored to the Indian legal context. AILQA leverages a variety of embedding and generative models, including recent Large Language Models (LLMs), to address the unique challenges posed by the intricate and diverse nature of Indian legal texts and to enhance the accuracy and reliability of responses to legal questions. We con…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "5ca35e05b43f",
+    "title": "Biological Amnesia in ICU Time-Series Prediction: A Drift-Adaptive Two-Stream Architecture with Temporal Retrieval",
+    "url": "https://arxiv.org/abs/2607.19020",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-22T04:00:00+00:00",
+    "summary": "arXiv:2607.19020v1 Announce Type: cross Abstract: Background: Clinical decision support systems degrade silently as treatment protocols evolve, yet standard adaptation methods treat models as monolithic blocks, unable to distinguish stable patient physiology from shifting institutional practice. Methods: We propose an adaptive clinical intelligence architecture for ICU intervention prediction that structurally decouples physiological from treatment representations, confining parameter updates to…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "39fae3b28bd6",
+    "title": "Sequential Learner Modeling Using Multi-Relational Graph Convolutional Networks",
+    "url": "https://arxiv.org/abs/2607.19253",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-22T04:00:00+00:00",
+    "summary": "arXiv:2607.19253v1 Announce Type: cross Abstract: User modeling is a critical task in a variety of personalized systems. Recognizing their effectiveness in learning from graph-structured data, Graph Neural Networks (GNNs), particularly Graph Convolutional Networks (GCNs), are increasingly employed for user modeling. However, existing approaches typically treat different relation types in a graph as homogeneous, limiting their ability to capture richer semantics and construct more informative use…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c631ef59c96d",
+    "title": "GSPRec: On Improving Item Representations in Graph Signal Processing for Collaborative Filtering",
+    "url": "https://arxiv.org/abs/2505.11552",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-22T04:00:00+00:00",
+    "summary": "arXiv:2505.11552v3 Announce Type: replace Abstract: Graph-based collaborative filtering methods act as low-pass filters in the spectral domain and discard the intermediate-frequency components where community-level user preferences reside. Existing GSP-based methods address the loss through sophisticated filter designs, yet derive item representations from the user-item interaction matrix alone. The interaction matrix captures which items each user interacted with, but not which items appear clo…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "aef5425fa2c1",
+    "title": "Towards Full Candidate Interaction: A Comprehensive Comparison Network for Better Route Recommendation",
+    "url": "https://arxiv.org/abs/2508.08745",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-22T04:00:00+00:00",
+    "summary": "arXiv:2508.08745v3 Announce Type: replace Abstract: We argue that the decision-making essence of route recommendation is comparative judgment: users choose a route because it is better than alternatives in specific aspects. The decision-critical information resides in segment-level spatial differences of non-overlapping parts between routes, which is irreversibly lost through item-level feature aggregation. Existing methods, whether attention-based or pairwise ranking approaches, follow an item-…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "7eaeb695e95e",
+    "title": "Vectorizing the Trie: Efficient Constrained Decoding for LLM-based Generative Retrieval on Accelerators",
+    "url": "https://arxiv.org/abs/2602.22647",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-22T04:00:00+00:00",
+    "summary": "arXiv:2602.22647v2 Announce Type: replace Abstract: Generative retrieval has emerged as a powerful paradigm for LLM-based recommendation. However, industrial recommender systems often benefit from restricting the output space to a constrained subset of items based on business logic (e.g. enforcing content freshness or product category), which standard autoregressive decoding cannot natively support. Moreover, existing constrained decoding methods that make use of prefix trees (Tries) incur sever…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a9f1519eb5e8",
+    "title": "M-RAG: Semantic Key-Value Indexing for Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2603.26667",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-22T04:00:00+00:00",
+    "summary": "arXiv:2603.26667v2 Announce Type: replace Abstract: Retrieval-augmented generation (RAG) turns external documents into evidence for large language models. In practice, this is also a data access problem: a system must decide what to index, what to retrieve, and what evidence to place in the context under a token budget. Most RAG pipelines use text chunks for both lookup and generation. This couples two different objectives. Retrieval benefits from compact and discriminative records, while genera…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "08d6bc2d2c1a",
+    "title": "CPGRec+: A Balance-oriented Framework for Personalized Video Game Recommendations",
+    "url": "https://arxiv.org/abs/2604.14586",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-22T04:00:00+00:00",
+    "summary": "arXiv:2604.14586v3 Announce Type: replace Abstract: The rapid expansion of gaming industry requires advanced recommender systems tailored to its dynamic landscape. Existing Graph Neural Network (GNN)-based methods primarily prioritize accuracy over diversity, overlooking their inherent trade-off. To address this, we previously proposed CPGRec, a balance-oriented gaming recommender system. However, CPGRec fails to account for critical disparities in player-game interactions, which carry varying s…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "3a21555401a2",
+    "title": "Category-based and Popularity-guided Video Game Recommendation: A Balance-oriented Framework",
+    "url": "https://arxiv.org/abs/2604.14598",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-22T04:00:00+00:00",
+    "summary": "arXiv:2604.14598v3 Announce Type: replace Abstract: In recent years, the video game industry has experienced substantial growth, presenting players with a vast array of game choices. This surge in options has spurred the need for a specialized recommender system tailored for video games. However, current video game recommendation approaches tend to prioritize accuracy over diversity, potentially leading to unvaried game suggestions. In addition, the existing game recommendation methods commonly …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "823d9bb37f02",
+    "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
+    "url": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
+    "source": "Wired AI",
+    "date": "2026-07-21T22:50:01+00:00",
+    "summary": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a7425c69f005",
+    "title": "This Former Intel CEO Wants to Jumpstart Moore’s Law With Light",
+    "url": "https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/",
+    "source": "Wired AI",
+    "date": "2026-07-21T19:05:00+00:00",
+    "summary": "Pat Gelsinger wants to pave the way to ever more powerful artificial intelligence using tiny beams of light.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e575e3b97969",
+    "title": "A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims’ Blind Spots",
+    "url": "https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/",
+    "source": "Wired AI",
+    "date": "2026-07-21T16:08:44+00:00",
+    "summary": "A new type of malware can worm deep into AI coding systems to steal data and logins—and can flip a “death switch” to destroy files and keep out real users.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a3f7d2c76aef",
+    "title": "Nvidia Wants to Own Every Chip Inside AI Data Centers",
+    "url": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/",
+    "source": "Wired AI",
+    "date": "2026-07-21T15:00:00+00:00",
+    "summary": "Nvidia’s Vera Rubin platform combines CPUs and GPUs into a single system, reflecting the company’s growing ambition to power every layer of AI infrastructure.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0c3d890626ca",
+    "title": "Transcription Can Bring People Together: A Reflection from Shelby Kruger",
+    "url": "https://blogs.loc.gov/thesignal/2026/07/shelby-kruger/",
+    "source": "LOC Signal",
+    "date": "2026-07-21T13:15:39+00:00",
+    "summary": "In this blog post, 2026 Junior Fellow Shelby Kruger reflects on her work with the By the People crowdsourced transcription program this summer.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b60d16826199",
+    "title": "Halliday’s New Smart Glasses Skip the Camera",
+    "url": "https://www.wired.com/story/halliday-new-smart-glasses-skip-the-camera/",
+    "source": "Wired AI",
+    "date": "2026-07-21T13:00:00+00:00",
+    "summary": "Halliday’s G2 glasses can listen to and summarize your workplace meetings—with no video involved.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4e01d28ba05e",
+    "title": "Advancing next-gen AI with materials science innovation",
+    "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+    "source": "MIT Tech Review",
+    "date": "2026-07-21T10:37:34+00:00",
+    "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI technology demands more processing power, more memory, greater energy efficiency, and&#8230;",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "8370f51c5414",
+    "title": "‘It’s a Modern-Day Draft’: Why Stanford Students Walked Out on Sundar Pichai’s Commencement Speech",
+    "url": "https://www.wired.com/story/big-interview-stanford-students-booing-sundar-pichai/",
+    "source": "Wired AI",
+    "date": "2026-07-21T10:30:00+00:00",
+    "summary": "Last month, more than a hundred Stanford students left their own graduation to protest Google’s military contracts and deals with ICE. Two organizers, Amanda Campos and Eva Jones, tell us why.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "6f8749773c69",
+    "title": "The Army Is Burning Through Its AI Tokens",
+    "url": "https://www.wired.com/story/the-army-is-burning-through-its-ai-tokens/",
+    "source": "Wired AI",
+    "date": "2026-07-21T09:30:00+00:00",
+    "summary": "Members of the Army received an email informing them that they were rapidly depleting their AI tokens, and needed to limit use.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "3f35f422b9a6",
     "title": "Etsy Is In Its Flop Era, and Sellers Are Fleeing",
     "url": "https://www.wired.com/story/etsy-is-in-its-flop-era-and-sellers-are-fleeing/",
