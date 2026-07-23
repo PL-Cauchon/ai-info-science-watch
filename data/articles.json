@@ -1,5 +1,158 @@
 [
   {
+    "id": "07a185f1e6c8",
+    "title": "Remember Jibo? Its Successor Is a Wearable That Turns Your Life Into AI Slop",
+    "url": "https://www.wired.com/story/the-beloved-jibo-robot-is-being-resurrected-as-an-ai-wearable/",
+    "source": "Wired AI",
+    "date": "2026-07-23T09:15:00+00:00",
+    "summary": "With “blessings” from the original Jibo founders, iKairos is a wearable or desk-mounted “AI journal” that turns your family moments into AI images and video.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "abdcb464fcf0",
+    "title": "Personalized Recommendation Tool Learning via Autonomous Language Agents",
+    "url": "https://arxiv.org/abs/2607.19739",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-23T04:00:00+00:00",
+    "summary": "arXiv:2607.19739v1 Announce Type: new Abstract: Although large language models (LLMs) have recently gained traction in recommender systems due to their strong reasoning capabilities and extensive world knowledge, previous LLM-based agents suffer from hallucination and context-length limitations, and thus are not suitable for full-ranking recommendation tasks. To circumvent these limitations through architectural design rather than modifying the LLM itself, we propose an agent-based recommendatio…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "92a7818f2b33",
+    "title": "CIR at iKAT SCAI 2026: Exploring Clarification Need Prediction in Agentic Conversational Search",
+    "url": "https://arxiv.org/abs/2607.19801",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-23T04:00:00+00:00",
+    "summary": "arXiv:2607.19801v1 Announce Type: new Abstract: This paper presents the participation of the Cologne Information Retrieval group in the iKAT SCAI 2026 shared task. We use an agentic conversational search system, equipped with tools for query rewriting, retrieval and reranking, answer generation, and clarification need prediction and clarification question generation. We experiment with two different neural clarification need prediction models.",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "2277ba59ffa4",
+    "title": "Zero-Observation User Reactivation with Gap-Driven Dimensional Gating",
+    "url": "https://arxiv.org/abs/2607.19802",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-23T04:00:00+00:00",
+    "summary": "arXiv:2607.19802v1 Announce Type: new Abstract: Sequential recommendation (SR) models capture continuously observed behavior, but a returning user may have no interactions for months or years. We define this setting as Zero-Observation Reactivation: the user has a pre-gap history, while the platform observes no behavioral signals during a macro-gap Delta t. Under a chronologically aligned Gap-Synthesize Protocol on three Amazon datasets (Video Games, CDs & Vinyl, and Movies & TV), Hit@10 decreas…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b13ab767e1ac",
+    "title": "Using Hierarchical Controlled Vocabularies to Understand CLIP Retrieval Failures in Historical Photo Collections",
+    "url": "https://arxiv.org/abs/2607.19836",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-23T04:00:00+00:00",
+    "summary": "arXiv:2607.19836v1 Announce Type: new Abstract: GLAM institutions (Galleries, Libraries, Archives, and Museums) organise image access using controlled vocabularies such as the Art and Architecture Thesaurus (AAT). For content-based image retrieval in these settings, vision-language models like CLIP are increasingly used, but their performance varies. This variation is known to relate to measures like concept abstraction and concept frequency. However, no prior work explains this variation in ter…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "90a104b60d4d",
+    "title": "UniRank: Benchmarking Ranking Models for Unified Sequential Modeling and Feature Interaction",
+    "url": "https://arxiv.org/abs/2607.19987",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-23T04:00:00+00:00",
+    "summary": "arXiv:2607.19987v1 Announce Type: new Abstract: Ranking is a core stage in online advertising and recommender systems. Modern ranking models increasingly unify sequential modeling and feature interaction, yet many advances rely on proprietary data, closed implementations, and large-scale industrial infrastructure. This setting limits reproducible comparison and hinders academic study of scaling laws, long-sequence modeling, and multi-task ranking. To address these limitations, this paper propose…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c98a48571858",
+    "title": "GraphContainer: A Unified Platform for Comparing and Debugging Graph RAG Methods",
+    "url": "https://arxiv.org/abs/2607.19362",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-23T04:00:00+00:00",
+    "summary": "arXiv:2607.19362v1 Announce Type: cross Abstract: Graph RAG mitigates hallucinations and stale knowledge in LLMs, particularly for multi-hop question answering. However, existing approaches remain highly fragmented and incompatible. The structural heterogeneity of graph formats across different frameworks and the lack of granular visualization tools make it exceedingly difficult to evaluate and compare retrieval behaviors. To bridge this gap, we propose GraphContainer, a novel platform designed …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "5b5a2feabb09",
+    "title": "Two-Step Occupation Coding",
+    "url": "https://arxiv.org/abs/2607.20101",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-23T04:00:00+00:00",
+    "summary": "arXiv:2607.20101v1 Announce Type: cross Abstract: Occupation coding links job titles in free text to occupational taxonomies and is a core task in labor market research. Existing approaches typically address this problem in a single end-to-end step, jointly identifying job titles and assigning occupational codes. This paper presents a novel two-step approach that separates these tasks. In the first step, a domain-specific Named Entity Recognition (NER) model identifies occupational titles in con…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0a7f7aae314d",
+    "title": "Near-Optimal Dimension Lower Bounds for Single-Vector Embeddings of Maximum Inner Product Similarity",
+    "url": "https://arxiv.org/abs/2607.20393",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-23T04:00:00+00:00",
+    "summary": "arXiv:2607.20393v1 Announce Type: cross Abstract: Multi-vector embeddings represent items by point clouds and compare query and document point clouds using Chamfer similarity, whereas single-vector embeddings use ordinary inner products. For singleton queries, Chamfer becomes maximum inner product similarity (MAX-IP). In our setting, MUVERA gives dimension $m^{O(1/\\varepsilon^2)}$~\\cite{dhulipala2024muvera}, whereas the previous lower bound $(\\varepsilon^2m)^{\\Omega(1/\\varepsilon)}$~\\cite{jayara…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "90a7a355f4b2",
+    "title": "CAPTS: Channel-Aware, Preference-Aligned Trigger Selection for Multi-Channel Item-to-Item Retrieval",
+    "url": "https://arxiv.org/abs/2602.12564",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-23T04:00:00+00:00",
+    "summary": "arXiv:2602.12564v2 Announce Type: replace Abstract: Large-scale industrial recommender systems commonly adopt multi-channel retrieval for candidate generation, combining direct user-to-item (U2I) retrieval with two-hop user-to-item-to-item (U2I2I) pipelines. In U2I2I, the system selects a small set of historical interactions as triggers to seed downstream item-to-item (I2I) retrieval across multiple channels. In production, triggers are often selected using rule-based policies or learned scorers…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "cf9c652291b3",
+    "title": "GaiaFlow: Semantic-Guided Diffusion Tuning for Carbon-Frugal Search",
+    "url": "https://arxiv.org/abs/2602.15423",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-23T04:00:00+00:00",
+    "summary": "arXiv:2602.15423v4 Announce Type: replace Abstract: As the burgeoning power requirements of sophisticated neural architectures escalate, the information retrieval community has recognized ecological sustainability as a pivotal priority that necessitates a fundamental paradigm shift in model design. While contemporary neural rankers have attained unprecedented accuracy, the substantial environmental externalities associated with their computational intensity often remain overlooked in large-scale…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "181acd1ff507",
+    "title": "LiveGraph: Active-Structure Neural Re-ranking for Exercise Recommendation",
+    "url": "https://arxiv.org/abs/2602.17036",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-23T04:00:00+00:00",
+    "summary": "arXiv:2602.17036v4 Announce Type: replace Abstract: The continuous expansion of digital learning environments has catalyzed the demand for intelligent systems capable of providing personalized educational content. While current exercise recommendation frameworks have made significant strides, they frequently encounter obstacles regarding the long-tailed distribution of student engagement and the failure to adapt to idiosyncratic learning trajectories. We present LiveGraph, a novel active-structu…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "45ff01f3b65d",
+    "title": "Approximate Nearest Neighbor Search for Modern AI: A Projection-Augmented Graph Approach",
+    "url": "https://arxiv.org/abs/2603.06660",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-23T04:00:00+00:00",
+    "summary": "arXiv:2603.06660v2 Announce Type: replace Abstract: Approximate Nearest Neighbor Search (ANNS) is fundamental to modern AI applications. Most existing solutions optimize query efficiency but fail to align with the practical requirements of modern workloads. In this paper, we outline six critical demands of modern AI applications: high query efficiency, fast indexing, low memory footprint, scalability to high dimensionality, robustness across varying retrieval sizes, and support for online insert…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "bd57ed8d3476",
+    "title": "Understanding Generative AI-mediated User Engagement with Academic Library Resources",
+    "url": "https://arxiv.org/abs/2607.20328",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-23T04:00:00+00:00",
+    "summary": "arXiv:2607.20328v1 Announce Type: new Abstract: This study empirically analyzed generative AI as an emerging discovery pathway to academic library resources. Utilizing web analytics from August 2023 to October 2025, the research identifies a significant increase in AI-mediated traffic, particularly following the integration of linked citation features. Referral analysis identified ChatGPT, Perplexity, and Gemini as the primary platforms driving this traffic. A substantial portion of users reache…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a0ba9bc43b49",
+    "title": "TINY_SCHILLER: A Drop-In German Drama Corpus for Small Language Models",
+    "url": "https://arxiv.org/abs/2607.19992",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-23T04:00:00+00:00",
+    "summary": "arXiv:2607.19992v1 Announce Type: cross Abstract: tiny_schiller closes the small-language-model prototyping, fine-tuning, education, and research gap for German literary text, providing a single-file, drop-in counterpart to Karpathy's tiny_shakespeare. The available German literary corpora are larger and richer, but require parser engineering before a single line of training or fine-tuning code can run. tiny_schiller is a 2.07-megabyte single file of eleven public-domain Schiller dramas, sourced…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "aec56dd37924",
+    "title": "The White House Is Trying to Figure Out What to Do About Chinese AI",
+    "url": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
+    "source": "Wired AI",
+    "date": "2026-07-22T21:00:00+00:00",
+    "summary": "There’s a debate going on in the Trump administration over how to handle increasingly powerful Chinese AI models.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "016ef16a8821",
+    "title": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook",
+    "url": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/",
+    "source": "Wired AI",
+    "date": "2026-07-22T19:01:38+00:00",
+    "summary": "As access to Anthropic’s and OpenAI’s frontier models becomes more restricted, Chinese labs are pitching their open-source alternatives as stable, accessible, and increasingly capable.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "2746e641804e",
     "title": "Topology-Aware Tokenization for Generative Recommendation",
     "url": "https://arxiv.org/abs/2607.18600",
