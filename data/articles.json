@@ -1,5 +1,41 @@
 [
   {
+    "id": "2a35d21db5a9",
+    "title": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast/",
+    "source": "Wired AI",
+    "date": "2026-07-24T17:53:01+00:00",
+    "summary": "On this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from Anthropic, and how the US Army needs to cut back on AI use.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "096232ce2d59",
+    "title": "FPF Submits Comments to Inform Colorado Automated Decision-Making Technology and Chatbot Rulemaking Processes",
+    "url": "https://fpf.org/blog/fpf-submits-comments-to-inform-colorado-automated-decision-making-technology-and-chatbot-rulemaking-processes/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-07-24T15:55:09+00:00",
+    "summary": "On July 13, FPF submitted comments in response to the Colorado Department of Justice’s (the Department’s) pre-rulemaking process for the Colorado Automated Decision-making Act (SB 189) and the Chatbot Safety Act (HB 1263). As lawmakers continue to calibrate a proportionate approach to consumer protection from risks of AI-related harms, Colorado&#8217;s two new laws each take [&#8230;]",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "9e751f4d5fc2",
+    "title": "Silicon Valley Is Completely Divided Over Chinese AI",
+    "url": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
+    "source": "Wired AI",
+    "date": "2026-07-24T15:00:00+00:00",
+    "summary": "The AI “startups” worth billions of dollars are raising alarm bells about Chinese AI. The smaller players have a totally different take.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1837e157b82b",
+    "title": "Some Kids Will Never Think AI Is Cool",
+    "url": "https://www.wired.com/story/some-kids-will-never-think-ai-is-cool/",
+    "source": "Wired AI",
+    "date": "2026-07-24T10:00:00+00:00",
+    "summary": "“I think it should stand for artificial idiot,” one 9-year-old says. Here’s why kids of all ages are calling AI “disgusting” and “creepy.”",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "5b6f35f7edc6",
     "title": "Probabilistic Residual Learning for Online Recommendations",
     "url": "https://arxiv.org/abs/2607.20863",
