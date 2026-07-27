@@ -1,5 +1,122 @@
 [
   {
+    "id": "e930597e9965",
+    "title": "This Is Donald Trump’s AI Brain Trust",
+    "url": "https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/",
+    "source": "Wired AI",
+    "date": "2026-07-27T10:00:00+00:00",
+    "summary": "“It’s not an argument with two sides, it’s an argument with 10 sides,” one senior administration official tells WIRED about how US AI policy is being shaped.",
+    "category": "AI & Information Governance"
+  },
+  {
+    "id": "08b0fedf6c03",
+    "title": "SIREN (Luring LLMs onto the Rocks): PAIR-Driven Preference Manipulation in Web-RAG Recommenders",
+    "url": "https://arxiv.org/abs/2607.21951",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-27T04:00:00+00:00",
+    "summary": "arXiv:2607.21951v1 Announce Type: new Abstract: This paper investigates the adversarial manipulation of the ranked recommendations produced by web-augmented large language models (LLMs). When an LLM answers a recommendation query by retrieving and reading live webpages, it acts as a recommender, and each retrieved page becomes a potential attack surface. Prior work has examined fabricated products, retrieval poisoning, and rank promotion. However, these studies do not compare how different edits…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "cee469d039db",
+    "title": "LAMAR: An Open Language-Aware Multilingual Alignment Reranker",
+    "url": "https://arxiv.org/abs/2607.22042",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-27T04:00:00+00:00",
+    "summary": "arXiv:2607.22042v1 Announce Type: new Abstract: In multilingual retrieval augmented generation, a retriever can retrieve relevant documents written in multiple languages, which are subsequently reranked before answer generation. However, it remains unclear whether existing multilingual rerankers consider document language when ordering semantically relevant candidates. Our analysis shows that these rerankers do not consistently prioritize documents written in the same language as the query when …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "7147ffebf010",
+    "title": "Bringing GRACE to Recommendation: Fine-Tuning for Sustainable and Accurate Personalization",
+    "url": "https://arxiv.org/abs/2607.22341",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-27T04:00:00+00:00",
+    "summary": "arXiv:2607.22341v1 Announce Type: new Abstract: Growing concern about environmental sustainability (e.g., reducing carbon emissions and resource use) and public health has motivated ``green'' recommender systems that steer users toward more eco-friendly and healthier choices. However, many existing green recommendation approaches require training new models from scratch, incurring substantial computational and energy costs. Reranking-based methods, meanwhile, introduce an additional sorting stag…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "55771d998944",
+    "title": "The Prompt Is Not the Query: How Request State Evolves Across Multi-Turn AI Conversations",
+    "url": "https://arxiv.org/abs/2607.22392",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-27T04:00:00+00:00",
+    "summary": "arXiv:2607.22392v1 Announce Type: new Abstract: AI-search evaluation commonly treats a prompt as a stable query that can be counted, classified, and replayed in isolation. A conversation makes that unit of analysis questionable: each user turn can add a constraint, revise an assumption, request evidence, or refer to alternatives established earlier. We replace latent \"intent\" with an observable construct, conversation-conditioned request state, and measure how that state is distributed across us…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "27927c7e7fee",
+    "title": "Legal Nugget Extraction for Granular Retrieval over Long Jurisprudential Texts",
+    "url": "https://arxiv.org/abs/2607.22479",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-27T04:00:00+00:00",
+    "summary": "arXiv:2607.22479v1 Announce Type: new Abstract: Legal retrieval over jurisprudential collections is challenging because court decisions are long, heterogeneous documents whose relevant legal thesis may occupy only a small portion of the text. This paper asks whether legal nuggets, defined as short and self-contained legal theses extracted from source documents, can improve dense retrieval over Brazilian legal collections. We propose a pipeline that extracts nuggets from each document, indexes th…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "03453827a911",
+    "title": "PinEqualizer: Full Funnel Content Exploration and Debiasing System at Pinterest",
+    "url": "https://arxiv.org/abs/2607.22518",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-27T04:00:00+00:00",
+    "summary": "arXiv:2607.22518v1 Announce Type: new Abstract: In this paper, we propose a new solution for addressing the content cold-start problem in industry-scale search and recommender systems. Compared to prior approaches, we have made the following new contributions: 1) our solution spans the entire multi-stage funnel and generalizes well for both search and recommendation surfaces, 2) our solution reduces bias favoring existing content, allowing more accurate model prediction across content types and …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "30e9f2388ff0",
+    "title": "StARS: Socially Appropriate Robot Actions via a Recommender System-Driven Approach",
+    "url": "https://arxiv.org/abs/2607.21802",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-27T04:00:00+00:00",
+    "summary": "arXiv:2607.21802v1 Announce Type: cross Abstract: Social appropriateness in human-robot interaction (HRI) is not universal: different people can judge the same robot action differently in the same situation. To capture this inter-subject variability, we reformulate socially appropriate action generation as a preference modelling problem inspired by recommender systems, treating annotators as users, contexts/scenes as items, and appropriateness scores over a set of candidate robot actions as targ…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f3bb6c870e0e",
+    "title": "Reflector: Arrangement-Aware Harmonic Retrieval for Sample-Based Composition",
+    "url": "https://arxiv.org/abs/2607.22413",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-27T04:00:00+00:00",
+    "summary": "arXiv:2607.22413v1 Announce Type: cross Abstract: Sample retrieval tools can help composers find harmonically compatible material, but querying from a fixed reference sample becomes less informative as arrangements evolve and the harmonic context shifts with each musical decision. We present Reflector, an interactive audio workstation that tracks harmonic combinations as they accumulate on the composer's timeline and adapts retrieval as the arrangement develops. The system is organized around a …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ed0560c53d36",
+    "title": "Entities as Retrieval Signals: A Systematic Study of Coverage, Supervision, and Evaluation in Entity-Oriented Ranking",
+    "url": "https://arxiv.org/abs/2604.05204",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-27T04:00:00+00:00",
+    "summary": "arXiv:2604.05204v2 Announce Type: replace Abstract: Entity-oriented retrieval assumes that relevant documents exhibit query-relevant entities, yet evaluations report conflicting results. We show this inconsistency stems not from model failure, but from evaluation. On TREC Robust04, we evaluate six neural rerankers and 437 unsupervised configurations against BM25. Across 443 systems, none improves MAP by more than 0.05 under open-world evaluation over the full candidate set, despite strong gains …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "31ffdd7e222a",
+    "title": "Ask the Curator: Demonstrating Expert-Driven RDF Data Curation with HERITRACE",
+    "url": "https://arxiv.org/abs/2607.22348",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-27T04:00:00+00:00",
+    "summary": "arXiv:2607.22348v1 Announce Type: new Abstract: HERITRACE is an open-source Web application for curating RDF data held in triplestores, with provenance and change tracking recorded in RDF as well. It is agnostic to the data model: a technician configures it for a collection by writing SHACL shapes and YAML display rules, after which domain experts edit the data through generated forms, and every change becomes a provenance snapshot that can be inspected and restored. This paper traces the path f…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "03d37089657e",
+    "title": "Leveraging Resolved Incident History for LLM-Assisted Software Bug Diagnosis",
+    "url": "https://arxiv.org/abs/2607.21911",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-27T04:00:00+00:00",
+    "summary": "arXiv:2607.21911v1 Announce Type: cross Abstract: Effective software bug diagnosis requires two ingredients: the right knowledge source (operational failure history, not just system documentation) and the right retrieval structure (structured records, not unstructured chunks). Current retrieval-augmented generation (RAG) approaches fall short on one or both dimensions. We propose Operational Memory RAG (OM-RAG), which indexes resolved issues as structured symptom-root cause-resolution triples an…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "5ffbfc7cbd0a",
+    "title": "A Preliminary Search for Evidence on Government Software Engineering Practices: Results from Three Rapid Reviews",
+    "url": "https://arxiv.org/abs/2607.22485",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-27T04:00:00+00:00",
+    "summary": "arXiv:2607.22485v1 Announce Type: cross Abstract: Government agencies are major software developers and drivers of digital transformation, yet empirical evidence on their software engineering (SE) practices remains largely unexplored. This paper reports three rapid reviews of 2024 peer reviewed publications to assess the availability of evidence on government SE practices. We examined a subset of top tier international SE venues, regional South American SE conferences, and a curated newsletter o…",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "fb71af4bb4c8",
     "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
     "url": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
