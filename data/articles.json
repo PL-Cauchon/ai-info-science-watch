@@ -1,5 +1,338 @@
 [
   {
+    "id": "3d17afc1db47",
+    "title": "Boomers Can’t Stop Gifting Their Grandkids AI-Generated Slop Books",
+    "url": "https://www.wired.com/story/boomers-cant-stop-gifting-their-grandkids-ai-generated-slop-books/",
+    "source": "Wired AI",
+    "date": "2026-07-29T09:30:00+00:00",
+    "summary": "Parents are getting fed up with garbled bedtime stories that feature characters based on actual photos of their children.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d39556b679b6",
+    "title": "The AI Hype Index: Unsexy AI",
+    "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+    "source": "MIT Tech Review",
+    "date": "2026-07-29T08:42:57+00:00",
+    "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,&#8230;",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "034900477aa0",
+    "title": "DocAnnot -- Accelerating the Creation of Key Information Extraction Datasets with GenAI-Powered Auto-annotation",
+    "url": "https://arxiv.org/abs/2607.24745",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-29T04:00:00+00:00",
+    "summary": "arXiv:2607.24745v1 Announce Type: new Abstract: Key Information Extraction (KIE) is vital for many document applications, but creating training datasets is traditionally a time-consuming manual process. We introduce DocAnnot, a framework that significantly accelerates KIE dataset generation. DocAnnot leverages a Large Vision Language Model (LVLM) for label value extraction, OCR for text/bounding box detection, and a novel Spatially Informed Contextual Matching (SICM) algorithm. SICM improves lab…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e702211735e7",
+    "title": "VLD-RAG: Agentic Vision-Language Retrieval-Augmented Generation for Long, Visually-Rich Multi-Page Documents",
+    "url": "https://arxiv.org/abs/2607.24748",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-29T04:00:00+00:00",
+    "summary": "arXiv:2607.24748v1 Announce Type: new Abstract: Visually-rich documents such as reports, slides, and manuals often distribute the evidence needed to answer a question across multiple pages, mixing text with layout cues, tables, charts, and figures. This work studies multimodal retrieval-augmented generation for question answering over such visually-rich long documents, where retrieval must select evidence pages that include both textual and visual signals. We present VLD-RAG, an agentic multimod…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "3f04ee90e16e",
+    "title": "CHaystack: Benchmarking Chinese Document Retrieval and VQA",
+    "url": "https://arxiv.org/abs/2607.24760",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-29T04:00:00+00:00",
+    "summary": "arXiv:2607.24760v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) has made substantial progress in extending the memory of large language models (LLMs), and recent advances have further pushed RAG from pure text settings toward multimodal scenarios. In the document understanding domain, document visual question answering (DocumentVQA) has evolved from question answering over a single document to retrieval-and-generation pipelines over large-scale document collections. However,…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "04e7621ee737",
+    "title": "The Effect of Text Chunk Size on Retrieval-Augmented Generation Performance",
+    "url": "https://arxiv.org/abs/2607.24767",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-29T04:00:00+00:00",
+    "summary": "arXiv:2607.24767v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) systems have emerged as a powerful process for allowing large language models (LLMs) to retrieve relevant information to use as source material during text generation. A critical yet under-explored component of these systems is the granularity at which source documents are segmented into retrievable chunks. The size of these chunks has the potential to significantly influence generation quality, contextual corre…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "46a3ca1d34d6",
+    "title": "JKO-RAG: Distributional Retrieval as Wasserstein Free-Energy Gradient Flow",
+    "url": "https://arxiv.org/abs/2607.24776",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-29T04:00:00+00:00",
+    "summary": "arXiv:2607.24776v1 Announce Type: new Abstract: RAG pipelines return a \\emph{ranked list} of passages. We argue this is a mismatch: the downstream language model conditions on a \\emph{set}, and the selection problem is fundamentally geometric. We propose \\jko, which frames reranking as minimising a free-energy functional $F(p)=\\text{relevance}+\\text{entropy}+\\text{redundancy}$ under Wasserstein-2 gradient flow via the Jordan--Kinderlehrer--Otto proximal scheme. The ground metric $C_{ij}=(1-\\cos\\…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "4b23e24dd227",
+    "title": "Three Sides of Retrieval: Factorial Evidence for Document-Side, Query-Side, and Answer-Side Complementarity in RAG",
+    "url": "https://arxiv.org/abs/2607.24781",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-29T04:00:00+00:00",
+    "summary": "arXiv:2607.24781v1 Announce Type: new Abstract: RAG systems rely on chunking, which destroys structural information in documents. Existing heading-based retrieval (Jeong et al., 2025) requires multiple LLM calls per document and returns sub-chunks within matched sections. We introduce ToC-guided page retrieval, which infers headings from visual formatting without LLM calls, embeds them as a parallel index, and loads full page sections. Across 1,280 conditions on 8 enterprise documents (5 to 195 …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "8bd8a52bd517",
+    "title": "Unlocking Spatial Grounding in Large Audio-Visual Retrieval models",
+    "url": "https://arxiv.org/abs/2607.24786",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-29T04:00:00+00:00",
+    "summary": "arXiv:2607.24786v1 Announce Type: new Abstract: Weak supervision sets a practical regime for audio-visual sound source localization as dense spatial annotations are costly to obtain at scale. The task, however, remains challenging, as models must locate sound sources from temporally aligned audio-visual data without pixel-level supervision. Recent large-scale audio-visual retrieval models, trained at unprecedented scale, encode rich multimodal structure. We show their latent representations, tho…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d2c5ac19687c",
+    "title": "NEXT: Reasoning-Driven Video Recommendation via a Vision-Language Model",
+    "url": "https://arxiv.org/abs/2607.24789",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-29T04:00:00+00:00",
+    "summary": "arXiv:2607.24789v1 Announce Type: new Abstract: We present NEXT (Next-interest EXploration Transformer), a reasoning-driven video recommendation framework that reasons over the video a user has just watched, infers the viewer's next intent, and retrieves concrete follow-up videos. Explicit continuations such as episodes are linked directly; implicit cases are handled by generating intent queries and searching for matching candidates. This Item-to-Intent-to-Item formulation produces directed reco…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "74003abf38e7",
+    "title": "From Naive RAG to Deep Agentic Retrieval: An Evolving Context Engineering Pipeline for Regulatory Compliance",
+    "url": "https://arxiv.org/abs/2607.24791",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-29T04:00:00+00:00",
+    "summary": "arXiv:2607.24791v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) is the dominant paradigm for applying large language models (LLMs) to enterprise document corpora, yet naive implementations encounter hard limits as corpus scale and query complexity grow. This paper traces the evolution of a production retrieval pipeline at Ontario Power Generation (OPG) for regulatory compliance and rate case analysis under Ontario Energy Board (OEB) reporting requirements. We examine success…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "aa6920485ff8",
+    "title": "AI-Assisted Knowledge Access for Legacy Enterprise Asset Management in Energy Operations: A Practical Retrieval System",
+    "url": "https://arxiv.org/abs/2607.24792",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-29T04:00:00+00:00",
+    "summary": "arXiv:2607.24792v1 Announce Type: new Abstract: Energy utilities still run engineering work management, engineering procurement, and inventory processes on long-lived enterprise asset management platforms. Replacing these platforms is often cost prohibitive and operationally disruptive, so practical improvement layers are required. This paper presents a retrieval assistant that improves day-to-day knowledge access across three operational modes: vendor documentation question answering, operation…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "16aba8d9a27e",
+    "title": "Retrieval, not hallucinations, will be the limiting factor for LLM-based clinical AI tools",
+    "url": "https://arxiv.org/abs/2607.24793",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-29T04:00:00+00:00",
+    "summary": "arXiv:2607.24793v1 Announce Type: new Abstract: Discussions around large language model (LLM) errors in clinical artificial intelligence (AI) generally center around precision errors like hallucinations. This perspective, targeting both clinicians and AI researchers, seeks to shift that discussion to recall errors, particularly in retrieval of patient-level data needed for many clinical AI tools. The perspective outlines types of errors and mitigation strategies, describes research directions in…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "d961193a61b9",
+    "title": "Prediction Is Not Memory: Dual-Timescale Gated Profile Writing for Persistent User Modeling",
+    "url": "https://arxiv.org/abs/2607.24798",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-29T04:00:00+00:00",
+    "summary": "arXiv:2607.24798v1 Announce Type: new Abstract: Persistent user profiles increasingly serve as reusable memory in recommender systems, but common update pipelines conflate two decisions: predicting an interaction and deciding whether it should persist in the profile. After an interaction is observed, many systems treat it as evidence for updating durable user state. This assumption can be harmful when the event reflects transient context, exploration, exposure, or short-term satisfaction rather …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "addf5a0ab45c",
+    "title": "Multimodal Hybrid Retrieval-Augmented Generation for Scientific Document Understanding using Open-Source SLMs",
+    "url": "https://arxiv.org/abs/2607.24799",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-29T04:00:00+00:00",
+    "summary": "arXiv:2607.24799v1 Announce Type: new Abstract: Large Language Models tend to hallucinate when answering domain-specific ques tions from scientific documents without prior fine-tuning. Currently, methods such as Retrieval-Augmented Generation partially solve this problem but face different challenges: limited context knowledge, difference between sparse and dense retrieval, and retrieval noise. This paper presents an Advanced Multimodal Retrieval-Augmented Generation system that aims to solve th…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "efa972dba749",
+    "title": "When Thinking Before Retrieval Hurts: TraceBound Diagnostics for Adaptive Knowledge-Graph Retrieval",
+    "url": "https://arxiv.org/abs/2607.24800",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-29T04:00:00+00:00",
+    "summary": "arXiv:2607.24800v1 Announce Type: new Abstract: Adaptive retrieval promises to make knowledge-graph question answering more robust by letting a controller search, inspect neighborhoods, revise actions, and stop when evidence is sufficient. We study this premise by introducing TraceBound, a lightweight profile- and trace-conditioned diagnostic protocol for an ARK-style retriever on text-rich knowledge graphs. TraceBound exposes a compact query profile before retrieval, issues short trace hints af…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "20369bae0343",
+    "title": "Influence of Prompt Engineering on Small Language Models for Guarded Query Routing",
+    "url": "https://arxiv.org/abs/2607.24801",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-29T04:00:00+00:00",
+    "summary": "arXiv:2607.24801v1 Announce Type: new Abstract: We study the problem of guarded query routing, where we assume that a user query first meets a router that either determines the ideal endpoint for in-distribution queries or rejects out-of-distribution queries that are potentially unsafe or out of the system's scope. We investigate whether compact open-weight Small Language Models (SLMs) can jointly handle both tasks under latency constraints. We evaluate 22 models on GQR-Bench and score them with…",
+    "category": "AI Training & Literacy"
+  },
+  {
+    "id": "2692acc92f50",
+    "title": "SourceMinds at CheckThat! 2026: NLI-Grounded Citation Auditing in a Multi-Agent Pipeline for Full Fact-Checking Article Generation",
+    "url": "https://arxiv.org/abs/2607.24802",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-29T04:00:00+00:00",
+    "summary": "arXiv:2607.24802v1 Announce Type: new Abstract: This paper presents our system for Task 3 of the CLEF 2026 CheckThat! Lab, which focuses on generating full fact-checking articles from claims, veracity labels, and evidence documents. We propose a multi-agent pipeline that combines evidence retrieval, structured fact planning, article generation, gated self-critique, and NLI-based citation auditing. The system retrieves claim-relevant evidence using dense retrieval, reranking, and source-balanced …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2f60e1201b51",
+    "title": "SciClaimSeekers at CheckThat! 2026: Retrieving Scientific Sources for Social Media Claims with LLM Reranking",
+    "url": "https://arxiv.org/abs/2607.24803",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-29T04:00:00+00:00",
+    "summary": "arXiv:2607.24803v1 Announce Type: new Abstract: Scientific claims often spread on social media faster than they can be verified, while posts rarely link to the original scholarly sources. To tackle this problem this paper presents system called SciClaimSeekers, a retrieval and reranking framework by combining BM25 and zero-shot multilingual E5 retrieval with Reciprocal Rank Fusion (k=60), followed by Qwen2.5-14B-Instruct pointwise reranking. The pipeline reaches 64.36% MRR@5 on the English devel…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "4d467e3fd8e1",
+    "title": "Bumblebee: Interleaved Mixed-Layer Building Blocks for Large-Scale Recommendation Systems",
+    "url": "https://arxiv.org/abs/2607.24804",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-29T04:00:00+00:00",
+    "summary": "arXiv:2607.24804v1 Announce Type: new Abstract: Recommendation systems have undergone significant transformations in the past years. The transition from traditional feature interaction modules to generative next-action prediction has pushed the boundaries of personalized content. Developments have largely evolved along two separate tracks. Sequence modeling approaches on the one hand and feature interaction methods on the other. In this paper, we introduce Bumblebee, a recommendation architectur…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "803c0b9c1722",
+    "title": "Retrieval-Augmented Generation in LLMs for Mental Health: Quantifying the Incremental Contribution of Retrieval Within a Layered Safety Architecture",
+    "url": "https://arxiv.org/abs/2607.24817",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-29T04:00:00+00:00",
+    "summary": "arXiv:2607.24817v1 Announce Type: new Abstract: Digital mental health interventions (DMHIs) offer scalable support, but ensuring they accurately detect users' intent during volatile situations can be challenging. Pure parametric Large Language models (LLMs) do not contain specific safety critical architecture, and can miss critical cues, or hallucinate, undermining reliability. Retrieval Augmented Generation (RAG), which supplements an LLM with retrieved context, could enhance intent detection d…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c81093c1c491",
+    "title": "Dual-Level Atomic and Coordination Geometry Learning for Crystal Property Prediction Using Graph Neural Networks",
+    "url": "https://arxiv.org/abs/2607.24818",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-29T04:00:00+00:00",
+    "summary": "arXiv:2607.24818v1 Announce Type: new Abstract: Accurate prediction of crystal properties remains a key challenge in computational materials science. While graph neural networks (GNNs) such as CGCNN, MEGNet, ALIGNN, and SchNet have shown strong performance, they primarily represent crystals at the atomic level and implicitly learn local chemical environments through message passing. However, many material properties are governed by coordination polyhedra, the fundamental structural units formed …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "3bd6e27a12d3",
+    "title": "A Position Paper on Recommender Systems in the Era of Autonomous Agents",
+    "url": "https://arxiv.org/abs/2607.24822",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-29T04:00:00+00:00",
+    "summary": "arXiv:2607.24822v1 Announce Type: new Abstract: For decades, recommender systems have been optimized to serve human users. However, the rapid deployment of autonomous agents introduces a paradigm shift: recommendation consumers are predicted to be increasingly a mixture of humans and authorized agents acting on their behalf. This position paper reviews insights from prior human-centric RecSys research and outlines the transition to this hybrid environment. In our discussion, we treat agents as i…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "97f09de88967",
+    "title": "Retrieval-based and Fine-tuned LLM Approaches for Industrial Asset Health Monitoring and Decision Support",
+    "url": "https://arxiv.org/abs/2607.24824",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-29T04:00:00+00:00",
+    "summary": "arXiv:2607.24824v1 Announce Type: new Abstract: Industrial plants run many important machines such as pumps, turbines, and compressors. Although engineers can use their experience to identify and diagnose machine problems, transferring this reasoning ability to computer systems remains difficult. This work studies how well a retrieval-only method and an open-source large language model (LLM) perform failure-sensor diagnostic reasoning using the FailureSensorIQ benchmark, a multiple-choice questi…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "4e3d065b46b5",
+    "title": "Aethel: A Reproducible Graph-Retrieval Framework for Multi-Hop Financial Diligence",
+    "url": "https://arxiv.org/abs/2607.24826",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-29T04:00:00+00:00",
+    "summary": "arXiv:2607.24826v1 Announce Type: new Abstract: Secondary private equity transactions require rapid synthesis of fragmented, unstructured financial disclosures, where critical metrics and their entity anchors are distributed across disjoint documents with limited lexical overlap. We present Aethel, a reproducible framework that combines bipartite Personalized PageRank graph retrieval with a coreference-aware Bipartite Coreference Teleportation layer and an orchestrated specialist-agent architect…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c098aa628cf2",
+    "title": "Improving Rare Medication Recommendation with Counterfactual Data Augmentation and Large Language Models",
+    "url": "https://arxiv.org/abs/2607.24829",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-29T04:00:00+00:00",
+    "summary": "arXiv:2607.24829v1 Announce Type: new Abstract: AI-based medication recommendation systems have attracted substantial attention due to their potential to enhance patient safety and therapeutic outcomes. Despite the clinical importance of accurately recommending rarely prescribed medications (rare-meds), we observe that most existing methods show significantly lower predictive performance for rare-meds. We attribute this issue to two intrinsic limitations: (a) the inherent scarcity of data for ra…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "1b68b722f862",
+    "title": "MedJudgeRAG: Option-Wise Evidence Judgment with Dynamic Knowledge Graphs for Medical MCQA",
+    "url": "https://arxiv.org/abs/2607.24838",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-07-29T04:00:00+00:00",
+    "summary": "arXiv:2607.24838v1 Announce Type: new Abstract: In medical multiple-choice question answering (MCQA), Retrieval-Augmented Generation (RAG) can supplement the domain knowledge of language models (LMs). However, since vanilla RAG indiscriminately utilizes retrieved documents, it can degrade LM performance. To address this, we propose MedJudgeRAG. Our framework represents retrieved documents as a dynamic knowledge graph (KG) composed of entities and relations. For each option, the model judges an e…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "b4f6a8b56adb",
+    "title": "Preprints Without Curation Are Increasingly Cited by Journals",
+    "url": "https://arxiv.org/abs/2607.25220",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-29T04:00:00+00:00",
+    "summary": "arXiv:2607.25220v1 Announce Type: new Abstract: The recent strain on peer review systems necessitates the publish-review-curate model, where the public dissemination of manuscripts is decoupled from formal peer review and later editorial processes. Citation norms traditionally pointed to the curated version; those that subsequently appear in peer-reviewed journals. Citations to preprints are therefore generally expected to occur only to those eventually curated. Using metadata from six major pre…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "4c9aa8354683",
+    "title": "Comparative Analysis of Classification Schemes on Major Bibliometric Platforms: A study of Web of Science, Scopus, the Lens, and Dimensions",
+    "url": "https://arxiv.org/abs/2607.25499",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-29T04:00:00+00:00",
+    "summary": "arXiv:2607.25499v1 Announce Type: new Abstract: This study examines the classification schemes of four major bibliometric platforms - Web of Science, Scopus, Dimensions, and The Lens - which collectively index hundreds of millions of scholarly documents. As these platforms grow in scale and scope, researchers face increasing complexity when searching and analyzing their vast collections. Classification schemes serve as essential tools to navigate these massive datasets, enabling researchers to e…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "35ea9351f597",
+    "title": "F(AI)2R: Who Did What, and Who Checked? Verifiable AI Provenance as an Executable Skill",
+    "url": "https://arxiv.org/abs/2607.25637",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-29T04:00:00+00:00",
+    "summary": "arXiv:2607.25637v1 Announce Type: new Abstract: F(AI)2R is FAIR research with AI in the loop, twice: an AI-assisted authoring pass and a machine-readable audit pass over every artefact. AI systems now draft, refactor, and verify research artefacts, yet their contributions are rarely recorded in a form a later human or machine can audit. Building on the original F(AI)2R experiment, we generalize its provenance model beyond scholarly writing into aiprov, a PROV-O extension covering any AI-in-the-l…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0c16caf10f38",
+    "title": "Is ChatGPT as reliable as individual reviewers assessing the quality of published journal articles from PDFs or titles and abstracts?",
+    "url": "https://arxiv.org/abs/2607.25965",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-29T04:00:00+00:00",
+    "summary": "arXiv:2607.25965v1 Announce Type: new Abstract: Whilst Large Language Models (LLMs) have a weak to moderate ability to score published journal articles for research quality, they have not been compared with individual expert reviewers. It is also unknown whether quality scores from ChatGPT based on PDFs can improve on those from titles and abstracts through a deeper evaluation. To address both issues, this article uses expert scores (98 internal departmental ratings for UK Unit of Assessment [Uo…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "3a089eb3b0fb",
+    "title": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
+    "url": "https://arxiv.org/abs/2607.24759",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-29T04:00:00+00:00",
+    "summary": "arXiv:2607.24759v1 Announce Type: cross Abstract: Research projects, educational efforts, and adjacent knowledge work accumulate findings, decisions, and reasoning that future collaborators rarely recover. The parts most useful to that work, including dead ends and walked-back claims, are routinely excluded from publications and shared code; future researchers re-attempt the same failures because no record survives. LLM coding agents are common participants but hold no persistent memory across s…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "5cb82fb93cf8",
+    "title": "Measuring the State of Open Science in Transportation Using Large Language Models",
+    "url": "https://arxiv.org/abs/2601.14429",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-07-29T04:00:00+00:00",
+    "summary": "arXiv:2601.14429v2 Announce Type: replace Abstract: Open science initiatives have strengthened scientific integrity and accelerated research progress across many fields, but the state of their practice within transportation research remains under-investigated. Key features of open science, defined here as data and code availability, are difficult to extract due to the inherent complexity of the field. Previous work has either been limited to small-scale studies due to the labor-intensive nature …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "b7f098fe651f",
+    "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
+    "url": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
+    "source": "Wired AI",
+    "date": "2026-07-29T00:15:30+00:00",
+    "summary": "In a new disclosure, OpenAI says its agent used exposed logins to gain access to at least four “publicly available services” in its unhinged quest to solve a test.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "928b7ff9a397",
+    "title": "The AI Act Implementation Timeline: What Changes Under the AI Omnibus?",
+    "url": "https://fpf.org/blog/the-ai-act-implementation-timeline-what-changes-under-the-ai-omnibus/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-07-28T22:46:30+00:00",
+    "summary": "The implementation timeline of the EU AI Act has been significantly modified through the recently adopted AI Omnibus, which pushes compliance with the obligations for high-risk AI systems to December 2027 (Annex III) and August 2028 (Annex I), from the initial date of 2 August 2026. Changes of the AI Act include, among others, the [&#8230;]",
+    "category": "AI & Information Governance"
+  },
+  {
+    "id": "612e22fe423d",
+    "title": "Can the New York Times Save Journalism From Our AI Overlords?",
+    "url": "https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/",
+    "source": "Wired AI",
+    "date": "2026-07-28T10:30:00+00:00",
+    "summary": "In 2023, the Times sued OpenAI and Microsoft for copyright infringement. They’ve since spent more than $20 million on the case, and publisher A.G. Sulzberger has no plans to stop fighting it.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f77bb9b3a4a2",
+    "title": "Silicon Valley’s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
+    "url": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/",
+    "source": "Wired AI",
+    "date": "2026-07-28T10:00:00+00:00",
+    "summary": "Anthropic and OpenAI employees are expected to give generously after their companies go public. “It’s going to be a wild ride,” says one nonprofit leader.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "427bfd1aa7fc",
     "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
     "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
