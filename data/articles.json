@@ -1,5 +1,230 @@
 [
   {
+    "id": "3be2ea626766",
+    "title": "AI Conquered Coding. Fast Food Is Next",
+    "url": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
+    "source": "Wired AI",
+    "date": "2026-08-03T10:00:00+00:00",
+    "summary": "Your next drive-thru order might be taken by a bot. And you might not even notice.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "9de1d84286d5",
+    "title": "The ‘Guardrail Guy’ Went Viral for Posting About Flock Cameras. Then Someone Destroyed Them",
+    "url": "https://www.wired.com/story/flock-cameras-guardrail-guy-advocacy-damage-people-dont-like-alprs/",
+    "source": "Wired AI",
+    "date": "2026-08-03T09:30:00+00:00",
+    "summary": "Steve Elmers, also known as the “Guardrail Guy,” is done calling out license plate readers after two that appeared in his videos were vandalized.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "221346ac9085",
+    "title": "Here’s why AI agents lie and cheat to reach their goals",
+    "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+    "source": "MIT Tech Review",
+    "date": "2026-08-03T08:30:05+00:00",
+    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "17c762df265d",
+    "title": "RareSense: Rarity-Aware Similarity Search for Anomaly Retrieval in Transactional Data",
+    "url": "https://arxiv.org/abs/2607.28879",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-03T04:00:00+00:00",
+    "summary": "arXiv:2607.28879v1 Announce Type: new Abstract: Similarity search over sparse set-valued data is often dominated by frequent background attributes because classical measures such as Jaccard, cosine, and Hamming compare objects through atomic overlap. IDF (Inverse document frequency) weighting partially reduces this effect but remains atom-wise and cannot explicitly represent informative higher-order co-occurrences. We introduce RareSense, a rarity-aware similarity framework for sparse transactio…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "afe5bdd4670e",
+    "title": "LLM-Based Generative Retrieval for Snapchat Content Recommendation",
+    "url": "https://arxiv.org/abs/2607.28895",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-03T04:00:00+00:00",
+    "summary": "arXiv:2607.28895v1 Announce Type: new Abstract: Pretrained large language models (LLMs) are promising retrieval engines because they combine rich semantic priors, strong sequence modeling capabilities, and favorable scaling behavior. However, turning a pretrained LLM into a generative retriever in production deployment raises several challenges: the model must learn an internal item vocabulary that was absent from pretraining, and generate valid item identifiers under strict latency and cost con…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "ac62d2f85681",
+    "title": "TransX: Scaling Transformer-based Recommendation via Behavioral and Serving Stream Crossings",
+    "url": "https://arxiv.org/abs/2607.28940",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-03T04:00:00+00:00",
+    "summary": "arXiv:2607.28940v1 Announce Type: new Abstract: Modern industrial recommender systems (RecSys) increasingly adopt Transformer-based sequence models, with an emerging paradigm that frames recommendation as next-token prediction over a unified monolithic user sequence. However, collapsing heterogeneous data sources -- such as long-term user behaviors and real-time serving events -- into a single monolithic token stream that obscures their distinct causal roles and temporal characteristics, leading…",
+    "category": "Information Behavior"
+  },
+  {
+    "id": "6f02dc74782e",
+    "title": "Don't Contrast the Impossible: Region-Constrained Batching for Contrastive User Modeling on a Local Community Platform",
+    "url": "https://arxiv.org/abs/2607.28971",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-03T04:00:00+00:00",
+    "summary": "arXiv:2607.28971v1 Announce Type: new Abstract: Contrastive learning is widely used for user modeling in large-scale recommender systems, where standard in-batch negatives implicitly assume universal exposure that any user can be shown any item. On local community platforms such as Karrot, however, exposure is geographically constrained; many user-item pairs are impossible by design yet still treated as negatives during training, diluting the contrastive learning signal. We address this impossib…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5df4ba9ab0ec",
+    "title": "Think2Go: Generative Next POI Recommendation with LLM Reasoning",
+    "url": "https://arxiv.org/abs/2607.28997",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-03T04:00:00+00:00",
+    "summary": "arXiv:2607.28997v1 Announce Type: new Abstract: Next Point-of-Interest (POI) recommendation task focuses on mining user behavioral preference patterns from historical check-ins to provide personalized suggestions for the next destination. Existing methods primarily rely on shallow contextual information and handcrafted feature interactions to predict the next POI. However, the inherent sparsity and complexity of user mobility patterns limit the computational capacity of non-reasoning models to c…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "ccf86ed20ea3",
+    "title": "PaletteID: Prototype-Composed Semantic Identifiers for Multimodal CTR Prediction",
+    "url": "https://arxiv.org/abs/2607.29000",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-03T04:00:00+00:00",
+    "summary": "arXiv:2607.29000v1 Announce Type: new Abstract: Multimodal information can improve the accuracy of click-through rate (CTR) prediction and effectively alleviate item cold-start and long-tail problems. Recent studies commonly discretize pretrained multimodal embeddings into semantic identifiers (SIDs), allowing the model to learn task-specific semantic representations for recommendation. However, existing methods still provide limited gains due to two major limitations. First, codebook assignment…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "fe561dbee22c",
+    "title": "EvoReason: Self-Evolving Reasoning Primitive-Guided On-Policy Distillation for Latent Reasoning in Generative Recommendation",
+    "url": "https://arxiv.org/abs/2607.29010",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-03T04:00:00+00:00",
+    "summary": "arXiv:2607.29010v1 Announce Type: new Abstract: Generative recommendation benefits from reasoning-enhanced inference, and latent reasoning offers an efficient paradigm by encoding intermediate reasoning processes into compact continuous representations for latency-sensitive deployment. Despite its efficiency, existing latent reasoning approaches typically rely on directly distilling raw chain-of-thought (CoT) trajectories into latent representations, assuming that textual reasoning traces provid…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ff4b76d05b93",
+    "title": "Reproducing LightMem: Naive RAG Is Just as Good for Memory Management",
+    "url": "https://arxiv.org/abs/2607.29104",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-03T04:00:00+00:00",
+    "summary": "arXiv:2607.29104v1 Announce Type: new Abstract: Long-term conversational agents require access to information from earlier interactions, such as a user's preferences, past requests, or previously mentioned facts. Repeatedly providing the full dialogue history can be expensive as conversations grow, so many memory approaches instead transform past interactions into compact entries that can be retrieved when needed. LightMem is a recent lightweight memory-management approach that reports strong ef…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "54d348aa2e9a",
+    "title": "GALA: Generative Aligned Learning for Adaptive Multimodal Representation in the Taobao Shangou Recommender System",
+    "url": "https://arxiv.org/abs/2607.29213",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-03T04:00:00+00:00",
+    "summary": "arXiv:2607.29213v1 Announce Type: new Abstract: Modern recommender systems in food delivery increasingly leverage multimodal signals, including images, text, and user interaction histories, to enhance user experience, yet effective fusion of these heterogeneous modalities remains challenging, hindering both the joint modeling of multimodal signals and adaptation to evolving user intent. In mainstream two-stage approaches, the separation between content-semantic pretraining of image-text encoders…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "06487de13c58",
+    "title": "RecHarness: A Bandit-Routed Agentic Harness for Self-Evolving Recommender Systems",
+    "url": "https://arxiv.org/abs/2607.29241",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-03T04:00:00+00:00",
+    "summary": "arXiv:2607.29241v1 Announce Type: new Abstract: Optimizing modern recommender models still depends heavily on engineers manually iterating over architectural, objective, and training-strategy changes. While LLM-based agents can automate this trial-and-error process, allowing the LLM to both select modification directions and generate concrete hypotheses often leads to unstable search under limited experiment budgets. Inspired by the above challenge, we propose RecHarness, a Bandit-Routed Agentic…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c26b9de876d0",
+    "title": "Language Models Agree With Each Other, Not With Readers",
+    "url": "https://arxiv.org/abs/2607.29274",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-03T04:00:00+00:00",
+    "summary": "arXiv:2607.29274v1 Announce Type: new Abstract: Claims that language models homogenise are usually measured against human judgements collected for the study, which makes the human side an artifact of the design: a crowdworker given the model's instruction is running the model's prompt. We measure convergence against a human reference nobody built for the purpose -- 2,523 reader mark sets across 120 web documents, produced by people highlighting for their own reasons on a platform where the overl…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ca98afce7655",
+    "title": "Bridging the Question-Answer Gap in Retrieval-Augmented Generation: Hypothetical Prompt Embeddings",
+    "url": "https://arxiv.org/abs/2607.29402",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-03T04:00:00+00:00",
+    "summary": "arXiv:2607.29402v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) systems synergize retrieval mechanisms with generative language models to enhance the accuracy and relevance of responses. However, bridging the style gap between user queries and relevant information in document text remains a persistent challenge in retrieval-augmented systems, often addressed by runtime solutions (e.g., Hypothetical Document Embeddings (HyDE)) that attempt to improve alignment but introduce e…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "30de60981c12",
+    "title": "QASP: Query-Adaptive Robust Vector Search Policy",
+    "url": "https://arxiv.org/abs/2607.29606",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-03T04:00:00+00:00",
+    "summary": "arXiv:2607.29606v1 Announce Type: new Abstract: A fundamental challenge of vector search is achieving consistently high recall while minimizing computational costs. Fixed search parameters cause significant performance variance across queries, and conventional evaluation on average recall masks these per-query disparities. We introduce QASP (Query-Adaptive robust vector Search Policy), which predicts the complete recall progression curve per query via a single upfront supervised regression, from…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "ba1bb9f606dd",
+    "title": "Safety, or Just Capability? A Validity Audit of Agent-Safety Benchmarks",
+    "url": "https://arxiv.org/abs/2607.28685",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-03T04:00:00+00:00",
+    "summary": "arXiv:2607.28685v1 Announce Type: cross Abstract: Agent-safety benchmarks measure different behaviors, and their scores get quoted interchangeably as an agent's safety. We treat four of them (R-Judge, InjecAgent, AgentHarm, AgentDojo) as measurements to be validated, running each under its official implementation and author-provided scorer on up to 22 models, with MMLU and GPQA measured by us under one protocol as a capability composite. The metric is the first problem. On any binary trace-judgm…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "eff50feb0262",
+    "title": "GoldenRetriever: Non-Interactive Homomorphic Encrypted Retrieval for Privacy-Preserving RAG",
+    "url": "https://arxiv.org/abs/2607.29019",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-03T04:00:00+00:00",
+    "summary": "arXiv:2607.29019v1 Announce Type: cross Abstract: Retrieval-Augmented Generation (RAG) enhances large language models by incorporating external knowledge, but existing pipelines typically operate on plaintext data, raising significant privacy concerns. Prior work on privacy-preserving retrieval leverages cryptographic techniques such as homomorphic encryption (HE) and private information retrieval (PIR), but often relies on interactive protocols or ranking-based selection mechanisms that incur h…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a8a8ce2e5552",
+    "title": "MMGRec: Multimodal Generative Recommendation with Transformer Model",
+    "url": "https://arxiv.org/abs/2404.16555",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-03T04:00:00+00:00",
+    "summary": "arXiv:2404.16555v4 Announce Type: replace Abstract: Multimodal recommendation aims to recommend user-preferred candidates based on her/his historically interacted items and associated multimodal information. Previous studies commonly employ an embed-and-retrieve paradigm: learning user and item representations in the same embedding space, then retrieving similar candidate items for a user via embedding inner product. However, this paradigm suffers from inference cost, interaction modeling, and f…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "b44979b69e24",
+    "title": "OPERA: Online Data Pruning for Efficient Retrieval Model Adaptation",
+    "url": "https://arxiv.org/abs/2603.17205",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-03T04:00:00+00:00",
+    "summary": "arXiv:2603.17205v3 Announce Type: replace Abstract: Domain-specific finetuning is essential for dense retrievers, yet not all data pairs contribute equally to the learning process. We introduce OPERA, a data pruning framework that exploits this heterogeneity to improve both the effectiveness and efficiency of retrieval model adaptation. We first investigate static pruning (SP), which retains only high-similarity query-document pairs, revealing an intrinsic quality-coverage tradeoff: ranking (NDC…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "85f45ccd18e5",
+    "title": "SaFRO: Satisfaction-Aware Fusion via Dual-Relative Policy Optimization for Short-Video Search",
+    "url": "https://arxiv.org/abs/2603.19585",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-03T04:00:00+00:00",
+    "summary": "arXiv:2603.19585v2 Announce Type: replace Abstract: Multi-Task Fusion plays a pivotal role in industrial short-video search systems by aggregating heterogeneous prediction signals into a unified ranking score. However, existing approaches predominantly optimize for immediate engagement metrics, which often fail to align with long-term user satisfaction. While Reinforcement Learning (RL) offers a promising avenue for user satisfaction optimization, its direct application to search scenarios is no…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ec5bba820558",
+    "title": "Epistemic-aware Vision-Language Foundation Model for Fetal Ultrasound Interpretation",
+    "url": "https://arxiv.org/abs/2510.12953",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-03T04:00:00+00:00",
+    "summary": "arXiv:2510.12953v4 Announce Type: replace-cross Abstract: Recent medical vision-language models have shown promise on tasks such as VQA, report generation, and anomaly detection. However, most are adapted to structured adult imaging and underperform in fetal ultrasound, which poses challenges of multi-view image reasoning, numerous diseases, and image diversity. To bridge this gap, we introduce FetalMind, a medical AI system tailored to fetal ultrasound for both report generation and diagnosis. …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "181f83388db5",
+    "title": "A robust association between LLM use and scientific productivity: Assessing stopping-time selection",
+    "url": "https://arxiv.org/abs/2607.28968",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-03T04:00:00+00:00",
+    "summary": "arXiv:2607.28968v1 Announce Type: new Abstract: Renault, Bergeaud, and Bosquet (hereafter RBB) argue that dating LLM adoption as the first month in which an author's abstract is flagged induces a stopping-time selection that can produce a positive event-study path even when there is no causal effect. Although this mechanism is mathematically possible, it does not constitute proof of a null effect. Recalibrating RBB's own random placebo to the detector's realized flag rate, we show that the measu…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "ff71ffe0f48d",
+    "title": "Conservative adventurers have more future academic impact",
+    "url": "https://arxiv.org/abs/2306.16643",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-03T04:00:00+00:00",
+    "summary": "arXiv:2306.16643v3 Announce Type: replace Abstract: Some scientists explore unfamiliar topics, while others exploit existing ones, yet the link between these choices and academic performance remains unclear. Prior studies offer conflicting evidence, often relying on single metrics and overlooking confounding factors. To address this, we complement the traditional switch frequency metric with switch distances, control for confounders, and establish a clear connection between past switching behavi…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b4b4514d387b",
+    "title": "Bi-National Academic Funding and Collaboration Dynamics: The Case of the German-Israeli Foundation",
+    "url": "https://arxiv.org/abs/2510.02743",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-03T04:00:00+00:00",
+    "summary": "arXiv:2510.02743v2 Announce Type: replace Abstract: Academic grant programs are widely used to motivate international research collaboration and boost scientific impact across borders. Among these, bi-national funding schemes -- pairing researchers from just two designated countries -- are common yet understudied compared with national and multinational funding. In this study, we explore whether bi-national programs are associated with new collaborations and lasting partnerships. To this end, we…",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "d3b16f4f781e",
     "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
     "url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
