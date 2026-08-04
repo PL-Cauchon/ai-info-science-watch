@@ -1,5 +1,266 @@
 [
   {
+    "id": "b01ad1a17abc",
+    "title": "Hierarchical BM25: Lexical Search at Billion-Document Scale",
+    "url": "https://arxiv.org/abs/2608.00229",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-04T04:00:00+00:00",
+    "summary": "arXiv:2608.00229v1 Announce Type: new Abstract: A flat BM25 index over one billion documents occupies about 400 GB. Holding it in memory requires DRAM proportional to corpus size. Serving it from disk takes 4-12 seconds per query. Exact top-k lexical retrieval at this scale is therefore impractical within an interactive latency budget. Hierarchical BM25 gives up exact ranking in exchange for fixed bounds on memory and latency. A resident coarse index selects which of ~1K topical, size-balanced d…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "804f1afd10a0",
+    "title": "CeQe: Grounding Lexical Retrieval in Semantic Evidence",
+    "url": "https://arxiv.org/abs/2608.00452",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-04T04:00:00+00:00",
+    "summary": "arXiv:2608.00452v1 Announce Type: new Abstract: Lexical retrieval (BM25) captures exact keyword matches and weights terms by corpus-wide significance, but it is blind to the semantic vocabulary gap: when a relevant document phrases an answer differently from the query, BM25 never retrieves it, and no amount of downstream reranking or fusion can recover a document that was never in the candidate set. We present Cross-Encoder Query Expansion (CE-QE), which reads the per-token relevance attribution…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c6273859e758",
+    "title": "A Context-Aware Cultural Heritage Guide Powered by LLMs",
+    "url": "https://arxiv.org/abs/2608.00549",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-04T04:00:00+00:00",
+    "summary": "arXiv:2608.00549v1 Announce Type: new Abstract: We present an extension of Triangolazioni (a Cultural Heritage webapp) to enrich curated content with context-dependent, external information provided by Large Language Models (LLMs) within a loosely-coupled architecture agnostic to the LLM. The system supports context-dependent information search and presentation within an architecture agnostic to the exploited LLM.",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "876b7ccd2834",
+    "title": "PHA-Net: Prototype-based Hierarchical Alignment Network for Text-Video Retrieval",
+    "url": "https://arxiv.org/abs/2608.00551",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-04T04:00:00+00:00",
+    "summary": "arXiv:2608.00551v1 Announce Type: new Abstract: With the emergence of large-scale image-text pre-training models, e.g., CLIP, text-video retrieval has experienced substantial advances in recent years. Existing best-performing methods involve aligning cross-modal semantics at individual, local, and global levels simultaneously, raising concerns about the intrinsic semantic mismatch between concise texts and rich videos. A canonical approach is to integrate multiple language-video attention module…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "196cf9ddf5c6",
+    "title": "GARDRec: Decision-Level Graph Grounding for Large Language Model Recommendation",
+    "url": "https://arxiv.org/abs/2608.00669",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-04T04:00:00+00:00",
+    "summary": "arXiv:2608.00669v1 Announce Type: new Abstract: Large language models (LLMs) offer new opportunities for recommendation by interpreting item descriptions, user instructions, and external knowledge through natural-language prompts. However, existing graph-augmented LLM recommenders often use knowledge graphs mainly as prompt-level evidence, leaving ranking decisions weakly constrained by structured user-item relations. This is problematic for next-item recommendation, where the model must compare…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a928227a7aa8",
+    "title": "A Triple-Robustness Analysis of Retrieval-Augmented Generation for Multi-Hop Requirements Traceability",
+    "url": "https://arxiv.org/abs/2608.00705",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-04T04:00:00+00:00",
+    "summary": "arXiv:2608.00705v1 Announce Type: new Abstract: Reported verdicts on GraphRAG versus vector RAG disagree, and the evidence is typically tied to a single corpus, embedder, and judge -- and, we show, to where citation quality is measured. We present a triple-robustness analysis that holds a five-pipeline architecture matrix fixed and varies embedder (local e5-small vs. Azure text-embedding-3-small), corpus (DO-178C typed-edge requirements vs. Wikipedia paragraph chains via MuSiQue), and judge (pai…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "94a91173a8a1",
+    "title": "Hierarchical Residual Policy Optimization for Generative Recommendations",
+    "url": "https://arxiv.org/abs/2608.00750",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-04T04:00:00+00:00",
+    "summary": "arXiv:2608.00750v1 Announce Type: new Abstract: Generative recommenders select items by autoregressively decoding semantic identifiers (SIDs), whose token positions induce a coarse-to-fine hierarchy over the item space. In practice, SID decoders are trained via supervised next-token prediction, which imitates logged trajectories rather than directly optimizing downstream utility. This motivates post-training with outcome feedback to guide decoding toward higher utility. However, logged feedback …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "cbea53be1ced",
+    "title": "Exponential Reward Weighting for Fine-Tuning Generative Recommenders under Sparse and Noisy Feedback",
+    "url": "https://arxiv.org/abs/2608.00816",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-04T04:00:00+00:00",
+    "summary": "arXiv:2608.00816v1 Announce Type: new Abstract: In recommendation systems, users interact with only a small fraction of a vast item catalog, producing feedback that is both sparse and noisy. This challenges post-training generative recommenders: reward models trained from logged interactions often fail to generalize, while directly optimizing imperfect rewards can lead to reward over-optimization. We propose Exponential reward-weighted fine-tuning (Exp-RSFT), where each logged interaction is wei…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "45779468ecee",
+    "title": "Tevatron Meets Megatron: Expert-Parallel LLM Reranker Training on an Academic Budget",
+    "url": "https://arxiv.org/abs/2608.00916",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-04T04:00:00+00:00",
+    "summary": "arXiv:2608.00916v1 Announce Type: new Abstract: Modern reranking recipes---billion-scale cross-encoders, mixture-of-experts (MoE) backbones, and distillation against strong teachers---have outpaced the training infrastructure available to most academic groups. Existing Tevatron reranker training relies on the Hugging Face Trainer with DeepSpeed or PyTorch FSDP1, but these backends lack efficient support for large-scale MoE training. We present Tevatron 3.0, which integrates a Megatron-Core train…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "34cbef45190c",
+    "title": "GRACE: Generative Recommender Acceleration Engine for Real-Time Ads Retrieval",
+    "url": "https://arxiv.org/abs/2608.00938",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-04T04:00:00+00:00",
+    "summary": "arXiv:2608.00938v1 Announce Type: new Abstract: Productionizing generative recommenders for high-volume, real-time ads retrieval creates two serving challenges: eligibility, ensuring that each generated ad is eligible for the request under the advertiser's audience targeting rules, and compute, which requires meeting strict latency and GPU cost requirements while remaining capable of generating thousands of ads per request with wide-beam decoding. This paper presents GRACE, a serving system for …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f09659aa4f56",
+    "title": "UniHEAR: Unified Heterogeneous-Source Attentive Retrieval for Knowledge-Based Visual Question Answering",
+    "url": "https://arxiv.org/abs/2608.01147",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-04T04:00:00+00:00",
+    "summary": "arXiv:2608.01147v1 Announce Type: new Abstract: Knowledge-Based Visual Question Answering (KB-VQA) requires retrieving relevant entity knowledge from external sources to answer visually grounded questions. Existing retrieval-augmented systems suffer from two critical limitations. First, relying on a single retrieval modality creates a Single-Source Retrieval Bottleneck, missing ground-truth entities that are only accessible through complementary sources. Second, dual-tower pointwise rerankers su…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "b28435849a44",
+    "title": "Auditing Semantic Gains in Sequential Recommendation: A Lightweight Recovery Test",
+    "url": "https://arxiv.org/abs/2608.01260",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-04T04:00:00+00:00",
+    "summary": "arXiv:2608.01260v1 Announce Type: new Abstract: Recent semantic and generative-retrieval recommenders report substantial improvements over ID-only sequential baselines, but it remains unclear whether these gains arise from language-model reasoning, semantic-ID generation, end-to-end semantic architectures, stronger offline item representations, or complementary semantic and collaborative signals. We investigate this attribution ambiguity through LIME-Rec, a lightweight and auditable recovery tes…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a622ce90fe8d",
+    "title": "Collaborative Memory Augmentation for Generative Recommendation",
+    "url": "https://arxiv.org/abs/2608.01315",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-04T04:00:00+00:00",
+    "summary": "arXiv:2608.01315v1 Announce Type: new Abstract: Generative Recommendation (GR) has exhibited great potential by modeling item transitions as a sequence-to-sequence task. Despite the success of GR, existing frameworks primarily focus on modeling individual user sequences within a constrained internal parametric space, failing to explicitly leverage cross-user collaborative signals. To address this issue, we propose \\textbf{OMEGA}, a cOllaborative MEmory augmentation framework for Generative recom…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1ebbe9ea29ac",
+    "title": "Real-Time Hybrid Retrieval in Hyperbolic Space for Retrieval-Augmented Generation on Edge Devices",
+    "url": "https://arxiv.org/abs/2608.01450",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-04T04:00:00+00:00",
+    "summary": "arXiv:2608.01450v1 Announce Type: new Abstract: This paper presents a hybrid document retrieval system designed for retrieval-augmented generation (RAG) that operates entirely within the Lorentz model of hyperbolic geometry. Unlike conventional dense retrievers confined to Euclidean space, this system projects pretrained word embeddings into hyperbolic space through a learned HyTE-H transformation, whose exponential volume growth suits the hierarchical organization of natural language. Documents…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "9cc6da487ea1",
+    "title": "Floor, Ceiling, and the Fusion Gap: How Much of Crowd Reading Attention Can Machines Predict?",
+    "url": "https://arxiv.org/abs/2608.01704",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-04T04:00:00+00:00",
+    "summary": "arXiv:2608.01704v1 Announce Type: new Abstract: A benchmark score means nothing without knowing what a trivial method achieves and what the best possible method could achieve. We construct both bounds for a task with a rare kind of ground truth: predicting which sentences a crowd of readers -- highlighting for their own purposes, unpaid, uninstructed, and blind to each other -- marked in 120 web documents. The floor is naive truncation (lead); the ceiling is a split-half oracle: half the crowd p…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "51033c0beb17",
+    "title": "MODE: Mutual Optimality in Direct Effects of Reciprocal Recommendations in Matching Markets",
+    "url": "https://arxiv.org/abs/2608.01731",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-04T04:00:00+00:00",
+    "summary": "arXiv:2608.01731v1 Announce Type: new Abstract: Matching platforms such as job posting services and online dating platforms have become widely used over the past decade. For a matching platform to be successful, it is crucial to design appropriate reciprocal recommendation systems (RRSs) that consider the preferences of users on both sides (job candidates and employers) and prevent opportunities from being concentrated too heavily on a few popular users. However, prioritizing concentration mitig…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5c6c754cbd85",
+    "title": "X-KGRank: A Knowledge Graph RAG Framework for Explainable Recommendations via Pattern Mining and LLM Re-Ranking",
+    "url": "https://arxiv.org/abs/2608.01732",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-04T04:00:00+00:00",
+    "summary": "arXiv:2608.01732v1 Announce Type: new Abstract: Modern recommender systems produce predictions that users cannot interrogate. The two dominant improvements, collaborative filtering and LLM-based reasoning, each fall short: collaborative filtering captures behavioural signals but offers no reasoning, while large language models (LLMs) generate fluent explanations but hallucinate and are poorly grounded in a user's history. We present X-KGRank, a knowledge graph retrieval augmented framework that …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "8e70d13ce931",
+    "title": "SPEAR: Selection-aware Personalized End-to-end Adaptive Rewriting and Retrieval for Community Search",
+    "url": "https://arxiv.org/abs/2608.01738",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-04T04:00:00+00:00",
+    "summary": "arXiv:2608.01738v1 Announce Type: new Abstract: Query reformulation bridges user intent and retrieval in e-commerce search, yet production systems optimize rewrite quality and retrieval effectiveness separately, leaving the two stages structurally misaligned. Path-based architectures unify them end-to-end but were designed for personalization, where relevance is not an explicit constraint-search additionally requires the rewrite to remain faithful to the user's stated query intent. Transplanted …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "bee2f1926b5d",
+    "title": "HyperAgent4POI: Dynamic Semantic Message Passing on Multi-Agent Hypergraphs for Missing-Modality Recommendation",
+    "url": "https://arxiv.org/abs/2608.01846",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-04T04:00:00+00:00",
+    "summary": "arXiv:2608.01846v1 Announce Type: new Abstract: Next Point-of-Interest (POI) recommendation benefits from textual and visual content that describes venue semantics, yet such content is often incomplete in real-world services. Missing modalities weaken POI representations and reduce the semantic evidence available for ranking. The resulting representations also provide unreliable evidence for modeling higher-order user--POI interactions. We propose HyperAgent4POI, which uses Dynamic Semantic Mess…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "746de918aba7",
+    "title": "A Self-Triggered Agentic Push Recommendation System",
+    "url": "https://arxiv.org/abs/2608.01949",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-04T04:00:00+00:00",
+    "summary": "arXiv:2608.01949v1 Announce Type: new Abstract: Push notification is a critical recommendation scenario on large-scale platforms, allowing the system to proactively reach users outside the application to improve long-term re-engagement. However, designing an optimal push system requires handling a complex action space for the \"whether and when\" delivery problem under strict system resource constraints. Existing solutions typically fall into two passive paradigms: pre-planned frequency methods th…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "028e178dd385",
+    "title": "SmartGR: Hierarchy and Beam-Aware Knowledge Distillation for Generative Recommendation",
+    "url": "https://arxiv.org/abs/2608.02048",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-04T04:00:00+00:00",
+    "summary": "arXiv:2608.02048v1 Announce Type: new Abstract: Generative recommendation (GR) has emerged as a promising paradigm for recommender systems. Scaling up GR models can improve recommendation performance, but it also substantially increases inference cost. Knowledge distillation provides a practical solution by transferring knowledge from a large GR model to a lightweight one. However, existing distillation methods do not account for two GR-specific challenges: imbalanced distillation difficulty acr…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2ec2d6ecfe0e",
+    "title": "Douyin Multimodal Embedding Model Technical Report",
+    "url": "https://arxiv.org/abs/2608.02148",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-04T04:00:00+00:00",
+    "summary": "arXiv:2608.02148v1 Announce Type: new Abstract: Multimodal representation learning is a cornerstone of modern AI. By encoding multimodal queries and targets into vectors, it powers industrial search and recommendation and underpins modern agents. Real-world platforms with complex modalities and massive-scale content, such as Douyin, Xiaohongshu, and YouTube, demand both efficiency under billion-scale indexing and fine-grained discrimination for hard matching. Existing MLLM embedding models rarel…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "9ee7ecfb32a1",
+    "title": "Disentangled Contrastive Learning for Zero-Shot Multilingual Dense Retrieval",
+    "url": "https://arxiv.org/abs/2608.02189",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-04T04:00:00+00:00",
+    "summary": "arXiv:2608.02189v1 Announce Type: new Abstract: Multilingual dense retrieval aims to handle queries and documents across different languages based on a unified retriever model. The challenge lies in enabling robust retrieval transfer to low-resource languages where annotated retrieval data is often scarce. Although previous studies transfer high-resource supervision to low-resource languages in multilingual semantic representation learning, the shared representation often entangles semantic and …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0874f6774266",
+    "title": "Advancing Relevance Measurement with Vision-Language Models for Web-Scale Search",
+    "url": "https://arxiv.org/abs/2608.02446",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-04T04:00:00+00:00",
+    "summary": "arXiv:2608.02446v1 Announce Type: new Abstract: Relevance evaluation plays a crucial role in personalized search systems, serving as a guardrail alongside user engagement metrics to ensure that search results align with user queries and intent. While human annotation is the traditional method for relevance evaluation, its high cost and long turnaround time limit its scalability. In this work, we present a VLM-based automated relevance evaluation pipeline deployed within Pinterest Search for onli…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b47370f8a2b1",
+    "title": "Syntax Meets Semantics: Understanding Scientific Formulae",
+    "url": "https://arxiv.org/abs/2608.02457",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-04T04:00:00+00:00",
+    "summary": "arXiv:2608.02457v1 Announce Type: new Abstract: Scientific formulae are a fundamental component of scholarly communication, yet their dual nature -- as structured syntax and carriers of semantics -- remains underexplored in scholarly information retrieval. Although prior studies show that jointly modeling syntactic and semantic modalities improves retrieval performance, the relationship between their underlying representations has not been systematically investigated. In this work, we empiricall…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "ddf58ed2731b",
+    "title": "BIP! Ranker: A Software Library for Citation-Based Impact Indicators on Large-Scale Graphs",
+    "url": "https://arxiv.org/abs/2608.02004",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-04T04:00:00+00:00",
+    "summary": "arXiv:2608.02004v1 Announce Type: new Abstract: Scientific impact is multidimensional: overall influence, current popularity, early citation momentum, and field-relative performance each capture a distinct facet of a publication's impact. Yet, in practice, these dimensions are often reduced to a single metric, such as citation count. Open solutions for computing multiple complementary impact indicators at scale remain scarce, particularly for citation graphs as large as those provided by major s…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "9a21baa268b7",
+    "title": "Loggia dei Lanzi: AI Thermography Enhancement Comparisons through 3D Photogrammetry",
+    "url": "https://arxiv.org/abs/2608.02404",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-04T04:00:00+00:00",
+    "summary": "arXiv:2608.02404v1 Announce Type: cross Abstract: The Loggia dei Lanzi in the Piazza della Signoria is one of Florence's most prominent structures visited by millions every year. Its construction history spans multiple centuries of modification. This paper presents the results of a thermal imaging campaign conducted in December 2025, using a FLIR T1020 HD camera, revealing hidden architectural features including walled-up openings and material transitions beneath the plaster surface. The favorab…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2fe17ab83e9f",
+    "title": "Did an AI Music App Just Snitch on the Song of the Summer?",
+    "url": "https://www.wired.com/story/ai-music-app-treblo-just-snitched-on-rubberz-song-of-the-summer/",
+    "source": "Wired AI",
+    "date": "2026-08-03T22:27:46+00:00",
+    "summary": "Fenix Flexin’s hit song “Rubberz” has hip-hop fans arguing over whether it was generated by AI. Some say they have proof it’s machine-made, but will anyone care?",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d9cedc16c2f0",
+    "title": "Trump’s AI protectionism has come for robotics",
+    "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+    "source": "MIT Tech Review",
+    "date": "2026-08-03T18:43:30+00:00",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "3be2ea626766",
     "title": "AI Conquered Coding. Fast Food Is Next",
     "url": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
