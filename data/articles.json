@@ -1,5 +1,293 @@
 [
   {
+    "id": "4d001c12066c",
+    "title": "A New Device Eases One of the Most Annoying Parts of Routine Physicals",
+    "url": "https://www.wired.com/story/iris-nodoca-ai-throat-exam-routine-physical/",
+    "source": "Wired AI",
+    "date": "2026-08-05T09:00:00+00:00",
+    "summary": "Nobody likes getting a swab shoved up their nose. A startup in Japan has developed a much less intrusive system.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b62279194920",
+    "title": "The AI Notetaker Has Been Invited to All the Meetings",
+    "url": "https://www.wired.com/story/ai-notetakers-invited-to-the-meetings/",
+    "source": "Wired AI",
+    "date": "2026-08-05T07:00:00+00:00",
+    "summary": "Wispr Flow, a popular dictation tool, has released a live notetaker that transcribes and summarizes meetings. It joins a growing wave of AI notetakers for the workplace.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0220ea9b31af",
+    "title": "Knowledge-Geometry Decoupling: Refreshable Pretrained Transfer for Streaming Recommendation",
+    "url": "https://arxiv.org/abs/2608.02738",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-05T04:00:00+00:00",
+    "summary": "arXiv:2608.02738v1 Announce Type: new Abstract: Industrial recommenders increasingly adopt the pretrain-then-transfer paradigm, yet behavioral distribution drift raises two questions: what to learn from behavior sequences, and how to transfer the learned knowledge while the pretrained model is continually refreshed. To resolve them, we propose Knowledge-Geometry Decoupling (KGD). For what to learn, conventional next-token prediction treats adjacency as dependency and may encode spurious transiti…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8e186de3ba36",
+    "title": "Search, Inspect, Fetch: Exploiting Boolean Retrieval for Deep-Research Agents",
+    "url": "https://arxiv.org/abs/2608.02751",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-05T04:00:00+00:00",
+    "summary": "arXiv:2608.02751v1 Announce Type: new Abstract: Existing deep-research agents use a search-visit workflow that retrieves and reads whole pages, without considering the addressable structure that web sources expose through titles, headings, sections, and metadata. This prevents agents from directly constraining retrieval to document fields and often carries irrelevant page content into their context. We introduce SIEVE, a search-inspect-fetch interface driven by fielded Boolean retrieval (BQL). S…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "5e25fedd93f6",
+    "title": "Field Aware Agent Skill Retrieval",
+    "url": "https://arxiv.org/abs/2608.02880",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-05T04:00:00+00:00",
+    "summary": "arXiv:2608.02880v1 Announce Type: new Abstract: As lifelong learning agents accumulate lifelong growing skill banks, retrieving the correct skill becomes an increasingly important bottleneck. Most current skill retrieval methods treat each skill as one flat document by concatenating fields such as the name, description, and body. However, skills are naturally structured, multi-field objects, where each field provides different information about when and how the skill should be used. In this work…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "74b1eee856a4",
+    "title": "Coverage Matters: MarginMerge for Compressing Multi-Vector Visual Document Retrievers",
+    "url": "https://arxiv.org/abs/2608.02969",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-05T04:00:00+00:00",
+    "summary": "arXiv:2608.02969v1 Announce Type: new Abstract: Multi-vector visual document retrievers such as ColPali and ColQwen achieve strong retrieval by storing fine-grained patch embeddings, but this produces large indexes and costly late-interaction scoring. We argue that effective compression should preserve query-relevant coverage, meaning the diverse document regions that may become the strongest MaxSim match across queries, rather than selecting patches independently by salience. This view also exp…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "53b1f076eb27",
+    "title": "Position Bias Undermines Preference Consistency in Listwise LLM-Based Reranking",
+    "url": "https://arxiv.org/abs/2608.03091",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-05T04:00:00+00:00",
+    "summary": "arXiv:2608.03091v1 Announce Type: new Abstract: Large language models (LLMs) have emerged as promising listwise rerankers for recommender systems, but their reliability under equivalent candidate permutations remains unclear. Since recommendation candidates form an unordered set, a reranker should not depend on the arbitrary order used to serialize them. However, decoder-only LLM rerankers can allow input order to affect model scores, pairwise preferences, and rankings. We study how position bia…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "2541ed9f69e1",
+    "title": "Attacking and Defending Multi-Agent Collaborative Filtering Systems Through Connectivity",
+    "url": "https://arxiv.org/abs/2608.03272",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-05T04:00:00+00:00",
+    "summary": "arXiv:2608.03272v1 Announce Type: new Abstract: Multi-agent collaborative filtering (CF) systems coordinate autonomous LLM-powered user and item agents through natural-language interaction to refine preferences and generate recommendations. These systems inherit vulnerabilities from both their data-driven nature and their multi-agent interactions, which manifest in distinct ways. Understanding how connectivity modulates vulnerability in these systems could facilitate the development of more robu…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "cf037ba31ff6",
+    "title": "LLM-Derived Priors for Thompson Sampling in Cold-Start Comment Recommendation",
+    "url": "https://arxiv.org/abs/2608.03382",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-05T04:00:00+00:00",
+    "summary": "arXiv:2608.03382v1 Announce Type: new Abstract: Multi-armed bandit algorithms, especially Thompson sampling, are widely used in online recommendation. Despite their ability to adapt from online feedback, these methods often suffer from cold-start limitations when newly introduced arms have little or no interaction history. In our setting, the candidate arms are user-generated textual comments, whose semantic content can reveal a title's appeal before sufficient interaction feedback is available.…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "55faa68081e6",
+    "title": "Training Documents Reranker with Search Rubrics for Deep Research Agent",
+    "url": "https://arxiv.org/abs/2608.03527",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-05T04:00:00+00:00",
+    "summary": "arXiv:2608.03527v1 Announce Type: new Abstract: Retrieval systems help deep research agents generate high-quality answers by providing relevant documents. However, existing retrievers typically select documents through relevance matching, while individually well-matched top-$k$ documents may not form a \\textit{set} that satisfies the complex information needs of an agent query (\\eg, diverse, concise and authoritative documents). In this paper, we propose search-oriented rubrics that \\textit{expl…",
+    "category": "Information Behavior"
+  },
+  {
+    "id": "f71fdc7c0d40",
+    "title": "Conditionally Identifiable Latent-Environment Modeling for Out-of-Distribution Recommendation",
+    "url": "https://arxiv.org/abs/2608.03647",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-05T04:00:00+00:00",
+    "summary": "arXiv:2608.03647v1 Announce Type: new Abstract: Out-of-distribution (OOD) recommendation is vulnerable to preference shifts induced by a latent environment. Existing methods can infer latent states from logged interactions, yet the statistical meaning of the latent environment and its effect on preference remain underdetermined. We formulate this task as conditionally identifiable risk-aware recommendation (CI-RR) and propose Conditionally Identifiable Latent-Environment Recommendation (CILER). …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0a017e32f2ea",
+    "title": "SITA: Semantic Interest Tokens for Target-Aware Compression in Long-Sequence Recommendation",
+    "url": "https://arxiv.org/abs/2608.03692",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-05T04:00:00+00:00",
+    "summary": "arXiv:2608.03692v1 Announce Type: new Abstract: As user behavior histories continue to grow on modern Internet platforms, effectively modeling long behavior sequences has become crucial for predicting user interests in candidate items. Existing methods have evolved along two directions. One line dynamically retrieves target-relevant behaviors from long histories, enabling target-aware modeling but requiring target-dependent computation during inference. The other line compresses entire behavior …",
+    "category": "Information Behavior"
+  },
+  {
+    "id": "71b9511f8104",
+    "title": "LegalPincite: Multi-level Legal Information Retrieval Dataset",
+    "url": "https://arxiv.org/abs/2608.03756",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-05T04:00:00+00:00",
+    "summary": "arXiv:2608.03756v1 Announce Type: new Abstract: A common task in legal Information Retrieval (IR) is to find relevant legal sources from case-law collections. While legal practice often requires pinpoint citations (pincites) to specific case paragraphs, most existing public legal IR datasets lack paragraph-level citation annotations. Yet, publicly available datasets with such information contain data leakage in the query text and exclude paragraphs that are neither citing nor cited from the corp…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "616f1d99e77d",
+    "title": "ATLAS: Learning to Recommend Across Unseen Domains",
+    "url": "https://arxiv.org/abs/2608.03899",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-05T04:00:00+00:00",
+    "summary": "arXiv:2608.03899v1 Announce Type: new Abstract: Recommender systems remain domain-bound: a model trained on one interaction environment typically requires retraining or target-domain adaptation before it can operate on a new catalogue. A recommender trained on movies cannot be directly deployed to recommend groceries or video games. Existing approaches mitigate this by transferring restricted forms of recommendation knowledge, adapting to the target domain, or leveraging large language models (L…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "76b260f0042f",
+    "title": "ISEE: Interactive Semantic Enrichment for Database Fields",
+    "url": "https://arxiv.org/abs/2608.02604",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-05T04:00:00+00:00",
+    "summary": "arXiv:2608.02604v1 Announce Type: cross Abstract: LLM-based agents are increasingly being deployed for data-related tasks, including data sense-making, exploration, and retrieval. However, their performance heavily depends on the clarity and completeness of data semantics. In practice, many field descriptions remain ambiguous or incomplete, as much of the essential context (e.g., the meaning of a customized field) originates from users' domain knowledge and is rarely documented publicly. This ga…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "d9de61fd1067",
+    "title": "RAG-Stack: Co-Optimizing RAG Serving Performance and Quality",
+    "url": "https://arxiv.org/abs/2608.03487",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-05T04:00:00+00:00",
+    "summary": "arXiv:2608.03487v1 Announce Type: cross Abstract: Retrieval-augmented generation (RAG), which augments large language model (LLM) generation with information retrieved from databases, has become a widely used approach for knowledge-intensive applications. Modern RAG systems, however, expose many configuration choices, such as retrieval indexes, model selections, and how models invoke retrieval. Each configuration yields a different trade-off between answer quality and serving performance, making…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "8375410295c2",
+    "title": "SciRet: A Compute-Aware Empirical Study of Retrieval and Reranking for Scientific RAG",
+    "url": "https://arxiv.org/abs/2608.03860",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-05T04:00:00+00:00",
+    "summary": "arXiv:2608.03860v1 Announce Type: cross Abstract: We introduce SciRet, a compute-aware empirical study of retrieval-augmented generation for scientific question answering over CORD-19. Rather than proposing a new model, we evaluate a fixed scientific RAG pipeline across three corpus scales: 1,034 chunks (1K papers), 5,160 chunks (5K papers), and 15,480 chunks (15K papers). The pipeline combines sentence-window chunking, BM25, BGE-M3 dense retrieval, reciprocal rank fusion, optional cross-encoder…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c52d9995235e",
+    "title": "MultiGlobeQA: A Multilingual and Globally Diverse Benchmark for Geospatial Reasoning",
+    "url": "https://arxiv.org/abs/2608.03882",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-05T04:00:00+00:00",
+    "summary": "arXiv:2608.03882v1 Announce Type: cross Abstract: Geospatial reasoning, i.e., computing distances, containment, and other spatial relations over real-world entities, is central to navigation and logistics, yet large language models (LLMs) struggle with the required geometric and topological computation despite storing considerable geographic knowledge. Existing benchmarks localize these failures only partially: they are synthetic or smallscale, largely monolingual, and offer limited control over…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "4417d749b637",
+    "title": "Fault Cause Identification across Manufacturing Lines through Ontology-Guided and Process-Aware FMEA Graph Learning with LLMs",
+    "url": "https://arxiv.org/abs/2510.15428",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-05T04:00:00+00:00",
+    "summary": "arXiv:2510.15428v2 Announce Type: replace Abstract: Fault cause identification in complex engineered systems remains challenging due to system complexity, frequent reconfigurations, and the limited reusability of accumulated diagnostic knowledge, with automated manufacturing lines representing a prominent application domain. Although Failure Mode and Effects Analysis (FMEA) worksheets contain valuable expert insights, their reuse across heterogeneous system configurations is hindered by natural …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "f1e741448c5a",
+    "title": "DualGR: Generative Retrieval with Long and Short-Term Interests Modeling",
+    "url": "https://arxiv.org/abs/2511.12518",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-05T04:00:00+00:00",
+    "summary": "arXiv:2511.12518v3 Announce Type: replace Abstract: In large-scale industrial recommendation systems, retrieval must produce high-quality candidates from massive corpora under strict latency. Recently, Generative Retrieval (GR) has emerged as a viable alternative to Embedding-Based Retrieval (EBR), which quantizes items into a finite token space and decodes candidates autoregressively, providing a scalable path that explicitly models target-history interactions via cross-attention. However, depl…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "3a895013e9d4",
+    "title": "Diagnosing and Mitigating Context Rot in Long-horizon Search",
+    "url": "https://arxiv.org/abs/2606.29718",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-05T04:00:00+00:00",
+    "summary": "arXiv:2606.29718v2 Announce Type: replace Abstract: Extensive context has become the norm as Large Language Models (LLMs) are increasingly deployed in long-horizon search tasks. The concern that increasing context length degrades model capabilities, known as context rot, has become a widely recognized issue for these applications. However, in deep search scenarios, it remains unclear how models actually fail under extensive context, and to what extent existing methods can mitigate such failures.…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "b3e81465116e",
+    "title": "VIBE: Vector Index Benchmark for Embeddings",
+    "url": "https://arxiv.org/abs/2505.17810",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-05T04:00:00+00:00",
+    "summary": "arXiv:2505.17810v2 Announce Type: replace-cross Abstract: Approximate nearest neighbor (ANN) search is a performance-critical component of many machine learning pipelines, and rigorous benchmarking is essential for assessing the performance of vector indexes for ANN search. However, the datasets of existing benchmarks no longer represent modern ANN applications, creating a need for an up-to-date benchmark. To address this gap, we introduce Vector Index Benchmark for Embeddings (VIBE), an open-so…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "b468646f1693",
+    "title": "From Generator to Embedder: Harnessing Innate Abilities of Multimodal LLMs via Building Zero-Shot Discriminative Embedding Model",
+    "url": "https://arxiv.org/abs/2508.00955",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-05T04:00:00+00:00",
+    "summary": "arXiv:2508.00955v3 Announce Type: replace-cross Abstract: Adapting generative Multimodal Large Language Models (MLLMs) into universal embedding models typically demands resource-intensive contrastive pre-training, while traditional hard negative mining methods suffer from severe false negative contamination. In this paper, we propose a highly data-efficient framework that bypasses extensive pre-training to build a robust multimodal representation space. We first introduce a hierarchical embeddin…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "5b419460da1c",
+    "title": "A repository for discovery and reuse of higher-order network datasets",
+    "url": "https://arxiv.org/abs/2608.03491",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-05T04:00:00+00:00",
+    "summary": "arXiv:2608.03491v1 Announce Type: new Abstract: Higher-order network datasets are dispersed across publications, institutional archives, and software-specific collections, making them difficult to discover, compare, and reuse. We introduce the Aachen Higher-Order Repository of Networks (AHORN), a curated repository of standardized higher-order network datasets derived from publicly released sources. Each dataset entry links a converted dataset to its source, metadata, citation guidance, conversi…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "8a019d8da4d1",
+    "title": "A machine-readable catalogue of the Tsiolkovsky papers (fond 555, Archive of the Russian Academy of Sciences), and a way to measure how well its handwriting can be read",
+    "url": "https://arxiv.org/abs/2608.03617",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-05T04:00:00+00:00",
+    "summary": "arXiv:2608.03617v1 Announce Type: cross Abstract: The personal archive of Konstantin Tsiolkovsky (1857-1935) is held as fond 555 of the Archive of the Russian Academy of Sciences. The archive scanned the fond and published the images, but with no queryable catalogue, no full-text search and no dataset: the holdings can only be browsed one page at a time. This paper describes a machine-readable catalogue of all 2,019 files and 51,008 scans, a dating for 1,969 files taken from the archive's own de…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "9ca6a29e47c1",
+    "title": "OK, Well, Rogue AI Agents Are Hacking Again",
+    "url": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/",
+    "source": "Wired AI",
+    "date": "2026-08-04T23:11:31+00:00",
+    "summary": "Rogue AI agents from OpenAI and Anthropic have again been caught trying to disrupt servers and software—and leaving instructions for future bad behavior.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "feac0131c7cf",
+    "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
+    "url": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
+    "source": "Wired AI",
+    "date": "2026-08-04T22:06:07+00:00",
+    "summary": "The Trump administration shared the details of its plan with OpenAI, Anthropic, and other AI labs on Tuesday. For now, the public remains in the dark.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "21c309191619",
+    "title": "Is This Poker Player Bluffing? The AI Thinks So",
+    "url": "https://www.wired.com/story/ai-tells-detection-world-series-of-poker-espn/",
+    "source": "Wired AI",
+    "date": "2026-08-04T11:00:00+00:00",
+    "summary": "ESPN unveiled an “AI tells detection” tool during broadcasts of the 2026 World Series of Poker. Is it a neat computer-powered party trick, or a real threat to poker’s future?",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "bb60955e8a48",
+    "title": "How One Startup Built a (Mostly) China-Free Robot",
+    "url": "https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/",
+    "source": "Wired AI",
+    "date": "2026-08-04T10:45:00+00:00",
+    "summary": "Ati Robotics assembles its robots in India and uses just a few Chinese parts—a strategy that could pay off as the Trump administration cracks down on Chinese humanoids.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b06c95490b37",
+    "title": "‘Everyone Is Doing It’: The Truth About AI in Hollywood",
+    "url": "https://www.wired.com/story/the-big-interview-podcast-matthew-belloni-puck/",
+    "source": "Wired AI",
+    "date": "2026-08-04T10:30:00+00:00",
+    "summary": "Puck’s Matthew Belloni says AI has quietly become part of everyday filmmaking. The battle now isn’t whether Hollywood will use the technology—it’s who controls what’ll come next.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a9e38b597435",
+    "title": "How Data Centers Broke American Politics",
+    "url": "https://www.wired.com/story/how-data-centers-broke-american-politics/",
+    "source": "Wired AI",
+    "date": "2026-08-04T10:00:00+00:00",
+    "summary": "What the Unabomber, Steve Bannon’s tech guy, and Bernie Sanders taught me about the great data center backlash of 2026.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b49c4a0e7663",
+    "title": "Mistral Is in the Right Place at the Right Time",
+    "url": "https://www.wired.com/story/mistral-is-in-the-right-place-at-the-right-time/",
+    "source": "Wired AI",
+    "date": "2026-08-04T09:21:11+00:00",
+    "summary": "Open-weight AI models are having a moment in the wake of recent turmoil at US tech giants. For French AI lab Mistral, that’s the the best thing that could have happened.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "b01ad1a17abc",
     "title": "Hierarchical BM25: Lexical Search at Billion-Document Scale",
     "url": "https://arxiv.org/abs/2608.00229",
