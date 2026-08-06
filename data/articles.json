@@ -1,5 +1,239 @@
 [
   {
+    "id": "39d851d508d2",
+    "title": "Neighborhood-Aware Dual Biomedical Entity Linking",
+    "url": "https://arxiv.org/abs/2608.04144",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-06T04:00:00+00:00",
+    "summary": "arXiv:2608.04144v1 Announce Type: new Abstract: Biomedical entity linking grounds mentions in clinical and scientific text to entities in a curated knowledge base (KB) with ontological structure, which supports downstream applications such as literature-scale information extraction and patient-record normalization. The task has several challenges at once: the KB contains large numbers of entities, mentions are often ambiguous, and gold labels follow annotation conventions specific to each corpus…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "37cfd1565d58",
+    "title": "The Price of Isolation: Estimating the Ecosystem Cost of Symmetric Two-Sided A/B Testing",
+    "url": "https://arxiv.org/abs/2608.04432",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-06T04:00:00+00:00",
+    "summary": "arXiv:2608.04432v1 Announce Type: new Abstract: On two-sided content platforms, symmetric two-sided isolation (assigning matched fractions of creators and viewers to isolated treatment and control submarkets) is widely used for creator-side and cold-start experiments because it removes cross-arm marketplace interference. Isolation, however, thins each viewer's candidate catalog, and intuition suggests the resulting engagement cost should fade as the platform grows: a small fraction of a vast cat…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "19d7719fad95",
+    "title": "Multi-Objective Ranking for Live-Streaming: Balancing Fresh and Delayed Signals with Segment-Aware Targeting",
+    "url": "https://arxiv.org/abs/2608.04455",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-06T04:00:00+00:00",
+    "summary": "arXiv:2608.04455v1 Announce Type: new Abstract: One of the most challenging problems entertainment live-streaming services face in recommendation systems is that user behaviors are sparse and delayed, and interaction data exhibits bias for different user segments. Unlike e-commerce applications where user actions follow linear sequences, live-streaming viewers engage in multiple concurrent behaviors of watching, chatting, following, and spending, each occurring with varying delays. We address th…",
+    "category": "Information Behavior"
+  },
+  {
+    "id": "8524c5e1b918",
+    "title": "Skills Know Their Neighbors: Cluster-Contrastive Capability Pages for Skill Retrieval",
+    "url": "https://arxiv.org/abs/2608.04482",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-06T04:00:00+00:00",
+    "summary": "arXiv:2608.04482v1 Announce Type: new Abstract: As skill libraries grow, large language model agents must retrieve reusable skills from candidates that often share the same topic and vocabulary but implement different capabilities. Retrieval is limited not only by the scorer but also by the text being scored: a document may describe what a skill does without stating which similar requests should be routed elsewhere. We formalize a skill's capability as its \\emph{executable region}, the set of qu…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "87640f1e4883",
+    "title": "Characterizing the Evolving Landscape of Modern Information Seeking",
+    "url": "https://arxiv.org/abs/2608.04609",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-06T04:00:00+00:00",
+    "summary": "arXiv:2608.04609v1 Announce Type: new Abstract: Information seeking (IS) evolves, as does the human IS process. Since the rise of Generative AI (GenAI), modern IS has shifted by introducing more interfaces, more complex interactions, and expanded system capabilities. We argue that these changes in modern IS should be systematically examined. This PhD research characterizes the changes in the modern IS process. We use mechanisms, including online crowdsourcing survey experiments, theoretical IS f…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c81256380504",
+    "title": "WatchLens: A Configurable Platform for Online Video Recommendation Experiments",
+    "url": "https://arxiv.org/abs/2608.04807",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-06T04:00:00+00:00",
+    "summary": "arXiv:2608.04807v1 Announce Type: new Abstract: Studying how video recommender systems shape user behavior requires online experiments that link playback behavior with the recommendation conditions that produced it. Existing user-study infrastructure provides one or the other, but not both within a single experimentation workflow. We present WatchLens, an open-source platform that fills this gap. WatchLens adopts a modular architecture in which user interfaces, content sources, and recommendatio…",
+    "category": "Information Behavior"
+  },
+  {
+    "id": "8a87bc8eb4c5",
+    "title": "DEGR: Dual Exploration-Driven Generative Re-Ranking for Adaptive Cross-Request Context Bridging",
+    "url": "https://arxiv.org/abs/2608.04809",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-06T04:00:00+00:00",
+    "summary": "arXiv:2608.04809v1 Announce Type: new Abstract: In industrial recommendation systems, the re-ranking stage balances business objectives and diversity for sequence-level optimization while modeling contextual information. However, constrained by fixed upstream supply, existing methods fail to deliver further effectiveness gains, especially under low-quality supply. To overcome this, re-ranking can actively balance immediate and exploratory value, for instance, by prioritizing exploratory exposure…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4419a57d5eab",
+    "title": "MemoryCPT: An End-to-End Agent Memory Framework for Cost-Performance Trade-off",
+    "url": "https://arxiv.org/abs/2608.04843",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-06T04:00:00+00:00",
+    "summary": "arXiv:2608.04843v1 Announce Type: new Abstract: Long-horizon LLM agents require memory systems that recover useful evidence from large interaction histories without passing excessive context to downstream models. Existing memory pipelines often rely on hand-crafted heuristics and repeated LLM calls, which can introduce redundant context and high inference cost. We propose MemoryCPT, an end-to-end trainable agent memory pipeline that spans offline memory construction and online query-conditioned …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a2d6aff7fa99",
+    "title": "A Deep Causal Inference Approach to Measuring the Effects of Forming Group Loans in Online Non-profit Microfinance Platform",
+    "url": "https://arxiv.org/abs/1706.02795",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-06T04:00:00+00:00",
+    "summary": "arXiv:1706.02795v1 Announce Type: cross Abstract: Kiva is an online non-profit crowdsouring microfinance platform that raises funds for the poor in the third world. The borrowers on Kiva are small business owners and individuals in urgent need of money. To raise funds as fast as possible, they have the option to form groups and post loan requests in the name of their groups. While it is generally believed that group loans pose less risk for investors than individual loans do, we study whether th…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1c2d34bc30e0",
+    "title": "CLIP-CC-Bench: Evaluating Paragraph-Level Video Descriptions in Video-Language Models",
+    "url": "https://arxiv.org/abs/2608.04302",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-06T04:00:00+00:00",
+    "summary": "arXiv:2608.04302v1 Announce Type: cross Abstract: Benchmarking video-language models has largely focused on short clips and single-sentence metrics, leaving open whether current systems can generate accurate long-form, paragraph-level descriptions. We introduce CLIP-CC-Bench, an evaluation suite for long-form video description built from 5 hours of movie content segmented into 90-second clips, each paired with an expert-written paragraph-style reference. The evaluation suite employs an ensemble …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a70341a30486",
+    "title": "Towards Robust Version Identification in the Wild: A Dataset, Benchmark, and Fine-Tuning Study",
+    "url": "https://arxiv.org/abs/2608.04543",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-06T04:00:00+00:00",
+    "summary": "arXiv:2608.04543v1 Announce Type: cross Abstract: Existing datasets for musical version identification (VI) are primarily derived from curated metadata sources such as SecondHandSongs and Discogs, and are therefore dominated by professionally recorded tracks. This leads to a domain mismatch with real-world scenarios, where amateur and user-generated content is prevalent. To address this limitation, we introduce DiVers, a large-scale VI dataset comprising over 1.1 million musical versions, with t…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "7d46a5ab1471",
+    "title": "Caching for the Future: Scrub Jay Episodic Memory Principles for Agent Memory Systems",
+    "url": "https://arxiv.org/abs/2608.04746",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-06T04:00:00+00:00",
+    "summary": "arXiv:2608.04746v1 Announce Type: cross Abstract: LLM agents that persist across sessions accumulate stored memories whose validity varies enormously by content type, yet existing memory architectures treat all memories as equally persistent and systematically contaminate retrieved context with outdated facts. We show that per-memory, type-conditioned temporal decay, a property of western scrub jay episodic memory, can be operationalized as an auto-classified coefficient $\\pi_i$ in an external L…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "32f8a7ea65a7",
+    "title": "MOON3.0: Reasoning-aware Multimodal Representation Learning for E-commerce Product Understanding",
+    "url": "https://arxiv.org/abs/2604.00513",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-06T04:00:00+00:00",
+    "summary": "arXiv:2604.00513v3 Announce Type: replace-cross Abstract: With the rapid growth of e-commerce, exploring general representations rather than task-specific ones has attracted increasing attention. Although recent multimodal large language models (MLLMs) have driven significant progress in product understanding, they are typically employed as feature extractors that implicitly encode product information into global embeddings, thereby limiting their ability to capture fine-grained attributes. Ther…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "90b03b2eb5d2",
+    "title": "Document Optimization for Black-Box Retrieval via Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2604.05087",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-06T04:00:00+00:00",
+    "summary": "arXiv:2604.05087v3 Announce Type: replace-cross Abstract: Document expansion is a classical technique for improving retrieval quality, and is attractive since it shifts computation offline, avoiding additional query-time processing. However, when applied to modern retrievers, it has been shown to degrade performance, often introducing noise that obfuscates the discriminative signal. We recast document expansion as a document optimization problem: a language model or a vision language model is fi…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "11516bc61e24",
+    "title": "Recall Is Not Enough: A Reader-Context Diagnostic for Budget-Constrained Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2607.00725",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-06T04:00:00+00:00",
+    "summary": "arXiv:2607.00725v2 Announce Type: replace-cross Abstract: Retrieval-augmented generation under a fixed context budget forces a selection problem: only a fraction of the retrieved evidence fits in front of the reader. The field's standard metric, recall@k, is scored on the retrieved set, but the reader consumes the packed context - and once packing must discard evidence, the two come apart. We introduce answer-in-context, a diagnostic that measures whether a gold answer survives into the packed c…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "bd5f5bca6bf5",
+    "title": "Supporting the understanding of ontologies for scientific knowledge graphs with the new version of LODE",
+    "url": "https://arxiv.org/abs/2608.04689",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-06T04:00:00+00:00",
+    "summary": "arXiv:2608.04689v1 Announce Type: new Abstract: Scientific Knowledge Graphs (SKGs) rely on increasingly complex and heterogeneous semantic models, whose reuse and interoperability require ontologies and other semantic artefacts to be understandable by both machines and humans. However, existing ontology documentation tools provide limited support for modern reuse-oriented modelling practices, where entities are distributed across imported modules and enriched through cross-module annotations. Th…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "afa87d43f5ee",
+    "title": "War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication",
+    "url": "https://arxiv.org/abs/2606.23462",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-06T04:00:00+00:00",
+    "summary": "arXiv:2606.23462v2 Announce Type: replace-cross Abstract: Scientists do not, by profession, wage war. Yet warfare's vocabulary consistently appears in their abstracts. To quantify the extent to which warfare's vocabulary pervades scientific abstracts, we analyze 21.4 million papers (2010-2025; OpenAlex, PubMed). We additionally run a within-subject war-framing experiment ($N = 801$; 32{,}040 trials) designed to provide causal insight into the effects of militaristic language on persuasion. Betwe…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1d4b851f5daf",
+    "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
+    "url": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
+    "source": "Wired AI",
+    "date": "2026-08-06T00:15:04+00:00",
+    "summary": "At the Black Hat security conference, the AI giant revealed new details about how its agents went rogue, hacked several other companies—and did it all right under the company’s nose.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d6eaf46faf35",
+    "title": "OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts",
+    "url": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/",
+    "source": "Wired AI",
+    "date": "2026-08-05T23:30:00+00:00",
+    "summary": "Researchers at security firm Zenity found more than a dozen flaws in AI browsers—and managed to get OpenAI’s Atlas to make an unauthorized Amazon purchase.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "3d3d1a0fe3ee",
+    "title": "The Most Dangerous AI Hacking Techniques Still Have Humans in the Loop",
+    "url": "https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/",
+    "source": "Wired AI",
+    "date": "2026-08-05T19:42:12+00:00",
+    "summary": "Security researcher James Kettle tried to push the limit of AI’s hacking abilities—and discovered how effective it can be when combined with human expertise.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5b89f46fcaee",
+    "title": "AI Hacks Are Bad. AI Worms and Viruses Will Be Worse",
+    "url": "https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/",
+    "source": "Wired AI",
+    "date": "2026-08-05T18:30:00+00:00",
+    "summary": "Chinese researchers have shown that AI models have the capacity to act like aggressive and adaptive computer viruses.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c9f31671de26",
+    "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+    "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+    "source": "Wired AI",
+    "date": "2026-08-05T16:26:36+00:00",
+    "summary": "More than 50 offending image and video ads were published across Facebook, Instagram, Messenger, or Threads, according to Meta’s ad library data. Some ran as recently as this week.",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "b6aa5e4c7c00",
+    "title": "Google’s Top AI Brains Are Leaving to Launch Discovery Loop",
+    "url": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/",
+    "source": "Wired AI",
+    "date": "2026-08-05T16:00:00+00:00",
+    "summary": "Jeff Dean and other high-profile Google executives have founded Discovery Loop, a startup that will seek AI-powered breakthroughs in everything from drug discovery to chip design.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "188ec37ac422",
+    "title": "FPF and Leading Companies Release Risk Assessment Framework and Updated Best Practices for AI in Hiring & Employment",
+    "url": "https://fpf.org/press-releases/fpf-and-leading-companies-release-risk-assessment-framework-and-updated-best-practices-for-ai-in-hiring-employment/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-08-05T12:22:02+00:00",
+    "summary": "Expert working group updates 2023 report to account for the rise of generative AI; will host a webinar on September 28 to present an overview of best practices and risk framework WASHINGTON, D.C. – The Future of Privacy Forum (FPF), with Dayforce, LinkedIn, UKG, Workday, and Beamery – leading HR, payroll, and employment software developers [&#8230;]",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "58dc870ac12d",
+    "title": "FPF Statement on the Senior Chatbot Protection Bill",
+    "url": "https://fpf.org/blog/fpf-statement-on-the-senior-chatbot-protection-bill/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-08-05T12:05:37+00:00",
+    "summary": "As artificial intelligence chatbots and voice assistants become increasingly integrated into the daily support networks of older adults, baseline consumer protections and transparency measures are essential to ensure these tools foster independence and interpersonal trust rather than introduce new risks. It is encouraging to see Congress recognizing the unique intersections of privacy and data protections, [&#8230;]",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "66020bd972a1",
+    "title": "AI Influencers Are Heading Into Uncharted Territory",
+    "url": "https://www.wired.com/story/algorithm-turning-on-ai-influencers-are-humans-worried/",
+    "source": "Wired AI",
+    "date": "2026-08-05T11:43:00+00:00",
+    "summary": "Some creators fear the EU AI Act’s regulatory chaos will upend their lucrative businesses. Others are owning it by incorporating AI transparency into their creative process.",
+    "category": "AI & Information Governance"
+  },
+  {
     "id": "4d001c12066c",
     "title": "A New Device Eases One of the Most Annoying Parts of Routine Physicals",
     "url": "https://www.wired.com/story/iris-nodoca-ai-throat-exam-routine-physical/",
