@@ -1,5 +1,23 @@
 [
   {
+    "id": "c9790af9a7e6",
+    "title": "Scientists Used AI to Create 16 New Viruses",
+    "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
+    "source": "Wired AI",
+    "date": "2026-08-07T14:13:57+00:00",
+    "summary": "The use of AI systems to create viruses opens up new possibilities for combating bacterial resistance. It also raises concerns about the pace at which technology is outstripping regulation.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "74ca67f55e06",
+    "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
+    "url": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
+    "source": "Wired AI",
+    "date": "2026-08-07T10:00:00+00:00",
+    "summary": "WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the “strange moment” we’re in.",
+    "category": "AI & Knowledge Management"
+  },
+  {
     "id": "7a432b369b34",
     "title": "BioMedJImpact: A Comprehensive Dataset and LLM Pipeline for AI Engagement and Scientific Impact Analysis of Biomedical Journals",
     "url": "https://arxiv.org/abs/2608.05227",
