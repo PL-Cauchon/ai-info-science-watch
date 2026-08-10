@@ -1,5 +1,203 @@
 [
   {
+    "id": "5cff9507a54c",
+    "title": "Progressive Alignment of Recommender Foundation Model through Multi-Phase Post-Training",
+    "url": "https://arxiv.org/abs/2608.06792",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-10T04:00:00+00:00",
+    "summary": "arXiv:2608.06792v1 Announce Type: new Abstract: Foundation model(FM) for recommendation has shown strong ability to model long-horizon sequential user behavior. In practice, a single pretrained foundation model is often adapted to diverse downstream serving surfaces through Supervised Fine-Tuning(SFT). However, optimizing task-specific objectives such as clicks or likes does not necessarily align the serving policy with the business metrics that determine recommendation quality. We propose a thr…",
+    "category": "Information Behavior"
+  },
+  {
+    "id": "8611b16b9c78",
+    "title": "Rhetorical-Role-Aware Retrieval-Augmented Generation for Legal Question Answering over Indian Supreme Court Judgments",
+    "url": "https://arxiv.org/abs/2608.06828",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-10T04:00:00+00:00",
+    "summary": "arXiv:2608.06828v1 Announce Type: new Abstract: This research paper proposes a Retrieval Augmented Generation (RAG) framework that is specific to the legal field in order to assist interactive retrieval and reason about judgments from the Supreme Court of India. The solution uses an enhanced version of RAG framework which consists of rhetorically based chunking, fusion-based retrieval, and cross encoder reranking methods to increase the relevancy of the information retrieved. In order to improve…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "dbdeb7849cdb",
+    "title": "BZKO: An Ontology for the Card Index of German Post-War Compensation Records",
+    "url": "https://arxiv.org/abs/2608.06918",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-10T04:00:00+00:00",
+    "summary": "arXiv:2608.06918v1 Announce Type: new Abstract: The Central Federal Card Index (Bundeszentralkartei) of Germany is a key archival resource documenting compensation claims submitted by victims of National Socialist persecution and their relatives, within the German Wiedergutmachung process. To enable semantically enriched representation, integration, and reuse of this historically significant collection, we present the BZK Ontology (BZKO). We propose a two-layer ontology for historical archival d…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "de45921ee0f8",
+    "title": "From Classification to Recommendation: Empirical Analysis of Audio Embedding Models Application for Content-Based Music Recommendation",
+    "url": "https://arxiv.org/abs/2608.06928",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-10T04:00:00+00:00",
+    "summary": "arXiv:2608.06928v1 Announce Type: new Abstract: Pretrained audio representation models learned from large-scale corpora have achieved strong performance in audio classification and understanding. However, most existing models are optimized for objectives such as masked prediction, contrastive learning, or audio-text alignment, which do not necessarily produce representation spaces well-suited to recommender systems. Unlike classification, music recommender systems must capture item relationships…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "d0f55238cf8c",
+    "title": "Hierarchical Quantization with Domain-Adaptive Sparse Routing for Generative Cross-Domain Recommendation",
+    "url": "https://arxiv.org/abs/2608.06997",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-10T04:00:00+00:00",
+    "summary": "arXiv:2608.06997v1 Announce Type: new Abstract: Generative Recommendation (GenRec) represents a promising paradigm that achieves remarkable empirical success by encoding items as compact Semantic IDs (SIDs) and modeling user behavior via next-token prediction across diverse recommendation scenarios. Extending this paradigm to cross-domain recommendation is challenging because a unified model must accommodate heterogeneous item semantics and behavioral patterns across domains. Existing methods co…",
+    "category": "Information Behavior"
+  },
+  {
+    "id": "3f47254bd500",
+    "title": "MISO: Model-Internal-State-Guided Optimization for Ranking Models",
+    "url": "https://arxiv.org/abs/2608.07035",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-10T04:00:00+00:00",
+    "summary": "arXiv:2608.07035v1 Announce Type: new Abstract: Ranking models are repeatedly refined within established model families, yet the choice of which component to scale, replace, or retire is often guided by expensive trial-and-error. We present Model Internal State Optimization (MISO), a systems workflow that uses model internal states (MIS), including parameters, activations, gradients, and normalization statistics, to prioritize such local optimization decisions. MISO extracts MIS from a trained r…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e4fcfb206042",
+    "title": "Teacher Retains Full Tokens, Student Merges Efficiently: TM20K for E-Commerce Sequence Modeling in Ad Recommendation",
+    "url": "https://arxiv.org/abs/2608.07055",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-10T04:00:00+00:00",
+    "summary": "arXiv:2608.07055v1 Announce Type: new Abstract: Benefiting from ultra-long behavior sequence modeling, existing recommender systems bring users a better experience via simultaneously considering their long-term and short-term interests. Nevertheless, extended sequence lengths introduce substantial burdens on training efficiency and serving throughput. Prior approaches typically utilize search-based or cluster-based compression on ultra-long sequences at the cost of fine-grained information, or r…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "9bf9c93bc211",
+    "title": "Invisible to the Machine: Auditing AI Restaurant, Cafe, and Bar Recommendation Against a Complete Market Census",
+    "url": "https://arxiv.org/abs/2608.07069",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-10T04:00:00+00:00",
+    "summary": "arXiv:2608.07069v1 Announce Type: new Abstract: AI assistants are becoming a primary interface for local discovery, yet almost nothing is known about which venues they surface -- especially in food and drink, where recommendations carry direct revenue consequences. We present the first census-denominated audit of AI venue recommendation: a complete enumeration of 4,776 cafes, restaurants, and bars across two bounded markets (Canggu and Ubud, Bali), against which we evaluate 2,208 search-grounded…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "7d5e465185c8",
+    "title": "Exact Adaptive Hybrid Retrieval Without Fixed Top-L Cutoffs",
+    "url": "https://arxiv.org/abs/2608.07152",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-10T04:00:00+00:00",
+    "summary": "arXiv:2608.07152v1 Announce Type: new Abstract: Modern retrieval-augmented generation (RAG) systems often fuse fixed Top-$L$ results from dense and sparse retrievers, treating later contributions as zero. The cutoff therefore determines both the ranking and its execution cost. Yet truncated fusion is not generally equivalent to complete-list fusion: unread cross-list ranks can change Top-$K$ membership or order even when the observed candidates contain every item in the complete-list Top-$K$. Be…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a597455fb11f",
+    "title": "Pre-Inference Routing for Cost-Efficient Document Field Extraction",
+    "url": "https://arxiv.org/abs/2608.06607",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-10T04:00:00+00:00",
+    "summary": "arXiv:2608.06607v1 Announce Type: cross Abstract: Most document-extraction systems use a single model for all documents. This is simple but can be costly for easy cases and less effective for difficult ones. We examine whether we can predict a document's difficulty before extraction using inexpensive, document-based signals, and use this to choose between a cheaper and a stronger extractor. We find that routing only helps if two conditions hold: the cheaper model fails often enough to make routi…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "547817f40018",
+    "title": "Georeferencing Non-Gazetteered Place Names using Biological Specimen Records",
+    "url": "https://arxiv.org/abs/2608.06884",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-10T04:00:00+00:00",
+    "summary": "arXiv:2608.06884v1 Announce Type: cross Abstract: Biological specimen records collected by natural history institutions constitute a rich source of temporal geographic knowledge, capturing biodiversity information about regional landscapes as they were recorded at different times. Using digitised data from the Allan Herbarium (New Zealand), this study identifies place names in these specimen locality descriptions that are absent from current gazetteers; we refer to these as non-gazetteer place n…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "178d69a9567f",
+    "title": "DocMemo: Dynamic Evidence Discovery via Probabilistic Memory-Guided Retrieval for Multi-Modal Document Understanding",
+    "url": "https://arxiv.org/abs/2608.07067",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-10T04:00:00+00:00",
+    "summary": "arXiv:2608.07067v1 Announce Type: cross Abstract: Long-document understanding requires locating sparse and heterogeneous evidence across hundreds of pages, yet existing systems remain limited by static retrieval and fragile cross-round memory. Mainstream single-round methods commit to a fixed top-$k$ page set at the outset and struggle to recover from early retrieval errors; recent iterative approaches allow multi-round evidence acquisition, but they do not investigate the propagation mechanism …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "bf42385f1b85",
+    "title": "Geo-Spatial Concept Probing of Large Language Models: Abstraction, Compositionality, and Grounding",
+    "url": "https://arxiv.org/abs/2608.07353",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-10T04:00:00+00:00",
+    "summary": "arXiv:2608.07353v1 Announce Type: cross Abstract: Understanding concepts is fundamental to generalization. Despite their impressive performance on a wide range of tasks, Large Language Models (LLMs) still struggle with genuine concept understanding. Prior work has evaluated conceptual understanding in LLMs using natural-language benchmarks or narrowly scoped synthetic tasks, but these settings often conflate multiple skills or lack precise control over the underlying concepts and their propertie…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "2b878edc9eb8",
+    "title": "GeoBenchLLM: A Comprehensive Benchmark for Evaluating LLMs on Geo-Related Tasks",
+    "url": "https://arxiv.org/abs/2608.07411",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-10T04:00:00+00:00",
+    "summary": "arXiv:2608.07411v1 Announce Type: cross Abstract: In the context of geodata, existing Large Language Models have often been studied in a homogeneous setting, which has considerably limited insights into their generalization capabilities. In this paper, we present \\benchName, a comprehensive benchmark for probing LLMs on geo-related tasks. We leverage a careful selection of twelve publicly available datasets from diverse geo-related tasks and domains, and evaluate a set of LLMs on geo-spatial and…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "08c2fa38b53b",
+    "title": "Conformal Coverage Guarantees for Any Video Temporal Grounder",
+    "url": "https://arxiv.org/abs/2608.07434",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-10T04:00:00+00:00",
+    "summary": "arXiv:2608.07434v1 Announce Type: cross Abstract: Event boundaries in continuous video are ambiguous: re-annotate the same query-video pair and independent annotators mark moments that overlap by less than half on a large fraction of samples. The ground truth for video temporal grounding is therefore a distribution over intervals, yet every grounder returns a single interval with no statement of reliability, so at deployment a wrong interval is indistinguishable from a right one. COVER changes t…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ce3bf52f3044",
+    "title": "CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG",
+    "url": "https://arxiv.org/abs/2608.07458",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-10T04:00:00+00:00",
+    "summary": "arXiv:2608.07458v1 Announce Type: cross Abstract: Recent optimization studies on Retrieval-Augmented Generation (RAG) have exploited chunk-level KV cache reuse to avoid processing long retrieved contexts for higher efficiency, while significant information redundancy and noise still remain in the coarse-grained chunks. This paper optimizes the Pareto frontier under low prefill latency constraints while maximizing accuracy by proposing CoinRAG (Contextualized Information Nugget KV Cache Reuse for…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "aca78e63f5d5",
+    "title": "Towards a Theoretical Understanding of Two Tower Recommendation Models",
+    "url": "https://arxiv.org/abs/2403.00802",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-10T04:00:00+00:00",
+    "summary": "arXiv:2403.00802v2 Announce Type: replace Abstract: Production-grade recommender systems rely heavily on a large-scale corpus used by online media services, including Netflix, Pinterest, and Amazon. These systems enrich recommendations by learning users' and items' embeddings projected in a low-dimensional space with two tower models (two deep neural networks), which facilitate their embedding constructs to predict users' feedback associated with items. Despite its popularity for recommendations…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "1c1e2a034883",
+    "title": "SAGEO Arena: A Realistic Environment for Evaluating Search-Augmented Generative Engine Optimization",
+    "url": "https://arxiv.org/abs/2602.12187",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-10T04:00:00+00:00",
+    "summary": "arXiv:2602.12187v2 Announce Type: replace Abstract: Search-Augmented Generative Engines (SAGE) have emerged as a new paradigm for information access, bridging web-scale retrieval with generative capabilities to deliver synthesized answers. This shift has fundamentally reshaped how web content gains exposure online, giving rise to Search-Augmented Generative Engine Optimization (SAGEO), the practice of optimizing web documents to improve their visibility in AI-generated responses. Despite growing…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "7f397e30b143",
+    "title": "SCALE: Scientific Concept Aggregation via LLMs and Embeddings for Fine-Grained Taxonomy Extension",
+    "url": "https://arxiv.org/abs/2608.07254",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-10T04:00:00+00:00",
+    "summary": "arXiv:2608.07254v1 Announce Type: new Abstract: The increasing specialization of scientific research challenges existing classification systems, which provide effective representations of broad disciplines and research topics but often fail to capture the fine-grained conceptual structure of contemporary science. Author keywords offer greater specificity, but their fragmentation, redundancy, and terminological variability limit their use as stable units of knowledge organization. We introduce SC…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "8cfdd705a584",
+    "title": "Evolution of funding for collaborative health research towards higher-level patient-oriented research. A comparison of the European Union Framework Programmes to the program funding by the United States National Institutes of Health",
+    "url": "https://arxiv.org/abs/2308.07162",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-10T04:00:00+00:00",
+    "summary": "arXiv:2308.07162v4 Announce Type: replace Abstract: Public research funding agencies increasingly seek to steer health research toward higher levels of translation and societal relevance. Yet it remains unclear to what extent such policy shifts are effectively implemented and reflected in funded projects and scientific outputs. This study examines evolution and changes in the orientation of health research portfolios since 2008 within European funding (Framework Programmes FP7 and Horizon 2020 f…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "fbc92689323e",
+    "title": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
+    "url": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/",
+    "source": "Wired AI",
+    "date": "2026-08-09T10:30:00+00:00",
+    "summary": "There are endless ways to record and transcribe your virtual meetings with AI. Here’s an option that’s free and open source.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4257e082f9ad",
+    "title": "These AI Barons Are Ready to Give Away Their Fortunes",
+    "url": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
+    "source": "Wired AI",
+    "date": "2026-08-09T09:30:00+00:00",
+    "summary": "A new generation of philanthropists made rich by artificial intelligence are preparing to give away their vast wealth. What should we make of a multi-billion-dollar pinky promise?",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "d724fde1f0e4",
     "title": "How to Disable Gemini in Gmail and Google Docs",
     "url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
