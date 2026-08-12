@@ -1,5 +1,347 @@
 [
   {
+    "id": "96bf91dd3638",
+    "title": "Do LLM Recommenders Know When They're Hallucinating? Auditing Confidence Calibration in Catalog Faithfulness",
+    "url": "https://arxiv.org/abs/2608.10008",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-12T04:00:00+00:00",
+    "summary": "arXiv:2608.10008v1 Announce Type: new Abstract: LLM recommenders for top-$K$ item suggestion regularly emit titles outside the target catalog. Prior audits measure this as a binary out-of-domain rate; none ask whether the model knew it was hallucinating. We jointly audit hallucination rate (OOD@10) and verbalized-confidence calibration (ECE, Brier, reliability) for four zero-shot LLM recommenders from four independent vendors (Mistral Large, Llama-3.3-70B, GPT-OSS-120B, Claude Sonnet 4.6), not g…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "80d94750791f",
+    "title": "ConnectionMind: Leveraging Social Networks and Large Language Models for Personalized Recommendation at Meta",
+    "url": "https://arxiv.org/abs/2608.10187",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-12T04:00:00+00:00",
+    "summary": "arXiv:2608.10187v1 Announce Type: new Abstract: Modern recommendation systems on social media platforms such as Meta must model complex social relationships, including friendships, group memberships, and creator interactions, alongside massive and heterogeneous content such as text and video. Traditional recommendation models, however, often omit these signals or treat them independently, lacking the reasoning capability to integrate multi-relational context for fine-grained personalization. We …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "47dcbf49e50a",
+    "title": "Sequential Modality Dropout for Robust Multi-Modal Sequential Recommendation",
+    "url": "https://arxiv.org/abs/2608.10240",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-12T04:00:00+00:00",
+    "summary": "arXiv:2608.10240v1 Announce Type: new Abstract: Multi-modal sequential recommenders assume every item carries every modality, but real product catalogs often miss images or text, and a model trained on complete data loses much of its recommendation accuracy when a modality is unavailable at serving time. We propose Sequential Modality Dropout (SMD): during training, each modality stream (image and text) is independently erased with probability p for an entire user interaction history, so the mod…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "62b2f4a8bd86",
+    "title": "DualSpectralCF: Training-Free Sign-Aware Spectral Collaborative Filtering",
+    "url": "https://arxiv.org/abs/2608.10247",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-12T04:00:00+00:00",
+    "summary": "arXiv:2608.10247v1 Announce Type: new Abstract: Real-world recommendation platforms routinely collect explicit negative feedback such as 1-star reviews, hate-button clicks, distrust between users, and very-low watch-ratio videos. Learned sign-aware recommenders exploit this signal for clear accuracy gains, but only at the cost of gradient-based training. In parallel, a line of training-free spectral collaborative filtering methods matches or beats learned graph recommenders at a fraction of the …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b5229a87762b",
+    "title": "GenRec: An LLM-Backed Recommendation Ranker at Netflix",
+    "url": "https://arxiv.org/abs/2608.10257",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-12T04:00:00+00:00",
+    "summary": "arXiv:2608.10257v1 Announce Type: new Abstract: Large language models (LLMs) are reshaping recommender systems by enabling richer modeling of users, content, and context directly in natural language. At Netflix, we are exploring this direction through GenRec, an LLM-backed recommendation ranker built on top of an in-house foundational LLM. GenRec follows a two-phase framework: Phase 1 adapts an open-source LLM to Netflix data, developing deep understanding of the catalog and member behavior whil…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "f7cf321125f1",
+    "title": "Neural Tree Collaborative Filtering: Rethinking Graph Collaborative Filtering as Tree Collaborative Filtering with Curvature-Aware Propagation Depth",
+    "url": "https://arxiv.org/abs/2608.10297",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-12T04:00:00+00:00",
+    "summary": "arXiv:2608.10297v1 Announce Type: new Abstract: Graph Collaborative Filtering (GCF) has become the dominant paradigm in modern recommender systems by modeling user-item interactions as a bipartite graph and propagating embeddings through a fixed number of message-passing layers. However, applying a uniform propagation depth to every node ignores a fundamental property of real interaction graphs: nodes differ substantially in their local connectivity, so peripheral nodes quickly suffer from over-…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "331be68e730d",
+    "title": "Persona Conditioning as an Assessor-Sensitivity Probe for LLM-Based IR Evaluation",
+    "url": "https://arxiv.org/abs/2608.10385",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-12T04:00:00+00:00",
+    "summary": "arXiv:2608.10385v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used as relevance assessors in information retrieval (IR) evaluation, raising questions about how assessor framing affects judgment reliability and downstream system comparison. We study persona conditioning as a diagnostic mechanism for exposing LLM assessor sensitivity. Using task-oriented personas drawn from two complementary sources (PersonaHub and NVIDIA Nemotron-Personas-USA), we instantiate five …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c6c9e5aeb45e",
+    "title": "Post-Calibration Reliability Reranking of Relevance Decisions via Label-wise Monotone Projection",
+    "url": "https://arxiv.org/abs/2608.10406",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-12T04:00:00+00:00",
+    "summary": "arXiv:2608.10406v1 Announce Type: new Abstract: Web search, product search, and question-answering retrieval systems often assign a relevance label and confidence score to each query-candidate pair. The relevance label describes how well a page, product, or passage matches the query, while the confidence often guides downstream use or fallback decisions. Post-hoc calibration is therefore needed because misaligned confidence can make systems over-trust wrong predictions or unnecessarily defer cor…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d616df88a459",
+    "title": "Towards Efficient Reasoning in LLM-Based Recommender Systems via Model Merging",
+    "url": "https://arxiv.org/abs/2608.10447",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-12T04:00:00+00:00",
+    "summary": "arXiv:2608.10447v1 Announce Type: new Abstract: Large language model-based recommender systems are increasingly adopting slow-thinking models that generate step-by-step reasoning before making predictions, often achieving higher accuracy than fast-thinking models that predict directly. However, their reasoning traces are often unnecessarily verbose, increasing inference costs without commensurate accuracy gains. Existing training-based approaches to reasoning compression often incur substantial …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "6becf7027ee9",
+    "title": "When Do Anchor-Based Pointwise LLM Rerankers Help? Retriever Quality, Statistical Scope, and Anchor Design",
+    "url": "https://arxiv.org/abs/2608.10528",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-12T04:00:00+00:00",
+    "summary": "arXiv:2608.10528v1 Announce Type: new Abstract: Anchor-based pointwise LLM reranking scores each candidate against a shared reference passage to recover cross-document context at pointwise cost. We study when this actually helps, using GCCP/PAGC as a representative method. Our study is reproduction-first. We use reproduction as a starting point for a controlled component-level stress test of anchor-based pointwise reranking. Our initial reimplementation, based only on the paper text, achieves 0.…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "0009b6a21200",
+    "title": "Multi Interests for Joint Search-Recommendation Modeling",
+    "url": "https://arxiv.org/abs/2608.10535",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-12T04:00:00+00:00",
+    "summary": "arXiv:2608.10535v1 Announce Type: new Abstract: Search and recommendation are crucial for understanding user preferences. More and more studies are attempting to jointly model search behavior and recommendation behavior, by integrating user active search and passive recommendation behavior data to better mine user preferences. However, although existing cross-domain unified modeling frameworks can effectively compensate for the differences in behavior between domains, they overlook the expressio…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "7ac261bebb2d",
+    "title": "DistilVDR: A Compact End-to-End Visual Document Retriever via Dual-Student Distillation",
+    "url": "https://arxiv.org/abs/2608.10636",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-12T04:00:00+00:00",
+    "summary": "arXiv:2608.10636v1 Announce Type: new Abstract: Visual document retrieval (VDR) is dominated by multi-billion-parameter models that are slow to index at full corpus scale and expensive to serve. Prior compression routes either train a smaller multi-vector encoder from scratch or distil only the query side; neither yields a compact single-vector retriever end-to-end. We present DistilVDR, a 524M end-to-end VDR system distilled bilaterally from a single 8B vision-language teacher under a pointwise…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "8360af1f7712",
+    "title": "ENTLORE: A Graph-Grounded Benchmark for Latent Organizational Reasoning in Enterprise Question Answering",
+    "url": "https://arxiv.org/abs/2608.10679",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-12T04:00:00+00:00",
+    "summary": "arXiv:2608.10679v1 Announce Type: new Abstract: Enterprise question answering is framed as retrieving internal documents and generating grounded answers. Routine enterprise records, however, are work by-products in which required organizational relations remain implicit across heterogeneous sources. Existing benchmarks provide realistic multi-source evidence, but often materialize a predefined answer path and therefore test the composition of stated facts rather than recovery of a target relatio…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "183b9bcdb382",
+    "title": "Deciding When to Rely on Visual Information: Gated Multimodal Fusion in Sequential Recommendation",
+    "url": "https://arxiv.org/abs/2608.10700",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-12T04:00:00+00:00",
+    "summary": "arXiv:2608.10700v1 Announce Type: new Abstract: Multimodal sequential recommender systems commonly fuse visual and collaborative signals uniformly, treating visual features as generically informative regardless of item or user context. We argue that visual utility, defined as the contribution of visual signals to recommendation quality, is a latent contextual variable that depends on both the item and the user's interaction history rather than a fixed item property. To model this variability, we…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "15c44aa4aef0",
+    "title": "TimeRoute: Time-Aware Modality Routing and Diffusion for Multi-Modal Recommendation",
+    "url": "https://arxiv.org/abs/2608.10983",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-12T04:00:00+00:00",
+    "summary": "arXiv:2608.10983v1 Announce Type: new Abstract: Multi-modal recommenders fuse collaborative signals with item modalities such as text, images, and audio, but the usefulness of each drifts over time and at different rates. For example, chocolate purchases typically guided by textual ingredient cues can shift toward visual packaging and ambient audio around Valentine's Day. This modality time-scale mismatch gives rise to two coupled challenges: (1) users require different modality proportions acro…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4cb306d1c3c4",
+    "title": "Sona Technical Report",
+    "url": "https://arxiv.org/abs/2608.11015",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-12T04:00:00+00:00",
+    "summary": "arXiv:2608.11015v1 Announce Type: new Abstract: We introduce Sona, a single-model generative recommender for Yandex Music. In an online A/B test, Sona replaced the entire production cascade, comprising more than 15 candidate generators followed by pre-ranking and ranking models that consume hundreds of features, including signals from large transformer models such as Argus and target-attention scorers, while significantly improving key engagement metrics. The architecture of Sona unifies candida…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "acbe0d3ff6ff",
+    "title": "Self-Knowledge Retrieval Augmented Generation Framework for Patent Matching",
+    "url": "https://arxiv.org/abs/2608.11030",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-12T04:00:00+00:00",
+    "summary": "arXiv:2608.11030v1 Announce Type: new Abstract: Patent retrieval and matching based on large language models (LLMs) play a vital role in intellectual property protection. However, due to the complex structure of patent documents, dense technical terminology, and multi-modal information, traditional methods struggle to accurately identify subtle differences between patents. Existing LLM-based patent matching approaches typically rely on domain-specific pretrained or instruction tuning, which ofte…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "d08a43404c0a",
+    "title": "Role of Personality in Conversational Information Seeking",
+    "url": "https://arxiv.org/abs/2608.11164",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-12T04:00:00+00:00",
+    "summary": "arXiv:2608.11164v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used for information seeking, where users find, compare, and evaluate information through dialogue. In this role, the assistant does more than retrieve or generate content: it shapes how users articulate constraints, ask follow-up questions, verify claims, and decide when an answer is sufficient for action. Yet little is known about how user personality, assistant personality, and task context jointly i…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a67ec6fcf4fc",
+    "title": "Are We Really Making Progress in Group Recommendation? Unmasking the Tie-Breaking Illusion",
+    "url": "https://arxiv.org/abs/2608.11190",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-12T04:00:00+00:00",
+    "summary": "arXiv:2608.11190v1 Announce Type: new Abstract: Recent group recommendation methods have reported strong improvements on standard benchmarks, but it remains unclear whether these gains always reflect genuine advances in modeling group preferences. In this paper, we show that several recent methods are affected by a systematic evaluation bias caused by the interaction between training-time score compression and evaluation-time deterministic tie-breaking. Specifically, an additional sigmoid transf…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "732ae2350aee",
+    "title": "Detecting an Effect Is Not Learning to Act on It: A Reward-SNR Floor for LLM Acquisition Agents",
+    "url": "https://arxiv.org/abs/2608.10441",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-12T04:00:00+00:00",
+    "summary": "arXiv:2608.10441v1 Announce Type: cross Abstract: Many pipelines can pay a per-example cost to acquire an auxiliary, model-derived observation -- an LLM's structured reasoning, a slow oracle, an expensive measurement -- and then must decide when the acquired signal is worth using. Our thesis is a distinction that is easy to miss: detecting that such a signal helps on average is not the same as learning to act on it per instance, and a reward-SNR floor governs when the second is even possible. Ev…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "de05d222a7a9",
+    "title": "Leveraging Human Reading Behavior for Keyphrase Extraction: A Webcam-based Eye-tracking Corpus",
+    "url": "https://arxiv.org/abs/2608.10688",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-12T04:00:00+00:00",
+    "summary": "arXiv:2608.10688v1 Announce Type: cross Abstract: Purpose: Keyphrases are statistically and semantically important textual units that can also attract readers' attention during comprehension. However, existing keyphrase extraction (KPE) studies mainly focus on improving textual representation while largely overlooking human reading behavior. This study examines whether lightweight webcam-based eye-tracking features can improve KPE from Chinese academic abstracts in Library and Information Scienc…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "9317dcb5c2f8",
+    "title": "Multi-Level Evidence Aggregation for Robust Facial Phenotype Retrieval in Rare Genetic Disorder Prioritization",
+    "url": "https://arxiv.org/abs/2608.11037",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-12T04:00:00+00:00",
+    "summary": "arXiv:2608.11037v1 Announce Type: cross Abstract: AI-assisted facial phenotyping supports rare genetic disorder prioritization by retrieving visually similar diagnosed cases from facial image reference databases such as the GestaltMatcher Database (GMDB). Existing GestaltMatcher-based retrieval frameworks compare each test image with individual gallery images in a facial phenotype embedding space. However, this pointwise formulation does not fully exploit available evidence, because patients may…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "04427c67b61a",
+    "title": "Towards Comprehensible Recommendation with Large Language Model Fine-tuning",
+    "url": "https://arxiv.org/abs/2508.07595",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-12T04:00:00+00:00",
+    "summary": "arXiv:2508.07595v2 Announce Type: replace Abstract: Recommender systems have become increasingly ubiquitous in daily life. While traditional recommendation approaches primarily rely on ID-based representations or item-side content features, they often fall short in capturing the underlying semantics aligned with user preferences (e.g., recommendation reasons for items), leading to a semantic-collaborative gap. Recently emerged LLM-based feature extraction approaches also face a key challenge: ho…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "13c6dd8f9e21",
+    "title": "GraFine: Retrieval-Time Refinement for Efficient Graph RAG over Corpus Graphs",
+    "url": "https://arxiv.org/abs/2601.18579",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-12T04:00:00+00:00",
+    "summary": "arXiv:2601.18579v2 Announce Type: replace Abstract: Graph RAG on corpus graphs enhances retrieval by leveraging intermediate node content as contextual clues to uncover unretrieved oracle nodes. However, existing methods suffer from two critical blind spots, namely semantically blind graph expansion and topology blind pruning, or else rely on prohibitively slow retrieval and generation interleaving. To address this, we formalize these limitations through an operational taxonomy and propose a ret…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "2f1a585e5605",
+    "title": "MERGE: Next-Generation Item Indexing Paradigm for Large-Scale Streaming Recommendation",
+    "url": "https://arxiv.org/abs/2601.20199",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-12T04:00:00+00:00",
+    "summary": "arXiv:2601.20199v2 Announce Type: replace Abstract: Item indexing, which maps a large corpus of items into compact discrete representations, is critical for both discriminative and generative recommender systems, yet existing Vector Quantization (VQ)-based approaches struggle with the highly skewed and non-stationary item distributions common in industrial streaming recommenders, leading to poor assignment accuracy, imbalanced cluster occupancy, and insufficient cluster separation. To address th…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "2bb483fc848f",
+    "title": "Eleven Years of BRACIS: A Meta-Scientific Study of the Brazilian Conference on Intelligent Systems",
+    "url": "https://arxiv.org/abs/2608.09964",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-12T04:00:00+00:00",
+    "summary": "arXiv:2608.09964v1 Announce Type: new Abstract: The Brazilian Conference on Intelligent Systems (BRACIS) is the main national venue for Artificial Intelligence research in Brazil, hosted by the Brazilian Computer Society since 2012 and publishing work from institutions across the country. Across eleven years, from 2015 to 2025, we build a per-paper record of all 1,066 accepted papers from DBLP metadata, 6,765 Google Scholar citations, and the paper full texts, and use it to ask what BRACIS publi…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "e3e5fd20c1c4",
+    "title": "Evidence-Based Scientific Question Discovery: A Framework with Historical Backtesting",
+    "url": "https://arxiv.org/abs/2608.09968",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-12T04:00:00+00:00",
+    "summary": "arXiv:2608.09968v1 Announce Type: new Abstract: Current AI systems are optimized for answering questions; the scientific enterprise is bottlenecked earlier, at discovering the questions worth investigating. We present a framework that turns a traceable, reproducible, scope controlled research corpus into ranked, falsifiable research questions: evidence is represented as provenance carrying claims; cross paper tensions are detected, typed, and human adjudicated; surviving signals are refined into…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5b6591ce9520",
+    "title": "Mapping the Climate-Health Evidence Base (2007-2023): A Bibliometric, Statistical, and NLP Multi-Label Text Analysis of 22,695 Records",
+    "url": "https://arxiv.org/abs/2608.09985",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-12T04:00:00+00:00",
+    "summary": "arXiv:2608.09985v1 Announce Type: new Abstract: We analyzed a curated climate--health bibliographic corpus of 22,695 multi-labeled records from 2007--2023 to characterize growth, thematic concentration, and evolving methods. Annual publication counts rose sharply, with multiple change-points indicating phase-structured expansion; Negative Binomial models estimated roughly 10--11% year-over-year growth. Exposure--health co-occurrence departed strongly from independence, with canonical hazard--out…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8e14540dfdfb",
+    "title": "Unveiling the Predators: Contemporary Approaches to Identifying Illegitimate Open Access Journals in the Academic Publishing Ecosystem",
+    "url": "https://arxiv.org/abs/2608.10739",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-12T04:00:00+00:00",
+    "summary": "arXiv:2608.10739v1 Announce Type: new Abstract: Predatory journals pose a significant challenge to the integrity of the Open Access (OA) publishing model by exploiting its framework for financial gain while bypassing essential editorial and peer-review standards. This study critically evaluates existing methodologies for identifying such journals, ranging from manual blacklist checks to advanced automated approaches utilizing machine learning. The analysis highlights critical limitations, includ…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "709034629566",
+    "title": "Auditable AI-Assisted Research Writing: An Engineering Discipline with Pre-Registered Process Observation",
+    "url": "https://arxiv.org/abs/2608.10858",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-12T04:00:00+00:00",
+    "summary": "arXiv:2608.10858v1 Announce Type: new Abstract: Language models now draft, classify and criticise inside research production, yet the artifacts they help produce carry little accountable history. Rather than detecting machine involvement afterwards, we specify an auditability discipline built at production time: git sealing with an anchor lineage, hash-bound provenance, red-line gates that refuse non-compliant artifacts and log every refusal, cross-model role separation, and programmatic assembl…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "3bb3cb0730c2",
+    "title": "HexEval: An Evidence-Driven Hexagonal Framework for Multidimensional Scholar Assessment",
+    "url": "https://arxiv.org/abs/2608.10584",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-12T04:00:00+00:00",
+    "summary": "arXiv:2608.10584v1 Announce Type: cross Abstract: Scholar assessment plays a fundamental role in faculty recruitment, funding allocation, academic promotion, and talent discovery. Existing scholar assessment methods predominantly rely on bibliometric indicators and reputation proxies, while recent large language model (LLM)-based approaches mainly focus on evaluating individual research papers rather than comprehensively assessing scholars. We argue that scholar assessment should be formulated a…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "e17840e898aa",
+    "title": "Most biomedical publications show signs of LLM-assisted writing",
+    "url": "https://arxiv.org/abs/2608.10715",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-12T04:00:00+00:00",
+    "summary": "arXiv:2608.10715v1 Announce Type: cross Abstract: Over the past several years, LLM-powered chatbots and agents have become widely used as a tool for academic writing. LLM-assisted writing can be valuable by removing language barriers but at the same time causes concerns about misconduct and fraud. To inform policy decisions, it is necessary to monitor the prevalence of LLM-altered texts in scholarly publications. Despite some recent progress in this direction, no existing method can produce reli…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "2728311a14fa",
+    "title": "A Graph Approach to the Academic Publishing Network: A Heterogeneous Model and Structural Screening over OpenAlex Open Data",
+    "url": "https://arxiv.org/abs/2608.10774",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-12T04:00:00+00:00",
+    "summary": "arXiv:2608.10774v1 Announce Type: cross Abstract: The academic publishing ecosystem is a vast, heterogeneous network of works, authors, institutions, journals, and topics. Traditional scientometrics reduces it to isolated tabular indicators (h-index, Impact Factor) that ignore topological context and are not designed to capture coordinated illegitimate practices. Building on our companion review, which proposed graph analysis of publishing integrity, this paper implements that approach. We defin…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "fcf560aa0638",
+    "title": "When Open Data Comes Full Circle: New OCR Reprocessing Software and Datasets Portal for Chronicling America",
+    "url": "https://blogs.loc.gov/thesignal/2026/08/yarasavage-new-ocr-reprocessing/",
+    "source": "LOC Signal",
+    "date": "2026-08-11T14:33:02+00:00",
+    "summary": "Learn about our new software release on GitHub that is transforming text quality across the Chronicling America Historic Newspapers collection, and how researchers and data enthusiasts can now pull bulk downloads for all 23+ million pages from our brand-new portal. Read all about it!",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "6aa86e7795bd",
+    "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
+    "url": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
+    "source": "Wired AI",
+    "date": "2026-08-11T12:37:12+00:00",
+    "summary": "Researchers say it took fewer than 20 prompts for a public AI tool to find a flaw (now fixed) allowing anyone on a Zoom call to hijack another participants’ device.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "758f70349452",
+    "title": "A New Trick Reveals AI Models’ Inner Thoughts",
+    "url": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
+    "source": "Wired AI",
+    "date": "2026-08-11T11:00:00+00:00",
+    "summary": "Researchers devised a way to extract “reasoning traces” from Claude, GPT, and Gemini. What they found, they say, indicates that some Chinese AI may be trained on leading US models.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c073b3331963",
+    "title": "AI Is Dead. Organoids Are Alive",
+    "url": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
+    "source": "Wired AI",
+    "date": "2026-08-11T10:00:00+00:00",
+    "summary": "Mini human brains are being grown in labs all over the world. Soon, they could outthink neural networks.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "fb96ce21d24e",
+    "title": "AI Is Helping Solve the Intricate Genetic Puzzle of Schizophrenia",
+    "url": "https://www.wired.com/story/ai-helping-solve-intricate-genetic-puzzle-schizophrenia/",
+    "source": "Wired AI",
+    "date": "2026-08-11T09:00:00+00:00",
+    "summary": "Recent findings provide one of the most detailed pictures to date of the genetic architecture of schizophrenia, opening up new avenues for research into the disorder.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "24858c861327",
     "title": "Preserving Item Semantics for Free: Rethinking Token Initialization in LLM-Based Generative Recommendation",
     "url": "https://arxiv.org/abs/2608.07816",
