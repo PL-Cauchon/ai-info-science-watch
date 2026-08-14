@@ -1,5 +1,257 @@
 [
   {
+    "id": "3ac45e8a5618",
+    "title": "Test-Time Optimization of Query Embeddings with Ranking Aware Reward Maximization",
+    "url": "https://arxiv.org/abs/2608.12569",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-14T04:00:00+00:00",
+    "summary": "arXiv:2608.12569v1 Announce Type: new Abstract: Dense retrievers rank documents using vector similarity between a frozen encoder and a precomputed index. While test-time ranking rewards from a reranker or LLM judge can improve results, existing methods discard this signal after a single query. Updating the retriever's weights makes rewards reusable, but this requires parameter access, which is unavailable for closed-source models, and is computationally prohibitive. We propose TTT-Embed (Test-Ti…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "474da01e0ce7",
+    "title": "Knowledge Synthesis Review Framework: Task-Level Benchmarking of LLM-Based Systems for Multi-Source Evidence Synthesis",
+    "url": "https://arxiv.org/abs/2608.12741",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-14T04:00:00+00:00",
+    "summary": "arXiv:2608.12741v1 Announce Type: new Abstract: Evidence in rapidly evolving fields is fragmented across academic studies, industry reports, policy documents, and media sources that differ in quality, structure, and purpose, making timely synthesis difficult. Large language models (LLMs) may accelerate this work, but their reliability across the distinct cognitive tasks of a review remains uncertain. We introduce the Knowledge Synthesis Review (KSR), a human-in-the-loop framework that decomposes…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "e82b7a925bda",
+    "title": "DrEM: Dual-Side Robust Ensemble Ranking from Noisy User Preference Predictions in Video Recommendation",
+    "url": "https://arxiv.org/abs/2608.12778",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-14T04:00:00+00:00",
+    "summary": "arXiv:2608.12778v1 Announce Type: new Abstract: Industrial video recommendation systems typically adopt a multi-stage architecture. At the ensemble ranking stage, multi-dimensional user preference predictions (pxtrs) from an upstream multi-task model are fused into a unified ranking score to reflect user satisfaction. Since users' true satisfaction is difficult to observe directly, ensemble ranking models commonly use pxtrs both as input features and as a source for constructing proxy preference…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8fe209441d28",
+    "title": "A Comprehensive Empirical Evaluation of Vector Database Systems for Approximate Nearest Neighbor Search: Performance, Quality, and Resource Trade-offs",
+    "url": "https://arxiv.org/abs/2608.12812",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-14T04:00:00+00:00",
+    "summary": "arXiv:2608.12812v1 Announce Type: new Abstract: Vector databases have emerged as critical infrastructure for modern artificial intelligence applications, particularly retrieval-augmented generation (RAG), semantic search, and recommendation systems. Despite their growing importance, there remains a significant gap in comprehensive, reproducible benchmarks that jointly evaluate retrieval quality, query latency, throughput, and resource utilization. We present a systematic empirical evaluation of …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "9bf8ff2c3d13",
+    "title": "Query Translation vs. Cross-Lingual Embeddings for Sinhala-Tamil E-Government Information Retrieval",
+    "url": "https://arxiv.org/abs/2608.12820",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-14T04:00:00+00:00",
+    "summary": "arXiv:2608.12820v1 Announce Type: new Abstract: This paper presents a comparative evaluation of cross-lingual information retrieval (CLIR) methods for retrieving English government information using Sinhala and Tamil queries. Two CLIR paradigms are investigated: Query Translation (QT), employing Google Translate, NLLB, and mBART50, and Cross-Lingual Embeddings (CLE), using LaBSE, multilingual E5, and BGE-M3, with monolingual English retrieval as the baseline. Experiments are conducted on a human…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "f927991a08a8",
+    "title": "FSGR: Mitigating Token Frequency Bias for Fair SID-Based Generative Recommendation",
+    "url": "https://arxiv.org/abs/2608.12845",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-14T04:00:00+00:00",
+    "summary": "arXiv:2608.12845v1 Announce Type: new Abstract: Semantic ID (SID)-based generative recommendation has recently achieved remarkable success. However, existing methods suffer from a previously overlooked fairness issue, which we term \\textbf{Token Frequency Bias}, where high-frequency SID tokens are systematically over-predicted while low-frequency SID tokens are under-predicted. This bias originates from the combined effects of imbalanced semantic codebooks during SID construction, and popularity…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "59b591d9be84",
+    "title": "STAR: Structured Tokenization and Target-Aware Interest Representation for PCVR Prediction",
+    "url": "https://arxiv.org/abs/2608.12986",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-14T04:00:00+00:00",
+    "summary": "arXiv:2608.12986v1 Announce Type: new Abstract: Post-click conversion rate (PCVR) prediction is a core ranking task in industrial recommender systems. Modern ranking models must jointly capture heterogeneous non-sequential features, multi-behavior user sequences, and target-item-aware user interests, while remaining robust to high-cardinality sparse features, missing values, and train-inference inconsistencies. In this paper, we present STAR (Structured Tokenization and Target-Aware Interest Rep…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "68ff60597eb6",
+    "title": "Generative Universal Multimodal Retrieval with Dual-role Identifiers",
+    "url": "https://arxiv.org/abs/2608.12987",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-14T04:00:00+00:00",
+    "summary": "arXiv:2608.12987v1 Announce Type: new Abstract: Generative information retrieval (GIR) has emerged as a compelling alternative to the conventional index-retrieve-then-rank retrieval pipeline by training a generator to produce the identifiers of relevant items directly. Despite its promise, a number of open challenges still remain. First, constrained left-to-right decoding is vulnerable to prefix-level errors and local optima. Second, most prior GIR research remains largely unimodal, leaving inst…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "16f9b9fcee1f",
+    "title": "When Should Multi-Round RAG Stop? Structured Stopping Judgments and Retrieval Reduction in Search-R1",
+    "url": "https://arxiv.org/abs/2608.13237",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-14T04:00:00+00:00",
+    "summary": "arXiv:2608.13237v1 Announce Type: new Abstract: Multi-round retrieval-augmented generation (RAG) must decide when to stop searching as evidence accumulates. Because the deployed policy is determined by the first STOP on each trajectory, this is a sequential selection problem rather than an independent state-classification task. We adapt S2G-RAG's structured sufficiency-and-gap judgment to a frozen Search-R1 pipeline and train a Qwen3.5-2B judge on 3,009 states from 900 disjoint HotpotQA question…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "46715f616c29",
+    "title": "Structure then Query: Enabling Precise Analytical Queries over Unstructured Documents",
+    "url": "https://arxiv.org/abs/2608.13384",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-14T04:00:00+00:00",
+    "summary": "arXiv:2608.13384v1 Announce Type: new Abstract: Unstructured documents constitute the majority of enterprise and web data. With the rapid development of large language models(LLMs), researchers have started to build data systems that analyze unstructured textual documents like operating on databases. However, because mainstream retrieval methods still relies on fuzzy matching based on vector similarity, accurately obtaining information and performing structured analysis and reasoning remains a m…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "d84f93d63721",
+    "title": "MindMemOS: A Portable and Self-Evolving Memory Operating Layer for AI Agents",
+    "url": "https://arxiv.org/abs/2608.12428",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-14T04:00:00+00:00",
+    "summary": "arXiv:2608.12428v1 Announce Type: cross Abstract: Memory is a core component of AI agents, enabling them to accumulate experience, maintain personalization, and adapt over long-term interactions. However, existing memory systems often remain fixed after development, limiting their ability to adapt their memory models, organization strategies, and procedural knowledge through continued use. We present MindMemOS, a portable and self-evolving memory operating layer that organizes open-world informa…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b9536cc97b54",
+    "title": "MASCOT: Model-Aware Submodular Coverage for Composite-Attribute Text-to-Image Retrieval",
+    "url": "https://arxiv.org/abs/2608.12532",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-14T04:00:00+00:00",
+    "summary": "arXiv:2608.12532v1 Announce Type: cross Abstract: Vision-Language Models (VLMs) are highly effective in retrieving semantically relevant images. However, in practice, relevance alone is often insufficient. Systems must also achieve Result Diversification (RD) across composite attributes such as geography and time, a task for which precise control remains challenging. Current re-ranking methods, such as Multi-Source Determinantal Point Processes (MS-DPP), address this using manifold-based repulsi…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "03f02c5c63f5",
+    "title": "Attribute-Conditioned Multimodal Slot Factorization for Controllable Fashion Retrieval",
+    "url": "https://arxiv.org/abs/2608.12570",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-14T04:00:00+00:00",
+    "summary": "arXiv:2608.12570v1 Announce Type: cross Abstract: Fashion retrieval often requires satisfying multiple attributes at once, such as category, color, pattern, and demographic. Monolithic embeddings mix these signals into a single vector, making attribute-specific control difficult at retrieval time. Many existing semantic-ID methods provide discrete item codes, but these codes are typically optimized as item-level or residual addresses and do not expose named, independently controllable attribute …",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "3cd0e00608d6",
+    "title": "CRAFT: LLM-Based Iterative Refinement for Temporal Reasoning over Clinical Narratives",
+    "url": "https://arxiv.org/abs/2608.12779",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-14T04:00:00+00:00",
+    "summary": "arXiv:2608.12779v1 Announce Type: cross Abstract: Understanding the temporal progression of symptoms in clinical narratives is critical for disease monitoring, safety surveillance, and causality assessment. Clinical narratives, however, rarely provide explicit temporal anchors. Current approaches to temporal information reasoning focus predominantly on pairwise relation classification across multi-visit and timestamp-rich records, leaving the reconstruction of structured symptom trajectories fro…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "5c1f33e9ce1e",
+    "title": "DTAMLP: Denoise Time-aware MLP for Session-based Recommendation",
+    "url": "https://arxiv.org/abs/2608.12975",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-14T04:00:00+00:00",
+    "summary": "arXiv:2608.12975v1 Announce Type: cross Abstract: This paper reports two empirical findings on session-based recommendation (SBR), unified in a single model, DTAMLP. First, existing time-aware and GNN-based models (e.g., TiSASRec, SR-GNN) treat every click-time interval as equally informative, even though very short dwell times often reflect accidental clicks carrying little preference signal -- a phenomenon we call sporadic noise. We show that a lightweight, plug-and-play weight fusion module, …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "da3785839501",
+    "title": "HybridRAG-BN: A Retrieval-Augmented Framework with Fine-Tuned Verification for Bangla KBQA",
+    "url": "https://arxiv.org/abs/2608.13004",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-14T04:00:00+00:00",
+    "summary": "arXiv:2608.13004v1 Announce Type: cross Abstract: Knowledge-base question answering (KBQA) systems rely on effective retrieval and reasoning mechanisms to generate accurate answers from external knowledge sources. However, developing reliable KBQA systems for low-resource languages such as Bangla remains challenging due to limited retrieval-focused research, scarce language resources, and difficulties in grounding generated responses in external knowledge. In this work, we propose HybridRAG-BN, …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "f514ef75cd22",
+    "title": "EviReform: Evidence-Guided Query Reformulation for Multi-Hop Graph Retrieval",
+    "url": "https://arxiv.org/abs/2608.13006",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-14T04:00:00+00:00",
+    "summary": "arXiv:2608.13006v1 Announce Type: cross Abstract: Multi-hop retrieval must recover passages that provide sufficient evidence together. An initial passage often resolves an entity or relation implicit in the question, making the missing evidence easier to describe only after retrieval begins. Graph retrieval improves access to related evidence through stored corpus structure, but its retrieval signal is commonly derived from the original question. Complementary evidence must then be reached throu…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "bf3c9aeadaf8",
+    "title": "RAGSieve: Self-Referenced Local Contrast for Knowledge-Poison Detection in Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2608.13010",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-14T04:00:00+00:00",
+    "summary": "arXiv:2608.13010v1 Announce Type: cross Abstract: Retrieval-augmented generation treats an external corpus as inference evidence, allowing injected documents to promote attacker-chosen claims. Existing detectors depend on trusted references, specific attack artifacts, or global thresholds sensitive to corpus topology. We present RAGSieve, a self-referenced detection framework that constructs its reference from the inspected system. RAGSieve-Query (RSQ) performs query-local contrast, scoring top-…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "66f891a7a86d",
+    "title": "GEM: A Generative Embedding Model Bridging Reasoning and Retrieval",
+    "url": "https://arxiv.org/abs/2608.13200",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-14T04:00:00+00:00",
+    "summary": "arXiv:2608.13200v1 Announce Type: cross Abstract: Modern LLMs excel at reasoning and instruction following, enabling users to express complex and diverse information needs. However, conventional retrievers largely rely on surface-level matching between queries and documents, resulting in a growing gap between how users express their needs and how retrievers interpret them. In this paper, we present GEM, a generative embedding model that augments retrieval through its own knowledge by explicitly …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "665db46a8c13",
+    "title": "DiffGRM: Diffusion-based Generative Recommendation Model",
+    "url": "https://arxiv.org/abs/2510.21805",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-14T04:00:00+00:00",
+    "summary": "arXiv:2510.21805v2 Announce Type: replace Abstract: Generative recommendation (GR) is an emerging paradigm that represents each item via a tokenizer as an n-digit semantic ID (SID) and predicts the next item by autoregressively generating its SID conditioned on the user's history. However, two structural properties of SIDs make ARMs ill-suited. First, intra-item consistency: the n digits jointly specify one item, yet the left-to-right causality trains each digit only under its prefix and blocks …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ec6b2d5b607f",
+    "title": "Domus: An Open-Data Web Platform for House History Research",
+    "url": "https://arxiv.org/abs/2608.12566",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-14T04:00:00+00:00",
+    "summary": "arXiv:2608.12566v1 Announce Type: new Abstract: House history -- the record of who lived in a building, who owned it, and how its address changed over time -- is a central concern of genealogical and local history research. Wikidata and OpenHistoricalMap together provide an open-data infrastructure, CC0-licensed and capable of representing this data: Wikidata through its linked-data property model with temporal qualifiers, OpenHistoricalMap through historical building footprints with start and e…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "7dda498d7d80",
+    "title": "Is this Citation on Point?",
+    "url": "https://arxiv.org/abs/2608.12571",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-14T04:00:00+00:00",
+    "summary": "arXiv:2608.12571v1 Announce Type: new Abstract: In 2023, a New York judge sanctioned two attorneys in Mata v. Avianca for filing a brief with hallucinated citations generated by ChatGPT. Such failures are largely caught by database lookups; the harder problem is detecting citations that point to real cases but do not support the propositions for which they are offered -- a failure mode that existing evaluations of LLMs for legal use cases largely overlook. In this paper, we study proposition-lev…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "e3fab671d8d4",
+    "title": "Co-leading Teams Drive Scientific Novelty in Large-scale Research Infrastructures",
+    "url": "https://arxiv.org/abs/2608.13195",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-14T04:00:00+00:00",
+    "summary": "arXiv:2608.13195v1 Announce Type: new Abstract: Large-scale research infrastructures (LSRIs) have become the engine of modern scientific discovery. While these big machines predominantly operate under a user-oriented model where external teams conduct research with support from in-house researchers, the structural integration of staff scientists into user teams and its association with scientific novelty remains unclear. By leveraging a dataset of 273,109 publications across 76 global LSRIs and …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "9ff6f1b7d08e",
+    "title": "The Safety Reckoning Inside OpenAI",
+    "url": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
+    "source": "Wired AI",
+    "date": "2026-08-13T22:37:19+00:00",
+    "summary": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "91015cd06503",
+    "title": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
+    "url": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
+    "source": "Wired AI",
+    "date": "2026-08-13T21:14:43+00:00",
+    "summary": "AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat and Defcon, this week on Uncanny Valley.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ce303cd37c53",
+    "title": "Flock is tightening its rules in response to a growing surveillance backlash",
+    "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+    "source": "MIT Tech Review",
+    "date": "2026-08-13T13:41:10+00:00",
+    "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly at a problem that has made recent headlines:&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5ee3fd3c5de3",
+    "title": "How kids feel about AI, in their own words",
+    "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+    "source": "MIT Tech Review",
+    "date": "2026-08-13T09:00:00+00:00",
+    "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "76a4a47aa788",
+    "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
+    "url": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
+    "source": "Wired AI",
+    "date": "2026-08-13T09:00:00+00:00",
+    "summary": "Over a billion people worldwide have livers with excess fat, which can lead to a host of medical problems. Researchers think AI tools can spot the condition—and help stop it—early enough to save lives.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "e5a1e30a2dae",
     "title": "TRACES: A Benchmark for Epistemic Reliability in Scientific Reasoning by LLMs",
     "url": "https://arxiv.org/abs/2608.11415",
