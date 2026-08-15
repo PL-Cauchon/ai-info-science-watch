@@ -1,5 +1,41 @@
 [
   {
+    "id": "6f56e04a748c",
+    "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
+    "url": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
+    "source": "Wired AI",
+    "date": "2026-08-14T20:59:03+00:00",
+    "summary": "The Unitree G1 has found online fame as a relatively affordable robot that can charm a crowd. But can it ever hold down a real job?",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a13c5777186f",
+    "title": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
+    "url": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
+    "source": "Wired AI",
+    "date": "2026-08-14T15:00:00+00:00",
+    "summary": "Tim O’Reilly built a publishing empire that AI is helping to destroy. Yet he loves AI—as long as it’s open source.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "dd66d68264dc",
+    "title": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
+    "url": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/",
+    "source": "Wired AI",
+    "date": "2026-08-14T10:45:00+00:00",
+    "summary": "Joi AI hired 10 people to masturbate using AI companions as part of a monthlong “wellness” study. The company claims the practice could help “solve male loneliness.”",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "38c15e978c38",
+    "title": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
+    "url": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
+    "source": "Wired AI",
+    "date": "2026-08-14T10:15:00+00:00",
+    "summary": "Human-AI marriages are not currently recognized by US law. Some Republican state policymakers are drafting legislation to keep it that way.",
+    "category": "AI & Knowledge Management"
+  },
+  {
     "id": "3ac45e8a5618",
     "title": "Test-Time Optimization of Query Embeddings with Ranking Aware Reward Maximization",
     "url": "https://arxiv.org/abs/2608.12569",
