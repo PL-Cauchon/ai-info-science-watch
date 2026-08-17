@@ -1,5 +1,158 @@
 [
   {
+    "id": "514e92f9befe",
+    "title": "Do AI chatbots find what experts would? Effects of model, user role, and sample size on study retrieval for medical questions",
+    "url": "https://arxiv.org/abs/2608.13786",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-17T04:00:00+00:00",
+    "summary": "arXiv:2608.13786v1 Announce Type: new Abstract: Large language model (LLM) chatbots are increasingly used to answer clinical questions with citations to relevant clinical studies. Prior research has largely focused on citation fabrication, leaving a gap in evaluating the quality of retrieved studies and the factors driving their selection. In this study, we evaluated three general-purpose LLM chatbots: Claude Sonnet 5, Gemini 3.1 Pro, and ChatGPT GPT-5.5. We prompted the models with clinical que…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "62963051d94c",
+    "title": "AdsWorldEngine: A Self-Evolving Conversational Advertising Agent through Orchestrator and Tool Coevolution",
+    "url": "https://arxiv.org/abs/2608.13833",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-17T04:00:00+00:00",
+    "summary": "arXiv:2608.13833v1 Announce Type: new Abstract: Conversational advertising aims to deliver useful ads within multi-turn assistant interactions. Unlike conventional query-based advertising, where the user's intent is often expressed in a short standalone query, conversational ads must infer latent commercial intent from the current user query, the assistant response, and dialogue history while also deciding whether an ad would be helpful rather than intrusive. We propose AdsWorldEngine, an agenti…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "53325c888a2b",
+    "title": "Predicting Custom-Feed Returns for New Bluesky Posts: A Prospective Study",
+    "url": "https://arxiv.org/abs/2608.13874",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-17T04:00:00+00:00",
+    "summary": "arXiv:2608.13874v1 Announce Type: new Abstract: The conventional approach to cold-start recommendation addresses new users or newly introduced items. Bluesky custom feeds create a different setting: independently operated feeds filter content from a shared public stream. In this setting, newly published posts are the cold-start objects, while the feeds serve as candidates. We propose a cold-start routing task in which a newly ingested public post is the query and all rankable feeds in the monito…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "bd1a13a7e8c7",
+    "title": "How retriever redundancy and diversity impact RAG effectiveness",
+    "url": "https://arxiv.org/abs/2608.13956",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-17T04:00:00+00:00",
+    "summary": "arXiv:2608.13956v1 Announce Type: new Abstract: In RAG, while the retriever typically ranks documents by their individual relevance to the query, the generator instead produces an answer based on the retrieved documents as a whole. This paper investigates how redundancy and diversity from the retrieved document set impact the generator in terms of answer correctness. Previous work has provided a mix of findings: some showing that redundancy improves generation by reinforcing relevant information…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "83f66d080ba2",
+    "title": "EchoRec: Multi-Item Prediction-Empowered Generative Recommendation via Cycle-Consistent Preference Alignment",
+    "url": "https://arxiv.org/abs/2608.14011",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-17T04:00:00+00:00",
+    "summary": "arXiv:2608.14011v1 Announce Type: new Abstract: Generative recommendation autoregressively generates the semantic IDs of the target item, unifying preference modeling and index retrieval within the shared token space. Recent attempts have introduced Multi-Token Prediction (MTP) into this field, yet they primarily inherit its efficiency merit, leaving its potential as dense supervision unexplored. Unlocking this potential hinges on whether future behaviors qualify as informative supervision. Our …",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "20063bff8534",
+    "title": "HAM-RAG: Hierarchy-Aware Multimodal RAG for Structure-Faithful Interleaved Generation",
+    "url": "https://arxiv.org/abs/2608.14032",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-17T04:00:00+00:00",
+    "summary": "arXiv:2608.14032v1 Announce Type: new Abstract: Existing multimodal RAG methods often flatten structured documents into isolated text and image units, weakening the source organization and local text-image logic needed for faithful evidence selection and placement. We propose HAM-RAG, a Hierarchy-Aware Multimodal RAG framework for structure-faithful interleaved generation. HAM-RAG uses document hierarchy as a grounding signal across retrieval and generation, contextualizing textual and visual ev…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "121d110c8d9a",
+    "title": "TenderKG",
+    "url": "https://arxiv.org/abs/2608.14066",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-17T04:00:00+00:00",
+    "summary": "arXiv:2608.14066v1 Announce Type: new Abstract: Public procurement represents a major economic activity, where public institutions allocate contracts to companies through competitive tendering processes. Despite its importance, this domain remains underexplored by recommender systems, largely due to the lack of publicly available datasets capturing its complexity. In this paper, we introduce TenderKG, a large-scale knowledge graph dataset constructed from French public procurement data covering …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "58987c4fbfca",
+    "title": "MACS: A Hybrid Multi-Agent Framework for Reliable Conversational E-Commerce Recommendation",
+    "url": "https://arxiv.org/abs/2608.14068",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-17T04:00:00+00:00",
+    "summary": "arXiv:2608.14068v1 Announce Type: new Abstract: Conversational recommendation for e-commerce is increasingly mediated by large language models (LLMs), yet many real-world deployments operate under a stricter requirement: recommendations must be drawn only from a merchant's fixed catalog, without web search or unsupported product claims. In this setting, the main challenge is reliability under hard constraints: the system must satisfy user requirements, remain grounded in available inventory, and…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "8204a8961775",
+    "title": "PriCoRec: A Privacy-Aware Cloud-Device Collaborative Framework for Ad Recommendation under Feature Constraints",
+    "url": "https://arxiv.org/abs/2608.14429",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-17T04:00:00+00:00",
+    "summary": "arXiv:2608.14429v1 Announce Type: new Abstract: Privacy regulations increasingly restrict cloud processing of sensitive user data (e.g., age, gender), hindering traditional cloud-only recommendation models. To mitigate this challenge, we propose a Privacy-aware Collaborative cloud-device ads Recommendation framework (PriCoRec) which personalizes recommendations while keeping sensitive features on-device. While separating recommendation into cloud-based and on-device stages enables privacy-aware …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "fb09bdb8108d",
+    "title": "The MPB Corpus: A Dataset of Melody, Rhythm, Harmony, and Melody-Harmony Relationships in Brazilian Popular Music",
+    "url": "https://arxiv.org/abs/2608.13842",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-17T04:00:00+00:00",
+    "summary": "arXiv:2608.13842v1 Announce Type: cross Abstract: This paper presents the MPB Corpus, a collection of 500 musical pieces encoded across four musical parameters: melodic contour, melodic rhythm, harmony, and the relationship between melody and harmony. It constitutes the most comprehensive and detailed dataset to date for computational musicology of Brazilian music. To support the encoding process, we introduce specific analytical models designed to capture rhythmic and melodic information with p…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "de64ca2fdf39",
+    "title": "Whose Posts Get Ranked: Identical-Text Exposure Gaps in Bluesky Custom Feeds",
+    "url": "https://arxiv.org/abs/2608.13879",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-17T04:00:00+00:00",
+    "summary": "arXiv:2608.13879v1 Announce Type: cross Abstract: Bluesky lets users deploy custom feeds, independently operated recommendation algorithms that the platform serves alongside thousands of others. This paper investigates how evenly these feeds treat posts with the same text. To measure this, we take repeated snapshots of the Top-50 lists that 1,366 public feeds return, and we group posts with identical text, from different authors, that were created before the same list response and closely matche…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "70176d7e167d",
+    "title": "Content Depth Matters in Short-Video Recommendation: Rethinking the Attention Economy",
+    "url": "https://arxiv.org/abs/2608.13990",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-17T04:00:00+00:00",
+    "summary": "arXiv:2608.13990v1 Announce Type: cross Abstract: Driven by the attention economy, short-video Recommender Systems (RSs) are primarily optimized to maximize user engagement by promoting videos that capture attention within seconds. These systems inherently favor shallow-content videos that are effective at attracting immediate attention. However, growing evidence suggests that prolonged exposure to such content may negatively affect users' cognitive engagement and mental well-being, raising conc…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0e36d38fbbaf",
+    "title": "Residual Dominance as a Structural Account of Last-Item Reliance in Causal Self-Attention Recommenders",
+    "url": "https://arxiv.org/abs/2608.14021",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-17T04:00:00+00:00",
+    "summary": "arXiv:2608.14021v1 Announce Type: cross Abstract: Transformer-based sequential recommenders with causal self-attention often rely heavily on the most recent interaction at inference time, but how this behavior is structurally expressed in the representation used for prediction remains unclear. We combine prediction-time diagnostics with norm-based analysis of the full attention block. First, we show that SASRec-style models exhibit highly localized last-item reliance. We then find that, although…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "92df567eb9da",
+    "title": "Retrieve-then-Adapt: Retrieval-Augmented Test-Time Adaptation for Sequential Recommendation",
+    "url": "https://arxiv.org/abs/2604.05379",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-17T04:00:00+00:00",
+    "summary": "arXiv:2604.05379v2 Announce Type: replace Abstract: The sequential recommendation (SR) task aims to predict the next item based on users' historical interaction sequences. Typically trained on historical data, SR models often struggle to adapt to real-time preference shifts during inference due to challenges posed by distributional divergence and parameterized constraints. Existing approaches to address this issue include test-time training, test-time augmentation, and retrieval-augmented fine-t…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "8f85ea864494",
+    "title": "Impact of Rankings and Personalized Recommendations in Marketplaces",
+    "url": "https://arxiv.org/abs/2506.03369",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-17T04:00:00+00:00",
+    "summary": "arXiv:2506.03369v2 Announce Type: replace-cross Abstract: Decision-making often requires individuals to navigate large sets of options with incomplete information and imperfectly formed preferences. Information provisioning tools, such as public rankings and personalized recommendations, have become central to guiding these choices, yet their welfare implications across different market environments remain poorly understood. This paper studies a stylized large-market model to quantify the aggreg…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "598c6c37497a",
+    "title": "A dataset of article processing charges from 14 scholarly publishers, 2019-2025",
+    "url": "https://arxiv.org/abs/2608.14116",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-17T04:00:00+00:00",
+    "summary": "arXiv:2608.14116v1 Announce Type: new Abstract: This paper introduces a dataset of APCs produced from the price lists of 14 large scholarly publishers between 2019 and 2025. APC price lists were downloaded from publisher websites each year as well as via Wayback Machine snapshots to retrieve fees per journal per year. The dataset includes journal metadata, APC collection method, and annual APC price list information in several currencies (USD, EUR, GBP, CHF, JPY, CAD, AUD) for 12,540 unique jour…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "0e4c9545b784",
+    "title": "A Pathway to General-Purpose Scientific AI: Multimodal Comprehension of Scientific Images",
+    "url": "https://arxiv.org/abs/2608.14075",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-17T04:00:00+00:00",
+    "summary": "arXiv:2608.14075v1 Announce Type: cross Abstract: Scientific figures and tables encode essential experimental evidence, yet remain difficult for digital libraries and multimodal AI systems to retrieve and interpret. The ALD/E-ImageMiner benchmark and ICDAR 2026 Competition on Information Extraction from Atomic Layer Deposition/Etching Scientific Figures provide 1,951 figures from 205 publications, expert-annotated for classification, data table extraction, summarization, and visual question answ…",
+    "category": "Libraries & Archives"
+  },
+  {
     "id": "65b31f5229f5",
     "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
     "url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
