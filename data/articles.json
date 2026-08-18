@@ -1,5 +1,311 @@
 [
   {
+    "id": "de44003049c2",
+    "title": "When Deep Research Agents Stagnate: Enhancing Reasoning with Retrieval-Aware Agent Control",
+    "url": "https://arxiv.org/abs/2608.15191",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-18T04:00:00+00:00",
+    "summary": "arXiv:2608.15191v1 Announce Type: new Abstract: In this paper, we analyze the reasoning trajectories of a variety of DRAs and show that existing agents often suffer from reasoning stagnation: the majority of iterations contribute little or no improvement to final performance, while agents lack awareness of their trajectories and are therefore ineffective at adapting their search strategies or determining when to terminate. To address this issue, we introduce a set of unsupervised signals and a R…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a79355d6c08b",
+    "title": "Can Retrievers Find the Same Paper from Different Aspects? A Multi-Aspect Full-Paper Scientific Retrieval Benchmark",
+    "url": "https://arxiv.org/abs/2608.15624",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-18T04:00:00+00:00",
+    "summary": "arXiv:2608.15624v1 Announce Type: new Abstract: Scientific papers contain multiple searchable facets such as background, methods. However, many paper retrieval benchmarks merely evaluate individual query-paper relevance, while overlooking other facets of the same paper. To bridge this gap, we introduce MAPLE, an expert-validated benchmark for multi-aspect, full-paper retrieval that evaluates whether retrievers can consistently recover the same paper from queries targeting its motivation, method,…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4eb8ab808281",
+    "title": "The EMN Country Factsheets Structured Dataset",
+    "url": "https://arxiv.org/abs/2608.15702",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-18T04:00:00+00:00",
+    "summary": "arXiv:2608.15702v1 Announce Type: new Abstract: Each year, the European Migration Network (EMN) country factsheets deliver an overview of key migration and international protection developments within all EMN Member States and observer countries. The factsheets include both a textual component and a visual component. In this paper, we introduce a curated dataset of the textual component of these reports over 35 countries and 13 years (2012-2024.) The dataset was created to facilitate European-le…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f7fb44d849f4",
+    "title": "Decomposing Staleness in Recommender Systems: A Dual-Filter Framework for Supersession and Decay",
+    "url": "https://arxiv.org/abs/2608.15780",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-18T04:00:00+00:00",
+    "summary": "arXiv:2608.15780v1 Announce Type: new Abstract: Stale recommendations are a pervasive challenge and a leading source of user complaints on large-scale content platforms. Items lose relevance through two primary mechanisms: supersession, where emerging updates render prior coverage stale, and relevance decay, where an item's informational value naturally diminishes over its lifecycle. Traditional countermeasures serve as crude proxies: age cutoffs poorly reflect actual relevance loss, while engag…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "dd419fa10301",
+    "title": "Dense Expands, Sparse Anchors: Channel-Asymmetric Query Expansion for Hybrid Retrieval",
+    "url": "https://arxiv.org/abs/2608.15851",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-18T04:00:00+00:00",
+    "summary": "arXiv:2608.15851v1 Announce Type: new Abstract: LLM-based query expansion improves retrieval by generating document-like passages. In hybrid retrieval, however, most evaluations fuse fixed top-$L$ dense and sparse rankings. Because the cutoff controls both which cross-channel contributions enter fusion and how much of each ranking is accessed, gains measured at one $L$ can change or reverse at another. We separate these effects by evaluating retrieval effectiveness under complete-list fusion and…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a8298a1bef98",
+    "title": "Large language model-assisted discovery of cohorts from scientific literature",
+    "url": "https://arxiv.org/abs/2608.15909",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-18T04:00:00+00:00",
+    "summary": "arXiv:2608.15909v1 Announce Type: new Abstract: Background: Planning multi-study analyses requires identifying cohorts with the relevant participants, phenotypes, and data modalities. This process commonly relies on prior knowledge, cohort catalogues, and manual literature searches. We developed a complementary question-driven framework that searches relevant scientific literature and extracts explicit cohort names. Methods: The framework first generates multiple PubMed queries from configurable…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "fcd24c188c38",
+    "title": "Noesis: Bidirectional Graph-RAG with Adaptive Parallelism and Cross-Knowledge-Base Semantic Discovery",
+    "url": "https://arxiv.org/abs/2608.15919",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-18T04:00:00+00:00",
+    "summary": "arXiv:2608.15919v1 Announce Type: new Abstract: Retrieval-Augmented Generation over knowledge graphs (Graph-RAG) has emerged as a powerful paradigm for grounding large language models in domain-specific corpora. However, existing systems face persistent limitations: (1) static chunking fragments long documents, losing cross-section semantic connections; (2) ingestion pipelines do not scale adaptively; and (3) multi-domain deployments require either a monolithic knowledge base that dilutes retrie…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "9ff6c6a709e6",
+    "title": "Ask to Be Sure: Informative Interactions for Confident Multi-Turn LLM Recommendation",
+    "url": "https://arxiv.org/abs/2608.15949",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-18T04:00:00+00:00",
+    "summary": "arXiv:2608.15949v1 Announce Type: new Abstract: Recent advances in large language models (LLMs) have enabled their use as conversational recommender systems (CRS), demonstrating strong recommendation accuracy and natural dialogue. However, guiding multi-turn interactions to elicit user preferences effectively remains challenging. Existing approaches either use separate reinforcement learning agents with templated interactions or optimize for interactivity judged by another LLM, without measuring…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c180274b70f4",
+    "title": "LineageRAG: Harnessing GraphRAG by Constructing Evidence Lineages with Source Grounding",
+    "url": "https://arxiv.org/abs/2608.16004",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-18T04:00:00+00:00",
+    "summary": "arXiv:2608.16004v1 Announce Type: new Abstract: Graph-based Retrieval-Augmented Generation (GraphRAG) retrieves evidence for multi-hop questions over structured cor- pus graphs. Existing GraphRAG methods leave the connection between evidence discovery and source grounding implicit. We propose LineageRAG, which constructs one evidence lin- eage for each query-derived evidence demand and completes it with a verbatim source span when the selected evidence supports that demand. LineageRAG first init…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "7aec2d6a87d2",
+    "title": "Structured Prediction for Scalable Spreadsheet Table Understanding: From Cell Types to Table Ranges (Extended Version)",
+    "url": "https://arxiv.org/abs/2608.16050",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-18T04:00:00+00:00",
+    "summary": "arXiv:2608.16050v1 Announce Type: new Abstract: Spreadsheets are a primary medium for publishing tabular data, yet automatically extracting structured content from them remains difficult due to heterogeneous layouts, diverse file formats, and inconsistent organizational conventions. We address two core tasks in spreadsheet understanding: Cell-Type Classification (CTC), which assigns roles to cells, and Table Detection (TD), which identifies table bounding boxes within sheets. We propose an effic…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d2db61babebc",
+    "title": "GOD: Enhancing Generalization via Deep Grafting for Sequential Recommendation",
+    "url": "https://arxiv.org/abs/2608.16073",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-18T04:00:00+00:00",
+    "summary": "arXiv:2608.16073v1 Announce Type: new Abstract: Sequential recommenders often struggle with sparse and noisy histories, limiting generalization to unseen interactions. Knowledge distillation mitigates this by transferring dense supervision from a teacher to a student. However, most distillation methods run teacher and student independently, then match student outputs or representations to the teacher. Such supervision entangles student-component effects, blurring whether weak generalization stem…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a669387ac1e0",
+    "title": "TRACER: Balancing Stability-Plasticity-Cognitivity Trilemma for LLM Enhanced Continual Recommendation",
+    "url": "https://arxiv.org/abs/2608.16075",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-18T04:00:00+00:00",
+    "summary": "arXiv:2608.16075v1 Announce Type: new Abstract: Continual recommendation aims to capture evolving user interests from streaming data but struggles with sparsity. LLM enhancers mitigate this with semantic knowledge, but naive integration creates a new conflict. We identify this as the Stability-Plasticity-Cognitivity (SPC) Trilemma, where generalized LLM semantic priors (Cognitivity) conflict with retaining personalized historical preferences (Stability) and adapting to individual interest shifts…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "f3de176713bc",
+    "title": "The Commercial Tax: Rent-vs-Own Blind Spots in Multi-Hop Retrieval Benchmarks",
+    "url": "https://arxiv.org/abs/2608.16096",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-18T04:00:00+00:00",
+    "summary": "arXiv:2608.16096v1 Announce Type: new Abstract: Enterprises connect language models to their own data through retrieval. The benchmarks that rank multi-hop retrieval systems leave out two facts a buyer needs before a published number can be used: whether the retrieval backbone may be deployed commercially, and what it costs to build. On licensing: the field's dense-retrieval anchor, NV-Embed-v2, is licensed cc-by-nc-4.0. Of the four leading MuSiQue systems we audit (HippoRAG-2, PropRAG, SAG, KET…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "053d4207b0ab",
+    "title": "Domain-Specific Text Embedding Models for Entity Resolution",
+    "url": "https://arxiv.org/abs/2608.16161",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-18T04:00:00+00:00",
+    "summary": "arXiv:2608.16161v1 Announce Type: new Abstract: General-purpose text embedding models are designed to capture semantic similarity but are not optimised for distinguishing entity records that represent the same real-world business or person. This limitation affects applications such as entity resolution and duplicate record retrieval, where small textual differences may either preserve or change identity. This paper investigates whether domain-specific triplet fine-tuning can adapt pretrained emb…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "a015f9b1f151",
+    "title": "Decoupled Temporal Encoding for Generative Recommendation",
+    "url": "https://arxiv.org/abs/2608.16274",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-18T04:00:00+00:00",
+    "summary": "arXiv:2608.16274v1 Announce Type: new Abstract: Positional encoding is a fundamental component of Transformer-based generative recommendation models, where user histories are modeled as autoregressive item sequences. Most positional encoding methods are inherited from natural language processing and mainly represent discrete item order. However, recommendation sequences go beyond ordered lists, as timestamps and temporal effects also shape item relations. Our work is motivated by a real-world fo…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4fbeae95c840",
+    "title": "Static Pruning Across Sparse Retrieval Regimes: What Transfers, What Breaks, and What Still Helps",
+    "url": "https://arxiv.org/abs/2608.16309",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-18T04:00:00+00:00",
+    "summary": "arXiv:2608.16309v1 Announce Type: new Abstract: Static pruning is widely used to accelerate sparse neural retrieval, yet existing studies each validate their conclusions within a single custom pipeline, leaving it unclear which findings transfer to modern engines with different index organizations and dynamic pruning mechanisms. We present the first cross-engine pruning portability study, evaluating static pruning strategies across three engines - a controlled C++ pipeline (exhaustive inverted i…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "5cc1f766ae1f",
+    "title": "POI Recommendation with LLM-Augmented Multi-Graph Learning and Contrastive Alignment",
+    "url": "https://arxiv.org/abs/2608.16407",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-18T04:00:00+00:00",
+    "summary": "arXiv:2608.16407v1 Announce Type: new Abstract: Point-of-interest (POI) recommendation models based on graph neural networks achieve strong performance by propagating collaborative signals over user-item interactions, yet they struggle with the cold-start problem, where items with few or no interactions are not represented. In this paper, we propose LLM-augmented Multi-Graph Contrastive Learning (LLM-MGCL), a multi-graph neural network that uses semantic and spatial information about items to ex…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "224c21324187",
+    "title": "Graph-Based Discovery of Mathematical Software Communities and Publication-to-Community Prediction",
+    "url": "https://arxiv.org/abs/2608.16455",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-18T04:00:00+00:00",
+    "summary": "arXiv:2608.16455v1 Announce Type: new Abstract: Research software forms distinct co-usage communities that span traditional disciplinary boundaries, yet the structure of these communities remains largely unexplored. We present a graph-based framework for discovering mathematical software communities and predicting their association with research publications. We construct a software co-usage network from publication-software relationships using a curated swMATH dataset and subsequently apply com…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5732be87e5dc",
+    "title": "When Is Complex Chunking Worth It? A Multi-Objective Evaluation of Chunking Methods at Scale",
+    "url": "https://arxiv.org/abs/2608.16586",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-18T04:00:00+00:00",
+    "summary": "arXiv:2608.16586v1 Announce Type: new Abstract: Dense retrieval is commonly evaluated on benchmarks that represent each document with a single embedding, even though real-world retrieval systems often index long documents that require chunking. In these settings, the chosen chunking method not only affects retrieval quality, but also indexing throughput, query latency, and memory usage. Prior comparisons of chunking strategies have mainly focused on retrieval performance, leaving operational tra…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "a7e036739d57",
+    "title": "SAHC-NS: Structure-Aware and Hardness-Calibrated Negative Sampling for Implicit Collaborative Filtering",
+    "url": "https://arxiv.org/abs/2608.16587",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-18T04:00:00+00:00",
+    "summary": "arXiv:2608.16587v1 Announce Type: new Abstract: Negative sampling is a key component of implicit collaborative filtering (CF), as it enables recommenders to effectively learn user preferences. Existing negative sampling methods mostly follow a two-stage paradigm: they first construct a candidate negative pool for each user and then select negative samples from the pool according to predefined sampling rules. However, these methods usually overlook the hardness variation of candidate negative poo…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "706d2119826f",
+    "title": "Unbiased Recommender Systems with Implicit Feedback",
+    "url": "https://arxiv.org/abs/2608.16704",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-18T04:00:00+00:00",
+    "summary": "arXiv:2608.16704v1 Announce Type: new Abstract: Recommender systems typically rely on implicit feedback (e.g., clicks) to infer user preferences. However, such data is inherently prone to various biases, including position bias and popularity bias. Position bias occurs when higher-ranked items receive more interactions regardless of true relevance. Popularity bias reinforces frequent exposure of popular items while under-recommending relevant, yet less popular ones. Directly learning from such d…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "805fee9a3863",
+    "title": "UniDot: A Unified Network for Sequence Modeling and Feature Interaction in Large-scale Recommendation",
+    "url": "https://arxiv.org/abs/2608.16797",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-18T04:00:00+00:00",
+    "summary": "arXiv:2608.16797v1 Announce Type: new Abstract: Industrial recommenders rely on two model families that have evolved largely independently: feature-interaction models over multi-field user/item features, and sequential models over user-behavior histories. Production systems couple them only loosely. To unify the two, we present UniDot, a novel architecture for post-click conversion prediction built from the factorization-machine (FM) point of view: the embedding inner product---which powers coll…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "f592bd9bff8d",
+    "title": "Impression Share Prediction: An Offline Evaluation Task for Ranking Systems",
+    "url": "https://arxiv.org/abs/2608.16872",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-18T04:00:00+00:00",
+    "summary": "arXiv:2608.16872v1 Announce Type: new Abstract: Offline evaluation is a major gateway before online evaluation of ranking models in A/B testing. Standard offline metrics measure predictive accuracy, but are only a surrogate for downstream utility: a model can improve them while redistributing impressions across objective buckets in ways that degrade downstream utility. No offline method surfaces these impression share shifts before online evaluation. We propose \\emph{impression share prediction}…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "52f912561f55",
+    "title": "Auxiliary uncertainty signals for LLM-assisted systematic review screening: a benchmark across eight Cohen drug-class reviews",
+    "url": "https://arxiv.org/abs/2608.14551",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-18T04:00:00+00:00",
+    "summary": "arXiv:2608.14551v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly used for title-abstract screening in systematic reviews, but their decisions lack calibrated uncertainty. We show that an auxiliary BERT+GCN classifier supplies a structured uncertainty signal that improves LLM screening efficiency, and we identify the prompt-delivery strategy that maximises the benefit-to-cost ratio. We evaluate five LLM prompt-delivery conditions on eight drug-class datasets from th…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a49f91e4658b",
+    "title": "OGX: An Open-Source, Vendor-Neutral Generative AI Application Server",
+    "url": "https://arxiv.org/abs/2608.14580",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-18T04:00:00+00:00",
+    "summary": "arXiv:2608.14580v1 Announce Type: cross Abstract: OGX (Open GenAI Stack) is an open-source AI application server and Python library that implements the APIs of major frontier labs (OpenAI, Anthropic, Google) with pluggable backend providers. Developers building agentic AI applications--such as retrieval-augmented generation pipelines, multi-turn agents, and tool-calling workflows--can develop against a single API surface and deploy with any combination of inference engine, vector database, and s…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "71205e6efbdc",
+    "title": "Estimating global article processing charges paid to 14 publishers for open access between 2019 and 2025",
+    "url": "https://arxiv.org/abs/2608.16322",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-18T04:00:00+00:00",
+    "summary": "arXiv:2608.16322v1 Announce Type: new Abstract: This study presents estimates of the global expenditure on article processing charges (APCs) paid to 14 publishers for open access (OA) between 2019 and 2025. APCs are charged for publishing in fully OA journals (gold) and making individual articles OA in subscription journals (hybrid), but how much is paid, and for which articles, is not publicly known. We therefore curated an open dataset of publicly listed APC prices from 14 academic publishers …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ec72259dcd41",
+    "title": "Position: Want Better ML Reviews? Stop Asking Nicely and Start Incentivizing with a Credit System",
+    "url": "https://arxiv.org/abs/2608.14571",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-18T04:00:00+00:00",
+    "summary": "arXiv:2608.14571v1 Announce Type: cross Abstract: With soaring submission counts, stricter reciprocal review policies, widespread adoption of platforms like OpenReview, and without the offsetting pressure of publication fees, the machine learning (ML) community has one of the largest scholarly presences among all scientific fields. And yet, \\textbf{almost \\textit{everyone} has \\textit{many} unpleasant things to share about their review experience.} Worse, there is little public space to seriousl…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "3468011dc4dc",
+    "title": "Local AI pre-screening for human triple-blind peer review in health sciences",
+    "url": "https://arxiv.org/abs/2608.14625",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-18T04:00:00+00:00",
+    "summary": "arXiv:2608.14625v1 Announce Type: cross Abstract: Academic peer review is under mounting strain: NeurIPS 2025 received 21,575 submissions, ICLR 2025 received 11,603, and ICML 2025 received 12,107. This volume has outpaced the supply of qualified reviewers, and large language models (LLMs) are already filling the gap, largely undisclosed. An independent analysis of ICLR 2026 found roughly 21% of its 75,800 peer reviews were fully AI-generated, with over half showing some AI involvement (up from 1…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "04957ee3c0ea",
+    "title": "Emergence of Transfer Learning towards Specific Identification of Alzheimer's Disease A Prospective Approach",
+    "url": "https://arxiv.org/abs/2608.14731",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-18T04:00:00+00:00",
+    "summary": "arXiv:2608.14731v1 Announce Type: cross Abstract: Worldwide, millions of senior citizens are suffering from Alzheimer disease abbreviated as AD, a well- versed form of dementia. AD is featured by amnesia, intellectual disability, and difficulty with consciousness. DL and ML models are undoubtedly explored to identify AD related patterns on large dimensional neuroimaging data but they need global optimization and are suffering from overfitting issue that might yield dissatisfactory result in test…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "da1a1b9221e3",
+    "title": "The Geometric Function Atlas: A Software System for Radius and Coefficient Problems",
+    "url": "https://arxiv.org/abs/2608.15697",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-18T04:00:00+00:00",
+    "summary": "arXiv:2608.15697v1 Announce Type: cross Abstract: Let $\\D=\\{z\\in\\C:|z|<1\\}$, and let $\\mathcal A$ be the class of analytic functions normalized by $f(0)=0$ and $f'(0)=1$. For an admissible Ma--Minda generator $\\varphi$, write $\\Sstar{\\varphi}=\\{f\\in\\mathcal A:zf'(z)/f(z)\\prec\\varphi(z)\\}$. Given two generators $\\varphi_1$ and $\\varphi_2$, we study the largest $R\\in(0,1]$ for which $f(rz)/r\\in\\Sstar{\\varphi_2}$ whenever $f\\in\\Sstar{\\varphi_1}$ and $0<r\\le R$. We present the Geometric Function Atl…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4f7891de34eb",
+    "title": "Declining Modularity of Intellectual Bases During the Emergence of Research Areas",
+    "url": "https://arxiv.org/abs/2608.16602",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-18T04:00:00+00:00",
+    "summary": "arXiv:2608.16602v1 Announce Type: cross Abstract: Understanding how research areas emerge can help identify nascent areas early and inform research strategy, yet how the intellectual base of a field restructures as an area takes shape remains unclear. We hypothesize that the emergence of a research area is accompanied by the integration of largely separate knowledge communities, observable as a decline in the modularity of its co-citation network, which represents its intellectual base. We propo…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "62ec9bf13b60",
+    "title": "What Flock’s defenders are missing",
+    "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+    "source": "MIT Tech Review",
+    "date": "2026-08-17T19:16:09+00:00",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday. The updates are meant to prevent&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ebe8054c3791",
+    "title": "Stronger Cybersecurity Programs Start with People: NIST Wants Your Input on the Path Forward for Human-Centered Cybersecurity",
+    "url": "https://www.nist.gov/blogs/cybersecurity-insights/stronger-cybersecurity-programs-start-people-nist-wants-your-input-path",
+    "source": "NIST",
+    "date": "2026-08-17T12:00:00+00:00",
+    "summary": "When was the last time a cybersecurity process at work made you want to scream? Maybe it was a password requirement so complicated you had to write it down (defeating the purpose), a phishing simulation test that felt more like a trap than a lesson, or a confusing security warning pop-up that interrupted your work. Or maybe you’re on the other side of the equation, working as a cybersecurity professional who is wrangling a half dozen disconnected dashboards, drowning in alerts (all flagged \"urge…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ba65ed22f510",
+    "title": "What happens when a kid’s robot best friend dies?",
+    "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+    "source": "MIT Tech Review",
+    "date": "2026-08-17T09:00:00+00:00",
+    "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they’ve known each other,&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "514e92f9befe",
     "title": "Do AI chatbots find what experts would? Effects of model, user role, and sample size on study retrieval for medical questions",
     "url": "https://arxiv.org/abs/2608.13786",
