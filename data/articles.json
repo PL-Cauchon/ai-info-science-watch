@@ -1,5 +1,185 @@
 [
   {
+    "id": "cccee4492057",
+    "title": "Sparse Coverage: Semantic Center Representations for Patent Prior-Art Retrieval",
+    "url": "https://arxiv.org/abs/2608.16918",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-19T04:00:00+00:00",
+    "summary": "arXiv:2608.16918v1 Announce Type: new Abstract: Patent prior-art retrieval is a recall-oriented search task over long and highly structured technical documents. Dense retrieval improves semantic matching, but single-vector representations may compress multiple technical components, functions, and constraints into a single embedding. We propose Sparse Coverage, an unsupervised semantic retrieval framework that maps local span embeddings to a sparse vocabulary of embedding-space centers. The cente…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "1a5d3a22ea97",
+    "title": "CARA: Cognitive Adaptive Recommendation Agent",
+    "url": "https://arxiv.org/abs/2608.16919",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-19T04:00:00+00:00",
+    "summary": "arXiv:2608.16919v1 Announce Type: new Abstract: Recent advances in large language models and agent-based recommendation frameworks have introduced new opportunities for more flexible and context-aware recommendation. However, existing methods still largely rely on semantic matching, end-to-end generation, or loosely structured agent workflows, without explicitly modeling how user preferences are processed and translated into final decisions. To address this limitation, we propose CARA, a cogniti…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c066d0b4cb51",
+    "title": "MITRE-SAGE: A Multi-Agent Cybersecurity Question-Answering model",
+    "url": "https://arxiv.org/abs/2608.16921",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-19T04:00:00+00:00",
+    "summary": "arXiv:2608.16921v1 Announce Type: new Abstract: Effective cybersecurity operations require timely and accurate analysis of large-scale heterogeneous security information; however, analysts increasingly struggle with information overload, alert fatigue, and time-constrained decision-making. Although large language models (LLMs) have demonstrated promising capabilities for question answering (QA), their effectiveness in cybersecurity remains limited by insufficient domain knowledge, a tendency to …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "f9f6e773c102",
+    "title": "Towards welfare-oriented recommendations in activity-travel behavior",
+    "url": "https://arxiv.org/abs/2608.16922",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-19T04:00:00+00:00",
+    "summary": "arXiv:2608.16922v1 Announce Type: new Abstract: While mainstream recommender systems (RS) rely on diverse heuristics to rank alternatives, they generally lack a principled account of user welfare (i.e., whether accepting the recommendation will leave the user better off than other alternatives). The problem is particularly acute in activity-based travel behavior, where users incur costs they cannot recoup (i.e., energy, time) regardless of eventual satisfaction. As a result, existing systems may…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "78ba398f831a",
+    "title": "Overview of the TREC 2025 Product Search and Recommendation Track",
+    "url": "https://arxiv.org/abs/2608.17138",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-19T04:00:00+00:00",
+    "summary": "arXiv:2608.17138v1 Announce Type: new Abstract: In the past few years, consumers have moved the bulk of their product exploration and purchasing efforts online seeking speed, convenience, and price comparison with ease unimaginable for in-person shopping. As product catalogs have grown in diversity and size product search and recommendation have become a cornerstone for e-commerce sites. Despite the widespread usage of search engines in e-commerce, there is no high-quality dataset designed to ev…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "bb62f96375bc",
+    "title": "Empowering Compact LLMs with Fusion of Layer-wise Exits for Recommendation",
+    "url": "https://arxiv.org/abs/2608.17316",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-19T04:00:00+00:00",
+    "summary": "arXiv:2608.17316v1 Announce Type: new Abstract: Large language model-based recommender systems (LLM-RSs) have demonstrated remarkable capabilities, but are computationally unsustainable for many real-world applications. Compact LLMs offer a practical alternative, yet their reduced capacity often requires reasoning or knowledge distillation methods that increase latency or depend on larger models. Combined with autoregressive generation, these approaches face severe scalability bottlenecks. In co…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "8e46709941e7",
+    "title": "Once Generated, Ranked: End-to-End Generative Slate Recommendation with Unified Semantic-Collaborative IDs",
+    "url": "https://arxiv.org/abs/2608.17613",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-19T04:00:00+00:00",
+    "summary": "arXiv:2608.17613v1 Announce Type: new Abstract: Slate recommendation treats a slate rather than an individual item as the recommendation unit, requiring joint optimization of item interactions and slate utility. Existing approaches typically separate candidate generation from ranking and restrict optimization to retrieved candidates. Generative recommendation with Semantic IDs (SIDs) offers a path to end-to-end recommendation, but existing SID construction often lacks recommendation-aware semant…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "03ab120a413e",
+    "title": "From Student Risk Prediction to SC2R: Semantics-Constrained Counterfactual Recourse for Educational Decision Support",
+    "url": "https://arxiv.org/abs/2608.17618",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-19T04:00:00+00:00",
+    "summary": "arXiv:2608.17618v1 Announce Type: new Abstract: Learning analytics models can identify students at risk of poor performance, but they do not directly indicate which interventions are feasible, actionable, and compatible with educational constraints. This paper introduces SC2R, a semantics-constrained counterfactual recourse framework for educational decision support. SC2R combines a calibrated predictive model, integer-programming-based recourse generation over discrete action variables, a light…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8599b7d855a7",
+    "title": "DEPT: Document Embedding Preservation Tuning for Unified Query Expansion and Retrieval",
+    "url": "https://arxiv.org/abs/2608.17632",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-19T04:00:00+00:00",
+    "summary": "arXiv:2608.17632v1 Announce Type: new Abstract: Large language models (LLMs) can both expand underspecified queries and encode text as dense representations, suggesting a unified model for query expansion and retrieval. Existing systems usually rely on prompted expansions, independently trained modules, or staged optimization, leaving generated expansions only indirectly aligned with the retrieval loss that judges them. We train a single decoder-only LLM end to end, where the same model generate…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "b51768e97658",
+    "title": "VisDocAgentBench: Benchmarking Agents for Visually Rich Document Retrieval",
+    "url": "https://arxiv.org/abs/2608.17889",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-19T04:00:00+00:00",
+    "summary": "arXiv:2608.17889v1 Announce Type: new Abstract: Visually rich documents encode relevance through language, layout, structured visual elements, and corpus context, yet retrieval is typically evaluated by one-shot query--page matching. Agentic-search benchmarks usually score downstream question answering or report generation, leaving document ranking under iterative evidence acquisition underexplored. We introduce VisDocAgentBench, a closed-corpus benchmark comparing static and agentic retrieval u…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "58c0aabcf032",
+    "title": "On Mitigating Data Sparsity in Conversational Recommender Systems",
+    "url": "https://arxiv.org/abs/2507.00479",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-19T04:00:00+00:00",
+    "summary": "arXiv:2507.00479v2 Announce Type: replace Abstract: Conversational recommender systems (CRSs) infer user preferences from dialogue contexts, but they suffer from severe data sparsity in both dialogue and entity spaces. Dialogue data are linguistically diverse and open-ended, making it difficult to generalize across varied expressions. Meanwhile, existing CRS models often rely on large knowledge graphs, where only a small fraction of entities receive effective supervision during training, leaving…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "5159e1ba1f7b",
+    "title": "The Prosocial Ranking Challenge: Reducing Polarization on Social Media without Sacrificing Engagement",
+    "url": "https://arxiv.org/abs/2603.19626",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-19T04:00:00+00:00",
+    "summary": "arXiv:2603.19626v2 Announce Type: replace-cross Abstract: We report the first direct comparisons of multiple alternative social media algorithms on multiple platforms on outcomes of societal interest. We used a browser extension to modify which posts were shown to desktop social media users, randomly assigning 9,386 users to a control group or one of five alternative ranking algorithms which simultaneously altered content across three platforms for six months during the US 2024 presidential elec…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e9d14ab66db6",
+    "title": "A Multi-Surface Consistency Audit of Software Citation Metadata",
+    "url": "https://arxiv.org/abs/2608.17159",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-19T04:00:00+00:00",
+    "summary": "arXiv:2608.17159v1 Announce Type: cross Abstract: Research software projects describe themselves in many places at once: citation files in the repository, archive deposits, DOI registry records, package registries, and README text. We treat the software as the underlying object and these machine-readable self-descriptions as its surfaces: the points where people and automated systems read what the project declares about the software. Citation guidance, indexing services, and automated agents may…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "7a2e4e9df4f0",
+    "title": "Computational Prosopography across a Millennium: Mathematically Oriented Lineages Traced from the Fields Medalists",
+    "url": "https://arxiv.org/abs/2608.17915",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-19T04:00:00+00:00",
+    "summary": "arXiv:2608.17915v1 Announce Type: cross Abstract: We reconstruct the mentor--student network through which documented scholarly training passed across roughly nine centuries, and subject both the network and the means of reconstructing it to source criticism. From Wikidata, which aggregates the Mathematics Genealogy Project and the MacTutor Archive, we extract approximately 470,000 mentor--student assertions, yielding a directed acyclic graph of 372,853 persons. Using all 64 historical Fields Me…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "9d7c59a2ab6a",
+    "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
+    "url": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
+    "source": "Wired AI",
+    "date": "2026-08-18T18:33:11+00:00",
+    "summary": "The ChatGPT maker says its upcoming Astra model may have reached “critical” cyber capabilities, prompting it to halt a significant number of training runs while it tightens internal safeguards.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "9bb3d6f708ee",
+    "title": "Clean-Up on Aisle Three: New Jersey Becomes Third State to Regulate Data-Driven Pricing This Year",
+    "url": "https://fpf.org/blog/clean-up-on-aisle-three-new-jersey-becomes-third-state-to-regulate-data-driven-pricing-this-year/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-08-18T13:02:00+00:00",
+    "summary": "Few areas of privacy and technology policy have attracted as much legislative attention this year as data-driven pricing or “surveillance pricing.” On August 4, the Senate Judiciary Committee held a hearing—“Your Data, Their Profit: The Consumer Cost of AI Surveillance Pricing”—highlighting the intense scrutiny on these practices by policymakers. In 2026 alone, FPF tracked the [&#8230;]",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "55574934861e",
+    "title": "Connect with Library Digital Collections at the 2026 National Book Festival",
+    "url": "https://blogs.loc.gov/thesignal/2026/08/nbf-2026-digital-collections/",
+    "source": "LOC Signal",
+    "date": "2026-08-18T12:40:08+00:00",
+    "summary": "It's the best time of year! The National Book Festival is coming up on Saturday, August 22 at the Walter E. Washington Convention Center in Washington, DC. Come see your friendly digital collections staff at our table in the Exhibit Hall. Click through to learn more about how to register for free tickets.",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "dcedd6fa1f80",
+    "title": "We still don’t know how people are really using AI",
+    "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+    "source": "MIT Tech Review",
+    "date": "2026-08-18T10:06:43+00:00",
+    "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "72564937568e",
+    "title": "AI’s recursive self-improvement might not come so quickly after all",
+    "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+    "source": "MIT Tech Review",
+    "date": "2026-08-18T09:00:00+00:00",
+    "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon.&#160;&#8230;",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "d6c6d5d504a2",
+    "title": "The Powerful Chinese AI Model Experts Warned About Is Here",
+    "url": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
+    "source": "Wired AI",
+    "date": "2026-08-18T09:00:00+00:00",
+    "summary": "Z.ai’s latest AI model release could help companies secure their systems—or find its way into the hands of hackers.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "de44003049c2",
     "title": "When Deep Research Agents Stagnate: Enhancing Reasoning with Retrieval-Aware Agent Control",
     "url": "https://arxiv.org/abs/2608.15191",
