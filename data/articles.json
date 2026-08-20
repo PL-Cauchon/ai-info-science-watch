@@ -1,5 +1,293 @@
 [
   {
+    "id": "034a58745e13",
+    "title": "Global Crises and National Policies: A Large Scale Analysis of Political Content in German Language Online Media",
+    "url": "https://arxiv.org/abs/2608.18268",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-20T04:00:00+00:00",
+    "summary": "arXiv:2608.18268v1 Announce Type: new Abstract: Today most media content is consumed based on algorithmic recommendations. Evidence suggests that this can lead to politically biased media consumption patterns. Automated extraction of political agendas from texts can reveal and analyze political biases in online media -- and thus help fostering politically unbiased media consumption. Here we employ modern political text analysis methods demonstrating the potential of automated fine-grained politi…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1bb8f754f684",
+    "title": "Multimedia Asset Personalization via Multimodal Embeddings at Netflix",
+    "url": "https://arxiv.org/abs/2608.18322",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-20T04:00:00+00:00",
+    "summary": "arXiv:2608.18322v1 Announce Type: new Abstract: Personalized promotional assets, namely artwork images and video preview clips, are critical to content discovery on Netflix. Traditional models for asset selection rely on ID-based interaction history, leaving them blind to asset content and unable to serve newly launched titles and assets. We describe how multimodal embeddings reshaped production systems at Netflix and report transferable lessons for practitioners adopting foundation-model embedd…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "4b59fcb39921",
+    "title": "AI in Search Reduces Publisher Referrals Without Improving User Experience: Experimental Evidence",
+    "url": "https://arxiv.org/abs/2608.18352",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-20T04:00:00+00:00",
+    "summary": "arXiv:2608.18352v1 Announce Type: new Abstract: The integration of generative AI into web search delivers synthesized answers to user queries, changing how people navigate and assess information, while raising concerns about the downstream impacts on publishers who supply the underlying content. We conduct a preregistered field experiment (N=1,100) on Google Search, the dominant online search platform, to estimate the causal effects of AI Overviews and AI Mode on user behavior, perceptions, and …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "8731f93547d0",
+    "title": "More Context, Same Budget: Dual-Bounded Relational Recall Beyond Top-K Retrieval",
+    "url": "https://arxiv.org/abs/2608.18448",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-20T04:00:00+00:00",
+    "summary": "arXiv:2608.18448v1 Announce Type: new Abstract: More context does not require a larger retrieval budget. Under the same ceiling, a retrieval system can recover more of the evidence a question requires by following relationships between evidence that flat top-k ranking leaves behind. We test that proposition with Dual-Bounded Relational Recall (DBRR), which allocates a fixed retrieval budget between relevance-selected seeds and bounded graph-adjacent context, against matched flat top-k retrieval …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "9f6e2147a01a",
+    "title": "OneModel: A Unified Foundation for Platform-Scale Multi-Scenario Ranking",
+    "url": "https://arxiv.org/abs/2608.18606",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-20T04:00:00+00:00",
+    "summary": "arXiv:2608.18606v1 Announce Type: new Abstract: Platform-scale recommender systems often span multiple business streams such as organic recommendation, advertising, and merchant services, where user behaviors form a continuous cross-stream trajectory. Maintaining separate ranking systems fragments user representations and increases engineering cost. We propose \\textbf{OneModel}, a unified framework for multi-stream final ranking. OneModel maps heterogeneous behaviors into shared event sequences,…",
+    "category": "Information Behavior"
+  },
+  {
+    "id": "ba07ff1c2d2c",
+    "title": "PILOT Technical Report",
+    "url": "https://arxiv.org/abs/2608.18637",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-20T04:00:00+00:00",
+    "summary": "arXiv:2608.18637v1 Announce Type: new Abstract: Existing agentic approaches for recommendation system optimization remain fundamentally reactive: they adjust parameters in response to observed metric changes but lack the ability to proactively design controlled experiments, personalize strategies at the user-segment level, or accumulate reusable experimental methodology across tasks. We present PILOT (Proactive Insight Learner for Online Tree-Experiments), an LLM-agent framework that organizes t…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "92e121afe6d7",
+    "title": "GreekBarRetrieval: A Benchmark for Greek Statutory Retrieval",
+    "url": "https://arxiv.org/abs/2608.18752",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-20T04:00:00+00:00",
+    "summary": "arXiv:2608.18752v1 Announce Type: new Abstract: Statutory retrieval is necessary for citation-grounded legal question answering, but remains underexplored for Greek. We introduce GreekBarRetrieval, a public retrieval benchmark derived from, and complementing GreekBarBench, which did not include retrieval. The new benchmark comprises 283 bar-exam questions, each accompanied by the facts of the case it refers to, and 6,308 candidate statutory articles to retrieve from. Questions and facts are stat…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "eb537c50ad51",
+    "title": "GateDiffInt: Gate-Mediated Controllable Diffusion and Multi-Intent LLM Distillation for User Behavior Modeling",
+    "url": "https://arxiv.org/abs/2608.18764",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-20T04:00:00+00:00",
+    "summary": "arXiv:2608.18764v1 Announce Type: new Abstract: Existing ranking models encode intent only implicitly, making it hard to disentangle structured intents of varying strength and temporal scale. Noise and intent in behavior sequences are mutually reinforcing---we call this Noise--Intent Coupling (NIC). Noise dilutes true intents, while the lack of structured intent priors leaves denoising without a clear target.To address NIC, we propose GateDiffInt, an intent interaction framework for industrial r…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "fb6454580181",
+    "title": "SIDScope: A Diagnostic Resource for Semantic-ID Interfaces in Generative Recommendation",
+    "url": "https://arxiv.org/abs/2608.18779",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-20T04:00:00+00:00",
+    "summary": "arXiv:2608.18779v1 Announce Type: new Abstract: Semantic-ID mappings are reusable interfaces between item tokenizers and generative recommenders, yet released mappings rarely state whether they are coherent, what structure they expose, how generated paths resolve, or what must be revalidated after a refresh. SIDScope is a source-traced diagnostic resource for these decisions. It normalizes item-to-code artifacts, verifies provenance and joins, profiles mapping structure, compares paired revision…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4d3296fe5ac2",
+    "title": "Think-to-Personalize: Unifying Reasoning and Retrieval for User-Centric Personalized Dense Retrieval",
+    "url": "https://arxiv.org/abs/2608.18855",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-20T04:00:00+00:00",
+    "summary": "arXiv:2608.18855v1 Announce Type: new Abstract: Dense retrieval has become a cornerstone of modern local-lifestyle e-commerce search by encoding queries and items into semantic embedding spaces. While recent advancements have transitioned from BERT-based embedding models to Large Language Models (LLMs), most approaches still treat LLMs as static text encoders, neglecting their inherent reasoning capabilities. Furthermore, standard dense retrieval models remain query-centric, which is insufficien…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "0afbddae0ea7",
+    "title": "rEDMRec: Distilling Large Language Model Reasoning into an Editable Experience Memory for Recommendation",
+    "url": "https://arxiv.org/abs/2608.18952",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-20T04:00:00+00:00",
+    "summary": "arXiv:2608.18952v1 Announce Type: new Abstract: Large language models can improve recommendation quality by reasoning explicitly over user history and candidate items - for example, extracting a user's preferences or explaining why one item fits better than another - rather than mapping history directly to a ranked list. This reasoning, however, is expensive to repeat on every ranking request and, once produced, is typically consumed once and discarded, leaving it neither reusable across future …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "3bb35d81c989",
+    "title": "Can David Beat Goliath? On Multi-Hop Reasoning with Resource-Constrained Agents",
+    "url": "https://arxiv.org/abs/2601.21699",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-20T04:00:00+00:00",
+    "summary": "arXiv:2601.21699v3 Announce Type: cross Abstract: Multi-turn reasoning agents solve complex questions by decomposing them into intermediate retrieval or tool-use steps, for accumulating supporting evidence across turns. Meanwhile, with reinforcement learning (RL), training these agents rely on many on-policy rollouts and large training batches. Under realistic resource constraints that make dense exploration infeasible, each RL batch contains only few useful reasoning paths from the current poli…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f474acae38c9",
+    "title": "Redakto - The Incognito Tab for LLMs",
+    "url": "https://arxiv.org/abs/2608.18260",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-20T04:00:00+00:00",
+    "summary": "arXiv:2608.18260v1 Announce Type: cross Abstract: Large Language Models (LLMs) are being increasingly used in everyday applications. A major challenge in the context of LLMs or Artificial Intelligence (AI) in general is to ensure privacy when using them, meaning that personally identifiable information (PII) is removed from any text that enters an LLM. These challenges have become more urgent with novel EU legislation. Uncertainty around LLM usage with respect to privacy concerns in EU countries…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "3743c6ba1ecd",
+    "title": "Evaluating Structured Information Extraction with Open Models in a High Risk Public Sector Application",
+    "url": "https://arxiv.org/abs/2608.18289",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-20T04:00:00+00:00",
+    "summary": "arXiv:2608.18289v1 Announce Type: cross Abstract: The extraction of structured information from unstructured documents represents a critical component of digital transformations in all sectors. While proprietary solutions dominate commercial applications, a rapidly growing ecosystem of open-source Optical Character Recognition (OCR) engines, Large Language Models (LLMs), and Vision-Language Models (VLMs) offers accessible alternatives. However, systematic evaluations on realistic, multi-step ext…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "102505d81167",
+    "title": "Reducing Technician Search Burden: A Multimodal RAG for Cessna 172 Maintenance Manual",
+    "url": "https://arxiv.org/abs/2608.18465",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-20T04:00:00+00:00",
+    "summary": "arXiv:2608.18465v1 Announce Type: cross Abstract: Proper use of the aircraft maintenance manual is essential for correct maintenance, providing procedures, diagrams, cautions, and specifications. However, technicians often avoid consulting it because it is difficult to navigate and time-consuming under strict schedules. Retrieval augmented generation (RAG) models have recently been introduced in aircraft maintenance, yet existing models focus solely on textual retrieval. This research therefore …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "3a26c2182adf",
+    "title": "FinRCA-Bench: Benchmarking Evidence Retrieval and Reasoning for Financial AI Systems",
+    "url": "https://arxiv.org/abs/2608.18534",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-20T04:00:00+00:00",
+    "summary": "arXiv:2608.18534v1 Announce Type: cross Abstract: Large language models are increasingly used to support financial operations, but their apparent reasoning performance can depend on whether they receive the right evidence. In financial reconciliation, the evidence needed for diagnosis is distributed across invoices, purchase orders, approvals, allocations, payments, ledger entries, and bank activity, linked by transactional relationships rather than textual similarity. End-to-end accuracy can th…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "7b0570d5e0bd",
+    "title": "Composed Historical Image Retrieval by Modeling Temporal Representations",
+    "url": "https://arxiv.org/abs/2608.18694",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-20T04:00:00+00:00",
+    "summary": "arXiv:2608.18694v1 Announce Type: cross Abstract: While time evolves linearly, the geometry of neural embedding spaces is inherently multi-dimensional, often chaotic, and difficult to interpret. In principle, one could constrain an embedding space to a single temporal dimension; however, such a reduction would sacrifice performance on downstream tasks, as one-dimensional embeddings cannot retain sufficient expressive capacity. This paper asks whether it is possible to learn representations that …",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "8128bbb63b75",
+    "title": "Visual-Aware Representation of Web Pages for Machine Learning Applications",
+    "url": "https://arxiv.org/abs/2608.18727",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-20T04:00:00+00:00",
+    "summary": "arXiv:2608.18727v1 Announce Type: cross Abstract: Applying machine learning to web pages is challenging due to the need to interpret HTML together with associated resources and perform rendering to obtain a meaningful visual and layout-aware representation. As a result, machine learning over web content remains comparatively underexplored. In this paper, we present a platform for visual-aware representation and machine learning over web pages based on the open-source rendering tool FitLayout. Th…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "6d626a8eb73e",
+    "title": "Finetuning Strategies for Querying Sounds by Vocal Imitation",
+    "url": "https://arxiv.org/abs/2608.19174",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-20T04:00:00+00:00",
+    "summary": "arXiv:2608.19174v1 Announce Type: cross Abstract: This technical report describes our winning submission to the AES AIMLA 2025 Challenge on querying sound effects by vocal imitation. We investigate two complementary fine-tuning strategies: contrastive learning with a frozen, pretrained CED encoder, and joint contrastive-triplet learning with semi-hard negatives using a MobileNetV3 encoder. This report has been updated for posterity to include details released after the challenge.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d8178082ffd5",
+    "title": "PLASMA: A Layout-Aware Benchmark Reveals Memory Layout Matters for Graph-based ANNS on GPU",
+    "url": "https://arxiv.org/abs/2508.15436",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-20T04:00:00+00:00",
+    "summary": "arXiv:2508.15436v2 Announce Type: replace Abstract: We propose a $\\textbf{P}$latform for $\\textbf{L}$ayout-$\\textbf{A}$ware $\\textbf{S}$earch and $\\textbf{M}$emory $\\textbf{A}$rrangement ($\\textbf{PLASMA}$), a unified evaluation framework for graph-based Approximate Nearest Neighbor Search (ANNS) on GPU that isolates the effects of graph index topology and memory layout. Graph-based ANNS is essential in modern AI applications such as RAG, and GPU utilization is attracting attention for datasets …",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "0ff8ddddad5c",
+    "title": "LACONIC: Dense-Level Effectiveness for Scalable Sparse Retrieval via a Two-Phase Training Curriculum",
+    "url": "https://arxiv.org/abs/2601.01684",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-20T04:00:00+00:00",
+    "summary": "arXiv:2601.01684v2 Announce Type: replace Abstract: While dense retrieval models have been the standard for state-of-the-art information retrieval, their deployment is often constrained by high memory requirements and reliance on GPU accelerators for vector similarity search at scale. Learned sparse retrieval offers a compelling alternative by enabling efficient search via inverted indices, yet it has historically received less attention than dense approaches. In this paper, we introduce LACONIC…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "895adbd61c96",
+    "title": "Semantic Trimming and Auxiliary Multi-step Prediction for Generative Recommendation",
+    "url": "https://arxiv.org/abs/2604.05329",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-20T04:00:00+00:00",
+    "summary": "arXiv:2604.05329v2 Announce Type: replace Abstract: Generative Recommendation (GR) has recently transitioned from atomic item-indexing to Semantic ID (SID)-based frameworks to capture intrinsic item relationships and enhance generalization. However, the adoption of high-granularity SIDs leads to two critical challenges: prohibitive training overhead due to sequence expansion and unstable performance reliability characterized by non-monotonic accuracy fluctuations. We identify that these disparat…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "10ca6e6952d6",
+    "title": "MediaGraph: A Content-Aware Data Model and Query Framework for Multimodal Knowledge Graphs",
+    "url": "https://arxiv.org/abs/2608.18895",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-20T04:00:00+00:00",
+    "summary": "arXiv:2608.18895v1 Announce Type: new Abstract: Multimodal knowledge graphs typically treat multimedia documents as opaque, external entities. This content-agnostic approach constrains retrieval and analysis by isolating media from the graph's core structure, hindering the ability to capture and query complex relationships across media types. To address this, we introduce the MediaGraph Data Model and its prototypical implementation MeGraS, the MediaGraph Store, a novel approach that integrates …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "6dd5abbf44ac",
+    "title": "Institutional Books - Visual Elements: An open-source pipeline for extracting, classifying, deduplicating, and captioning visual elements from digital book collections",
+    "url": "https://arxiv.org/abs/2608.18957",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-20T04:00:00+00:00",
+    "summary": "arXiv:2608.18957v1 Announce Type: cross Abstract: Historical book collections contain rich visual elements - such as illustrations, photographs, engravings, and decorative art - that are frequently under-explored in large-scale digitization projects. While Optical Character Recognition (OCR) has standardized the extraction of textual content, these visual components offer a layer of nuance and context that remains largely untapped by automated text extraction workflows. This technical report int…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "632e663674d3",
+    "title": "Institutional Newspapers Pipeline: Deriving billions of high quality tokens from historical newspapers",
+    "url": "https://arxiv.org/abs/2608.18972",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-20T04:00:00+00:00",
+    "summary": "arXiv:2608.18972v1 Announce Type: cross Abstract: Historical newspapers are an abundant record of public life, but their dense, irregular and sometimes noisy layouts make computational access to these materials both challenging and limited. We present the Institutional Newspapers Pipeline, a modular system we jointly designed with Boston Public Library to extract high-quality, structured datasets from historical newspaper scans. It was architected so that each step remains interpretable and cust…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "04da37a459e9",
+    "title": "Institutional Books - Enriched Text: A customizable multilingual open-source pipeline for denoising, deduplicating, and annotating OCR text at scale",
+    "url": "https://arxiv.org/abs/2608.19026",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-20T04:00:00+00:00",
+    "summary": "arXiv:2608.19026v1 Announce Type: cross Abstract: Released in 2025, Institutional Books: Harvard Library (IB-HL) is a collection of 983,004 volumes (242B o200k_base tokens), originally digitized through Harvard Library's participation in the Google Books Library project. As researchers and developers have begun to use IB-HL, a tension has emerged between standard large-scale preprocessing practices and the goals of careful information stewardship. Many existing pipelines optimize for web text: a…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "309ee3854c8b",
+    "title": "Qualified Cross-References as a Verification Method: The Normative Environment of the EU AI Act",
+    "url": "https://arxiv.org/abs/2608.19194",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-20T04:00:00+00:00",
+    "summary": "arXiv:2608.19194v1 Announce Type: cross Abstract: Legal cross-references are commonly represented as links between instruments or provisions. For a curated legal knowledge base, the existence of a link is only the beginning of the claim: it must also state the legal character of the interaction, identify the provisions supporting it, preserve its conditions, and remain consistent when reached from either instrument. This paper presents a provision-level model and a construction protocol for qual…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "e1833cb145a3",
+    "title": "A Framework and Prototype for a Navigable Map of Datasets in Engineering Design and Systems Engineering",
+    "url": "https://arxiv.org/abs/2603.15722",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-20T04:00:00+00:00",
+    "summary": "arXiv:2603.15722v3 Announce Type: replace-cross Abstract: The proliferation of data across the system lifecycle presents both a significant opportunity and a challenge for Engineering Design and Systems Engineering (EDSE). While this \"digital thread\" has the potential to drive innovation, the fragmented and inaccessible nature of existing datasets hinders method validation, limits reproducibility, and slows research progress. Unlike fields such as computer vision and natural language processing,…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "051a5538f884",
+    "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
+    "url": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
+    "source": "Wired AI",
+    "date": "2026-08-19T19:30:00+00:00",
+    "summary": "During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "406b4e515ef3",
+    "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
+    "url": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
+    "source": "Wired AI",
+    "date": "2026-08-19T16:44:07+00:00",
+    "summary": "Anthropic announced last week it would include invisible watermarks in AI-generated content to comply with new EU rules. Within hours, overrides were being touted online.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "91335b1906ea",
+    "title": "NIST Releases Tips &amp; Tactics for Building Automation &amp; Control System Cybersecurity",
+    "url": "https://www.nist.gov/blogs/cybersecurity-insights/nist-releases-tips-tactics-building-automation-control-system",
+    "source": "NIST",
+    "date": "2026-08-19T12:00:00+00:00",
+    "summary": "Recent cyberattacks highlight the growing threat to operational technology (OT) used in critical infrastructure. Whether you work for an infrastructure owner/operator or are a consumer of an infrastructure service, the events of the past few weeks have made it clear that cybersecurity is an important factor in ensuring the safe and reliable delivery of critical goods and services. For OT owners/operators, it can be challenging to address the range of cybersecurity threats, vulnerabilities and ri…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "62cf25f54fc6",
+    "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
+    "url": "https://www.wired.com/story/flock-safety-os-investigate/",
+    "source": "Wired AI",
+    "date": "2026-08-19T09:00:00+00:00",
+    "summary": "Flock’s surveillance cameras have already sparked outrage. WIRED reconstructed its next-generation AI system, already in use by some police, to confirm it goes much further than tracking license plates.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "cccee4492057",
     "title": "Sparse Coverage: Semantic Center Representations for Patent Prior-Art Retrieval",
     "url": "https://arxiv.org/abs/2608.16918",
