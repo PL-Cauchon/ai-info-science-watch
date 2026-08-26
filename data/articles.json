@@ -1,5 +1,293 @@
 [
   {
+    "id": "12fc95881938",
+    "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+    "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+    "source": "MIT Tech Review",
+    "date": "2026-08-26T07:01:00+00:00",
+    "summary": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marina, where a flotilla of expensive boats bob in&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "7d74dba976e8",
+    "title": "AdaWidth: Query-Adaptive Embedding Width for Dense Retrieval",
+    "url": "https://arxiv.org/abs/2608.23862",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.23862v1 Announce Type: new Abstract: High-dimensional embeddings are central to dense retrieval, but not all of these dimensions need to be evaluated at retrieval time. Existing methods reduce dimensions in two ways: truncating the same leading dimensions for every query, or masking a different subset for each query while still storing and accessing the full embedding. Yet queries within a single task differ widely in the number of dimensions they need for their rankings to stabilize.…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "86123f2907c4",
+    "title": "Wontopos Tablet 2: Measuring Multilingual and Multimodal Memory Retrieval Without Lexical Matching",
+    "url": "https://arxiv.org/abs/2608.23920",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.23920v1 Announce Type: new Abstract: We measure tablet-2, a production long-term memory engine for language models, on the text benchmarks the field already uses and on cross-lingual retrieval of photographs stored with no text at all. Its retrieval path contains no lexical matching, no keyword scoring, and no language model of its own. On LongMemEval-S (500 questions) it scores 95.7% [93.4, 97.1]; on BEAM-1M (700 questions, 2.21M stored memories) 67.5% [64.8, 70.2]. Those are questio…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "3abdf451b35a",
+    "title": "Hybrid Semantic Tool Discovery for Enterprise MCP Gateway: Architecture and Implementation",
+    "url": "https://arxiv.org/abs/2608.23992",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.23992v1 Announce Type: new Abstract: Large language model (LLM) agents invoke external tools to retrieve and reason over information beyond pretrained knowledge. The Model Context Protocol (MCP) standardizes how such tools are surfaced, and a proxy MCP server aggregates many backend servers behind a single endpoint providing a secure, governable chokepoint for authentication, policy enforcement, and observability. This architecture creates two compounding challenges: a context-enginee…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "581f5cf21596",
+    "title": "TAGR: Temporally Adaptive Generative Recommendation for Industrial Live-Streaming Advertising",
+    "url": "https://arxiv.org/abs/2608.24034",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.24034v1 Announce Type: new Abstract: Live-streaming advertising is an important monetization channel on short-video and e-commerce platforms, where rapidly changing live content, promoted products, and user feedback impose strong freshness requirements on recommendation models. Existing generative recommenders designed for static domains fail at three levels: static semantic IDs (SID) cannot track evolving live ads; single-scale behavior modeling misses shifting intent; preference opt…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "80ce1edff2db",
+    "title": "SQLite is Enough. Lexical, Semantic, and Hybrid Search with scrydb",
+    "url": "https://arxiv.org/abs/2608.24060",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.24060v1 Announce Type: new Abstract: This work introduces scrydb, a Python library that enables lexical, semantic, and hybrid search within SQLite. For lexical search, scrydb leverages SQLite's full-text search extension FTS5. Semantic search builds on sqlite-vec, a SQLite extension for vector search. Furthermore, the library allows users to rerank and fuse retrieval results to combine both lexical and semantic approaches, providing a lightweight solution for downstream tasks in infor…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "7ad4116bff6b",
+    "title": "RetrievalFormer: A Dual-Encoder Transformer for Efficient Approximate Nearest Neighbor Retrieval and Cold-Item Recommendation",
+    "url": "https://arxiv.org/abs/2608.24079",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.24079v1 Announce Type: new Abstract: A shared search-and-recommendation index must score new items from features alone because search has no exploration slot. In a public log covering both surfaces over one catalog, $38.6\\%$ of held-out query-search impressions show an item never previously shown or visited. For user-cold engagements, the feature-based tower serves this demand without measurable loss against $99$ sampled negatives ($0.9595$ Recall@20 versus $0.9510$ warm). A lexical b…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "b455d6df7250",
+    "title": "CodeHID: Learning an Addressable Hierarchical Code Index for Generative Code Retrieval",
+    "url": "https://arxiv.org/abs/2608.24089",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.24089v1 Announce Type: new Abstract: Code retrieval models have predominantly relied on a flat matching paradigm that treats code snippets as independent candidates, making them less capable of distinguishing similar code candidates. Generative retrieval offers a solution by constructing a learnable index over the code corpus, guiding the retriever to better understand how code candidates are semantically organized and addressed. However, naively applying generative retrieval in the c…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "c8becc353cfc",
+    "title": "Native Multimodal Representation Learning for Click-Through Rate Prediction in E-Commerce Scenarios",
+    "url": "https://arxiv.org/abs/2608.24091",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.24091v1 Announce Type: new Abstract: Multimodal representations have been widely adopted in industrial e-commerce recommendation systems. Due to their strong semantic understanding and generalization capabilities, they enhance the performance of traditional sparse ID-based Click-Through Rate (CTR) prediction models. Current multimodal application frameworks in the CTR prediction task typically follow a two-stage paradigm: first, pre-training a multimodal encoder on data from specific …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b3453ed94d72",
+    "title": "Tlow: Flow-based Item Tokenizer for Recommendation",
+    "url": "https://arxiv.org/abs/2608.24176",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.24176v1 Announce Type: new Abstract: Item tokenizer encodes semantic embeddings into token IDs to replace the randomly assigned item IDs used in traditional recommendation models, fundamentally addressing the problems of excessive parameters and cold starts. However, the most common tokenizer, RQ-VAE, suffers from low decoding efficiency due to the inherent dependencies among its codebooks. Meanwhile, efficient independent tokenizers such as optimized product quantization (OPQ) still …",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "6b158c783153",
+    "title": "RecGPT-Mobile-V2 Technical Report",
+    "url": "https://arxiv.org/abs/2608.24295",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.24295v1 Announce Type: new Abstract: Personalized Query prediction maps implicit behavioral signals---clicks, favorites, purchases, and post-purchase exploration---to explicit retrieval intent. On-device deployment makes this task particularly challenging: behavioral trajectories are noisy and multi-scale, multiple Queries may be valid for a single trajectory, and a uniform reasoning policy either expends unnecessary computation on simple instances or allocates insufficient capacity t…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a1e090abe6ce",
+    "title": "Rethinking Semantic Alignment in LLM-Enhanced Collaborative Filtering: A Spectral Decoupling Approach",
+    "url": "https://arxiv.org/abs/2608.24363",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.24363v1 Announce Type: new Abstract: Recent advances in LLM-enhanced recommendation commonly align semantic representations with collaborative embeddings in a shared space, yet how alignment affects LLM-encoded information remains unclear. In this work, we revisit LLM-enhanced recommendation from a spectral perspective and show that collaborative and semantic signals benefit from different spectral parts. While collaborative representations are dominated by smooth low-frequency compon…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "17d60afe1016",
+    "title": "EviGraph: Towards Verifiable Evidence Construction for Information-Seeking Agents",
+    "url": "https://arxiv.org/abs/2608.24667",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.24667v1 Announce Type: new Abstract: Agentic Web search can retrieve relevant information without establishing that the retrieved content actually supports the claims used in an answer. Existing agents typically keep search and evidence recording in a linear interaction trace and optimize primarily for final-answer correctness, providing limited supervision for intermediate grounding. We present EviGraph, a deep-search framework that separates search execution from evidence recording …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8aa26e0e728b",
+    "title": "Auditing Return Conditioning as a Control Knob: An Offline Diagnostic for Decision Transformer Recommendation",
+    "url": "https://arxiv.org/abs/2608.24815",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.24815v1 Announce Type: new Abstract: Offline return-to-go (RTG) sweeps can test whether a recommender conditioned on return is controllable, but the intervention is rarely audited. Rewriting every historical RTG token creates an increasingly synthetic context, while rewriting only the current token is more local. We test this distinction in an offline setting with a fixed window. On MovieLens 25M and MyAnimeList 2020 (MAL), we evaluate a Decision Transformer using an RTG locality ladd…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8da21e1b8e8e",
+    "title": "Degree Centrality Algorithms for Weighted Multilayer Networks (or w-MLNs)",
+    "url": "https://arxiv.org/abs/2608.23876",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.23876v1 Announce Type: cross Abstract: Centrality measures are defined for simple graphs -- directed, undirected, weighted or unweighted. Attributed graphs have to be reduced to simple graphs for computing centrality measures. However, when applications with multiple types of relationships are modeled using multilayer networks (MLNs), simple graph algorithms cannot be directly used. Existing approaches typically analyze MLNs by aggregating layers of an MLN into a single graph, which r…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c51e225c3587",
+    "title": "NeuronGuard: Robust LLM Safety Alignment via Ablation-Aware Safety Signal Redistribution",
+    "url": "https://arxiv.org/abs/2608.23959",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.23959v1 Announce Type: cross Abstract: Safety alignment in large language models (LLMs) remains brittle against a growing spectrum of attacks. Jailbreak attacks bypass safety mechanisms through crafted prompts, while neuron-level attacks directly prune safety-critical neurons post-deployment. Both exploit a common weakness: safety-relevant information concentrates in a sparse neuron subset. We present NeuronGuard, a fine-tuning-stage defense that simultaneously hardens LLMs against bo…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "cdd045d92112",
+    "title": "RAGSentinel: Certifiable Geometric Consensus for Robust Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2608.23965",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.23965v1 Announce Type: cross Abstract: Retrieval-augmented generation (RAG) improves the factuality of large language models by grounding responses in external documents, but it also exposes a critical security vulnerability: adversarial documents injected into the knowledge database can enter the context window and steer the model toward targeted incorrect answers. Existing post-retrieval defenses rely on instruction following, parametric knowledge, or text-level consistency, all of …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "759ce7dd2ad5",
+    "title": "WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report",
+    "url": "https://arxiv.org/abs/2608.24053",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.24053v1 Announce Type: cross Abstract: Universal multimodal embeddings are becoming a core component of modern AI systems, enabling heterogeneous content to be represented in a shared space for applications such as retrieval, recommendation, classification, and agentic systems. In this report, we present WeMM-Embedding, a family of universal multimodal embedding models supporting text, images, videos, visual documents, and arbitrarily interleaved multimodal inputs with flexible output…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "9df8536ab7df",
+    "title": "PARTAB: Partition-Aware Reasoning with Structured Evidence for Scalable Table Understanding",
+    "url": "https://arxiv.org/abs/2608.24082",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.24082v1 Announce Type: cross Abstract: Large Language Models (LLMs) have shown strong capabilities in table reasoning, but their effectiveness degrades as tables grow in size and complexity due to irrelevant context and difficulty localizing the evidence required for reasoning. Existing approaches typically reason over either the full table or a single reduced view, which can still obscure important row-column relationships. We introducePARTAB (Partition-Aware Reasoning overTables), a…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "ac9fe100c0cb",
+    "title": "PlaceSeek: Human-Centered Geospatial Retrieval of Urban Outdoor Places via Semantic Grounding and Affective Alignment",
+    "url": "https://arxiv.org/abs/2608.24133",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.24133v1 Announce Type: cross Abstract: People search for urban outdoor places not only by category or function, but also by what activities a place can support and how it is perceived. Existing geospatial retrieval remains largely POIcentric and metadata-driven, making it difficult to satisfy openended, affective, or activity-oriented needs. We present PlaceSeek, a human-centered outdoor place retrieval framework that maps natural-language queries to geolocated street-view imagery. Pl…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "51f4b2783d24",
+    "title": "Matched Excess-Outranker Regularization for Candidate-Set Interference in Continual Knowledge Graph Embedding",
+    "url": "https://arxiv.org/abs/2608.24273",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.24273v1 Announce Type: cross Abstract: Continual knowledge graph embedding updates entity and relation representations as a graph grows. Existing methods primarily address catastrophic forgetting, but entity admission also changes the candidate universe of every compatible query. A historical answer can therefore lose rank even when its score and its ordering among old entities are preserved. We formalize this effect as candidate-set interference and introduce Matched Excess-Outranker…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "710d44baf85f",
+    "title": "Structurally-bounded Agentic Graph Exploration for Evidence-Grounded Scholarly DeepSearch",
+    "url": "https://arxiv.org/abs/2608.24809",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.24809v1 Announce Type: cross Abstract: We present Crase, a bounded and inspectable alternative to deep research agents for scholarly search. Instead of an open-ended search loop, Crase queries a search engine once for seed papers, expands them along their 1.5-hop citation neighborhood, prunes citation edges whose claims lack entailment support, and ranks the remaining papers with a recency-aware random walk. This makes the candidate set, the reason each paper is kept, and the stopping…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "1263552f629a",
+    "title": "A Tale of Two Graphs: Separating Knowledge Exploration from Outline Structure for Open-Ended Deep Research",
+    "url": "https://arxiv.org/abs/2602.13830",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2602.13830v3 Announce Type: replace Abstract: Open-Ended Deep Research (OEDR) pushes LLM agents beyond short-form QA toward long-horizon workflows that iteratively search, connect, and synthesize evidence into structured reports. However, existing OEDR agents largely follow either linear ``search-then-generate'' accumulation or outline-centric planning. The former suffers from lost-in-the-middle failures as evidence grows, while the latter relies on the LLM to implicitly infer knowledge ga…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "cdb8990e9e59",
+    "title": "FLAME: Condensing Ensemble Diversity into a Single Network for Efficient Sequential Recommendation",
+    "url": "https://arxiv.org/abs/2604.04038",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2604.04038v3 Announce Type: replace Abstract: Sequential recommendation requires capturing diverse user behaviors, which a single network often fails to capture. While ensemble methods mitigate this, training multiple networks from scratch incurs high computational cost and instability from noisy mutual supervision. We propose Frozen and Learnable networks with Aligned Modular Ensemble (FLAME), a novel framework that condenses ensemble-level diversity into a single network for efficient se…",
+    "category": "Information Behavior"
+  },
+  {
+    "id": "5f0e338a3876",
+    "title": "Towards a Definition of the Computational Architecture of Open Scholarly Infrastructures",
+    "url": "https://arxiv.org/abs/2608.23760",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.23760v1 Announce Type: new Abstract: This paper proposes a layered framework for defining the architecture of the computational unit of an Open Scholarly Infrastructure (OSI) and presents a concrete implementation possibility through the introduction of OpenCitations, an OSI dedicated to publishing citation data and bibliographic metadata. Grounded in the Principles of Open Scholarly Infrastructure (POSI), the study focuses on the technical dimensions of openness, sustainability, inte…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "e27d8ca68088",
+    "title": "UTS at CheckThat! 2026: Cite-Frame Engineering for Generated Fact-Checking Articles",
+    "url": "https://arxiv.org/abs/2608.24466",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.24466v1 Announce Type: new Abstract: CheckThat! 2026 Task 3 asks systems to generate fact-checking articles, graded by an unweighted mean of four sub-metrics (M4). Our UTS submission placed 2nd of 11 teams (M4 = 0.484). The shipped system is a deterministic stub drafter wrapped by two single-lever interventions: a domain-attribution cite frame (HostCite) and a shadow-validated anchor picker (ShadowVal) that use Llama-3.2:1B only as a per-cite validator, never as a body-prose generator…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "7b2ad562fa0b",
+    "title": "COCI: Conference Organisers and Content Identifier",
+    "url": "https://arxiv.org/abs/2608.24559",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.24559v1 Announce Type: new Abstract: Despite the critical role of grey literature in scholarly communication, artefacts such as Calls for Papers (CfPs) remain largely isolated from modern Scholarly Knowledge Graphs. The unstructured and highly heterogeneous nature of these documents has traditionally hindered their large-scale processing. In this demo paper, we present the Conference Organisers and Content Identifier (COCI), an AI-based framework designed to extract fine-grained, stru…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "3d1979d01aa5",
+    "title": "Trajectories and Comparative Analysis of Global Countries Dominating AI Publications, 2000-2025",
+    "url": "https://arxiv.org/abs/2509.25298",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2509.25298v3 Announce Type: replace-cross Abstract: This study investigates the shifting global dynamics of Artificial Intelligence (AI) research by analysing the trajectories of countries dominating AI publications between 2000 and 2025. Drawing on the comprehensive OpenAlex datasets and employing fractional counting to avoid double attribution in co-authored work, the research maps the relative shares of AI publications across major global players. The analysis reveals a profound restruc…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4584eb0be612",
+    "title": "FPF at the Singapore Data Festival 2026: Agentic AI, Biometrics, and the Future of Digital Trust in APAC",
+    "url": "https://fpf.org/blog/fpf-at-the-singapore-data-festival-2026-agentic-ai-biometrics-and-the-future-of-digital-trust-in-apac/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-08-25T20:28:28+00:00",
+    "summary": "Co-authors: Lauren Koek and Valentina Curatella, FPF APAC Interns From July 20 to 24, 2026, the Future of Privacy Forum (FPF) participated in the inaugural Singapore Data Festival (SDF), hosted by Singapore’s Personal Data Protection Commission (PDPC) and Infocomm Media Development Authority (IMDA). Succeeding the PDPC’s annual Personal Data Protection Week, the SDF convened around [&#8230;]",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "fb61c6a5a4f0",
+    "title": "It Should Be Harder to Apply for a Job. No, Really",
+    "url": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
+    "source": "Wired AI",
+    "date": "2026-08-25T09:30:00+00:00",
+    "summary": "Thanks to a dwindling supply of open roles, “one-click” applications, and the rise of artificial intelligence, it’s easier than ever to apply for a job. We’re all paying the price.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b8c81dbaaa2f",
+    "title": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out",
+    "url": "https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/",
+    "source": "Wired AI",
+    "date": "2026-08-25T09:15:00+00:00",
+    "summary": "“It never crossed my mind that they would be so bold as to sell our private data for AI,” says one former Spirit Airlines flight attendant.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f898977be79d",
+    "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+    "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+    "source": "MIT Tech Review",
+    "date": "2026-08-25T09:00:00+00:00",
+    "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—an idea called embodied AI—was a key facet of China’s latest five-year plan, and companies here are already world leaders in humanoids. Nearly 90% of the&#8230;",
+    "category": "Information Retrieval & Search"
+  },
+  {
     "id": "8aa1b7bceba9",
     "title": "Retrieval Needs Multivectors: An Exponential Separation",
     "url": "https://arxiv.org/abs/2608.21494",
