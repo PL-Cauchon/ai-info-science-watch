@@ -1,5 +1,356 @@
 [
   {
+    "id": "346c74e366c6",
+    "title": "OpenAI Is Developing a ‘Persistent’ AI Agent",
+    "url": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/",
+    "source": "Wired AI",
+    "date": "2026-08-27T16:52:42+00:00",
+    "summary": "Code reviewed by WIRED reveals the company is developing a feature that enables Codex to continue working proactively until it is “put to sleep.”",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "df4742c06a7c",
+    "title": "Back to the Future: Why Agentic AI Needs a Strong Identity Foundation",
+    "url": "https://www.nist.gov/blogs/cybersecurity-insights/back-future-why-agentic-ai-needs-strong-identity-foundation",
+    "source": "NIST",
+    "date": "2026-08-27T12:00:00+00:00",
+    "summary": "As AI matures, enterprises and customers are rapidly deploying agents seeking to unlock the next level of automation and productivity. Agentic AI shows potential to handle a multitude of use cases, from buying personal items on Amazon to customer service applications to enterprise security and software development. However, early agentic deployments are repeating a familiar pattern: prioritizing feature development and immediate value over security. This strategy is understandable. Strategic, fi…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4534e5e4d625",
+    "title": "Submit Your Questions: The Great Data Center Backlash",
+    "url": "https://www.wired.com/story/livestream-the-great-data-center-backlash/",
+    "source": "Wired AI",
+    "date": "2026-08-27T11:00:00+00:00",
+    "summary": "You have questions about data centers, and WIRED has answers. Join our livestream on September 10 and our panel of experts will tell you everything you need to know.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "9e54fa2652ae",
+    "title": "Stop Touching Your Keyboard. Use This AI-Powered Microphone Instead",
+    "url": "https://www.wired.com/story/relay-q-voice-to-text-ai-app/",
+    "source": "Wired AI",
+    "date": "2026-08-27T10:30:00+00:00",
+    "summary": "The Relay Q, due next year, is the latest attempt to reposition voice as the most seamless method for human-computer interaction.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "85146aa488e7",
+    "title": "The UK Power Grid Has a Phantom Data Center Problem",
+    "url": "https://www.wired.com/story/uk-data-centers-logjam-ofgem-regulations/",
+    "source": "Wired AI",
+    "date": "2026-08-27T06:00:00+00:00",
+    "summary": "The UK’s energy regulator is using a variety of tricks to keep speculative data center projects from plugging into the power grid. The country’s AI ambitions hang in the balance.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "3303814088b7",
+    "title": "SWIM: Step-Wise Integrated Measure for Session-supervised List Evaluation in Generative Re-ranking",
+    "url": "https://arxiv.org/abs/2608.25104",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-27T04:00:00+00:00",
+    "summary": "arXiv:2608.25104v1 Announce Type: new Abstract: Modern industrial recommender systems have increasingly adopted the Generator-Evaluator (G-E) framework for the re-ranking stage. Within this paradigm, the generator produces candidate item lists from a pool filtered by upstream retrieval and ranking modules, while the evaluator scores these lists and selects the highest-scoring one for final exposure per request. However, on sequential platforms (e.g., short-video apps), users consume items contin…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "dce42147913c",
+    "title": "The \"Curse of Knowledge\" in LLM Query Simulation: Concept Provenance for Tracing Answer-Side Intrusion",
+    "url": "https://arxiv.org/abs/2608.25245",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-27T04:00:00+00:00",
+    "summary": "arXiv:2608.25245v1 Announce Type: new Abstract: LLM-generated search queries are widely used to augment IR evaluation, yet they may contain concepts that presuppose answer-side document knowledge, violating the information-access boundary of pre-search users. Existing validation metrics, including overlap, diversity, and effectiveness, cannot distinguish rare human-tail variation from candidate answer-side intrusion. We introduce concept provenance, a framework that assigns query concepts to bac…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "d3974a8d31b1",
+    "title": "Rank-Deviation Quality: A Distance-Aware Metric for Multi-Answer Retrieval and Ranking Evaluation",
+    "url": "https://arxiv.org/abs/2608.25318",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-27T04:00:00+00:00",
+    "summary": "arXiv:2608.25318v1 Announce Type: new Abstract: We introduce Rank-Deviation Quality (RDQ), an evaluation metric for retrieval and ranking systems that adapts to queries with varying numbers of reference items, from a single correct answer to many valid results. RDQ scores a candidate ranking against an ordered reference list (ORL): each retrieved reference item contributes its output-position weight multiplied by a rank-deviation penalty, and items outside the ORL receive zero credit. Applicatio…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "9478565611bd",
+    "title": "CRAMER: Control via Request-Aware Masking for Editing Recommenders",
+    "url": "https://arxiv.org/abs/2608.25370",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-27T04:00:00+00:00",
+    "summary": "arXiv:2608.25370v1 Announce Type: new Abstract: Sequential recommendation models, while powerful, have limited flexibility in responding to immediate user requests, making it difficult to adapt their recommendations to the user's timely interests. Unfortunately, existing user request adaptation methods often incur high computational overhead due to either 1) retraining the entire backbone network or 2) leveraging the inference ability of large language models (a.k.a. prompt engineering), limitin…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "d4ee71b77b70",
+    "title": "MOTIF: Motivation-guided Topology Inference for Cold-start Multimodal Recommendation",
+    "url": "https://arxiv.org/abs/2608.25381",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-27T04:00:00+00:00",
+    "summary": "arXiv:2608.25381v1 Announce Type: new Abstract: Cold-start multimodal recommendation faces three coupled challenges: (i) sparse interactions obscure user intent, (ii) cold items remain topologically isolated, and (iii) similarity-based item graphs may cause semantic drift. To address these issues, we propose MOTIF, a Motivation-guided Topology Inference framework for cold-start multimodal recommendation. MOTIF integrates Semantic Motivation Reasoning, Knowledge-enhanced Graph Reconstruction, Wei…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0e789ff781f1",
+    "title": "DocPC: Document-Level Visual Retrieval via Representative Page Composition",
+    "url": "https://arxiv.org/abs/2608.25434",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-27T04:00:00+00:00",
+    "summary": "arXiv:2608.25434v1 Announce Type: new Abstract: Visual document retrieval has advanced by encoding page screenshots with vision-language models, bypassing OCR pipelines. However, existing methods remain page-centric, misaligned with real-world scenarios requiring complete document retrieval. A naive page-then-document aggregation suffers from linear indexing cost and degraded retrieval when relevance spans multiple pages. We propose DocPC, a document-level visual retrieval framework based on Rep…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "584290c7c310",
+    "title": "Query Expansion Is More Than Generation: Improving Dense Retrieval through Better Integration",
+    "url": "https://arxiv.org/abs/2608.25521",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-27T04:00:00+00:00",
+    "summary": "arXiv:2608.25521v1 Announce Type: new Abstract: Large language models (LLMs) can generate query expansions without task-specific training, yet the same expansions often make a frozen dense retriever worse. We identify an underexplored factor: prior work has often focused on what text is generated, while how generated text is incorporated into dense retrievers has received less systematic attention. By holding generated expansions fixed, we show that performance degradation can often be attribute…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a8d9c54449c2",
+    "title": "TransRetrieval: Scaling Up Transformer-Based Retrieval for Industrial Recommendation",
+    "url": "https://arxiv.org/abs/2608.25528",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-27T04:00:00+00:00",
+    "summary": "arXiv:2608.25528v1 Announce Type: new Abstract: Applying scaling laws to recommendation retrieval is hindered by feature heterogeneity: naively stacking Transformer layers yields diminishing returns because heterogeneous fields produce severe token-norm divergence. We present TransRetrieval, a Transformer-based retrieval framework that scales with both computational budget and cross-domain data. The key enabler is (1) weighted average aggregation, which restores the homogeneous-token assumption …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4f8030d48db2",
+    "title": "An Event is Worth One Token: Event Tokenization for Industrial-scale LLM Recommendation",
+    "url": "https://arxiv.org/abs/2608.25546",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-27T04:00:00+00:00",
+    "summary": "arXiv:2608.25546v1 Announce Type: new Abstract: LLM-based recommendation has scaled along model capacity and sequence length, yet each position encodes only text, semantic IDs, or a few categorical features, discarding rich user, item, context, and outcome signals available at each event. Under autoregressive modeling, this yields weak queries at each position and, since each position becomes context for the next, the degradation compounds across the sequence. We propose an event-centric paradig…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "64a815df4ac3",
+    "title": "When Stale Constraints Go Unchecked: Budgeted Verification Failures in Inherited Agent Memory",
+    "url": "https://arxiv.org/abs/2608.25553",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-27T04:00:00+00:00",
+    "summary": "arXiv:2608.25553v1 Announce Type: new Abstract: An agent that inherits a consolidated memory may inherit a constraint that was true when written and has since been withdrawn by a newer authoritative record. Under a scarce verification budget, does the agent recover the withdrawal, and if not, is the error avoidable without spending more? We model supersession explicitly -- historical provenance is immutable; what changes is which record is current -- and assign by design the memory's form, the w…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e2b09b371b96",
+    "title": "RetrievalRouter: Joint Modality and Architecture Selection for Document Retrieval",
+    "url": "https://arxiv.org/abs/2608.25625",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-27T04:00:00+00:00",
+    "summary": "arXiv:2608.25625v1 Announce Type: new Abstract: Document retrieval increasingly supports high-stakes information access in finance, healthcare, and law. Modern retrieval pipelines vary both in modality (text or multimodal) and in retrieval architecture (dense or late-interaction). These choices impose a hard compromise: the most effective pipelines are too slow and expensive to run at scale, while the fastest fail to retrieve evidence from complex documents. Practitioners must therefore choose b…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e0eb9834b952",
+    "title": "Data Citation for Large Language Models: A Challenge",
+    "url": "https://arxiv.org/abs/2608.25663",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-27T04:00:00+00:00",
+    "summary": "arXiv:2608.25663v1 Announce Type: new Abstract: Large language models increasingly mediate access to information, and a growing body of work asks whether they cite the sources behind their outputs. That work treats citation as a verification device and applies it to textual documents. Scholarly citation serves two further functions, credit and provenance, and it applies to data as much as to text. This paper argues that data citation for large language models is an open challenge, distinct from …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "2ae3f1520e19",
+    "title": "D3ER: Supporting Multi-Modal Recommendation via Disentangle and Distillation-based Dynamic Ensemble",
+    "url": "https://arxiv.org/abs/2608.25737",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-27T04:00:00+00:00",
+    "summary": "arXiv:2608.25737v1 Announce Type: new Abstract: Incorporating items' information shared among multiple modalities into a fused representation, multi-modal recommendation (MR) has demonstrated documented success than canonical unimodal recommendation. Although several attempts have been made to extract the discriminative information unique in each modality, existing methods suffer from a core limitation: the joint learning of modal-homogeneity discriminative information (HOI) and modal-heterogene…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "55dbe75d1461",
+    "title": "Hamiltonian Spectral-Temporal Dissipative Dynamics for Sequential Recommendation",
+    "url": "https://arxiv.org/abs/2608.25755",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-27T04:00:00+00:00",
+    "summary": "arXiv:2608.25755v1 Announce Type: new Abstract: Sequential recommendation requires understanding how user preferences evolve over time, yet most existing models treat such evolution as a first order process where the next state depends solely on the current latent representation. Nevertheless, real user behavior often exhibits richer dynamics, including inertia, periodicity, and sudden shifts that cannot be fully captured by these first order assumptions. Motivated by these behavioral characteri…",
+    "category": "Information Behavior"
+  },
+  {
+    "id": "5f389dc89721",
+    "title": "PUMA: Post-Hoc Sparsification of Universal Multimodal Embeddings for Efficient Retrieval",
+    "url": "https://arxiv.org/abs/2608.25780",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-27T04:00:00+00:00",
+    "summary": "arXiv:2608.25780v1 Announce Type: new Abstract: Universal multimodal embedders enable retrieval across text, image, and combined queries, but their dense representations incur high memory and inference costs. Post-hoc sparsification could reduce these costs but remains underexplored for multimodal retrieval. We introduce PUMA, a sparse autoencoder recipe that maps universal multimodal embeddings to compact sparse codes without retraining the backbone: a pretraining stage preserves dense dot-prod…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "d7d042005ed5",
+    "title": "PlanSightRAG: A Visual-First Multimodal RAG for Automating Question Answering and Compliance Checking for Civil Standard Plans",
+    "url": "https://arxiv.org/abs/2608.26091",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-27T04:00:00+00:00",
+    "summary": "arXiv:2608.26091v1 Announce Type: new Abstract: Civil infrastructure compliance checking has long relied on engineers manually reading legacy 2D plans; however, OCR-based automation strips away the geometry and layout essential for interpreting these plans. We present a Visual-First Multimodal Retrieval-Augmented Generation (RAG) framework called PlanSightRAG. It indexes and reasons directly over plan imagery, integrates a ColNomic-3B multi-vector retrieval, an agentic Planner-Retriever-Auditor-…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "daccf56878f0",
+    "title": "A Pathway for Assessing Grey Literature: Leveraging AI to Extract Conference Metadata and Organiser Information from Calls for Papers",
+    "url": "https://arxiv.org/abs/2608.24926",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-27T04:00:00+00:00",
+    "summary": "arXiv:2608.24926v1 Announce Type: cross Abstract: Despite its importance, grey literature, including Calls for Papers (CfPs), remains largely overlooked in Metascience and Scientometric analysis due to its unstructured, highly heterogeneous format, which traditional tools struggle to process at scale. However, Large Language Models now offer a pivotal opportunity to devise innovative tools for systematically harvesting and processing such data. In this paper, we introduce COCI, an AI-based frame…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "fd026bd07d94",
+    "title": "Retrieve, Match, Escalate: Accurate and Scalable Product Linking with VLM-Distilled Cross-Encoders and Agentic VLMs",
+    "url": "https://arxiv.org/abs/2608.25037",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-27T04:00:00+00:00",
+    "summary": "arXiv:2608.25037v1 Announce Type: cross Abstract: Product linking, the entity-resolution task of mapping merchant product records to canonical catalog products, consolidates fragmented listings so downstream search, recommendation, and advertising see one clean entry per product. At marketplace scale, billions of noisy, multi-category records must be resolved against tens of millions of canonical products, where scoring every candidate with a single model is either too weak for the hard cases or…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "12c777d20ad3",
+    "title": "Less can be More: Relieving RAG Bottlenecks via Evidence Frontloading and Pressure-Adaptive Budgeting",
+    "url": "https://arxiv.org/abs/2608.25115",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-27T04:00:00+00:00",
+    "summary": "arXiv:2608.25115v1 Announce Type: cross Abstract: Existing methods for improving Retrieval-Augmented Generation (RAG) efficiency mainly optimize downstream LLM generation, such as context compression or serving optimization. However, RAG is an end-to-end system, and its bottleneck can shift between upstream reranking and downstream generation under different serving loads and reranking budgets.In this paper, we first empirically characterize this shifting-bottleneck behavior and show that upstre…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c6e207b9cc90",
+    "title": "Q&A or Document-Based? The Effects of Interface Type on How Screen Reader Users Access Interconnected Documents",
+    "url": "https://arxiv.org/abs/2608.25382",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-27T04:00:00+00:00",
+    "summary": "arXiv:2608.25382v1 Announce Type: cross Abstract: Blind and low-vision (BLV) users are increasingly engaging with large language model (LLM) interfaces to access documents, but it is unclear how such systems support or hinder their ability to build interconnected knowledge. To examine this gap, we compared a Question-Answer Interface (QAI) that supports open-ended conversational inquiry, with a Document Interface (DI) based mostly on traditional structured text document navigation. We recruited …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "645a48e044ea",
+    "title": "ReliableRAG: Combating Misinformation in Retrieval-Augmented Generation via Reliability-Guided Reasoning Chains",
+    "url": "https://arxiv.org/abs/2608.25487",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-27T04:00:00+00:00",
+    "summary": "arXiv:2608.25487v1 Announce Type: cross Abstract: Retrieval-Augmented Generation (RAG) has emerged as a powerful architecture for Question Answering (QA) by integrating external information into Large Language Models (LLMs). However, false, inaccurate, and misleading information in news and social media poses a serious challenge to real-world RAG systems, especially in multi-hop QA, where complex multi-step reasoning can be misled by even a single deceptive misinformation segment in the retrieve…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "f230322dc4b1",
+    "title": "A Storage-Retrieval Gap in Parametric Knowledge Graph Memory",
+    "url": "https://arxiv.org/abs/2608.25489",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-27T04:00:00+00:00",
+    "summary": "arXiv:2608.25489v1 Announce Type: cross Abstract: Graph retrieval-augmented generation places retrieved subgraphs into the model's context window at query time, paying a recurring token cost and exposing source data on every call. We study an alternative: compiling a knowledge graph offline into a bank of LoRA adapters, one per entity, that serve as a parametric knowledge layer queried by injecting weights rather than text, at zero query-time context cost. On the MetaQA dataset, we find that sub…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "473ceb5d7418",
+    "title": "DCEO: Direct Causal Effect Optimization for Long-Term User Value Modeling in E-commerce Search",
+    "url": "https://arxiv.org/abs/2608.25635",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-27T04:00:00+00:00",
+    "summary": "arXiv:2608.25635v1 Announce Type: cross Abstract: Industrial e-commerce search systems ultimately aim to optimize the user-level long-term objective, such as n-day cumulative purchases or gross merchandise value (GMV) per user. However, such objectives are defined at the user level, whereas search ranking is based on item-level scores within each request. Existing methods typically bridge this granularity gap through manually designed multi-objective fusion, where predictions of multiple item-le…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "91fb199ca1de",
+    "title": "Pointing the Way, Hiding the Destination: Practical Private Dense Retrieval at Scale",
+    "url": "https://arxiv.org/abs/2608.25735",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-27T04:00:00+00:00",
+    "summary": "arXiv:2608.25735v1 Announce Type: cross Abstract: Hosted retrieval-augmented generation (RAG) and semantic search allow users to query valuable provider-held corpora, raising two competing demands: to hide each query and chosen result, yet reveal only the documents that the user is authorized to receive. Existing cryptographic approaches either make this costly by processing the entire corpus for every query, or sacrifice quality for efficiency by scanning a few clusters. We repurpose learned de…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "ad1e2b897979",
+    "title": "Query-Side Attacks on GNN-Based KGQA: Tracing Failures from Entity Linking to Answer Generation",
+    "url": "https://arxiv.org/abs/2608.25922",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-27T04:00:00+00:00",
+    "summary": "arXiv:2608.25922v1 Announce Type: cross Abstract: GNN-based Knowledge Graph Question Answering (KGQA) pipelines process queries through four discrete stages: entity linking, subgraph retrieval, GNN reasoning, and answer generation. Standard robustness evaluations conflate stage-level failures into a single end-to-end metric, obscuring both the source of brittleness and the appropriate mitigation target. We ask which stage fails, and why, when the pipeline is subjected to adversarial perturbation…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "afc7abac9891",
+    "title": "A Comparative Evaluation of Digitization Pipelines for Historiographical Sources",
+    "url": "https://arxiv.org/abs/2608.24976",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-27T04:00:00+00:00",
+    "summary": "arXiv:2608.24976v1 Announce Type: new Abstract: Purpose: The digitization of historical documents presents fundamental challenges for modern information retrieval and Artificial Intelligence (AI) systems. Optical character recognition (OCR) errors in source corpora propagate through retrieval-augmented generation (RAG) pipelines, compromising the factual accuracy of generated outputs. Methods: This study presents a systematic evaluation of PDF-to-text extraction pipelines applied to historiograp…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "4de97d058b68",
+    "title": "The Gold Rush in AI4Math: Where Are We Now?",
+    "url": "https://arxiv.org/abs/2608.24961",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-27T04:00:00+00:00",
+    "summary": "arXiv:2608.24961v1 Announce Type: cross Abstract: Recent advances in artificial intelligence (AI) have sparked growing interest in its use for mathematical research. While some view this as a major opportunity for discovery, others have raised concerns about its impact on traditional research practices. Despite extensive debate, empirical evidence on how AI is actually being used in mathematics remains limited. To address this gap, we collected all 32,944 arXiv submissions posted between March 1…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "873282db3b8f",
+    "title": "What We Still Don’t Know About OpenAI’s Hugging Face Hack",
+    "url": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
+    "source": "Wired AI",
+    "date": "2026-08-26T19:16:42+00:00",
+    "summary": "The AI giant acknowledges that it could have done far more to prevent its AI agents from going rogue. But it still fails to explain why it didn't see this fiasco coming.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "69b225fb598b",
+    "title": "The inside story on why OpenAI agents hacked Hugging Face",
+    "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+    "source": "MIT Tech Review",
+    "date": "2026-08-26T19:00:00+00:00",
+    "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8a8f3eb61084",
+    "title": "The Humanoids at China’s Robot Games Were Faster Than Usain Bolt—but I’m More Impressed by Their Tweezer Mastery",
+    "url": "https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/",
+    "source": "Wired AI",
+    "date": "2026-08-26T18:15:00+00:00",
+    "summary": "Beijing’s endlessly delightful Robot Games featured tons of impressive stunts. But the most mind-blowing tricks challenged the humanoid’s brain, not its brawn.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2af56089bcc7",
+    "title": "Candidates Are Signing a Pact Promising Action on Data Centers and AI Safety",
+    "url": "https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/",
+    "source": "Wired AI",
+    "date": "2026-08-26T17:13:37+00:00",
+    "summary": "More than 15 politicians from across the country have signed on to the AI Pact, vowing to regulate data centers and AI. “We’ve got to get this right,” says Senate candidate Dan Osborn of Nebraska.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0508c6c0ae37",
+    "title": "AI Slop Is Ruining Cute Animals on the Internet",
+    "url": "https://www.wired.com/story/ai-slop-is-ruining-the-internets-cute-animal-economy/",
+    "source": "Wired AI",
+    "date": "2026-08-26T11:00:00+00:00",
+    "summary": "Pet owners, rescue agencies, and wildlife groups are calling for new safeguards as AI makes it harder to tell whether animals, from polar bears to house cats, are real or fake.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f53aafc869b1",
+    "title": "Raised on AI",
+    "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+    "source": "MIT Tech Review",
+    "date": "2026-08-26T09:00:00+00:00",
+    "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her own two feet.&#160; Fast-forward a couple&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "9fbcf87c86fa",
+    "title": "AI models flub these intelligence tests. Can you fare any better?",
+    "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+    "source": "MIT Tech Review",
+    "date": "2026-08-26T09:00:00+00:00",
+    "summary": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “machine learning” was popularized in a 1959 article by the IBM computer scientist Arthur&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "12fc95881938",
     "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
     "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
