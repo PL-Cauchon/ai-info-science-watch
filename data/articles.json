@@ -1,5 +1,221 @@
 [
   {
+    "id": "89d79cabf2a0",
+    "title": "You Know Who Really Hates AI? Insurance Claims Adjusters",
+    "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
+    "source": "Wired AI",
+    "date": "2026-08-31T10:30:00+00:00",
+    "summary": "Of the Glassdoor reviews from claims adjusters that mentioned AI, a staggering 98 percent were negative. “AI is just a tool,” one person tells WIRED. “It should never be given the keys.”",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "282b3ef8c028",
+    "title": "LitCurate: A Configuration-Driven AI-Assisted Framework for Scientific Database Construction with an Application to Lower-Mantle Equation-of-State Data",
+    "url": "https://arxiv.org/abs/2608.27629",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2608.27629v1 Announce Type: new Abstract: The growing scientific literature contains decades of experimental and computational results that could support data-driven and physics-based modeling, yet much of this infor- mation remains locked in publications and is not readily usable for large-scale analysis or sci- entific software. Building structured databases from the literature is particularly challenging whenrelevantstudiesmustfirstbediscoveredamonglargecollectionsofpapersandreported qu…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "15769a36835a",
+    "title": "Beyond the Vacuum: Combinatorial Strategy Selection for Competitor-Aware Generative Engine Optimization",
+    "url": "https://arxiv.org/abs/2608.27631",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2608.27631v1 Announce Type: new Abstract: Generative Engine Optimization (GEO) has emerged as a novel paradigm for transforming content to increase visibility in Large Language Model (LLM) responses. Traditional GEO methods, however, select rewriting strategies in isolation, ignoring a critical externality: as adoption of content optimization grows, optimal strategies for rewriting content change. We formalize GEO as a competitor-aware strategy selection problem and propose a two-phase pip…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "788b8bd185ce",
+    "title": "A Versioned Unified Graph Index for Dynamic Timestamp-Aware Nearest Neighbor Search",
+    "url": "https://arxiv.org/abs/2608.27663",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2608.27663v1 Announce Type: new Abstract: We present TiGER (Time-Integrated Graph for Efficient Retrieval), a novel approach for performing fast time-aware approximate nearest neighbor searches on dynamic vector datasets with flexibility over any possible time range. Our proposed algorithm builds and maintains a unified graph for all vectors by leveraging an index structure based on integrated versioned connectivity, allowing arbitrary time intervals to be queried directly on the unified g…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "41e46a5bb972",
+    "title": "NormasTCU --- A Brazilian Portuguese IR Dataset and an Evaluation of LLM-as-a-Judge for Relevance Assessment",
+    "url": "https://arxiv.org/abs/2608.27746",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2608.27746v1 Announce Type: new Abstract: Portuguese Information Retrieval (IR) lacks public datasets, and relevance assessment for specialized collections remains costly. While Large Language Models (LLMs) increasingly support relevance assessment, their reliability in non-English specialized domains remains unclear. We introduce NormasTCU (https://huggingface.co/datasets/LeandroRibeiro/NormasTCU), a Brazilian Portuguese IR dataset with 14,469 legal documents, 46 queries, and 3,048 human …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "f2abb9c710a6",
+    "title": "LINE Conversation History Retrieval for Personal Memory RAG: Evaluating Search Representations and Hybrid Retrieval",
+    "url": "https://arxiv.org/abs/2608.27809",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2608.27809v1 Announce Type: new Abstract: As an initial step toward personal memory retrieval-augmented generation (RAG) for large language models (LLMs), this study presents a retrieval-only case study over one user's LINE conversation history. We segmented 358,896 messages into 22,329 temporally coherent chunks and constructed three search representations: raw_text, a generated summary, and embedding_text, which combines a summary with a raw-text excerpt and other fixed text. We compared…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "63f03710af28",
+    "title": "Personalized and Multi-View Representation for Federated Cold-Start Recommendation",
+    "url": "https://arxiv.org/abs/2608.27826",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2608.27826v1 Announce Type: new Abstract: Federated recommendation (FedRec) enables personalized modeling without centralizing users' interaction histories, but most existing methods assume a fixed item pool and thus overlook the practical cold-item setting where new items continuously arrive. Under the dual-sided constraint, where the server cannot access clients' interactions while clients cannot access the server's proprietary item attribute features, prior federated cold-start recommen…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c67229597b2b",
+    "title": "ITER: Interaction-Aware Retrieval for Agentic Search",
+    "url": "https://arxiv.org/abs/2608.27912",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2608.27912v1 Announce Type: new Abstract: Deep-research agents answer complex user questions through an iterative sequence of search steps, where the agent autonomously formulates sub-queries to retrieve the evidence needed at each stage. However, existing retriever training typically relies only on the sub-query and its corresponding search results at the current step as training signals, leaving the information accumulated from previous interactions largely underutilized. We introduce it…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f73708b0abc9",
+    "title": "Information-Guided Selective Modality-Interest Alignment for Multimodal Recommendation",
+    "url": "https://arxiv.org/abs/2608.27950",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2608.27950v1 Announce Type: new Abstract: Multimodal recommendation (MMRec) aims to enhance recommendation performance by leveraging rich item content from multiple modalities. However, directly incorporating all modality information does not necessarily lead to better preference modeling, since user interests are often more related to a subset of modality signals, while other signals may be weakly aligned with user preferences or even introduce noise. Although recent MMRec methods improve…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "03a40b69feb9",
+    "title": "HubMixer: Progressive Latent Hub Mixing for Parameter-Efficient Feature Interaction in Recommendation",
+    "url": "https://arxiv.org/abs/2608.27991",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2608.27991v1 Announce Type: new Abstract: Learning effective feature interactions is central to industrial recommendation and advertising ranking systems. Recent token-mixing architectures simplify self-attention with lightweight mixing operators, improving hardware efficiency and enabling large-scale deployment. However, recommendation tokens are fundamentally heterogeneous: user profiles, item attributes, behavioral sequences, context features, statistical signals, and business-side feat…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "6a50c125a8a7",
+    "title": "Every Article Deserves a Video: Contextual Video Matching for Digital Publishers",
+    "url": "https://arxiv.org/abs/2608.28359",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2608.28359v1 Announce Type: new Abstract: As digital publishers face the challenge of managing massive content catalogs, the ability to effectively embed relevant video within text-based articles has become critical for both monetization and user retention. However, manual selection is impractical for large scale publishers, especially when navigating their own extensive video libraries or the entire global Dailymotion catalog. In this paper, we present the \"Contextual Video Matching\" syst…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "8a39c8094f72",
+    "title": "SG-UMP: Sequence-Guided Universal Multimodal Prioritization Calculation Framework",
+    "url": "https://arxiv.org/abs/2608.28503",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2608.28503v1 Announce Type: new Abstract: Multimodal sequential recommendation (MSR) improves recommendation by incorporating heterogeneous information such as text, images, and user interactions. However, existing MSR methods often fail to capture user-level preference heterogeneity and dataset-level modality bias, limiting their adaptability across users and datasets. To address this issue, we propose \\textbf{S}equence-\\textbf{G}uided \\textbf{U}niversal \\textbf{M}ultimodal \\textbf{P}rior…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e727606205a0",
+    "title": "QUEST: A Query and Extraction System for Topics in Asylum Law Application Decisions",
+    "url": "https://arxiv.org/abs/2608.28555",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2608.28555v1 Announce Type: new Abstract: Legal decisions on asylum applications consist of long, complex, and heterogeneous documents, covering narrative applicant interviews, original decisions, and additional supporting materials. If an application is rejected, a critical question in processing an appeal is whether the credibility of the information in the original application was a factor that determined the original decision. In this paper, we present the QUEST system (Query and Extra…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c366b4a8d379",
+    "title": "PULSAR: Pooled Unified Late-Interaction Search and Retrieval for Enterprise Visual Document RAG",
+    "url": "https://arxiv.org/abs/2608.28572",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2608.28572v1 Announce Type: new Abstract: Institutional investors search visually dense pitch decks, board packs, and diligence materials that change hourly near deal closing. OCR followed by figure verbalisation is costly to refresh at this scale and can lose chart detail. We present PULSAR, a production vision-first retrieval system deployed at Mubadala Investment Company. PULSAR indexes page images with a frozen ColPali-style backbone and uses a pooled two-stage late-interaction index: …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "1d263d786ebc",
+    "title": "CareGraph: An Auditable Hybrid AI Framework for Evidence-Grounded Personalized Longitudinal Health Intelligence",
+    "url": "https://arxiv.org/abs/2608.27484",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2608.27484v1 Announce Type: cross Abstract: Artificial intelligence is transforming personalized healthcare, yet fragmented clinical, self reported, and wearable evidence remains difficult to interpret and trace. We present CareGraph, an auditable hybrid AI framework that converts heterogeneous records into prioritized trends, missing context indicators, bounded next steps, discussion questions, and provenance linked explanations. CareGraph organizes evidence without diagnosing, predicting…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8f3c4f53aa8b",
+    "title": "An Empirical Evaluation of Cross-City POI Recommendation on a Large-Scale Benchmark",
+    "url": "https://arxiv.org/abs/2608.27840",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2608.27840v1 Announce Type: cross Abstract: Cross-city point-of-interest (POI) recommendation is crucial for navigating unfamiliar urban environments, yet its progress has historically been constrained by data limitations. Using the recently proposed large-scale benchmark Trip World, we empirically re-examine whether conclusions drawn on small prior benchmarks still hold under worldwide coverage, low home-destination region overlap, and large, semantically rich POI inventories. Our evaluat…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a9dfd11e2fef",
+    "title": "Nested Byte-Level Vocabularies Are Cheap to Deploy and Expensive to Share: A Pre-Registered Negative Result",
+    "url": "https://arxiv.org/abs/2608.28151",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2608.28151v1 Announce Type: cross Abstract: A byte-level BPE tokenizer is an ordered list of merge rules, so applying only a prefix yields a vocabulary whose token identifiers are the first rows of the full vocabulary. This prefix nesting allows one language model to operate at several vocabulary sizes, use a control token to indicate the active size, and be deployed at any trained size by slicing its embedding and output head. We pre-registered five claims, including margins, seeds, contr…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "e8f14c149e9d",
+    "title": "An Empirical Study on Zero-Data Bootstrapping for Conversational Recommender Systems",
+    "url": "https://arxiv.org/abs/2504.15476",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2504.15476v2 Announce Type: replace Abstract: Conversational Recommender Systems (CRS) typically require domain-specific dialogue data, which is costly, scarce, and often unavailable in new domains. We conduct a systematic empirical study of zero-data CRS bootstrapping: generating synthetic conversational supervision from non-conversational signals---item reviews, metadata, and user-item interactions---without any in-domain dialogue corpus. We compare two information-theoretic selection st…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "f304dcad249f",
+    "title": "Multi-Source Retrieval and Reasoning for Legal Sentencing Prediction",
+    "url": "https://arxiv.org/abs/2602.04690",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2602.04690v2 Announce Type: replace Abstract: Legal judgment prediction (LJP) aims to predict judicial outcomes from case facts and typically includes law article, charge, and sentencing prediction. While recent methods perform well on the first two subtasks, legal sentencing prediction (LSP) remains difficult due to its need for fine-grained objective knowledge and flexible subjective reasoning. To address these limitations, we propose $MSR^2$, a framework that integrates multi-source ret…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "dd84b4ec88cf",
+    "title": "Mine and Refine: Optimizing Graded Relevance in E-commerce Semantic Search Retrieval",
+    "url": "https://arxiv.org/abs/2602.17654",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2602.17654v2 Announce Type: replace Abstract: Embedding-based retrieval (EBR) for large-scale e-commerce search faces three intertwined challenges: graded (non-binary) relevance where engagement signals are noisy and intent-varying while business relevance guidelines admit acceptable-but-not-exact matches, false negatives in hard sample mining, and unstable similarity score separability across relevance levels, the last of which complicates hybrid search score fusion and downstream ranking…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "283b63ec27ca",
+    "title": "REPREC: Representation Driven Parameter-Efficient Recommendation System",
+    "url": "https://arxiv.org/abs/2607.24845",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2607.24845v4 Announce Type: replace Abstract: Large language models (LLMs) have been applied to sequential recommendation by incorporating collaborative signals through input conditioning or model adaptation. However, existing approaches often require LLM fine-tuning, additional architectural modules, representation distillation, or item-level conditioning over long interaction histories, increasing computational and deployment costs. We propose REPREC, a lightweight framework that conditi…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "8fc6eafcf180",
+    "title": "Measuring the Installed Base: Nordic Health Dataset Catalogues Against HealthDCAT-AP Release 7",
+    "url": "https://arxiv.org/abs/2608.27720",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2608.27720v1 Announce Type: new Abstract: The European Health Data Space requires member states to publish machine readable descriptions of the health datasets available for secondary use, and the European Commission publishes HealthDCAT-AP as the metadata profile those descriptions are meant to satisfy. The profile has been designed and validated against curated examples, never against the catalogues already live. We report that measurement for the Nordic region. On 25 August 2026 the 11 …",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "ed6a9e2595d2",
+    "title": "China's Shrinking Home Bias and Rising Disruptive Impact: Evidence from a Global Citation Network Analysis",
+    "url": "https://arxiv.org/abs/2608.28139",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2608.28139v1 Announce Type: cross Abstract: China has become the world's largest producer of scientific publications, yet concerns persist that this growth is inflated by excessive domestic citation practices. In this study, we analyze a citation network of over 45 million publications from Web of Science (1980-2025) to investigate China's home citation bias and research impact. Using a network reshuffling null model to control for the structural effect of publication volume, we find that …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "fc913d59ca1a",
+    "title": "Are Widely Known Findings Easier to Retract?",
+    "url": "https://arxiv.org/abs/2504.15504",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2504.15504v2 Announce Type: replace Abstract: Failures of retraction are common in science. Why do they occur? And what determines whether a retraction is successful? We use data from citation records and Altmetrics to test proposed answers to these questions. LaCroix et al. employ network models to argue the social spread of information helps explain failures of retraction. One prediction is that widely known results, surprisingly, should be easier to retract, since their retraction is mo…",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "d73f149604cd",
     "title": "Why the Hottest New Wearables Want to Be Ignored",
     "url": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
