@@ -1,5 +1,329 @@
 [
   {
+    "id": "4067c33bc7e8",
+    "title": "MERIT: Mitigating Exposure Bias in Generative XMC for User-Interest Propensity Modeling",
+    "url": "https://arxiv.org/abs/2608.28931",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.28931v1 Announce Type: new Abstract: Matching users to interest categories at scale is central to personalized shopping, but the task is challenging in large e-commerce platforms, where label spaces continually evolve and user-interest signals are sparse and long-tailed. Autoregressive language models are appealing because their world knowledge and semantic priors over descriptors generalize across extreme label spaces and accommodate multiple valid label assignments. Yet under teache…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "17a88f2a87b4",
+    "title": "Book Readership During Movie Releases: An Exploratory Analysis",
+    "url": "https://arxiv.org/abs/2608.29019",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.29019v1 Announce Type: new Abstract: Exogenous events can temporarily change the relevance of items in recommender systems, but these shifts are often not visible in historical interaction data until after users have already responded. In book recommendation, movie adaptations provide a clear example of such events: the release of a movie based on a book can temporarily increase attention to the source text and change its relevance for some readers. We examine this phenomenon using a …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "56bf14f5aebb",
+    "title": "TAAL: Mitigating Early Beam Pruning in Generative Recommendation via Temporal Autoregressive Alignment",
+    "url": "https://arxiv.org/abs/2608.29179",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.29179v1 Announce Type: new Abstract: Generative recommendation encodes items as hierarchical semantic identifiers (SIDs) and retrieves the next item through autoregressive decoding. Standard next-token prediction, however, does not explicitly cover the multimodal transitions present in interaction sequences, leaving the ground-truth SID vulnerable to irreversible pruning at early beam-search branches. Across three public benchmarks, we find that 91.9\\%--96.6\\% of retrieval failures oc…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ea62cf9f4ab8",
+    "title": "Database-Augmented RAG for Automated Repair of REST API Misuses",
+    "url": "https://arxiv.org/abs/2608.29290",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.29290v1 Announce Type: new Abstract: Many Internet of Things (IoT) services provide Representational State Transfer (REST) APIs, which require client developers to implement applications that conform to the corresponding API specifications. When client programs contain API misuse, developers debug them based on error responses. However, such responses are often insufficient for identifying the root cause, requiring developers to repeatedly communicate with the server. Retrieval-Augmen…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "9b409cc662fe",
+    "title": "Personalized Recommender Systems for Gym Workouts: A Reinforcement Learning Approach",
+    "url": "https://arxiv.org/abs/2608.29409",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.29409v1 Announce Type: new Abstract: Workout recommender systems aim to help gym users complete effective and engaging training sessions. However, recommending exercises alone is insufficient, as a practical system must also determine appropriate sets, repetitions, and training loads, while adapting to user behavior such as skipping exercises. Existing approaches typically consider only a subset of these factors, limiting their applicability in real-world settings. In this paper, we e…",
+    "category": "Information Behavior"
+  },
+  {
+    "id": "1d7d197285df",
+    "title": "Agents as Knowledge Integrator and Utilizer in Multimodal Recommendation",
+    "url": "https://arxiv.org/abs/2608.29410",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.29410v1 Announce Type: new Abstract: Online platforms increasingly rely on multimodal recommender systems to rank products, media, and other Web content. Existing methods usually inject visual and textual features into item representations or build homogeneous graphs from modality-level similarity, but the resulting signals can remain misaligned with the recommendation objective. We study this semantic gap from a knowledge-integration perspective: multimodal content should be interpre…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "35db9046979f",
+    "title": "Content Exploration Beyond the Feed: Creator Supply and the Shared Corpus",
+    "url": "https://arxiv.org/abs/2608.29430",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.29430v1 Announce Type: new Abstract: Industrial recommenders give new content initial views through budgeted exploration, then use early performance to decide further delivery. On many short-video platforms, exploration is the primary way new videos reach viewers. Viewer-side tests measure consumption; the published budget objectives we review omit creator response. We analyze four experiments on a major short-video platform. An eight-month creator ablation finds production exploratio…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f563a4642b8f",
+    "title": "The Edge Spectrum of Choice-Derived Item Graphs: Strong and Weak Edges Encode Different Relations in Collaborative Filtering",
+    "url": "https://arxiv.org/abs/2608.29578",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.29578v1 Announce Type: new Abstract: Graph collaborative filtering relies on item--item graphs whose edges are used for positive smoothing, under the implicit assumption that stronger edges encode more of the same relation as weaker ones. We show that this assumption fails for a practically important class of graphs: those whose edge weights come from a choice model. On such graphs, strong and weak edges encode qualitatively different relations, which we call an edge spectrum. Specifi…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e87bbf0f8ce9",
+    "title": "RePair: Turning Retrieval Failures into Counterfactual Hard Pairs",
+    "url": "https://arxiv.org/abs/2608.29604",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.29604v1 Announce Type: new Abstract: Vision-language retrieval with CLIP-style dual encoders achieves strong cross-modal performance, yet practical accuracy often hinges on localized semantic distinctions where top-ranked near misses differ from the true match by a single critical detail. Hard-sample mining can select confusable candidates but cannot construct corrected counterparts; synthetic augmentation can generate novel samples but, without conditioning on actual model failures, …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "36cad3d93020",
+    "title": "ICEGR: An Intent-Coherent End-to-End Generative Retrieval Framework for E-commerce Search",
+    "url": "https://arxiv.org/abs/2608.29652",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.29652v1 Announce Type: new Abstract: Generative Retrieval (GR) is promising for e-commerce search, yet existing methods struggle to maintain query-intent consistency throughout the training pipeline. First, semantic ID (SID) construction based on static product information limits the ability of SIDs to encode product-intent associations. Second, although supervised fine-tuning (SFT) learns product-SID mappings across the catalog, low-exposure products still lack real query-intent supe…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d6b2a2427bf5",
+    "title": "Demand-Side Measurement for Generative Engine Optimization: Constructing and Validating a Million-Persona, Intent-Annotated Buyer Corpus",
+    "url": "https://arxiv.org/abs/2608.30023",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.30023v1 Announce Type: new Abstract: Generative engines such as ChatGPT, Gemini, and Perplexity answer buyer questions directly and name a shortlist of brands inside the answer. Studying how brands enter or fail to enter that shortlist requires demand-side data: what buyers in a category ask, what information they need, and which sources they trust. Existing large persona corpora are built for training-data diversity and carry neither a staged search-intent label nor a preferred-sourc…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0dbed80a5a0f",
+    "title": "The Language of the Question Selects the Market: Query Language and Exit IP as Separable Factors in Commercial Recommendations from a Generative Search Interface",
+    "url": "https://arxiv.org/abs/2608.30052",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.30052v1 Announce Type: new Abstract: When a generative search interface answers a commercial question, which market's products it names is decided before the model reasons about the products. We report a controlled probe of 234 runs against the logged-out ChatGPT web interface and the OpenAI API, collected on 29 and 30 August 2026 across four exit countries and six query languages, with six identical runs per cell. Three results. First, the top recommendation is unstable: it changed a…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "9eb545a47f37",
+    "title": "E-SENS: Exclusion-Sensitive Penalization for Negative-Constraint Retrieval",
+    "url": "https://arxiv.org/abs/2608.30130",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.30130v1 Announce Type: new Abstract: Retrieval-augmented language models can fail to respect negative constraints when the retriever supplies evidence about concepts the user explicitly excluded. Beyond explicit negation, queries may ask for answers that include one concept while excluding another, or for entities that belong to a category but differ from a closely related instance. Because the excluded concept still appears in the query text, dense retrievers may assign high similari…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "ebb2927e8ff4",
+    "title": "Understanding before verifying: Claim normalization for automated citation verification",
+    "url": "https://arxiv.org/abs/2608.30145",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.30145v1 Announce Type: new Abstract: Citation accuracy has been studied for decades because of its importance to research reliability. Content-level citation verification assesses the reliability of scholarly claims. Recent work adopts a two-stage retrieval-classification framework inherited from fact-checking. However, this design overlooks the complexity of the raw citing claim and introduces three issues into the verification system, namely scope mismatch, perspective mismatch, and…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "622063532342",
+    "title": "Doc-REFRAG: Rethinking Multimodal Document Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2608.30163",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.30163v1 Announce Type: new Abstract: Real-world knowledge resides in multimodal documents, necessitating retrieval-augmented generation (RAG) for accurate question answering. However, existing multimodal RAG models are primarily designed for single-image or closed-document settings and exhibit limited accuracy in realistic multi-image scenarios. Moreover, processing numerous retrieved images incurs substantial computational overhead from irrelevant visual tokens. To address these chal…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "fd1314f10556",
+    "title": "SetMIR: Multi-Interest Retrieval as Set Prediction",
+    "url": "https://arxiv.org/abs/2608.30251",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.30251v1 Announce Type: new Abstract: Embedding-based retrieval is at the core of industrial recommender systems, but a single user embedding is often too limited to capture a user's diverse interests. Multi-interest retrieval addresses this by using multiple user embeddings, yet existing methods still suffer from two issues: interest collapse, where different embeddings learn the same interest, and static dispatch, where serving uses a fixed retrieval budget even when some embeddings …",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "484eceda6698",
+    "title": "CAMIE: Co-Engagement-Aware Multimodal Item Embeddings for Snap Dynamic Product Ads Retrieval",
+    "url": "https://arxiv.org/abs/2608.30255",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.30255v1 Announce Type: new Abstract: Item-to-item (I2I) retrieval is a core primitive in large-scale recommendation and advertising systems. In production Snap Dynamic Product Ads (DPA), I2I retrieval faces two challenges: separate visual, textual, and multimodal encoders fragment the retrieval stack, and content-only training does not align embeddings with the co-engagement behavior that drives downstream conversions. We present CAMIE, a co-engagement-aware multimodal item embedding …",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "f34e8b576f1e",
+    "title": "PEARL: Front-Loading Relational Chains for Multi-Hop Table Retrieval",
+    "url": "https://arxiv.org/abs/2608.30291",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.30291v1 Announce Type: new Abstract: While large language models (LLMs) have shown strong capabilities in tabular reasoning, retrieving relevant tables remains challenging due to the fragmented and relational structure of real-world data. Existing work typically relies on whole table representations that overlook cross-table semantics induced by join relationships. We propose PEARL, a training-free framework that shifts the paradigm toward vertical partitioning-based sub-table encodin…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "41b8810ff152",
+    "title": "Beyond Ranking Accuracy: Evaluating LLM-Cited Feature Rationales for Next Basket Repurchase Recommendation",
+    "url": "https://arxiv.org/abs/2608.30333",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.30333v1 Announce Type: new Abstract: Next-basket repurchase recommendation is commonly formulated as a ranking task: given a customer's purchase history, the system ranks previously purchased items that may be needed again. In production settings, however, ranking accuracy is only one component of recommendation quality. Customers may also benefit from concise evidence about why an item is recommended now. Large language models (LLMs) offer a potential way to surface such evidence thr…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "8dab2cfc7bf7",
+    "title": "HF-SID: High-Fidelity Semantic IDs for Generative Retrieval in Location-Based Services",
+    "url": "https://arxiv.org/abs/2608.30479",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.30479v1 Announce Type: new Abstract: Generative retrieval has attracted increasing attention in Location-Based Services (LBS), where each Point-of-Interest (POI) is represented as a Semantic ID (SID). As the SID is the only channel through which POI information reaches the generative model, whatever it fails to preserve is irrecoverable at decoding time, and LBS retrieval is especially sensitive to the fine-grained differences that existing SIDs blur. Specifically, (1) LLMs embed cont…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "5ce6e8b2f92b",
+    "title": "Local-to-Global Sentence-Level Graph Reranking for Scientific Synthesis",
+    "url": "https://arxiv.org/abs/2608.30525",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.30525v1 Announce Type: new Abstract: Retrieval-augmented scientific synthesis aims to answer complex research questions by integrating information from multiple papers into comprehensive and well-grounded responses. Since the generator can only synthesize the information selected and organized by the reranker, the quality of the generated synthesis depends critically on the reranked results. However, most rerankers operate at the passage level, which leaves key methodological, empiric…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "813f29e5e27e",
+    "title": "Preference Shapes Relevance: Cross-component Hierarchical Semantic Alignment for Personalized Generative Retrieval",
+    "url": "https://arxiv.org/abs/2608.30553",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.30553v1 Announce Type: new Abstract: Generative Retrieval (GR) has emerged as a promising paradigm by mapping queries directly to Semantic IDs (SIDs) with powerful representation capabilities for candidate items. However, existing SIDs derived solely from item content create a semantic gap, failing to align dynamic query intents with static item representations. Furthermore, current generative paradigms rarely model user behavior sequences and are always bottlenecked by the high infer…",
+    "category": "Information Behavior"
+  },
+  {
+    "id": "6961e46bdc3d",
+    "title": "Generative Retrieval for E-commerce: Jointly Learning Embedding and Codebook with Same Product Cluster",
+    "url": "https://arxiv.org/abs/2608.30606",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.30606v1 Announce Type: new Abstract: With the development of large language models (LLMs), generative retrieval is becoming increasingly important in e-commerce scenarios. Current mainstream approaches typically use a two-stage training strategy: first train a product embedding model, and then learn a codebook that maps embeddings to product IDs. This cascaded approach suffers from two major issues: (1) error accumulation-if the embedding model in the first stage produces biased repre…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a42b77fd11db",
+    "title": "Learning from What You Retrieve: Online RL Fine-Tuning for Semantic Retrieval",
+    "url": "https://arxiv.org/abs/2608.30753",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.30753v1 Announce Type: new Abstract: In large-scale e-commerce retrieval, dual-encoder retrievers are op- timized for contrastive similarity, whereas downstream rerankers capture finer-grained relevance preferences; this objective mis- match limits end-to-end retrieval quality. Reinforcement Learning offers a way to use reward-model feedback for retriever adaptation, but we observe that standard policy-gradient updates can degrade embedding geometry, especially when the document index…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "ed3614d97d9e",
+    "title": "MULTI3IR: A Benchmark for Multi-perspective Multi-domain Multi-modal Information Retrieval",
+    "url": "https://arxiv.org/abs/2608.30949",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.30949v1 Announce Type: new Abstract: Information retrieval (IR) increasingly targets open-ended queries that admit diverse perspectives. Existing IR benchmarks, however, focus primarily on closed-ended queries, while even open-ended benchmarks largely consist of queries whose supporting documents span a single subject domain and modality. We introduce Multi$^3$IR, a benchmark that evaluates how well retrievers cover the multifaceted perspectives of open-ended queries across diverse do…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "f9a39b4e3545",
+    "title": "SoniMet - A tool for sonifying and visualizing the performance of single researchers",
+    "url": "https://arxiv.org/abs/2608.30274",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.30274v1 Announce Type: new Abstract: For centuries, the scientific community has predominantly relied on visual tools to communicate empirical results and complex datasets. While visual representations dominate bibliometric analyses, the human auditory system possesses sensitive capacities for processing complex temporal information, distinguishing intricate patterns, and tracking parallel data streams. Data sonification translates data relations into acoustic signals, offering an alt…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b17eeddf176d",
+    "title": "Tracing high-profile attention to questionable research as a case for funder due diligence",
+    "url": "https://arxiv.org/abs/2608.30613",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.30613v1 Announce Type: new Abstract: When questionable research has entered the scientific record, it stands the same chance as other literature of shaping national and international policy, clinical guidance, and research and development activities. This study uses a known authorship-for-sale network identified in August 2022 to examine whether questionable research influences policy, patents, and clinical guidelines, and whether its authors continue to secure funding and publish aft…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "30bb77a52979",
+    "title": "Advisor career stage and PhD advisee outcomes",
+    "url": "https://arxiv.org/abs/2608.28616",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.28616v1 Announce Type: cross Abstract: PhD advisors are central to doctoral training, but their influence may vary across career stages. Early-, mid-, and late-career advisors may differ in research activity, mentoring capacity, professional networks and access to resources. However, little is known about how PhD advisor career stage is associated with PhD student development outcomes. Drawing on multiple large-scale datasets comprising 250,838 advisor-advisee pairs from 312 U.S. PhD-…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0487332af168",
+    "title": "From Extraction to Governed Memory: Multi-Agent Knowledge Graph Construction with Domain-Expert Review",
+    "url": "https://arxiv.org/abs/2608.28642",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.28642v1 Announce Type: cross Abstract: Knowledge graphs used by agentic systems are often treated as flat stores of extracted triples, with little record of who owns a fact, why it was admitted, or how it should be used downstream. We argue that reliable agentic knowledge systems require governance as an essential component of graph construction to bridge this gap. We propose MAGG, a principled multi-agent framework for constructing Governed Knowledge Graphs that introduces explicit g…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "cc289366938f",
+    "title": "Visible but Not Yet Curatable: Characterizing the Curatability of Compact and Derived Open LLM Artifacts",
+    "url": "https://arxiv.org/abs/2608.28819",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.28819v1 Announce Type: cross Abstract: Open Large Language Model (LLM) research increasingly produces compact and derived artifacts, such as adapters, quantized checkpoints, merged models, and distilled variants, that are distributed across papers, model hubs, model cards, code repositories, and release statements. Although these artifacts are publicly visible, digital libraries often lack sufficient evidence to identify, preserve, and cite them as coherent scholarly objects. We intro…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "fa24e64cbafb",
+    "title": "Filling holes in science draws collective attention, but most higher-order holes remain unexplored",
+    "url": "https://arxiv.org/abs/2608.28822",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.28822v1 Announce Type: cross Abstract: Much scientific discovery involves filling holes between ideas and arguments that unleash techno-scientific advance. Representing knowledge as high-dimensional concept embeddings, we use persistent homology to detect holes of increasing order, from gaps between disconnected ideas to higher-order cavities, and identify the research works that fill them. We find two empirical asymmetries. Researchers who fill anticipated holes are poised to draw co…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "d858d46a60a3",
+    "title": "LLMs Interpret, Embeddings Organize, Graphs Emerge: Agent-Driven Compilation of Scientific Knowledge",
+    "url": "https://arxiv.org/abs/2608.29612",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.29612v1 Announce Type: cross Abstract: Sustained scientific work requires a knowledge substrate that carries interpretation across tasks and preserves paths to source evidence. We call this process \\emph{scientific knowledge compilation} and implement it in ASKS, the \\emph{Agent-Driven Scientific Knowledge System}. For each source, an LLM produces a readable Wiki view and machine-facing semantics. Deterministic checks convert the latter into a document-local GraphDelta, and embedding …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "76cf74a9949e",
+    "title": "Lot Machine: Multimodal Lot Extraction from Auction Catalogs",
+    "url": "https://arxiv.org/abs/2608.30510",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.30510v1 Announce Type: cross Abstract: For provenance research and art market studies, auction catalogs are an essential resource to trace specific objects over time and space. While historical auction catalogs follow established domain conventions, their internal formatting remains highly variable, and their large-scale analysis is currently restricted by the lack of machine-readable representations of the auction lots. We propose a pipeline to automatically extract structured lot-le…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f3aac609e803",
+    "title": "LeMat-Synth: a multi-modal toolbox to curate broad synthesis procedure databases from scientific literature",
+    "url": "https://arxiv.org/abs/2510.26824",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2510.26824v2 Announce Type: replace Abstract: Wide access to advanced experimental methods in materials science has given rise to an abundance of procedural knowledge, which is scattered across decades of scientific literature and recorded in unstructured formats that are challenging to analyze systematically. In this work, we present LeMat-Synth Parser, a modular, open-source, and multi-modal extraction toolbox that utilizes large language models (LLMs) and vision language models (VLMs) t…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "de5690d7d612",
+    "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+    "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+    "source": "MIT Tech Review",
+    "date": "2026-08-31T18:00:00+00:00",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "6c74534d3cfd",
+    "title": "AI Sandbox Series: A Secure Environment to Explore Artificial Intelligence at the Library",
+    "url": "https://blogs.loc.gov/thesignal/2026/08/ai-sandbox-series/",
+    "source": "LOC Signal",
+    "date": "2026-08-31T15:18:05+00:00",
+    "summary": "This post is the first in a series about the Library of Congress AI Sandbox for staff. It provides an introduction to the initiative’s goals and an overview of the types of experiments conducted so far. Future posts will feature details about experiments in text recognition and searchability, metadata and bibliographic record enhancement, and more.",
+    "category": "Information Retrieval & Search"
+  },
+  {
     "id": "89d79cabf2a0",
     "title": "You Know Who Really Hates AI? Insurance Claims Adjusters",
     "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
