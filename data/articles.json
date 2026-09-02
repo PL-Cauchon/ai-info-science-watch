@@ -1,5 +1,347 @@
 [
   {
+    "id": "5dcc02b219a4",
+    "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
+    "url": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
+    "source": "Wired AI",
+    "date": "2026-09-02T10:00:00+00:00",
+    "summary": "Meet the AI police who can make or break careers—in publishing and beyond.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "862226c1cbc1",
+    "title": "SilentProbe: Measuring Silent Failure in Production APIs Used as Agent Tools",
+    "url": "https://arxiv.org/abs/2609.00035",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.00035v1 Announce Type: new Abstract: An LLM agent calling a production API cannot distinguish a query that matched nothing from a query the server did not understand. Both return HTTP 200 with a parsable body, no exception to catch and no field to branch on. We ask what predicts which one occurred, and what it does to the agent. Auditing 721,320 parameters across 2,501 independently published OpenAPI documents, we find that 7.5% declare an enumeration and 15.2% declare any machine-che…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "ec5c50cdb926",
+    "title": "Two-Sided State-Space Models for Sequential Recommendation with Non-Random Multimodal Review Feedback",
+    "url": "https://arxiv.org/abs/2609.00165",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.00165v1 Announce Type: new Abstract: Two-sided digital platforms are inherently dynamic: user preferences shift, item popularity evolves, and reviews both reflect and drive these changes. Yet most sequential recommendation systems treat reviews as passive signals for updating user states, leaving two aspects underexplored. First, review generation is nonrandom, depending on evolving latent states of both users and items. Second, reviews can reshape item states, induce spillover across…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0e274f17c1f5",
+    "title": "MUSES: A Benchmark for Prospective Intellectual-Roots Retrieval",
+    "url": "https://arxiv.org/abs/2609.00313",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.00313v1 Announce Type: new Abstract: Scientific discovery depends on finding prior literature that shapes what comes next. Existing retrieval systems optimize for relevance and popularity, often favoring central papers over less familiar works that later prove generative. We introduce \\textbf{MUSES}, a million-instance benchmark for prospective intellectual-roots retrieval over a fixed 2.33M-paper corpus, with roughly 140K test instances per familiarity tier. To our knowledge, it is t…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b88b7c7f0f58",
+    "title": "Closed Forms and Synthetic Twins: Predicting Approximate Nearest Neighbor Recall from Embedding Statistics",
+    "url": "https://arxiv.org/abs/2609.00364",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.00364v1 Announce Type: new Abstract: Embedding models are trained and evaluated as if retrieval were exact; in production they serve behind approximate indexes -- HNSW, IVF, product quantization, or the fixed-dimensional encodings (FDEs) of late-interaction models -- whose behavior the encoder's benchmarks never see: one modern encoder recovers just 14% of its exact top-10 through its raw FDE index. Such failures surface only after an index is built, and the standard patches -- corpus…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "4ebb26c12494",
+    "title": "Towards Effective Structured Context Modeling for Conversational Recommender Systems via Dual-node Monte Carlo Tree Search",
+    "url": "https://arxiv.org/abs/2609.00618",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.00618v1 Announce Type: new Abstract: We investigate the role of conversational context modeling in user preference tracking for Conversational Recommendation Systems (CRSs). In this regard, we propose DREAMS, a novel tree-structured context modeling framework that explicitly captures user preference evolution throughout multi-turn interactions. DREAMS introduces two specialized node types to support the two fundamental objectives of CRSs: preference elicitation and preference exploita…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "492aff579e72",
+    "title": "It Takes Two to Match: Co-Evolving Generative Retriever with Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2609.00638",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.00638v1 Announce Type: new Abstract: Retrieval is the first stage of modern search and advertising systems, selecting a candidate set from a large item universe for downstream ranking and auction. Recent work increasingly leverages LLMs to improve retrieval through query expansion, data synthesis, and retrieval-feedback training. However, the generative component is typically used for query-side augmentation, while final matching is still delegated to a downstream retriever. We introd…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "5252a52cbaba",
+    "title": "From Saliency to Discriminability: Rank-Preserving Visual Token Pruning for VLM Rerankers",
+    "url": "https://arxiv.org/abs/2609.00667",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.00667v1 Announce Type: new Abstract: Large vision-language models used as listwise rerankers must jointly process visual tokens from tens of candidates per query, making token pruning essential for practical deployment. Existing pruning methods retain tokens by attention saliency, yet we show that saliency is systematically misaligned with ranking contribution: visually prominent tokens often capture order-neutral patterns shared across candidates. This mismatch is layer-dependent: sa…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2376ffe904af",
+    "title": "SwapRec: Warming Up Cold Items Through Training-Time Swaps",
+    "url": "https://arxiv.org/abs/2609.00913",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.00913v1 Announce Type: new Abstract: Interactions with cold items negatively impact real-time personalization of ID-based recommender systems. This is because the use of such interactions degrades user preference estimates, whereas excluding cold items from the user profile prevents real-time recommendation updates. In industrial scenarios, one heuristic often applied to address this shortcoming at inference time is to replace, i.e., \"swap\", cold-start items by their most similar \"war…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "cf066491920a",
+    "title": "TGR: Advancing Industrial Recommendation from Generative-Paradigm Ranking toward Unified Generation and Reasoning",
+    "url": "https://arxiv.org/abs/2609.00986",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.00986v1 Announce Type: new Abstract: Industrial recommender systems typically rely on cascaded retrieval, pre-ranking, ranking, and reranking stages, whose separately optimized models limit scaling, fragment decision making, and lack semantic knowledge and reasoning. We present TGR (Tencent Generative Recommendation), an industrial framework that advances recommendation toward the generative paradigm along three coupled directions. TGR-GenRank upgrades ranking through CCFormer, which …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f485b126d507",
+    "title": "Web Price Extraction: State of the Art and an Adaptive Browserless Implementation",
+    "url": "https://arxiv.org/abs/2609.01030",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.01030v1 Announce Type: new Abstract: Price extraction from websites is a key task for market monitoring, price comparison, and business analytics in e-commerce. Existing approaches can be broadly divided into four groups, and understanding their trade-offs in accuracy and scalability is essential for selecting suitable extraction strategies. Classical methods rely on manually written wrappers and rule induction from labeled pages, offering high accuracy but adapting poorly to structur…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "820b760474ac",
+    "title": "World Model-Guided Reinforcement Learning via Counterfactual User Engagement Simulation",
+    "url": "https://arxiv.org/abs/2609.01067",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.01067v1 Announce Type: new Abstract: Reinforcement learning for user-centric agents is limited by the cost, latency, and risk of collecting online feedback, as well as by the lack of counterfactual comparisons under the same user state. In this paper, we propose World Model-Guided Reinforcement Learning via counterfactual user engagement simulation (WMG-RL), a framework in which a frozen user simulator provides reward supervision before real user exposure. Motivated by language world …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "527f78b250bb",
+    "title": "From Language to Behavior: Scaling Sequence Transformers for Industrial Recommendation Ranking with Rec-Native Designs",
+    "url": "https://arxiv.org/abs/2609.01240",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.01240v1 Announce Type: new Abstract: Scaling Transformers has driven large gains in language modeling, but transplanting this to behavior-sequence modeling in production ranking is challenging: recommendation differs in signal quality, where behavior sequences are noisy, temporally irregular, and sparsely supervised, and in computation asymmetry, where each request scores many candidates against one shared user history under tight latency budgets. We propose ReST, a recommendation-nat…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "bac599cddd7d",
+    "title": "MIDR: Enrichment-Augmented Indexing for Multimodal Document Retrieval",
+    "url": "https://arxiv.org/abs/2609.01316",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.01316v1 Announce Type: new Abstract: Retrieval over visually rich documents has a representation problem: important content often lives in tables, charts, figures, and layout relations that plain OCR linearizes, corrupts, or omits. ColPali-family visual retrievers address this with patch-level multi-vector indexes and late-interaction scoring, keeping image-derived retrieval on the query-time serving path. We introduce MIDR (Multimodal Indexing for Document Retrieval), a training-free…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "2bcfc302958c",
+    "title": "AutoConcept: Training-Free Concept-Guided Reranking for Metadata-Available Composed Image Retrieval",
+    "url": "https://arxiv.org/abs/2609.01456",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.01456v1 Announce Type: new Abstract: Composed image retrieval (CIR) retrieves a target image from a reference image and a text modification. This paper studies metadata-available CIR reranking, where a fixed CIR model first returns a candidate pool and gallery metadata is then used for second-stage concept-guided scoring. We introduce AutoConcept, a training-free reranker that converts concept evidence into an interpretable memory. AutoConcept filters noisy concepts, activates query-r…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "9f7e52dc7a8e",
+    "title": "Sources of Truth: A Multi-Platform, Multilingual Audit of Citations in AI Mental Health Information Queries",
+    "url": "https://arxiv.org/abs/2609.00319",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.00319v1 Announce Type: cross Abstract: Online health information seeking is shifting from keyword search, where users consider a ranked list of links, to conversational systems that compose a single answer and curate its citations. Source evaluation therefore passes from user to platform, yet what these systems surface is poorly characterized. We audited three free consumer products (ChatGPT, Perplexity, Google AI Overview) on twenty English mental health questions under two prompt co…",
+    "category": "Information Behavior"
+  },
+  {
+    "id": "08ca4c893dac",
+    "title": "TRIS: A Tri-Layer Retrieval Integrity Sieve Against Knowledge Poisoning",
+    "url": "https://arxiv.org/abs/2609.00470",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.00470v1 Announce Type: cross Abstract: Retrieval-Augmented Generation (RAG) grounds large language models in external corpora, but implicit trust in retrieved documents creates a critical attack surface: PoisonedRAG shows that a handful of crafted passages can dominate dense retrieval and steer generation toward attacker-chosen answers. We present the Tri-Layer Sieve, a middleware defense that sanitizes retrieved evidence through cross-embedding-space clustering with an independent ju…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "3e0e3e2e2fa5",
+    "title": "NeuroGraph: An AI Graph-Driven Neuro-Symbolic Framework for Explainable Threat Reasoning in Advanced Manufacturing",
+    "url": "https://arxiv.org/abs/2609.00604",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.00604v1 Announce Type: cross Abstract: The growing complexity of cyber-physical attack surfaces in advanced manufacturing has made cyber threat intelligence analysis increasingly difficult. Although large language models and retrieval-augmented generation have improved CTI workflows, text-based approaches remain vulnerable to hallucinations and provide limited support for structured reasoning over interconnected threats. Graph-based RAG reduces some of these limitations, but existing …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "2b32d07bae8d",
+    "title": "Ctrl-F-Resist. Practices, Challenges, and Technical Needs of Civil Society Organizations Monitoring the Far-Right Online",
+    "url": "https://arxiv.org/abs/2609.00808",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.00808v1 Announce Type: cross Abstract: As far-right actors increasingly exploit online platforms to disseminate ideology and mobilize supporters, civil society organizations (CSOs) play a vital yet underrecognized role in monitoring antidemocratic dynamics online. Unlike fact-checkers or content moderators, CSOs engage in long-term, contextualized analysis, often in resource-constrained settings and under precarious conditions. Despite their critical societal role, CSOs face significa…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "3d4e0b6875f5",
+    "title": "Staged Linguistic Seeding: Grounded Query Expansion for Verified-Unit QA in AI Contact Centers",
+    "url": "https://arxiv.org/abs/2609.00844",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.00844v1 Announce Type: cross Abstract: Customer-service QA in an AI contact center (AICC) runs under deployment constraints that benchmark QA misses: tight voice-hotline latency and a high cost for unsupported or wrong automatic answers. We deploy a system that answers only from a closed set of verified QA units: it returns a retrieved unit verbatim, or routes to clarify, abstain, or handoff. The index is enriched offline by staged linguistic seeding (SLS): a human authors a per-unit …",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "d2dadda9b19c",
+    "title": "VerTox: Verifiable Reward-Guided Corpus Poisoning Against Neural Ranking Models",
+    "url": "https://arxiv.org/abs/2609.01325",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.01325v1 Announce Type: cross Abstract: Neural ranking models have become core components of modern information retrieval systems and important building blocks of AI systems such as retrieval-augmented generation (RAG) pipelines. However, their robustness remains insufficiently understood in the presence of large language models (LLMs), which can generate fluent and deceptive content at scale. This work investigates the vulnerability of neural ranking models to corpus poisoning attacks…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "1b51a23bc01d",
+    "title": "Retrieved but not ranked: surface-form bias in structural retrieval, from mathematics to agent trajectories",
+    "url": "https://arxiv.org/abs/2609.01556",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.01556v1 Announce Type: cross Abstract: We evaluate embedding retrieval where surface form and meaning are pulled apart on purpose: retrieving items that share underlying structure but not wording, in two unrelated domains under one protocol, competition mathematics (MathNet-Retrieve; 500 queries, 117,088-item corpus) and embodied-agent trajectories (ALFWorld-derived; 118 queries, 336 trajectories). In mathematics the failure is complete: strict Hit@1 at the heaviest disguise tier is 0…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "d64961aadcae",
+    "title": "TC-RAG:Turing-Complete RAG's Case study on Medical LLM Systems",
+    "url": "https://arxiv.org/abs/2408.09199",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2408.09199v2 Announce Type: replace Abstract: In the pursuit of enhancing domain-specific Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) emerges as a promising solution to mitigate issues such as hallucinations, outdated knowledge, and limited expertise in highly specialized queries. However, existing approaches to RAG fall short by neglecting system state variables, which are crucial for ensuring adaptive control, retrieval halting, and system convergence. In this pape…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "7288f06026a4",
+    "title": "Do Large Language Models Favour Any Research Topics?",
+    "url": "https://arxiv.org/abs/2609.00323",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.00323v1 Announce Type: new Abstract: Large Language Models (LLMs) can estimate the quality of published journal articles, potentially supporting human assessment when evaluations are needed. Whilst there are reasons to believe that LLMs may have biases in this role, there is no statistically strong evidence yet. The current article addresses this gap with an exploration of the types of articles that attract high or low LLM scores in 73,489 articles from 15 health and life sciences jou…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "e529adc236e5",
+    "title": "The zbMATH Open Knowledge Graph: Tracing Centuries of Mathematical Research",
+    "url": "https://arxiv.org/abs/2609.00969",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.00969v1 Announce Type: new Abstract: We present the zbMATH Open Knowledge Graph, a large-scale RDF knowledge graph (KG) covering more than 250 years of mathematical scholarship. Unlike existing scholarly knowledge graphs that primarily capture bibliographic metadata and citation structures, the zbMATH Open KG integrates expert-curated semantic content, including reviews, keywords, subject classifications, software references, and disambiguated authorship. This combination of domain-sp…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "5305a91d3e39",
+    "title": "Citing Less Critically: LLMs Reshape the Rhetoric and Reach of Scientific Citation",
+    "url": "https://arxiv.org/abs/2609.01432",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.01432v1 Announce Type: new Abstract: Scientific citations carry rhetorical intent. Scholars may cite prior work positively (supporting), negatively (contrasting), or neutrally (mentioning). As large language models (LLMs) increasingly assist scientific writing, whether they reproduce citations with the same rhetorical intent as humans remains unclear. We introduce a masked-citation task to compare human and LLM-generated citation behavior. For each citation context, an LLM generates a…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "fedc128a28a9",
+    "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
+    "url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
+    "source": "Wired AI",
+    "date": "2026-09-01T20:00:00+00:00",
+    "summary": "The company will give select partners early access to its Astra AI model—so they have time to shore up their defenses.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0085e45af30c",
+    "title": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
+    "url": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/",
+    "source": "Wired AI",
+    "date": "2026-09-01T14:40:00+00:00",
+    "summary": "Sonos is cramming AI into its software because it’s “very hot these days.” The new features, which include agentic automation, are opt-in.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2e7660d4a7e0",
+    "title": "2026 Library Design Showcase",
+    "url": "https://americanlibrariesmagazine.org/2026/09/01/2026-library-design-showcase/?utm_source=rss&utm_medium=rss&utm_campaign=2026-library-design-showcase",
+    "source": "American Libraries",
+    "date": "2026-09-01T13:00:44+00:00",
+    "summary": "More than two-thirds of this year’s 15 selections are renovations or adaptive reuse projects. Libraries of all types are finding ways to acknowledge historical and environmental realities, embrace natural elements and cultural identities, evolve traditions, and build in flexibility to account for the unexpected. Read on for snapshots of these communities in motion. Natural immersion &#8230; Continue reading 2026 Library Design Showcase &#8594; The post 2026 Library Design Showcase appeared first…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "c740d7053327",
+    "title": "2026 ALA/IIDA Interior Design Awards",
+    "url": "https://americanlibrariesmagazine.org/2026/09/01/2026-ala-iida-interior-design-awards/?utm_source=rss&utm_medium=rss&utm_campaign=2026-ala-iida-interior-design-awards",
+    "source": "American Libraries",
+    "date": "2026-09-01T12:58:19+00:00",
+    "summary": "Academic and school libraries More than 30,000 square feet Jen Library, Savannah (Ga.) College of Art and Design Design Firm and Photo: Savannah College of Art and Design Li Lu Law Library, Columbia University in New York City Design Firm: Perkins Eastman Photo: Andrew Rugge 30,000 square feet and less Confluence Library, Church of Christ &#8230; Continue reading 2026 ALA/IIDA Interior Design Awards &#8594; The post 2026 ALA/IIDA Interior Design Awards appeared first on American Libraries Magazi…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "9c5f71f6b22e",
+    "title": "Secrets of Effective Upskilling",
+    "url": "https://americanlibrariesmagazine.org/2026/09/01/secrets-of-effective-upskilling/?utm_source=rss&utm_medium=rss&utm_campaign=secrets-of-effective-upskilling",
+    "source": "American Libraries",
+    "date": "2026-09-01T12:56:49+00:00",
+    "summary": "This is an excerpt from Upskilling for Library Workers: A Guide for Future-Ready Professionals by Ann Medaille (ALA Editions, 2026). While corporations may embrace upskilling to stay competitive, libraries will have to support upskilling to remain relevant. Library leaders are under greater pressure to respond rapidly to changing social and economic conditions and demonstrate that &#8230; Continue reading Secrets of Effective Upskilling &#8594; The post Secrets of Effective Upskilling appeared f…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "6e37fb483047",
+    "title": "Hold the Phone",
+    "url": "https://americanlibrariesmagazine.org/2026/09/01/hold-the-phone/?utm_source=rss&utm_medium=rss&utm_campaign=hold-the-phone",
+    "source": "American Libraries",
+    "date": "2026-09-01T12:54:12+00:00",
+    "summary": "The high school’s effort to limit phone use on campus has received support from its educators, who say classroom engagement is on the rise, and mixed reviews from students, who dislike being cut off from their devices. But there’s been one unexpected outcome of the policy: More students are spending time in the library, where they’re &#8230; Continue reading Hold the Phone &#8594; The post Hold the Phone appeared first on American Libraries Magazine.",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "af910c9c8ace",
+    "title": "Newsmaker: Min Jin Lee",
+    "url": "https://americanlibrariesmagazine.org/2026/09/01/newsmaker-min-jin-lee/?utm_source=rss&utm_medium=rss&utm_campaign=newsmaker-min-jin-lee",
+    "source": "American Libraries",
+    "date": "2026-09-01T12:52:07+00:00",
+    "summary": "Her latest title, American Hagwon (Cardinal, September), examines the influence of Korean “cram schools” among families in the Korean diaspora. American Libraries spoke with Lee ahead of her appearance at the American Library Association’s 2026 Annual Conference and Exhibition in Chicago. She discussed her new book, the library that shaped her, and her antidote to &#8230; Continue reading Newsmaker: Min Jin Lee &#8594; The post Newsmaker: Min Jin Lee appeared first on American Libraries Magazine…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "2c4121a8ab10",
+    "title": "By the Numbers: Makerspaces",
+    "url": "https://americanlibrariesmagazine.org/2026/09/01/by-the-numbers-makerspaces/?utm_source=rss&utm_medium=rss&utm_campaign=by-the-numbers-makerspaces",
+    "source": "American Libraries",
+    "date": "2026-09-01T12:50:00+00:00",
+    "summary": "2011 Year that Fayetteville (N.Y.) Free Library opened the first recognized public library makerspace. The library’s Fab Lab offers industrial-sized machines and tools for creative projects. $6,500 Honorarium amount paid to makers participating in Chicago Public Library’s 12-week Makers-in-Residence program. It is one of the country’s longest-running and largest such programs, in which residents host &#8230; Continue reading By the Numbers: Makerspaces &#8594; The post By the Numbers: Makerspace…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "43e33129cae4",
+    "title": "Mall Wonder",
+    "url": "https://americanlibrariesmagazine.org/2026/09/01/mall-wonder/?utm_source=rss&utm_medium=rss&utm_campaign=mall-wonder",
+    "source": "American Libraries",
+    "date": "2026-09-01T12:48:33+00:00",
+    "summary": "Of course, moving a library takes more than a month. Our planning took more than a year and required staff to work under tight deadlines, limited budgets, and high expectations. Here’s how we did it, and what we learned from the process. Choosing a location. It’s essential to consider whether the new location will match, &#8230; Continue reading Mall Wonder &#8594; The post Mall Wonder appeared first on American Libraries Magazine.",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "379785aebba1",
+    "title": "Dismantling Disinformation",
+    "url": "https://americanlibrariesmagazine.org/2026/09/01/dismantling-disinformation/?utm_source=rss&utm_medium=rss&utm_campaign=dismantling-disinformation",
+    "source": "American Libraries",
+    "date": "2026-09-01T12:46:01+00:00",
+    "summary": "Book Bans, Disinformation, and Cultural Erasure: The Censor­ship Movement in Libraries, Schools, and Society By Paul T. Jaeger Jaeger situates the current book-banning movement within a larger social and political effort to erase marginalized communities and culture. He provides clear definitions and examples of these processes and goals, including the roles played by technological progress &#8230; Continue reading Dismantling Disinformation &#8594; The post Dismantling Disinformation appeared f…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "b09d52efcd42",
+    "title": "A Sense of Purpose",
+    "url": "https://americanlibrariesmagazine.org/2026/09/01/a-sense-of-purpose/?utm_source=rss&utm_medium=rss&utm_campaign=a-sense-of-purpose",
+    "source": "American Libraries",
+    "date": "2026-09-01T12:44:44+00:00",
+    "summary": "The Obama Presidential Center (OPC) branch of Chicago Public Library (CPL) is an example of a library that strengthens the social infrastructure that underpins resilience. CPL Commissioner Chris Brown describes the branch as a civic platform for residents, artists, educators, and organizations to cocreate the life of the library and its surrounding public spaces. Though &#8230; Continue reading A Sense of Purpose &#8594; The post A Sense of Purpose appeared first on American Libraries Magazine.",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "ba9b0b0ca469",
+    "title": "Thank You, School Librarians",
+    "url": "https://americanlibrariesmagazine.org/2026/09/01/thank-you-school-librarians/?utm_source=rss&utm_medium=rss&utm_campaign=thank-you-school-librarians",
+    "source": "American Libraries",
+    "date": "2026-09-01T12:42:10+00:00",
+    "summary": "School librarians work hard to turn their classroom—the library—into the well-loved hub and heart of the school. It’s a tall order, but they are up to the task. Certified school librarians are trained to provide equitable access, personalized learning opportunities, technology access, updated digital and print materials, and creative programming to motivate students and help &#8230; Continue reading Thank You, School Librarians &#8594; The post Thank You, School Librarians appeared first on Amer…",
+    "category": "Libraries & Archives"
+  },
+  {
     "id": "4067c33bc7e8",
     "title": "MERIT: Mitigating Exposure Bias in Generative XMC for User-Interest Propensity Modeling",
     "url": "https://arxiv.org/abs/2608.28931",
