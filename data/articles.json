@@ -1,5 +1,320 @@
 [
   {
+    "id": "a29f5abf956c",
+    "title": "This Is Flock’s AI Search Tool for Cops",
+    "url": "https://www.wired.com/story/flock-ai-search-user-interface/",
+    "source": "Wired AI",
+    "date": "2026-09-03T10:00:00+00:00",
+    "summary": "WIRED rebuilt Flock’s latest search tool from code the company sends to a police officer’s browser. Its AI can keep watch across multiple cameras for anyone fitting a written description.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f27fed0dce92",
+    "title": "Making Revisions Understandable: A Survey of Edit Intentions, Methods, and Applications",
+    "url": "https://arxiv.org/abs/2609.01610",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.01610v1 Announce Type: new Abstract: Text revision is a core process in document creation, capturing how authors iteratively refine, reorganize, and improve written content. With the increasing availability of large-scale revision histories from platforms such as Wikipedia and arXiv, NLP research has begun to move beyond modeling what changes are made to understanding why they are made, i.e., the underlying edit intentions. To our knowledge, this is the first survey that synthesizes t…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c8e5e7edb09d",
+    "title": "MESSY STREETS: A Benchmark for Geocoding Real-World Addresses",
+    "url": "https://arxiv.org/abs/2609.01612",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.01612v1 Announce Type: new Abstract: We introduce MESSY STREETS, a benchmark for evaluating geocoders on verbatim web addresses, with existence verification and controlled measurement of surface-form divergence. Unlike conventional benchmarks based on clean or synthetically perturbed addresses, MESSY STREETS contains addresses whose surface forms diverge from canonical representations and whose components may be missing, repeated, malformed, or incomplete. The benchmark is constructed…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "6baf0b2bb825",
+    "title": "Skim and Skip: Hierarchical Adaptive Inference for Efficient Multimodal Retrieval",
+    "url": "https://arxiv.org/abs/2609.01613",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.01613v1 Announce Type: new Abstract: Universal multimodal retrieval (UMR) increasingly adopts multimodal large language models (MLLMs) as unified embedding backbones, but their strong retrieval performance comes at substantial inference cost. Existing methods typically rely on uniformly dense inference, where all input tokens are processed through the entire model and matched using the final-layer [EOS] representation. However, this paradigm overlooks two key forms of heterogeneity in…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "60febada5a45",
+    "title": "Incident Memory: Training-Free Operational Memory through Sequential Pattern Mining and Velocity-Stratified Retrieval",
+    "url": "https://arxiv.org/abs/2609.01616",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.01616v1 Announce Type: new Abstract: Incident response is a memory problem: teams accumulate tickets, traces, postmortems, and wiki pages, but the knowledge needed for the next incident is rarely stored with its order, freshness, and provenance intact. We present Incident Memory, a deterministic system that accumulates operational knowledge without model training. It combines (i) velocity-stratified retrieval, which ages structural, behavioral, contextual, and ephemeral facts at diffe…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "9782942b1c09",
+    "title": "Hybrid Retrieval-Augmented Generation with Knowledge Graph Expansion, RRF Fusion, and Per-Chunk Grounded Evaluation for Enterprise Document Search",
+    "url": "https://arxiv.org/abs/2609.01617",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.01617v1 Announce Type: new Abstract: Getting accurate, grounded answers out of large enterprise document repositories is a difficult problem. Dense vector retrieval alone frequently performs poorly on queries that mix technical terminology, vendor-specific acronyms, or require reasoning across several non-adjacent sections. DocuSearch was built to address exactly this gap - an offline, multi-agent document intelligence system developed and evaluated in a production telecom network ope…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "932f99382304",
+    "title": "Multi-Agent Retrieval-Augmented Generation for Efficient Cloud Knowledge Base Search in Telecom SNOC Environment",
+    "url": "https://arxiv.org/abs/2609.01618",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.01618v1 Announce Type: new Abstract: Telecom Service and Network Operations Centers (SNOCs) rely on large collections of cloud documents, including Standard Operating Procedures (SOPs), vendor technical manuals, incident reports, and configuration guides, to maintain uninterrupted network operations. During critical incidents, engineers must quickly retrieve accurate information, yet traditional keyword based and single stage retrieval approaches often struggle to provide precise resu…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "7eb4b5263c4b",
+    "title": "MGDiff: Multi-Interest Sequence Recommendation with Masking GNN-Guided Diffusion",
+    "url": "https://arxiv.org/abs/2609.01619",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.01619v1 Announce Type: new Abstract: We propose a novel Multi-Interest Sequence Recommendation Framework with \\underline{M}asking \\underline{G}NN-Guided \\underline{Diff}usion Model (MGDiff), designed to generate accurate, bias-free user interest information during the diffusion process. First, we propose a semantics-enhanced Dual-layer Semantic Guidance (DSG) framework, which decomposes guidance into two synergistic stages: extracting latent item semantics and decoupling multidimensio…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "dd43c02a8fbc",
+    "title": "When Literature Data Mislead Artificial Intelligence in Materials Discovery",
+    "url": "https://arxiv.org/abs/2609.01621",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.01621v1 Announce Type: new Abstract: Artificial intelligence (AI) increasingly treats scientific literature as a data source for building databases, training predictive models, and guiding discovery. Yet literature-derived datasets often assume that reported experimental values are internally consistent and directly reusable. Here, we analyze this assumption using solid electrolyte (SE) conductivity data as a representative materials-science case. By tracing values from source article…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a2ec10798b96",
+    "title": "RecEvolve: A Knowledge-Driven Autonomous Agent System for Recommender Systems",
+    "url": "https://arxiv.org/abs/2609.01622",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.01622v1 Announce Type: new Abstract: The rise of agentic AI has catalyzed a shift toward self-iterating systems, opening new frontiers for the autonomous optimization of production recommender models. This paper presents the empirical validation of a knowledge-driven autonomous agent system, deployed directly on a production large-scale Two-Tower retrieval model. By delegating the entire research lifecycle, spanning idea generation, code implementation, offline training, and metric ev…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "bfa4ade684c4",
+    "title": "The Utility of LLMs in Recommender Systems Explanation Evaluation",
+    "url": "https://arxiv.org/abs/2609.01627",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.01627v1 Announce Type: new Abstract: Explanations play a crucial role in creating trustworthy recommender systems (RS), yet choosing a good explanation method presents challenges. Many explanation methods exist, but little guidance exists on which is best for which setting. Existing explanation generation methods often produce abstract outputs that require further formatting to become user-friendly, with a seemingly endless pool of options. Running user-based evaluations of all possib…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "966f2bf8596d",
+    "title": "Marginal Expected Revenue for Jointly Ranking Auction and Fixed-Price Listings in E-Commerce Sponsored Search",
+    "url": "https://arxiv.org/abs/2609.01628",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.01628v1 Announce Type: new Abstract: E-commerce search ranking must balance multiple objectives--relevance, user engagement, and platform revenue--when allocating impression slots to competing listings. Estimating the expected revenue component is well understood for fixed-price items, but becomes challenging when marketplace inventory includes mixed listing formats such as pure auctions and hybrid \"Auction with Buy It Now\" (ABIN) items, where prices evolve dynamically and the final t…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b8fed10d8e3e",
+    "title": "GRAND-HC: Graph-Refined Author Name Disambiguation",
+    "url": "https://arxiv.org/abs/2609.01636",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.01636v1 Announce Type: new Abstract: From-Scratch Name Disambiguation (SND) groups papers sharing an ambiguous name into clusters of distinct real-world authors. Existing methods suffer from two critical limitations: (1) inherent long-tailed author distribution biases representation learning, causing over-merging of tail authors; (2) existing cluster number estimation methods are unreliable for long paper sequences, hindering large-scale deployment. We propose \\textbf{GRAND-HC}, a com…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "282e922e1f99",
+    "title": "Imagine Before Retrieval: Prospective Skill Retrieval for LLM Agents",
+    "url": "https://arxiv.org/abs/2609.01642",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.01642v1 Announce Type: new Abstract: Skill retrieval has recently emerged as a promising paradigm for identifying the desirable execution guidelines from the skill gallery, thus equipping large language model (LLM) agents with the procedural knowledge to accomplish the specified task. To this end, most existing methods customize the retrieval model or reconfigure the retrieval pipeline to prioritize skills that are most semantically relevant to the task query. However, we empirically …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "afc3ecf8b6af",
+    "title": "The Vocabulary Gap Is an Equity Gap: Register Mismatch in Retrieval Systems for Public-Benefits Access",
+    "url": "https://arxiv.org/abs/2609.01645",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.01645v1 Announce Type: new Abstract: Retrieval-augmented question answering is increasingly used to help people navigate public-benefits eligibility, yet the documents these systems retrieve from are written in agency register while intended users often ask questions in plain, informal, or non-native English. We show that this register mismatch can turn a high-performing retrieval system into an inequitable one. We construct a controlled benchmark of 51 publicly documented federal ben…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "2b51facb813d",
+    "title": "Not All Matches Are Equally Valuable: An Online Experiment of Retention-Focused Recommendation in a Job-Matching Platform",
+    "url": "https://arxiv.org/abs/2609.01652",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.01652v1 Announce Type: new Abstract: Recommender systems in two-sided matching platforms are commonly optimized for immediate engagement signals such as click-through rate, reply rate, or the total number of successful matches. However, in real-world marketplaces, maximizing matches alone may be misaligned with business goals such as user churn rate and platform revenue, especially when users with fewer matches are at substantially higher risk of churn. In this paper, we study a real …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "6762dda2201c",
+    "title": "MELON: A Large-Scale Dataset for Multi-Event Text-to-Long-Video Retrieval",
+    "url": "https://arxiv.org/abs/2609.01654",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.01654v1 Announce Type: new Abstract: Existing text-video retrieval datasets primarily consist of short-form clips containing a single dominant event. While suitable for measuring basic vision-language alignment, they are limited in capturing real-world retrieval scenarios, where long-form videos naturally contain multiple semantically distinct events and a single text query may correspond to several non-contiguous temporal segments. To bridge this gap, we introduce MELON, the first la…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "80692ab98e2e",
+    "title": "From Feature Interaction to Feature Transport - A Unified Block for Scalable Recommendation Models",
+    "url": "https://arxiv.org/abs/2609.01655",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.01655v1 Announce Type: new Abstract: Unified recommendation models aim to jointly model non-sequential multi-field features and sequential user behaviors, but existing interaction-centric designs mainly focus on mixing heterogeneous tokens within each layer. We argue that scalable unified recommendation also requires controlling how intent information is carried, filtered, and preserved across stacked blocks. Inspired by flow-based representation dynamics, we introduce feature transpo…",
+    "category": "Information Behavior"
+  },
+  {
+    "id": "af75d813f95a",
+    "title": "NeoMME: A Single-Tower Multimodal-Native Multilingual Foundation Encoder for Efficient Fine-Tuning and Inference",
+    "url": "https://arxiv.org/abs/2609.01657",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.01657v1 Announce Type: new Abstract: Multimodal models often build on architectures designed for generative vision-language modeling, typically combining separately pretrained vision encoders with causal language models. Visual document retrievers such as ColPali repurpose these models as encoders, carrying over the parameter and compute overhead of a VLM for a non-generative task. We introduce NeoMME, a family of 260M and 800M-parameter Multimodal and Multilingual bidirectional Encod…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ec6bb78b6b3d",
+    "title": "KGVoyager: Knowledge Graph Agnostic Question Answering via Agentic Navigation",
+    "url": "https://arxiv.org/abs/2609.01780",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.01780v1 Announce Type: new Abstract: Knowledge Graph Question Answering (KGQA) over RDF graphs remains challenging in domain-specific settings, where formal ontologies and curated text-SPARQL pairs are often unavailable. We present KGVoyager, a KG-agnostic agentic architecture that generates SPARQL queries from natural language questions by dynamically discovering graph structure and semantics, requiring only a query endpoint of the underlying graph. Using a think-act-observe loop wit…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a90dfcd23e1a",
+    "title": "Index-Free Dynamic Edge Retrieval with Energy-Tail-Aware Partial Scans",
+    "url": "https://arxiv.org/abs/2609.01820",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.01820v1 Announce Type: new Abstract: Dynamic maximum inner-product search (MIPS) returns the $K$ stored vectors with the largest dot products with a query while allowing the dataset to change through insertions, replacements, and deletions. For edge retrieval, the challenge is to achieve high recall and fast queries without making updates expensive. Full-vector scanning keeps updates simple but compares each query with every stored vector, while indexed methods reduce query cost at th…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "ec630ad74d3e",
+    "title": "MERGED: Multimodal Entity Resolution via Generated Expert Reasoning Distillation",
+    "url": "https://arxiv.org/abs/2609.01913",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.01913v1 Announce Type: new Abstract: In product entity resolution, relationship definitions constantly evolve with business needs, yet adapting to each change traditionally requires slow, costly human annotation that is often noisy and carries no reasoning. Large vision-language models (VLMs) prompted zero-shot can adapt to a new definition immediately and supply the reasoning that human labels lack, but their cost and latency are prohibitive at production scale. We present MERGED, a …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4959d2b2d117",
+    "title": "SPAR: Enhancing Industrial-Scale Generative POI Recommendation via Real-World Spatial Perception",
+    "url": "https://arxiv.org/abs/2609.02062",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.02062v1 Announce Type: new Abstract: Generative Point-of-Interest (POI) recommendation, autoregressively generating a target POI's semantic ID (SID), holds great promise for Location-Based Services, where a recommendation helps only if the user can reach it. Yet, existing methods operate within an interest space defined by behavior sequences and collaborative signals, where geography enters only as a textual attribute of the SID, leaving no explicit mechanism to learn or preserve how …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ab9ca8dba3c1",
+    "title": "Beyond Modality Harmony: Orthogonal Purification and Topology-Guided MoE for Conflict-Aware Multimodal Recommendation",
+    "url": "https://arxiv.org/abs/2609.02152",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.02152v1 Announce Type: new Abstract: Multimodal Recommender Systems (MRSs) typically rely on a flawed \"modality harmony\" assumption, presuming that multimodal features are inherently beneficial and strictly aligned with users' collaborative interaction patterns. However, modality-topology conflicts are ubiquitous in real-world scenarios due to deceptive visual clickbaits and mismatched semantics. Blindly integrating these noisy modalities inevitably pollutes the pristine collaborative…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "565eca1170e5",
+    "title": "GenCAR: Generative Counterfactual Alignment with Risk-Controlled Selection for Out-of-Distribution Recommendation",
+    "url": "https://arxiv.org/abs/2609.02162",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.02162v1 Announce Type: new Abstract: Serving useful recommendations under distribution shift is crucial for balancing utility and risk in out-of-distribution (OOD) recommendation. However, most existing OOD methods improve ranking or construct counterfactual candidates without controlling the proxy-label false discovery rate (FDR) of the served set. In this work, we formulate OOD serving as the $\\alpha$-Valid Counterfactual Recommendation ($\\alpha$-VCR) problem to retain candidate sup…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "fd4fd398b556",
+    "title": "Group-Aware Adaptive Retrieval for Evidence Navigation",
+    "url": "https://arxiv.org/abs/2609.02188",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.02188v1 Announce Type: new Abstract: Reasoning-intensive retrieval addresses queries whose relevance cannot be identified by surface-level matching, thereby requiring multi-step reasoning. Because relevant documents rarely appear in the initial candidate set, retrieval systems suffer from the bounded recall problem. Existing methods iteratively expand a candidate pool at the document level over a corpus graph, examining each neighbor in isolation and drifting toward a narrow region of…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "900159eacb5c",
+    "title": "Beyond Human-Likeness: Mapping the Scientific Critique Profiles of LLMs and Human Reviewers",
+    "url": "https://arxiv.org/abs/2609.01895",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.01895v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly discussed as tools for peer review, but their value is often assessed through human-likeness, perceived usefulness, or textual overlap with reviewer comments. This study shifts attention from whether LLMs resemble human reviewers to what functions of scientific critique they perform. Using ICLR 2025 peer-review data, we compare human reviews with LLM reviews generated under baseline and expert prompts. …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "4adce5859279",
+    "title": "Guiding LLM Peer Reviewers: The Impact of Score Anchors on Review Evidence and Accuracy",
+    "url": "https://arxiv.org/abs/2609.01905",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.01905v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used for research quality evaluation, with prior work exploring their scoring accuracy and the plausibility of review rationales. However, less is known about whether external score guidance changes the evidence presented in the generated review as well as the final score. This study uses 98 Allied Health Professions research outputs submitted for internal REF-style assessment, with specialist human rev…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "5b9b5a2b4177",
+    "title": "MultiGhostBench: A Multilingual Benchmark for Long-Form LLM-Generated Text Attribution under Distribution Shifts",
+    "url": "https://arxiv.org/abs/2609.02379",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.02379v1 Announce Type: cross Abstract: While existing work on LLM authorship attribution (AA) has made progress, available benchmarks remain limited, often focusing on English, controlled settings, or relatively outdated models, with the few multilingual studies considering only relatively short texts. We introduce MultiGhostBench, a multilingual benchmark comprising 928 books generated by five recent LLMs across six languages and three scripts, with an average length of approximately…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "5291e514b0ac",
+    "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+    "url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
+    "source": "Wired AI",
+    "date": "2026-09-03T01:32:02+00:00",
+    "summary": "The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a41df2b78168",
+    "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
+    "url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
+    "source": "Wired AI",
+    "date": "2026-09-02T18:41:02+00:00",
+    "summary": "The US government wrote a letter in support of OpenAI’s argument that training AI on others' intellectual property is fair use.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f7954d1b8741",
+    "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
+    "url": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
+    "source": "Wired AI",
+    "date": "2026-09-02T18:20:00+00:00",
+    "summary": "A startup called Mostik has a wild new approach to combining the capabilities of AI models.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "33e1bbf96749",
+    "title": "Can You Read Spanish? Latin? Catalan? The Library of Congress Needs Your Help",
+    "url": "https://blogs.loc.gov/thesignal/2026/09/herencia-2026/",
+    "source": "LOC Signal",
+    "date": "2026-09-02T17:38:00+00:00",
+    "summary": "What can you learn about the history of Spain from a 500-year-old will? How about a court ruling from the 1700s? These are the questions behind the transcription campaign for the Law Library of Congress’s Spanish Legal Documents collection. Click through to learn more about how you can get involved during Hispanic Heritage Month!",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "5e62caa3d56e",
+    "title": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
+    "url": "https://www.wired.com/story/bot-vs-bot-job-interview-ai/",
+    "source": "Wired AI",
+    "date": "2026-09-02T15:51:46+00:00",
+    "summary": "Christopher was sick of being ghosted by AI recruiters. So he unleashed ChatGPT on his robot interviewer.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "97f276dfad17",
+    "title": "Facilitating AI integration with simplicity at scale",
+    "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+    "source": "MIT Tech Review",
+    "date": "2026-09-02T14:00:00+00:00",
+    "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "5dcc02b219a4",
     "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
     "url": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
