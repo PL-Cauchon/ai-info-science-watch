@@ -1,5 +1,239 @@
 [
   {
+    "id": "2ba326ea5276",
+    "title": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
+    "url": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/",
+    "source": "Wired AI",
+    "date": "2026-09-07T10:30:00+00:00",
+    "summary": "Forget email surveys or long calls spent on hold. Voicebox lets people send customer feedback by recording a voice note on their phone.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "892eb9deceea",
+    "title": "SAGE: Semantic Attribute Graphs for Multi-Entity Visual Retrieval",
+    "url": "https://arxiv.org/abs/2609.04255",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-07T04:00:00+00:00",
+    "summary": "arXiv:2609.04255v1 Announce Type: new Abstract: Dense document images often contain many fine-grained visual and textual entities whose relevance depends on a user query. Standard vision-language retrievers encode cropped regions with a single vector, which can mix distinct entity signals and obscure the evidence needed for fine-grained retrieval. We call this failure mode Semantic Dilution and quantitatively show that it degrades entity-level retrieval as a function of entity density. To mitiga…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "879f2e104623",
+    "title": "MURAL: Multimodal Uncertainty-aware Recommendation via Adaptive edge Learning",
+    "url": "https://arxiv.org/abs/2609.04574",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-07T04:00:00+00:00",
+    "summary": "arXiv:2609.04574v1 Announce Type: new Abstract: Multimodal Graph Neural Networks have become standard for recommendation by augmenting sparse interaction data with content features. Yet current architectures face two bottlenecks: structural rigidity, from a reliance on static precomputed similarity graphs that cannot adapt to evolving preferences; and semantic fragility, where noisy modality signals are indiscriminately fused, distorting the collaborative signal. We propose MURAL (Multimodal Unc…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "3782ea949960",
+    "title": "Latent-Aligned Reasoning for Multimodal Recommendation",
+    "url": "https://arxiv.org/abs/2609.04645",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-07T04:00:00+00:00",
+    "summary": "arXiv:2609.04645v1 Announce Type: new Abstract: Multimodal Vision-Language Models (VLMs) have demonstrated remarkable capabilities in cross-modal understanding, yet a fundamental challenge persists when applying them to recommendation: as representations propagate through multi-step reasoning, both visual and textual signals progressively attenuate - a phenomenon we term cross-modal dilution. To address this, we propose LARK (Latent-Aligned Reasoning frameworK), a two-stage latent reasoning fram…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "386262b207fc",
+    "title": "VizIt: A multi-view framework for exploring single-cell, spatial, and genetic data online",
+    "url": "https://arxiv.org/abs/2609.04658",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-07T04:00:00+00:00",
+    "summary": "arXiv:2609.04658v1 Announce Type: new Abstract: Multi-omic studies increasingly require data to be examined from complementary biological perspectives, yet interactive exploration remains fragmented across modalities and tools. We present VizIt, an open-source framework for multi-view exploration of single-cell and spatial transcriptomic, epigenomic and genetic data. VizIt connects gene-, cell type-, condition-, spatial-, genomic region- and variant-centered views, enabling seamless navigation a…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0f1f808f503a",
+    "title": "Inventory-Grounded Policy-Level Optimization for Training-Free AI Search",
+    "url": "https://arxiv.org/abs/2609.04813",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-07T04:00:00+00:00",
+    "summary": "arXiv:2609.04813v1 Announce Type: new Abstract: Early in deployment, an AI search system typically operates over a frequently updated product catalog, so the available items and their properties cannot be treated as stable knowledge that can be encoded in fixed prompts or strategies. Fine-tuning, reinforcement learning, and static prompt patches fit poorly: labels are scarce, rewards drift with inventory, model releases are costly, and prompt fixes quickly stale. We present Inventory-Grounded Po…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b40ffad40b32",
+    "title": "Personalized Task Dependency Graphs for Mitigating Signal Erosion in Multi-Task Recommendation",
+    "url": "https://arxiv.org/abs/2609.04862",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-07T04:00:00+00:00",
+    "summary": "arXiv:2609.04862v1 Announce Type: new Abstract: Optimizing multiple conversion objectives is a core challenge in industrial recommendation, often limited by signal erosion in rigid architectures. Existing Multi-Task Learning (MTL) methods typically enforce uniform dependency strengths across a static conversion funnel, overlooking how task correlations naturally vary based on item characteristics. Hierarchical message passing along these fixed chains leads to cumulative signal attenuation, which…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "74ad830599f4",
+    "title": "AtomRec: Evolving Atomic Memory for Agentic Recommendation",
+    "url": "https://arxiv.org/abs/2609.04882",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-07T04:00:00+00:00",
+    "summary": "arXiv:2609.04882v1 Announce Type: new Abstract: Agentic recommender systems use large language models to maintain semantic memory and support evidence-aware recommendation. However, existing memory mechanisms often compress user and item information into coarse summaries and connect them with scalar collaborative links, making it difficult to preserve fine-grained preference stages or retrieve interpretable evidence as user interests evolve. We propose \\textsc{AtomRec}, an agentic recommender wi…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "33a5ec698d0f",
+    "title": "SAM-D2Q: Aligning Multimodal Doc2Query with Search Demand and Conversion for E-commerce",
+    "url": "https://arxiv.org/abs/2609.04961",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-07T04:00:00+00:00",
+    "summary": "arXiv:2609.04961v1 Announce Type: new Abstract: E-commerce search often suffers from vocabulary mismatch between user queries and merchant-authored product titles, since short titles cannot fully cover diverse user expressions or visual product attributes. Although Doc2Query alleviates this issue by generating pseudo-queries for document expansion, traditional methods are text-only and not optimized for e-commerce business objectives. As a result, they may produce semantically plausible but comm…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ae6f612e506b",
+    "title": "Repeated Queries Exhaust an LLM's Brand Recommendations but Not Its Sources",
+    "url": "https://arxiv.org/abs/2609.05059",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-07T04:00:00+00:00",
+    "summary": "arXiv:2609.05059v1 Announce Type: new Abstract: Whether repeated identical buying questions exhaust a language model's brand recommendations depends on retrieval. Across 300 question-engine cells (50 questions, six engines, 15 runs each, open extraction over 1,470 adjudicated organizations), the five engines answering without web search were still adding never-seen brands at run 15 in 86-92% of cells, with median repertoires of 15-31 organizations; the one retrieval-enabled engine closed its lis…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "460437458f23",
+    "title": "Beyond Co-purchase Relation: Evolution of Complementary Recommendations at Allegro",
+    "url": "https://arxiv.org/abs/2609.05063",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-07T04:00:00+00:00",
+    "summary": "arXiv:2609.05063v1 Announce Type: new Abstract: When a customer adds a professional camera to their cart, should the system suggest a matching lens, a generic tripod, or another camera body? Complementary Product Recommendation is vital for comprehensive basket building, yet standard models often fail to distinguish between items that are merely bought together and those that truly work together. In this paper, we present AlleCompanion: a production-scale retrieval framework deployed at Allegro.…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a2ca0502e158",
+    "title": "Embedding Surgery: Localized Updates for Adaptive Ranking Correction in Dense Retrieval",
+    "url": "https://arxiv.org/abs/2609.05110",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-07T04:00:00+00:00",
+    "summary": "arXiv:2609.05110v1 Announce Type: new Abstract: Dense retrieval systems are core components of modern search engines, recommendation platforms, and retrieval-augmented generation pipelines. They encode documents and queries into dense embeddings, enabling efficient semantic search via vector similarity. However, because document embeddings are computed offline and stored in static indexes, these systems struggle to adapt to user feedback or evolving search intent. To address this limitation, we …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "50a55ef43758",
+    "title": "Corporate-Family Resolution Is Not a String-Matching Problem: A Public Benchmark Stratified by Name Visibility",
+    "url": "https://arxiv.org/abs/2609.04269",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-07T04:00:00+00:00",
+    "summary": "arXiv:2609.04269v1 Announce Type: cross Abstract: Deciding whether two supplier records belong to the same corporate family is a prerequisite for spend consolidation, credit exposure aggregation and sanctions screening. It is usually treated as entity matching, but the tasks differ: a family link connects records that are deliberately different entities, and the evidence often appears in neither record. We introduce CorpFam, a public benchmark of 54,864 candidate pairs over 10,307 corporate fami…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c53f1718a265",
+    "title": "Evaluation of Phonetic Encoding Algorithms on Transcription Datasets",
+    "url": "https://arxiv.org/abs/2609.04391",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-07T04:00:00+00:00",
+    "summary": "arXiv:2609.04391v1 Announce Type: cross Abstract: In this work, a novel evaluation scheme built on a generalized variant of the Rand Index measure, namely, the H\\\"ullermeier-Rifqi Index, is proposed in order to assess how well phonetic encoding algorithms conform to word-based transcriptions in IPA (International Phonetic Alphabet) notation. For this objective, the discordance score is obtained by calculating the absolute difference between the pairwise similarity values of ground-truth transcri…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "6669a6c39c94",
+    "title": "BioSync: Transformer-Based Cross-Modal Fusion for a Multimodal Physiological Digital Biomarker",
+    "url": "https://arxiv.org/abs/2609.04504",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-07T04:00:00+00:00",
+    "summary": "arXiv:2609.04504v1 Announce Type: cross Abstract: Cardiac, neural, behavioral, and speech measurements from wearable and mobile devices provide partial, noise-sensitive views of physiological state. BioSync combines these measurements into the \\textbf{BioSync Index (BSI)}, a continuous composite digital biomarker defined under the BEST framework. The model applies multi-head self-attention to modality tokens and adds a linear branch whose hypothesis class includes standard feature concatenation.…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "186fc38896de",
+    "title": "CAGE: Coherence-Aware Graph Encoding for Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2609.04647",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-07T04:00:00+00:00",
+    "summary": "arXiv:2609.04647v1 Announce Type: cross Abstract: Traditional Retrieval-Augmented Generation (RAG) systems score each passage independently against the query, assembling context sets that may be individually relevant yet collectively incoherent. We introduce Coherence-Aware Graph Encoding (CAGE), a reranking framework that models \"between-chunk coherence\" across four dimensions: Intra-Domain Relevance, Noise Resistance, Informational Bonding, and Factual Consistency. Our pipeline transforms retr…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "e48da5e6495d",
+    "title": "A Tree-based RAG Framework for Evidence-Intensive QA via Adaptive Planning and Topology-Aware Evidence Gathering",
+    "url": "https://arxiv.org/abs/2609.04981",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-07T04:00:00+00:00",
+    "summary": "arXiv:2609.04981v1 Announce Type: cross Abstract: Recent structured RAG methods leverage tree- or graph-based reasoning structures to improve multi-hop QA. However, they face key limitations in evidence-intensive QA, where answering a question requires synthesizing information scattered across dozens or even hundreds of documents: structural rigidity, which limits adaptive reasoning expansion, and topology-ignorant evidence gathering, which prevents effective integration of evidence across diffe…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "57f869a110e1",
+    "title": "Leveraging Low-Level Symbolic Competences for Unsupervised Grounding in Hallucination Detection",
+    "url": "https://arxiv.org/abs/2609.05025",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-07T04:00:00+00:00",
+    "summary": "arXiv:2609.05025v1 Announce Type: cross Abstract: Hallucination-where a language model generates outputs that are factually incorrect or unsupported by the source-is a major challenge for both prompted and fine-tuned language models. Detecting hallucinations is difficult due to the opaque reasoning processes of LLMs, which often provide little insight into why a model's output may be inaccurate. In this work, we investigate whether an LLM can use an alternative, low level, symbolic competence su…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "90277750b64e",
+    "title": "Beyond Maintenance Manual Multimodal RAG: Suggesting What Tool",
+    "url": "https://arxiv.org/abs/2609.05116",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-07T04:00:00+00:00",
+    "summary": "arXiv:2609.05116v1 Announce Type: cross Abstract: Aircraft technicians are required to consult the maintenance manual (MM) for nearly every task, and locating the relevant procedure across hundreds of pages remains time-consuming. Multimodal retrieval augmented generation (MRAG) has been proposed to address this, allowing technicians to retrieve procedures, together with the accompanying figures, through natural-language queries. However, retrieval alone does not tell the technicians which tools…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "d0c60e4275a0",
+    "title": "Students' Perception of Big Data Engineering in Higher Education Curricula: Expectations, Interest and Ethical Implications",
+    "url": "https://arxiv.org/abs/2609.05160",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-07T04:00:00+00:00",
+    "summary": "arXiv:2609.05160v1 Announce Type: cross Abstract: The study investigates students' interest and expectations in a Big Data Engineering course integrated with a Master curricula, as well as ethical implications of using Big Data. An anonymous online survey was conducted with 42 of the 67 students enrolled in the Big Data course offered to Computer Science and Bioinformatics Master's programs. The responses were analyzed and interpreted using thematic analysis, highlighting interesting aspects rel…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c90bb3e7ff3e",
+    "title": "Does Your Agent's Memory Survive a Model Upgrade? A Controlled Study of Memory Portability",
+    "url": "https://arxiv.org/abs/2609.05339",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-07T04:00:00+00:00",
+    "summary": "arXiv:2609.05339v1 Announce Type: cross Abstract: Model upgrades are routine; memory migrations are not. An agent can keep the same memory store and still forget: a new model may interpret old notes differently, mixed embedding versions may break retrieval, and repair may fail without the original evidence. We compare memory as the same history is preserved verbatim for long-context reading (LC-RAW), divided into chunks for retrieval-augmented generation (RAG), compressed by a model into natural…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "9ddcb2eaea3c",
+    "title": "Graph Foundation Models for Recommendation: A Comprehensive Survey",
+    "url": "https://arxiv.org/abs/2502.08346",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-07T04:00:00+00:00",
+    "summary": "arXiv:2502.08346v4 Announce Type: replace Abstract: Recommender systems (RS) serve as a fundamental tool for navigating the vast expanse of online information, with deep learning advancements playing an increasingly important role in improving ranking accuracy. Among these, graph neural networks (GNNs) excel at extracting higher-order structural information, while large language models (LLMs) are designed to process and comprehend natural language, making both approaches highly effective and wid…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c9afec623e17",
+    "title": "Nepali Passport Question Answering: A Low-Resource Dataset for Public Service Applications",
+    "url": "https://arxiv.org/abs/2603.13320",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-07T04:00:00+00:00",
+    "summary": "arXiv:2603.13320v2 Announce Type: replace Abstract: Nepali, a low-resource language, faces significant challenges in building an effective information retrieval system due to the unavailability of annotated data and computational linguistic resources. In this study, we attempt to address this gap by preparing a pair-structured Nepali Question-Answer dataset. We focus on Frequently Asked Questions (FAQs) for passport-related services, building a data set for training and evaluation of IR models. …",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "4f5789cc3124",
+    "title": "The Generative AI Gold Rush in Theoretical and Computational Research",
+    "url": "https://arxiv.org/abs/2609.04872",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-07T04:00:00+00:00",
+    "summary": "arXiv:2609.04872v1 Announce Type: new Abstract: Generative AI is changing the production conditions of theoretical and computational research, but its sys tem level effects require measures that separate plat form growth, field specific divergence, and production structure. We assemble 2,080 monthly observations for twenty arXiv archives from January 2018 through Au gust 2026 and a separate pseudonymized Mathematics author panel. A regularized convex synthetic control fitted through December 202…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "659938df11cd",
+    "title": "Westlake Scholar: AI-Enhanced Scholarly Discovery over an Institutional Repository",
+    "url": "https://arxiv.org/abs/2609.05072",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-07T04:00:00+00:00",
+    "summary": "arXiv:2609.05072v1 Announce Type: new Abstract: Institutional repositories (IRs) provide mature infrastructure for preserving and disseminating research outputs, but conventional record- and document-centric interfaces provide limited support for connecting deposited papers to related research and people. We present Westlake Scholar, an open-source, institution-grounded platform that adds four complementary artificial intelligence (AI) services to repository infrastructure: contextual paper read…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8cf92188848d",
+    "title": "Measuring the Novelty of Biomedical Papers Using the Latent Distances between Knowledge Units",
+    "url": "https://arxiv.org/abs/2609.05175",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-07T04:00:00+00:00",
+    "summary": "arXiv:2609.05175v1 Announce Type: new Abstract: Measuring the novelty of scientific papers is a central concern in research evaluation and scientometrics. From a recombination perspective, prior studies have largely focused on the co-occurrence of knowledge units to assess the novelty of scientific papers. However, these studies often overlook other relationships between knowledge units. This narrow view may result in inaccurate or incomplete evaluations of novelty for scientific papers. To fill…",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "ee69948e60cf",
     "title": "My Brief Summer Fling With Siri AI",
     "url": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
