@@ -1,5 +1,284 @@
 [
   {
+    "id": "e9919e0ce602",
+    "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
+    "url": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
+    "source": "Wired AI",
+    "date": "2026-09-11T09:00:00+00:00",
+    "summary": "A combination of rapid advances, recursive self-improvement, and agentic swarms are genuinely “spooking people” inside big labs.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "90b3456b9929",
+    "title": "When Synthetic Data Hurts: On Catastrophic Forgetting in Skill Retrieval for LLM Agents",
+    "url": "https://arxiv.org/abs/2609.10750",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.10750v1 Announce Type: new Abstract: LLM agents increasingly rely on external skills retrieved at runtime, making skill selection from large repositories a critical challenge. We present a production skill router over 34,396 skills and a large-scale study of skill retrieval using limited real supervision and synthetic data. We found that the synthetic-data fine-tuning improves in-distribution retrieval but it causes catastrophic forgetting on real and out-of-distribution (OOD) data. W…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "59ec8bae0474",
+    "title": "UniRec: Cross-stage Multi-Task Fusion with Preference Alignment for Cascaded Recommender Systems",
+    "url": "https://arxiv.org/abs/2609.11052",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.11052v1 Announce Type: new Abstract: Industrial recommender systems use cascaded stages with different objectives, feature spaces, and latency constraints. Optimizing pre-ranking and ranking separately can create cross-stage inconsistency: upstream models may filter out items preferred by downstream rankers, and independently tuned downstream fusion can offset upstream improvements. Existing multi-task fusion methods focus on multi-objective fusion within the ranking stage, and cross-…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "764ae4b8321d",
+    "title": "VikingRAG: Accurate and Token-efficient Retrieval-augmented Generation over Structured Documents",
+    "url": "https://arxiv.org/abs/2609.11390",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.11390v1 Announce Type: new Abstract: State-of-the-art retrieval-augmented generation (RAG) methods exploit document structures to acquire sufficient evidence, but often incur substantial token costs. To reduce structural-context tokens without compromising high RAG accuracy, we present {\\sf VikingRAG}, a directory-aware semantic data management system that tightly integrates semantic and structural access to support structural-context-efficient, evidence-gap-driven multi-round retriev…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "61485cf53abb",
+    "title": "TimelyRAG: Semantic-Temporal Hybrid Retrieval for Time-Critical Question Answering in Overlapping-Evolving Documents",
+    "url": "https://arxiv.org/abs/2609.11572",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.11572v1 Announce Type: new Abstract: Although large language models (LLMs) and retrieval-augmented generation (RAG) have advanced open-domain question answering (QA), they remain unreliable when documents evolve through amendments. Existing time-sensitive retrieval methods address only the disjoint-evolving environment, where each update is an independent snapshot. However, laws, policies, and regulations often operate in overlapping-evolving environments, where amendments override ea…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "7f01a8820edf",
+    "title": "FedHUR: Learning Hierarchical Utility-Guided Client Relations for Personalized Federated Recommendation",
+    "url": "https://arxiv.org/abs/2609.11632",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.11632v1 Announce Type: new Abstract: Federated recommendation enables collaborative model training while keeping user interaction data on local clients. A central problem in federated recommendation is how to aggregate useful information across clients for personalized recommendation. Existing personalized aggregation methods usually construct client relations from predefined parameter-based assumptions, such as parameter similarity or complementarity, and use these relations to deter…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f9cbc248a61a",
+    "title": "Your Retriever Already Knows: Distribution-Shape QPP for RAG Retrieval Sufficiency",
+    "url": "https://arxiv.org/abs/2609.11646",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.11646v1 Announce Type: new Abstract: Standard Retrieval-Augmented Generation (RAG) pipelines often provide no reliable inference-time signal of whether retrieval succeeded; on ambiguous or out-of-scope queries, generation may then hallucinate. Motivated by a Czech nuclear-regulator deployment where data sensitivity precludes third-party LLM APIs, we compare three Query Performance Prediction (QPP) paradigms for retrieval sufficiency in RAG: score-based features, a content-based LLM ju…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "69128f9dee34",
+    "title": "Generative Late-Interaction Embeddings For Visual Document Retrieval",
+    "url": "https://arxiv.org/abs/2609.11808",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.11808v1 Announce Type: new Abstract: Late-interaction retrieval is the state-of-the-art for visual document search, but it pays for its accuracy in storage. Existing compression methods retain a subset or local average of the N~1,000 vectors per page. Under aggressive storage budgets, however, these methods degrade sharply, and alternatives require retraining the encoder. Investigating this degradation across three encoders, we found two consistent properties: the vectors lie exactly …",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "0b3c6d572845",
+    "title": "Following the Preference, Missing the Optimum: Compliance Without Optimization in AI Housing Recommendation",
+    "url": "https://arxiv.org/abs/2609.10856",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.10856v1 Announce Type: cross Abstract: Large language models are becoming the first point of contact for consumer search in domains where the stakes are material and the law is explicit. Existing audits show that models steer housing seekers by perceived identity, but none can say what a user loses when a recommender overlooks a suitable option, for want of an enumerated inventory to score omissions against. We audit AI housing recommendation against a verifiable ground truth. For eac…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a1274c487b32",
+    "title": "Project Qualia: Recovering Experiential Music Structure from Session Co-occurrence Data",
+    "url": "https://arxiv.org/abs/2609.10862",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.10862v1 Announce Type: cross Abstract: This report presents results from Project Qualia, an ongoing effort to determine whether experiential similarity between songs, a structure not captured by genre or metadata taxonomies, can be recovered from real listening behavior. We constructed a large-scale dataset of listening sessions, comprising 1.29 billion scrobbles collected from 9,396 users via the Last.fm API and reduced through a preprocessing pipeline to 531.6 million training scrob…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "693930bc3759",
+    "title": "Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation",
+    "url": "https://arxiv.org/abs/2609.11115",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.11115v1 Announce Type: cross Abstract: Benchmark researchers and developers of large language models (LLMs) and other AI systems need to find relevant evaluations, locate their benchmark datasets and code, and understand the settings behind reported scores. We present Benchmark Radar, a living database and search engine for retrieval and discovery of AI benchmarks, covering LLM evaluation, agentic and tool-use benchmarks, coding, reasoning, safety, and domain-specific evaluations. The…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "31969f0f1a48",
+    "title": "Agentic Share-of-Search: A Multi-Agent AI System for Competitive Decision-Making in LLM-Mediated E-Commerce",
+    "url": "https://arxiv.org/abs/2609.11190",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.11190v1 Announce Type: cross Abstract: AI shopping assistants increasingly redirect consumer discovery, creating an urgent need for tools that support seller-side competitive decision-making. We present a multi-agent AI system that automates competitive visibility measurement and root cause diagnosis in LLM-mediated ecommerce. The system introduces Agentic Share-of-Search (ASoS) as the decision target, deploys query agents across leading AI platforms, and uses a ReAct-based diagnostic…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a3a2f5833f0f",
+    "title": "REVA: Reusable Evidence View Aggregation for Context-Efficient RAG Serving",
+    "url": "https://arxiv.org/abs/2609.11209",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.11209v1 Announce Type: cross Abstract: Retrieval-augmented generation (RAG) improves knowledge-intensive large language model (LLM) applications by conditioning generation on retrieved documents, but longer contexts increase latency, key-value (KV) cache memory, and token cost. Post-retrieval compression can reduce this cost, yet existing compressors often operate independently for each query, rely on auxiliary models or rewriting, and introduce online overhead that can offset the ben…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "80465207e9f7",
+    "title": "SWRouter: Similarity-Contractive Window Routing for Multi-Turn Large Language Model Conversations",
+    "url": "https://arxiv.org/abs/2609.11414",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.11414v1 Announce Type: cross Abstract: Large language models exhibit complementary strengths, motivating routing methods that dispatch each query to the most suitable model. Although existing routers are effective in single-turn settings, they do not directly transfer to multi-turn dialogue, where routing performance critically depends on how historical context is segmented, retained, and incorporated into the current prompt. This introduces two fundamental challenges: preventing info…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "35981c40878f",
+    "title": "ReGround: Grounding Reviewer Comments in Multimodal Evidence",
+    "url": "https://arxiv.org/abs/2609.11460",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.11460v1 Announce Type: cross Abstract: Reviewer comments naturally relate to specific parts of the reviewed paper, yet grounding these comments to the underlying evidence is difficult due to long multimodal documents. Existing benchmarks do not capture this setting and largely focus on explicit, information-seeking queries. We introduce ReGround, a large-scale dataset for reviewer comment grounding that links 10,267 reviewer comments to 16,274 evidence in the original anonymous submis…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "26a475570f38",
+    "title": "RAG-Safety-Bench: Reliable Evaluation of Retrieval-Augmented LLM Safety",
+    "url": "https://arxiv.org/abs/2609.11758",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.11758v1 Announce Type: cross Abstract: Allowing large language models (LLMs) to retrieve information from a set of trusted documents can increase reliability and reduce hallucination. However, recent work has demonstrated that retrieval-augmented generation (RAG) can have unintended side effects on the overall safety of the generated responses, when prompted for harmful or dangerous content. A clearer understanding of the mechanisms leading to this result is needed, as increasing numb…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "66762fe2a4d6",
+    "title": "MLLMRec: A Preference Reasoning Paradigm with Graph Refinement for Multimodal Recommendation",
+    "url": "https://arxiv.org/abs/2508.15304",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2508.15304v3 Announce Type: replace Abstract: Multimodal recommendation combines the user historical behaviors with the modal features of items to capture the tangible user preferences, presenting superior performance compared to the conventional ID-based recommender systems. However, existing methods still encounter two key problems in the representation learning of users and items, respectively: (1) the initialization of multimodal user representations is either agnostic to historical be…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "d24f5af35805",
+    "title": "Dynamic Feature-Embedding Communication via Codebook Distillation for Federated Recommendation",
+    "url": "https://arxiv.org/abs/2601.18570",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2601.18570v2 Announce Type: replace Abstract: Federated recommendation systems commonly protect user privacy by keeping user parameters on local devices, while exchanging item parameters for collaborative model training. However, such item parameters usually model items independently and suffer from both efficiency and effectiveness challenges, making communication costs grow with the item space and limiting cross-item generalization and robustness to noisy feedback. To address these limit…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "b5be866a9d05",
+    "title": "OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis",
+    "url": "https://arxiv.org/abs/2603.20278",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2603.20278v2 Announce Type: replace Abstract: Training deep research agents requires long-horizon trajectories that interleave search, evidence aggregation, and multi-step reasoning. However, existing data collection pipelines typically rely on proprietary web APIs, making large-scale trajectory synthesis costly, unstable, and difficult to reproduce. We present OpenResearcher, a reproducible pipeline that decouples one-time corpus bootstrapping from multi-turn trajectory synthesis and exec…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4dc16d0ea72a",
+    "title": "SumRank: Aligning Summarization Models for Long-Document Listwise Reranking",
+    "url": "https://arxiv.org/abs/2603.24204",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2603.24204v2 Announce Type: replace Abstract: Large Language Models (LLMs) have demonstrated superior performance in listwise passage reranking task. However, directly applying them to rank long-form documents introduces both effectiveness and efficiency issues due to the substantially increased context length. To address this challenge, we propose a pointwise summarization model SumRank, aligned with downstream listwise reranking, to compress long-form documents into concise rank-aligned …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c864cf4520b9",
+    "title": "MisEdu-RAG: A Misconception-Aware Dual-Hypergraph RAG for Novice Math Teachers",
+    "url": "https://arxiv.org/abs/2604.04036",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2604.04036v2 Announce Type: replace Abstract: Novice math teachers often encounter students' mistakes that are difficult to diagnose and remediate. Misconceptions are especially challenging because teachers must explain what went wrong and how to solve them. Although many existing large language model (LLM) platforms can assist in generating instructional feedback, these LLMs loosely connect pedagogical knowledge and student mistakes, which might make the guidance less actionable for teach…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "0e3e5c94e86f",
+    "title": "LLMAR: A Tuning-Free Recommendation Framework for Sparse and Text-Rich Industrial Domains",
+    "url": "https://arxiv.org/abs/2604.16379",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2604.16379v3 Announce Type: replace Abstract: Industrial B2B applications (e.g., construction site risk prediction, material procurement) face extreme data sparsity yet feature rich textual interactions. In such environments, traditional ID-based collaborative filtering fails lacking co-occurrence signals, while fine-tuning standard Large Language Models (LLMs) incurs high operational costs and struggles with frequent data drift. We propose LLMAR (LLM-Annotated Recommendation), a tuning-fr…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "74fe9c189c22",
+    "title": "ECLASS-Augmented Semantic Product Search for Electronic Components",
+    "url": "https://arxiv.org/abs/2604.19664",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2604.19664v2 Announce Type: replace Abstract: Efficient semantic access to industrial product data is a key enabler for factory automation and emerging LLM-based agent workflows, where both human engineers and autonomous agents must identify suitable components from highly structured catalogs. However, the vocabulary mismatch between natural-language queries and attribute-centric product descriptions limits the effectiveness of traditional retrieval approaches, e.g., BM25. In this work, we…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "56ad4f951e5f",
+    "title": "INDRA: A New AI Tool for Exploring Tobacco, Fossil Fuel, and Chemical Industry Archives",
+    "url": "https://arxiv.org/abs/2609.11261",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.11261v1 Announce Type: new Abstract: Five decades of litigation have disgorged hundreds of millions of pages of formerly secret business records from the tobacco industry, along with documents from the makers of drugs, chemicals, food, firearms, and fossil fuels. Yet these archives have been effectively inaccessible to general-purpose large language models (LLMs) because they have never been compiled into an LLM-readable corpus. Chatbots may be familiar with some of the materials cont…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "86d2487844e0",
+    "title": "Wavering Oracles: Selective Updating and Correlated Failures in LLMs and Their Implications for Scientific Workflows",
+    "url": "https://arxiv.org/abs/2609.11428",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.11428v1 Announce Type: new Abstract: Scientific workflows increasingly use repeated queries, multiple models, and interacting agents. Reliability therefore depends on whether models preserve correct conclusions, accept valid corrections, and contribute errors that a selector can distinguish. Using SycoBench- 600 as a controlled measurement substrate, we evaluate these requirements through selective updating, defined by resistance to misleading suggestions and uptake of correct suggest…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "790f73487b90",
+    "title": "More than half of recent astronomy papers are written with language-model assistance",
+    "url": "https://arxiv.org/abs/2609.10664",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.10664v1 Announce Type: cross Abstract: Language models leave a distinctive vocabulary in the prose they help write, and we measure how much of the astronomy literature now carries it. From the full text of 207,111 astro-ph papers spanning 2015 to mid-2026, we count those words in each paper and model the counts, in proportion to paper length, as a mixture of assisted and unassisted writing in a hierarchical Bayesian model. Papers from before 2020 calibrate the unassisted rate, and the…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8f88f788691a",
+    "title": "From Queries to Narratives: Cultural Heritage Data Stories for Knowledge Graph Exploration and Quality Assessment",
+    "url": "https://arxiv.org/abs/2609.11403",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.11403v1 Announce Type: cross Abstract: Cultural-heritage KGs such as the NFDI4Culture-KG contain millions of triples about artworks, music, inscriptions, historical events, and the people and places connected to them. For many users, however, discovering this knowledge can be difficult. While SPARQL can be learned, writing meaningful queries first requires an in-depth understanding of the graph's data model, an investment many domain researchers and practitioners are unwilling to make…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "03d08fca9026",
+    "title": "Mapping Seven Decades of Philosophy in Colombia: Dynamic Topic Modelling of Ideas y Valores",
+    "url": "https://arxiv.org/abs/2412.04236",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2412.04236v2 Announce Type: replace-cross Abstract: Data-driven approaches to philosophy have emerged as a valuable tool for studying the history of the discipline. However, most studies in this area have focused on a limited number of journals from specific regions and subfields. We expand the scope of this research by applying dynamic topic modelling techniques to explore the history of philosophy in Colombia and Latin America. Our study examines the Colombian philosophy journal Ideas y …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "95fd067d5cab",
+    "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
+    "url": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
+    "source": "Wired AI",
+    "date": "2026-09-10T23:28:42+00:00",
+    "summary": "AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ec15e8533eca",
+    "title": "Is AI Actually Going to Kill Us All?",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
+    "source": "Wired AI",
+    "date": "2026-09-10T20:30:37+00:00",
+    "summary": "This week on “Uncanny Valley,” we dig into a former Anthropic researcher’s AI doomsday warning, the latest upgrades from Apple’s event, and the census report that claimed Trump won the 2020 election.",
+    "category": "AI & Information Governance"
+  },
+  {
+    "id": "d7d836414bb6",
+    "title": "Testing AI Translation Tools on Nineteenth-Century Spanish-Language Archives: An Interview with Martin Corona",
+    "url": "https://blogs.loc.gov/thesignal/2026/09/interview-with-martin-corona/",
+    "source": "LOC Signal",
+    "date": "2026-09-10T16:38:10+00:00",
+    "summary": "In this interview, 2026 Library of Congress Junior Fellow Martin Corona reflects on his experience working in the Library’s Office of the Chief Information Officer Digital Strategy Directorate.",
+    "category": "Libraries & Archives"
+  },
+  {
     "id": "bd0657d2bfec",
     "title": "Powering AI is an architecture problem",
     "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
