@@ -1,5 +1,347 @@
 [
   {
+    "id": "e3cf6f2003f4",
+    "title": "A Commitment to Trustworthy and Authentic Information: Technological Transformation Over the Centuries",
+    "url": "https://blogs.loc.gov/thesignal/2026/09/trustworthy-and-authentic-information/",
+    "source": "LOC Signal",
+    "date": "2026-09-15T12:10:27+00:00",
+    "summary": "Artificial intelligence is transforming society and institutions worldwide. The Library of Congress, founded in 1800, has been through numerous major technological revolutions since then. In some ways, the implementation of AI is similar to previous technological and digital transformations. In others, it is unlike anything that has come before. AI technologies are improving rapidly, and the Library’s approach to engaging with them calls on its history and a strong foundation of IT security and …",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "c2c660edac22",
+    "title": "What’s at stake in AI’s trillion-dollar gamble",
+    "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+    "source": "MIT Tech Review",
+    "date": "2026-09-15T10:00:00+00:00",
+    "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in question: A handful of so-called&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "04aea55fe668",
+    "title": "Self-Indexing Attention for Compression-Compatible Sparse Long-Context LLM Inference",
+    "url": "https://arxiv.org/abs/2609.13205",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-15T04:00:00+00:00",
+    "summary": "arXiv:2609.13205v1 Announce Type: new Abstract: Sparse long-context inference requires efficient token retrieval in both prefill and decode. Existing methods often use different retrieval strategies for the two stages, preventing one retrieval representation from being reused throughout inference. We propose Self-Indexing Attention, a training-free framework built on a shared transform-domain sign-magnitude representation. The key signs provide a reusable token-level index for grouped prefill se…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "21812014ac6d",
+    "title": "Decoupling Error Attribution in Cloud-Native Graph-RAG: A Data Integrity Diagnostic Framework",
+    "url": "https://arxiv.org/abs/2609.13324",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-15T04:00:00+00:00",
+    "summary": "arXiv:2609.13324v1 Announce Type: new Abstract: Graph-RAG systems often assume pristine data quality, overlooking the severe impact of perturbations in cloud-native databases. This paper proposes a three-layer decoupled diagnostic framework to orthogonally attribute system errors to reasoning loss, Knowledge Graph (KG) defects, and Cypher generation errors. Evaluated on a spatio-temporal ecological KG of the Southeastern Tibet region with eight defect types, results reveal that data integrity, r…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "3f879fdb35ed",
+    "title": "PCGNet: Unifying Shared and Specific Information for Fashion Matching Recommendations",
+    "url": "https://arxiv.org/abs/2609.13339",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-15T04:00:00+00:00",
+    "summary": "arXiv:2609.13339v1 Announce Type: new Abstract: In fashion domain, recommending complementary clothing items that match selected pieces is a crucial cross-selling technique that improves customer satisfaction. Nevertheless, fashion matching presents significant challenges, as recommendations must not only align with individual user fashion preferences but also ensure compatibility between garments. These challenges are twofold. First, existing models often assume an overly simplified decoupled r…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e52da1c4b336",
+    "title": "Mixture-of-Experts Language Models Can Be Strong and Efficient Retrievers",
+    "url": "https://arxiv.org/abs/2609.13486",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-15T04:00:00+00:00",
+    "summary": "arXiv:2609.13486v1 Announce Type: new Abstract: Recent work has shown that fine-tuning decoder-only large language models (LLMs) for retrieval yields strong first-stage retrievers, with effectiveness improving as backbones grow in size. However, every query and document must pass through the full model, so encoding cost increases with model size. Mixture-of-Experts (MoE) LLMs activate only a subset of parameters per token and are widely used to scale generative models, yet remain underexplored a…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "e46969dbc203",
+    "title": "Pre-retrieval Query Clustering for Adaptive Top-k Document Retrieval in RAG Systems",
+    "url": "https://arxiv.org/abs/2609.13489",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-15T04:00:00+00:00",
+    "summary": "arXiv:2609.13489v1 Announce Type: new Abstract: RAG systems commonly retrieve a fixed number of documents (top-k) to ground generation, but this static approach is brittle: simple queries suffer over-retrieval (adding noise and cost) while complex queries are under-retrieved, causing recall failures that cascade into incorrect answers. Motivated by the question of how many documents must be retrieved to answer an arbitrary query reliably, we propose a practical, general framework for query-adapt…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "80dbddc66735",
+    "title": "Addressing Cross-Stage Decoupling of Semantic and Collaborative Signals in Generative Recommendation",
+    "url": "https://arxiv.org/abs/2609.13678",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-15T04:00:00+00:00",
+    "summary": "arXiv:2609.13678v1 Announce Type: new Abstract: Generative recommendation reformulates sequential recommendation as autoregressive generation by encoding items into semantic tokens, enabling improved scaling capability and cross-domain generalization. However, existing generative recommender systems typically follow a two-stage pipeline, where item tokenization is largely dominated by textual semantics with limited incorporation of collaborative signals and interaction similarity, leading to cod…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "47a3aa3a2627",
+    "title": "Odds-Shift Slippage in One-vs-Rest Rankers: Diagnosing and Repairing Reweighting-Induced Top-K Errors",
+    "url": "https://arxiv.org/abs/2609.13810",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-15T04:00:00+00:00",
+    "summary": "arXiv:2609.13810v1 Announce Type: new Abstract: One-vs-rest rankers that show each user the top-$K$ of many rare labels usually counter imbalance with a per-label positive-class weight, scale_pos_weight $= n_-/n_+$. Elkan's identity says such a weight shifts label $j$'s log-odds by $\\ln w_j$, so the model ranks by weighted odds rather than by the marginal that is Bayes-optimal for precision@$K$, and suggests inverting the shift afterwards; what a finite learner does with a weight in the thousand…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b837b03468b7",
+    "title": "P3Rec: Distilling Prior--Posterior Preference Reasoning for LLM-based Recommendation",
+    "url": "https://arxiv.org/abs/2609.13993",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-15T04:00:00+00:00",
+    "summary": "arXiv:2609.13993v1 Announce Type: new Abstract: Large language models (LLMs) exhibit strong semantic understanding and preference reasoning capabilities, offering new opportunities for user modeling in recommender systems. Existing LLM-as-Enhancer methods typically distill LLM-derived preference knowledge into lightweight recommenders to avoid costly online LLM inference. However, they often construct distillation knowledge from only one perspective. Prior preference captures users' stable and c…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "8f550e10a850",
+    "title": "TF-IDF and BM25 Are Exact KL Divergences",
+    "url": "https://arxiv.org/abs/2609.14016",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-15T04:00:00+00:00",
+    "summary": "arXiv:2609.14016v1 Announce Type: new Abstract: TF-IDF and BM25 are two of the most widely used methods for scoring query-document relevance, yet neither has a standard probabilistic derivation that justifies it as a statistical method within a unified framework. We address this gap by showing that both scoring methods admit an exact interpretation as Kullback-Leibler divergences between two probability models. We treat the BM25 variant that includes the plus 1 correction in the IDF term, which …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "81362462596f",
+    "title": "VARG: Value-Aware and Ranking-Aligned Generative Retrieval for Dynamic E-commerce Search",
+    "url": "https://arxiv.org/abs/2609.14493",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-15T04:00:00+00:00",
+    "summary": "arXiv:2609.14493v1 Announce Type: new Abstract: Integrating recall and pre-ranking in e-commerce search requires candidate generation to account for relevance, personalization, and business value before final ranking. To this end, we present VARG, a generative retrieval system for Tmall App search that directly admits generated item candidates to the existing final ranker. VARG-ID constructs semantic prefixes using RQ-VAE, enhances search relevance through bidirectional query-item contrastive le…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "6e313af41d99",
+    "title": "The Wisdom of the Loudest: A Large-Scale Audit of Generative Search on Reddit",
+    "url": "https://arxiv.org/abs/2609.14575",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-15T04:00:00+00:00",
+    "summary": "arXiv:2609.14575v1 Announce Type: new Abstract: Online communities are valued not only for answers, but for the diversity of experiences and perspectives they contain. Generative search increasingly mediates access to this discourse, yet little is known about which community voices survive retrieval and synthesis. We audit Reddit Answers using 10,000 queries from 20 advice- and support-seeking communities, repeated three times to produce 30,000 answers over 14.68M comments. We find that differen…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8807d78841b7",
+    "title": "Beyond Benchmark Scores: How Synthetic and Authentic Query Distributions Diverge in RAG Evaluation",
+    "url": "https://arxiv.org/abs/2609.14579",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-15T04:00:00+00:00",
+    "summary": "arXiv:2609.14579v1 Announce Type: new Abstract: RAG systems are routinely evaluated using synthetic question sets generated from the target document corpus. While this practice provides a useful check on overall retrieval capability, relying exclusively on synthetic benchmarks can mislead under distribution shift and overstate deployment readiness. Synthetic generation spreads questions evenly across the corpus, formulating long, detailed queries; real users put most of their traffic on a few ad…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "0112f45dcc13",
+    "title": "EviQE: Evidence Selection for LLM-Based Query Expansion",
+    "url": "https://arxiv.org/abs/2609.14875",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-15T04:00:00+00:00",
+    "summary": "arXiv:2609.14875v1 Announce Type: new Abstract: LLM-based query expansion increasingly conditions reformulation on documents retrieved from the target corpus, yet most work focuses on how to generate expansions rather than which documents the model should read. We propose EviQE, which aggregates documents retrieved by multiple reformulators, selects a compact evidence set, and uses it for one grounded expansion step. This separates evidence selection from generation and treats reformulators as c…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c8db48c1eced",
+    "title": "Route Me If You Can: A Benchmark for Query Reformulation Selection",
+    "url": "https://arxiv.org/abs/2609.14885",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-15T04:00:00+00:00",
+    "summary": "arXiv:2609.14885v1 Announce Type: new Abstract: LLM-based query reformulation can improve retrieval, but no single reformulation strategy is consistently optimal across queries, domains, retrievers, or model backbones. This creates an inference-time decision problem: ``Given an original query and a pool of candidate reformulations, which one should be issued to the retriever?''. Existing studies are hard to compare because they use different reformulator pools, retrievers, relevance signals, tra…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "2ab05356e2e2",
+    "title": "LazFormer: Scaling Transformers for Industrial Recommendation via Transferable Generative Pre-training",
+    "url": "https://arxiv.org/abs/2609.14978",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-15T04:00:00+00:00",
+    "summary": "arXiv:2609.14978v1 Announce Type: new Abstract: Transformers have shown promising performance in LLMs due to their outstanding scalability, several studies have investigated the scalability of Transformers for industrial recommendation. They typically rely on a single ranking model to optimize both sparse and dense parameters from scratch, resulting in substantial computational resource consumption and slow convergence. Fortunately, the pre-training models offer an effective solution to the abov…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c09ca8c19101",
+    "title": "Generate to Explore, Select to Exploit: Aligning LLM-based Headline Generation with Personalized Recommendation",
+    "url": "https://arxiv.org/abs/2609.15094",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-15T04:00:00+00:00",
+    "summary": "arXiv:2609.15094v1 Announce Type: new Abstract: In industrial recommendation feeds, presenting a static headline for an item often fails to satisfy the diverse, multimodal interests of the user population, particularly suppressing the needs of long-tail audiences. While Large Language Models (LLMs) have been integrated into recommendation for content understanding or ranking, directly optimizing them to output a single best headline typically leads to mode collapse---converging to generic patter…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "80908c835ef4",
+    "title": "Top-K Is Not a Budget for Hybrid Retrieval",
+    "url": "https://arxiv.org/abs/2609.15143",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-15T04:00:00+00:00",
+    "summary": "arXiv:2609.15143v1 Announce Type: new Abstract: Modern hybrid retrieval for RAG typically fuses the Top-$L$ results from dense and sparse retrievers, but a fixed truncation depth may not transfer across changing queries and corpora. Exact fusion removes the dependence on a fixed depth, yet completing a specified Top-$K$ still incurs variable access costs. We present DiBud, which takes an access budget directly as input and incrementally certifies and returns an exact prefix of the RRF ranking ov…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "8ad3e7b0441b",
+    "title": "ProLiVis 2.0: Literature-Centric Visualization of Protein--Protein Interaction Networks, with a Citation-Trust Model for Interaction Evidence",
+    "url": "https://arxiv.org/abs/2609.15236",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-15T04:00:00+00:00",
+    "summary": "arXiv:2609.15236v1 Announce Type: new Abstract: Protein-protein interaction databases record evidence without weighing it. In BioGRID, an interaction asserted once by a single high-throughput screen and one confirmed by twenty laboratories across a dozen assays are the same kind of row in the same file. Tools built on such databases inherit that flattening: they draw every reported interaction as an edge, and the resulting picture states that two proteins interact without stating how much anyone…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4ee235eb4132",
+    "title": "Clean Scores, Buried Evidence, and Confident Wrong: A Receipt-Based Audit of Frontier Agentic QA",
+    "url": "https://arxiv.org/abs/2609.15319",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-15T04:00:00+00:00",
+    "summary": "arXiv:2609.15319v1 Announce Type: new Abstract: Frontier models score well on shallow document/chart reading tasks. In a controlled data-room audit, moving evidence into buried conditions reduced accuracy, increased forced declarations, increased tool calls, and increased cost per correct answer. Confidence and benchmark calibration did not fully capture wrong answers; a documented production incident shows fabricated structural claims can be mixed with accurate numeric tables. Agentic evaluatio…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1aaa1c28b896",
+    "title": "Benchmarking Embedding Models for ESG Data",
+    "url": "https://arxiv.org/abs/2609.15434",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-15T04:00:00+00:00",
+    "summary": "arXiv:2609.15434v1 Announce Type: new Abstract: The use of Environmental, Social, and Governance (ESG) data is fundamental for modern corporate accountability, sustainability reporting, and financial decision-making. Embedding models have emerged as a powerful approach for transforming unstructured ESG text into numerical representations suitable for downstream natural language processing (NLP) tasks. However, their effectiveness in these ESG-specific tasks has not been systematically studied. I…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "2f10ec61a422",
+    "title": "Beyond Retrieval: Scaffolding Children's Online Learning",
+    "url": "https://arxiv.org/abs/2609.15568",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-15T04:00:00+00:00",
+    "summary": "arXiv:2609.15568v1 Announce Type: new Abstract: Children increasingly turn to online information access systems that are primarily designed for the mainstream population, e.g., adults, but possess a limited understanding of how these systems work, contributing to their unstructured and ineffective search practices. This lack of knowledge can hinder their curiosity and the development of critical search skills. Grounded on the existing literature of both child-oriented Information Retrieval and H…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "86d2f27e6ce8",
+    "title": "The Magnitude Mirage: Rethinking Confidence for Reasoning-Intensive Retrieval",
+    "url": "https://arxiv.org/abs/2609.15578",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-15T04:00:00+00:00",
+    "summary": "arXiv:2609.15578v1 Announce Type: new Abstract: Many production RAG systems implement retrieval abstention by thresholding raw similarity scores, implicitly treating score magnitude as a confidence signal. We demonstrate that this practice degrades systematically as queries require reasoning beyond semantic matching. Across 11 retrieval architectures and 28 datasets, neural retrievers consistently assign high similarity scores to semantically related but constraint-violating documents, causing m…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a443438a730d",
+    "title": "Self-Evolving Memory for Generative Recommendation",
+    "url": "https://arxiv.org/abs/2609.15598",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-15T04:00:00+00:00",
+    "summary": "arXiv:2609.15598v1 Announce Type: new Abstract: Generative recommendation has emerged as a promising end-to-end paradigm for personalized recommendation. However, user preferences continuously evolve over time, making self-evolving an essential capability for generative recommender systems. Existing evolving strategies, such as continual retraining and distillation-based adaptation, directly update the shared model parameters using streaming interactions. Nevertheless, we find that directly appl…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "9acf79c12e8e",
+    "title": "IROH: Insightful Ranking Of Humor using Multi-Stage Hybrid Retrieval with Rationale-Distilled LLM Judges for JOKER 2026 Track Task 1 English",
+    "url": "https://arxiv.org/abs/2609.15618",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-15T04:00:00+00:00",
+    "summary": "arXiv:2609.15618v1 Announce Type: new Abstract: Our team, VANGUARD, presents IROH (Insightful Ranking of Humor), a three-stage retrieval system for JOKER Task 1 English at CLEF 2026, achieving first place on the leaderboard with 0.6347 MAP. Our pipeline combines hybrid sparse-dense retrieval, cross-encoder reranking, and a LoRA-adapted Large Language Model judge ensemble. We employ Gemma 4 to generate query-aware rationales under two prompt strategies, generic and typed, and produce up to four t…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a99d913abafe",
+    "title": "Interpretable Temporal Video Reasoning with EventGraph and EventField",
+    "url": "https://arxiv.org/abs/2609.13258",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-15T04:00:00+00:00",
+    "summary": "arXiv:2609.13258v1 Announce Type: cross Abstract: We present a structured temporal video reasoning pipeline built around a discrete EventGraph, a continuous EventField, and a human-readable EventGlyph view. On a calibrated EPIC-KITCHENS subset of 10 videos and 50 temporal reasoning questions, EventField+Glyph achieves 0.98 overall accuracy, which is higher than the caption baseline by +0.40 (paired p = 1.1 \\times 10^{-5}) and direct VLM-only QA by +0.20 (p = 0.0063) on this subset. We further ev…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e30e0142c64c",
+    "title": "LLM Signals in Funded Grants: Evidence from International Funding Agencies",
+    "url": "https://arxiv.org/abs/2609.13241",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-15T04:00:00+00:00",
+    "summary": "arXiv:2609.13241v1 Announce Type: new Abstract: The release of ChatGPT in November 2022 introduced a writing tool of unprecedented fluency into the daily routines of researchers across the sciences. Prior work has measured what follows in journal abstracts and in peer reviews by documenting an upward shift in the frequency of words and short phrases that large language models (LLMs) tend to overproduce. However, a much less-examined question concerns whether the same shift extends to grant propo…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "b057cb79365d",
+    "title": "ATTRICITE: Training an Open 4B Model for Citation Recovery toward Faithful Attribution",
+    "url": "https://arxiv.org/abs/2609.14248",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-15T04:00:00+00:00",
+    "summary": "arXiv:2609.14248v1 Announce Type: new Abstract: Faithful citation attribution begins with identifying the intended source for a scientific claim. We study this source-identification capability through citation recovery: recovering the paper cited by the original author from a citation-bearing passage. Our evaluation adopts the published author's citation as an observable human attribution signal and uses target recovery as a proxy for progress toward faithful attribution. We introduce ATTRICITE,…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "aa2c566bbbb3",
+    "title": "Has Scientific Talent Shifted from Depth to Breadth?Evidence across Papers, Knowledge Inputs, Careers, and Teams",
+    "url": "https://arxiv.org/abs/2609.14425",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-15T04:00:00+00:00",
+    "summary": "arXiv:2609.14425v1 Announce Type: new Abstract: Generative artificial intelligence raises a central question for scientific training and organization. Is research shifting from deep specialization toward broad individual knowledge? We examine this proposition across papers, cited knowledge, contributor histories, and teams using 47,959 articles from six fields over 2010-2025, 51,736 resolved cited works, and chronologically reconstructed prior publication histories for 1,754 randomly selected in…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "38ad6b276688",
+    "title": "Ending the NIH embargo accelerated public access to funded research, but substantial delays remain",
+    "url": "https://arxiv.org/abs/2609.14842",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-15T04:00:00+00:00",
+    "summary": "arXiv:2609.14842v1 Announce Type: new Abstract: On 1 July 2025 the National Institutes of Health began requiring that funded articles be publicly available in PubMed Central on the day they are published, ending the 12-month embargo that had applied since 2008. Comparing NIH-supported articles with articles in the same journals and months that reported no US federal support, before and after the policy, the share available in PubMed Central within a week of publication rose by 5.6 percentage poi…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e1750881c859",
+    "title": "Geometric Signatures of Conceptual Reorganization: A Counterfactual Embedding Framework for Detecting Scientific Revolutions",
+    "url": "https://arxiv.org/abs/2609.14917",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-15T04:00:00+00:00",
+    "summary": "arXiv:2609.14917v1 Announce Type: new Abstract: We introduce document embedding geometry as a quantitative observable of conceptual reorganization and develop a counterfactual ablation framework for measuring how individual concepts influence the organization of scientific knowledge, providing a quantitative framework for detecting scientific revolutions. The observable is defined by the geometric perturbation induced when removing documents associated with a candidate concept from the embedding…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "f7fb4bcc105b",
+    "title": "Toward non-textual representation of social anthropology: Modeling cultures as knowledge graphs",
+    "url": "https://arxiv.org/abs/2609.15214",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-15T04:00:00+00:00",
+    "summary": "arXiv:2609.15214v1 Announce Type: new Abstract: The study examines the emerging field of knowledge representation in the context of the semantic web and linked data, with a focus on knowledge produced within the social sciences - particularly in sociocultural anthropology. It starts from the premise that natural language, especially its textualized form, has long been the primary vehicle for producing and communicating anthropological research. Informed by theoretical approaches from information…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "91a59105a61e",
+    "title": "Cross-Ecosystem Packages As Multilingual: Prevalence, Architecture, and Health",
+    "url": "https://arxiv.org/abs/2609.14983",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-15T04:00:00+00:00",
+    "summary": "arXiv:2609.14983v1 Announce Type: cross Abstract: Modern software development increasingly relies on using multiple programming languages. Some software packages are published to multiple package ecosystems such as NPM for JavaScript and PyPI for Python. Little is known about cross-ecosystem packages, especially regarding how they are structured. In this paper, we conduct a large-scale empirical study of over six million packages across six major ecosystems to understand 1) how prevalent cross-e…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c2dad9f89399",
+    "title": "From Funding to Findings (FIND): An Open Database of NSF Awards and Research Outputs",
+    "url": "https://arxiv.org/abs/2510.10336",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-15T04:00:00+00:00",
+    "summary": "arXiv:2510.10336v2 Announce Type: replace Abstract: Public funding plays a central role in driving scientific discovery. To better understand the link between research inputs and outputs, we introduce FIND (Funding-Impact NSF Database), an open-access dataset that systematically links NSF grant proposals to their downstream research outputs, including publication metadata and abstracts. The primary contribution of this project is the creation of a large-scale, structured dataset that enables tra…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "d834d734a1ce",
+    "title": "The AI industry has taken a doomer turn. What now?",
+    "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+    "source": "MIT Tech Review",
+    "date": "2026-09-14T17:54:22+00:00",
+    "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its&#8230;",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "74f50cac4a0e",
+    "title": "New York Seizes a Dozen Celebrity Deepfake Websites",
+    "url": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/",
+    "source": "Wired AI",
+    "date": "2026-09-14T16:50:00+00:00",
+    "summary": "In the biggest-ever legal action against harmful deepfake websites, the Manhattan District Attorney’s Office has seized 12 sites that collectively targeted around 1,200 victims.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f23ae65b53c9",
+    "title": "AI agents blew the whistle on their cheating colleagues",
+    "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+    "source": "MIT Tech Review",
+    "date": "2026-09-14T16:00:00+00:00",
+    "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "9acf537254af",
     "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
     "url": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
