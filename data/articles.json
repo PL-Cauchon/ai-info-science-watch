@@ -1,5 +1,230 @@
 [
   {
+    "id": "784ab7c1a01f",
+    "title": "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
+    "url": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/",
+    "source": "Wired AI",
+    "date": "2026-09-16T09:30:00+00:00",
+    "summary": "The US and China agree that advanced AI poses serious risks. But Beijing is deeply skeptical of a deal that prioritizes keeping US companies ahead.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "dd69dc594fe9",
+    "title": "Evaluating Brand Retrieval and Ranking in Large Language Model Recommendations",
+    "url": "https://arxiv.org/abs/2609.16304",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-16T04:00:00+00:00",
+    "summary": "arXiv:2609.16304v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used for product recommendation, but evaluating their recommendations presents challenges that differ from conventional information retrieval and recommender systems. LLMs can generate recommendations without an explicit candidate set, and repeated responses to the same query can produce different brands and rankings. We introduce a framework for evaluating open-ended LLM brand recommendations that defi…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "42d80e318d5d",
+    "title": "Where Post-Training Quantization Breaks Text Embedders: A Measured Map Across Four Embedder Families",
+    "url": "https://arxiv.org/abs/2609.16391",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-16T04:00:00+00:00",
+    "summary": "arXiv:2609.16391v1 Announce Type: new Abstract: Weight-only post-training quantization is the cheapest way to shrink a retrieval embedder, and the received advice for applying it -- protect the embedding table, allocate bits by module sensitivity, prefer a ranking-aware objective over weight reconstruction -- was carried into LLM quantization largely intact. We test that advice on retrieval embedders directly, quantizing five checkpoints from four architecture families across a grid of bit width…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "98ba3c184951",
+    "title": "Balancing Trial and Reorder: A Hybrid Sequential Transformer-GBDT Ranker for On-Demand Delivery",
+    "url": "https://arxiv.org/abs/2609.16407",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-16T04:00:00+00:00",
+    "summary": "arXiv:2609.16407v1 Announce Type: new Abstract: On a delivery platform, personalized store ranking greatly influences what users find and order. Unlike digital-only domains, candidate stores are local and bound by real-time availability and delivery operations. One central modeling tension is between surfacing new stores for trial and preserving ranking quality for sessions with reorder intent. We present Universal Venue Ranker (UVR), a production system deployed at Wolt that pairs a bidirection…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e70225d21758",
+    "title": "PCap: Personalized Retrieval-Stage Diversity Capping in Facebook Marketplace",
+    "url": "https://arxiv.org/abs/2609.16452",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-16T04:00:00+00:00",
+    "summary": "arXiv:2609.16452v1 Announce Type: new Abstract: We propose a personalized capping framework (PCap) to improve the diversity in Facebook Marketplace by introducing user-level diversity constraints at the retrieval stage. PCap models individual diversity preferences using Shannon entropy-based scoring, segments users into diversity buckets, and applies personalized category caps during multi-source candidate retrieval. To navigate the high-dimensional parameter space of per-bucket caps, we leverag…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "55ec70f05a12",
+    "title": "Predicting Partial Answer Quality and Utility in Agentic Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2609.16453",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-16T04:00:00+00:00",
+    "summary": "arXiv:2609.16453v1 Announce Type: new Abstract: Agentic Retrieval-Augmented Generation (RAG) has become a promising paradigm for multi-hop question answering, where a reasoning model iteratively issues queries to a retriever and incorporates newly retrieved context into subsequent reasoning steps. While this iterative process can improve final answer quality, current evaluations of agentic RAG largely focus on end-to-end outcomes and provide limited visibility into how a model's answer state cha…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "0006e2350f5a",
+    "title": "ReliGRec: Reliability-Oriented LLM-Based Generative Recommendation via User-Risk-Aware Prompt Routing",
+    "url": "https://arxiv.org/abs/2609.16560",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-16T04:00:00+00:00",
+    "summary": "arXiv:2609.16560v1 Announce Type: new Abstract: User behavior in real-world recommender systems is heterogeneous. While some users exhibit coherent preferences, others show abrupt interest shifts, bursty interactions, excessive repetition, or inconsistency with collaborative neighborhoods. Such deviations may arise from benign variation or manipulation, including shilling attacks, but do not alone establish malicious intent. Existing robust recommenders exploit user-risk signals through training…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "2ba1864bb1f5",
+    "title": "Measuring Decision-Scale Use in Tool-Augmented LLMs: A Contrastive Urban Benchmark",
+    "url": "https://arxiv.org/abs/2609.16607",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-16T04:00:00+00:00",
+    "summary": "arXiv:2609.16607v1 Announce Type: new Abstract: Urban decision-support often asks whether activity is unusually high or low for a specific place, not which place has the larger raw count. Twenty pickups in a quiet neighborhood can be more abnormal than 180 at an airport. We introduce URBANCONTRASTIVEQA, a benchmark that asks whether tool-augmented language models can make this baseline-relative comparison. Each item pairs two urban situations from public mobility data in NYC, Chicago, and Seattl…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "d9386930b51e",
+    "title": "AURA: Agentic Diagnosis and Refinement for Production Recommender Systems at Scale",
+    "url": "https://arxiv.org/abs/2609.16625",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-16T04:00:00+00:00",
+    "summary": "arXiv:2609.16625v1 Announce Type: new Abstract: How and why does a recommender system fail the users it serves? Oftentimes, practitioners are left to improve their algorithms based on a combination of feedback from stakeholder teams, domain expertise, and insights from data analyses. Yet the nuances of how and where recommendations perform well or poorly for end users are difficult to discern from aggregate quantitative metrics. Whereas these metrics provide a high-level and incomplete picture, …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1bd03f7cfa08",
+    "title": "Efficient Swing Computation for Retrieval in Large-Scale Recommender Systems",
+    "url": "https://arxiv.org/abs/2609.16850",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-16T04:00:00+00:00",
+    "summary": "arXiv:2609.16850v1 Announce Type: new Abstract: Given a user-item graph $G$, a query item $v_q$ and a target item $v_t$, the Swing score $sw(v_q, v_t)$ of the item pair $(v_q, v_t)$ leverages the user-item-user interaction structure to evaluate their similarity. This measure is found to be highly effective in item-to-item (i2i) retrieval task and finds extensive applications in industrial-scale recommender systems. However, existing solutions towards computing Swing scores are either prohibitive…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5777cd9edec0",
+    "title": "Quantifying Organizational Environmental Action from Web Data and Large Language Models",
+    "url": "https://arxiv.org/abs/2609.16627",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-16T04:00:00+00:00",
+    "summary": "arXiv:2609.16627v1 Announce Type: cross Abstract: Quantifying organizational environmental action from publicly available web content remains a challenging environmental data science problem because relevant information can be dispersed across multiple webpages and is primarily communicated through unstructured text. We present a scalable computational framework for transforming organizational web content into structured measures of environmental action and demonstrate the approach using Jewish …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "43eff3d69d42",
+    "title": "LSREP: A Longitudinal State-Replay Protocol for Evaluating Conversational Memory, with ICE v2 as an Audited Local-First Architecture",
+    "url": "https://arxiv.org/abs/2609.16730",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-16T04:00:00+00:00",
+    "summary": "arXiv:2609.16730v1 Announce Type: cross Abstract: Conversational memory changes during use, so endpoint question answering alone cannot establish how a persistent state accumulates, ages, or incorporates revisions. We introduce LSREP, a Longitudinal State-Replay Evaluation Protocol combining ordered replay, explicit lifecycle schedules, repeated probes, evolving reference answers, and mechanism-fidelity checks. Its architectural case study is ICE v2, a local-first memory middleware with typed st…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "97449cc5dfb5",
+    "title": "Can We Do Interpretable NLI with Graphs Based on Atomic Propositions?",
+    "url": "https://arxiv.org/abs/2609.16814",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-16T04:00:00+00:00",
+    "summary": "arXiv:2609.16814v1 Announce Type: cross Abstract: While Large Language Model (LLM)-based Natural Language Inference (NLI) systems achieve high accuracy, their decision-making processes lack auditable structures. This paper explores whether NLI can be performed using only interpretable, graph-based representations of evidence. We introduce a fully graph-based pipeline where the classifier never directly processes the input text. Instead, sentences are decomposed into atomic propositions, converte…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "4141904eac42",
+    "title": "RegRet: Enhancing Region-Level Retrieval in Large Multimodal Models",
+    "url": "https://arxiv.org/abs/2609.16847",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-16T04:00:00+00:00",
+    "summary": "arXiv:2609.16847v1 Announce Type: cross Abstract: Region-level retrieval aims to align user-specified image regions with relevant regions or textual descriptions, playing a crucial role in realworld applications such as e-commerce product search and RAG. Although recent Large Multimodal Models (LMMs) have made significant strides in multimodal retrieval, they primarily focus on global-level tasks and struggle to capture effective region-level representations. To bridge this gap, we present RegRe…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "499278f3cf92",
+    "title": "Diagnosing the Fact-Grounding Gap in Multi-Hop Question Answering",
+    "url": "https://arxiv.org/abs/2609.17043",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-16T04:00:00+00:00",
+    "summary": "arXiv:2609.17043v1 Announce Type: cross Abstract: Multi-hop question answering requires combining information from multiple documents to answer complex questions. These systems have grown increasingly capable, yet when they fail, the error is typically attributed to not finding the right documents. Whether this holds at the level of individual reasoning steps remains largely unexamined. We investigate this across three standard multi-hop QA benchmarks and find that failures decompose into two di…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "6ec794d39290",
+    "title": "Lexplorer: Navigating the Complexity of Legal Document Landscapes",
+    "url": "https://arxiv.org/abs/2609.17366",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-16T04:00:00+00:00",
+    "summary": "arXiv:2609.17366v1 Announce Type: cross Abstract: As technological and social innovations create novel regulatory challenges, legal systems grow in complexity - increasing the need for interfaces that enable effective interactions with legal document collections. Through interviews with legal scholars (n=15), we find that supporting legal work requires going beyond retrieval-centered legal-information-system paradigms. Hence, we propose Lexplorer, a flexible interface for exploring, navigating, …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b550bf3f9469",
+    "title": "Revisiting Self-Attentive Sequential Recommendation Beyond the LLM Paradigm",
+    "url": "https://arxiv.org/abs/2504.09596",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-16T04:00:00+00:00",
+    "summary": "arXiv:2504.09596v2 Announce Type: replace Abstract: Sequential recommendation adopted the Transformer almost as soon as it appeared: SASRec ported the decoder to next-item prediction in 2018, a year after Attention is All You Need, and the paradigm has borrowed from language modeling ever since. The two tasks look nearly identical, both consume integer-ID sequences with causal self-attention, yet they pursue opposite ends. A recommender works to bring more users into contact with more items, an …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "ae6301a38313",
+    "title": "SciNLP: A Domain-Specific Benchmark for Full-Text Scientific Entity and Relation Extraction in NLP",
+    "url": "https://arxiv.org/abs/2509.07801",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-16T04:00:00+00:00",
+    "summary": "arXiv:2509.07801v5 Announce Type: replace-cross Abstract: Structured information extraction from scientific literature is crucial for capturing core concepts and emerging trends in specialized fields. While existing datasets aid model development, most focus on specific publication sections due to domain complexity and the high cost of annotating scientific texts. To address this limitation, we introduce SciNLP - a specialized benchmark for full-text entity and relation extraction in the Natural…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "9f45a5172b69",
+    "title": "Same Problem, Different Field: Cross-Domain Solution Import via Domain-Stripped Computational Fingerprints",
+    "url": "https://arxiv.org/abs/2609.07595",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-16T04:00:00+00:00",
+    "summary": "arXiv:2609.07595v2 Announce Type: replace-cross Abstract: The same underlying computational problem is solved across unrelated fields under different names: recursive Bayesian state estimation appears as a \"Kalman filter\" in control, \"Bayesian forecasting\" in pharmacokinetics, and \"data assimilation\" in geoscience. Topical and citation-based scientific embeddings cannot see this shared problem. We distill each paper once into a domain- and method-name-stripped faceted computational fingerprint, …",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "fb471fb49a05",
+    "title": "Geospatial Metadata Improves Discoverability by Connecting Datasets Across Scientific Disciplines",
+    "url": "https://arxiv.org/abs/2609.16498",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-16T04:00:00+00:00",
+    "summary": "arXiv:2609.16498v1 Announce Type: new Abstract: Research data repositories are essential infrastructure for scientific inquiry and for ensuring that datasets follow FAIR (Findable, Accessible, Interoperable, and Reusable) principles. However, repository reuse depends on the quality and completeness of geospatial and thematic metadata, which researchers generally provide voluntarily. Given limited curation resources, it is unsurprising that even Harvard Dataverse, the world's largest general-purp…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "2a9104605d0e",
+    "title": "Testing Our Foundations: Citation Trends, Errors, and Emerging Hallucinations in the Computing Education Literature",
+    "url": "https://arxiv.org/abs/2609.16574",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-16T04:00:00+00:00",
+    "summary": "arXiv:2609.16574v1 Announce Type: new Abstract: Accurate references are foundational to scholarly work, enabling verification, attribution, and systematic review. However, the rapid adoption of large language models has introduced a serious integrity concern: plausible-looking but fabricated citations. Although hallucinated references are widely discussed, their visibility within specific research communities remains unclear. We address this gap by examining reference integrity at key computing …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a6ad2c893915",
+    "title": "Quantifying the impact of clinical-academic collaborations",
+    "url": "https://arxiv.org/abs/2609.17051",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-16T04:00:00+00:00",
+    "summary": "arXiv:2609.17051v1 Announce Type: new Abstract: Academic collaboration is of self-evident value but requires a quantitative representation to be optimally guided by policy. No established methodological approach to such representation exists. Here we introduce a general framework of graphical and bibliometric analysis of open data for the task of quantifying the impact of academic networks, with NIHR Biomedical Research Centre (BRC) clinical-academic partnerships in England as the prototype. We …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "fa629dcaf6ab",
+    "title": "Refreshing for the Future",
+    "url": "https://americanlibrariesmagazine.org/2026/09/15/refreshing-for-the-future/?utm_source=rss&utm_medium=rss&utm_campaign=refreshing-for-the-future",
+    "source": "American Libraries",
+    "date": "2026-09-15T23:41:07+00:00",
+    "summary": "Here are a few practical ways to think about approaching a library renovation: Start with a North Star. Before you pick finishes or start talking timelines, take a step back and get clarity on what you want your library to become. I call this the north star—your vision for how the building should function for &#8230; Continue reading Refreshing for the Future &#8594; The post Refreshing for the Future appeared first on American Libraries Magazine.",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "aa3b8d5b9aad",
+    "title": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
+    "url": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
+    "source": "Wired AI",
+    "date": "2026-09-15T18:00:09+00:00",
+    "summary": "The virtual character, which is promoting its upcoming movie Misaligned, tries to evade politics by repetitively commenting on the clothes you’re wearing.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "bfd9d501d143",
+    "title": "Roundtables: Could AI really kill us all?",
+    "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+    "source": "MIT Tech Review",
+    "date": "2026-09-15T17:47:51+00:00",
+    "summary": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether they hold any water, and, if so,&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "e3cf6f2003f4",
     "title": "A Commitment to Trustworthy and Authentic Information: Technological Transformation Over the Centuries",
     "url": "https://blogs.loc.gov/thesignal/2026/09/trustworthy-and-authentic-information/",
