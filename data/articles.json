@@ -1,5 +1,329 @@
 [
   {
+    "id": "193c8bfab556",
+    "title": "Could AI really kill us all? Your questions, answered.",
+    "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+    "source": "MIT Tech Review",
+    "date": "2026-09-18T11:29:22+00:00",
+    "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "3a33fe152703",
+    "title": "The Leftist Split Over AI Doom",
+    "url": "https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/",
+    "source": "Wired AI",
+    "date": "2026-09-18T10:15:00+00:00",
+    "summary": "The left wants AI regulation. They just can't agree on what it should look like or how concerned they should be.",
+    "category": "AI & Information Governance"
+  },
+  {
+    "id": "630aecb9dff0",
+    "title": "Napster Is Back, and It Wants to Digitally Clone Teachers",
+    "url": "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/",
+    "source": "Wired AI",
+    "date": "2026-09-18T09:15:00+00:00",
+    "summary": "Once the music industry’s biggest headache, Napster’s next act is bringing AI to the classroom.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "846a0e27969d",
+    "title": "Why AI Isn’t Likely to Wipe Out Humanity With Bioweapons",
+    "url": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/",
+    "source": "Wired AI",
+    "date": "2026-09-18T09:00:00+00:00",
+    "summary": "Of all the threats presented by uncontrollable artificial intelligence, scientists say death by plague ranks low.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a8fa347fe025",
+    "title": "Algebraic Retrieval: Composable Search for Agents",
+    "url": "https://arxiv.org/abs/2609.19482",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.19482v1 Announce Type: new Abstract: Algebraic Retrieval lets AI agents compose search strategies at query time. Relevance criteria, eligibility constraints, and ranking preferences can be expressed together in a mathematical query. The query surface exposes available operations, so an agent can combine them for the question at hand and revise a program after inspecting results. We evaluate execution parity, not agent behavior or retrieval quality. Building on Programmatic Embedding M…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "52e6772f3a3c",
+    "title": "Beyond Similarity through Zero-Token Geometric Graphs for Multi-Hop RAG",
+    "url": "https://arxiv.org/abs/2609.19622",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.19622v1 Announce Type: new Abstract: Multi-hop retrieval-augmented generation (RAG) requires evidence that remains relevant to a query while introducing enough novelty to bridge semantic gaps. Dense retrieval tends to concentrate on semantically similar documents, whereas graph-based alternatives often depend on costly Large Language Model (LLM) entity extraction and may propagate through noisy connections. We introduce Geometric Gain Graph RAG (G$^3$RAG), a document-only framework wh…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "e6ee86688677",
+    "title": "Self-Evolving Search Index",
+    "url": "https://arxiv.org/abs/2609.19656",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.19656v1 Announce Type: new Abstract: Information retrieval is increasingly important as LLM agents tackle complex tasks involving diverse information needs. Because retrieval relies on an index that represents each document through index keys, retrieval quality depends heavily on how effectively these keys expose the knowledge contained in each document. However, effective index representations vary across retrieval environments, making it difficult for any fixed optimization strategy…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "d3b0e886d968",
+    "title": "Dense Feature Representation over Sequence Modeling: A Solution to the KDD Cup 2026 UniRec Challenge",
+    "url": "https://arxiv.org/abs/2609.19787",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.19787v1 Announce Type: new Abstract: We describe our 10th-place solution to the KDD Cup 2026 Tencent UniRec Challenge, industrial click-to-conversion (CVR) prediction over 34.82M records, and we ask which mechanisms actually move held-out AUC. Starting from the official PCVRHyFormer baseline, a 15-step single-variable chain raises test AUC from 0.813237 to 0.827816, and our final submission reaches 0.828535. A leave-one-out ablation from the full model attributes the gain: removing th…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "33c0fdf49eca",
+    "title": "Reproducing Transparent and Scrutable Recommendations: Exploring Open-Weight Models via Natural-Language User Profiles",
+    "url": "https://arxiv.org/abs/2609.19831",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.19831v1 Announce Type: new Abstract: In this reproducibility study, we investigate the transparency and scrutability of recommender systems enhanced by incorporating generated natural-language user profiles that represent user preferences. The original paper explores the synthesis of user profiles from raw user-generated review text across domains such as movies and accommodations (Amazon Movies & TV, TripAdvisor). Crucially, these natural-language user profiles enable direct user int…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0759c5cf5ccf",
+    "title": "The Missing Complement: State-Conditioned Minimal Sufficient Evidence for Coding Agents",
+    "url": "https://arxiv.org/abs/2609.20050",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.20050v1 Announce Type: new Abstract: A coding agent halfway through an issue has already read much of what a retriever ranks highest. Relevance is scored per passage, but sufficiency belongs to the set: a ranker can fill its budget with variants of one required fact and leave the decision unsupported. We formulate state-conditioned minimal sufficient evidence recovery: given a captured agent state, recover a compact evidence combination that supplies the support its next decision stil…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ff6f3e7c610d",
+    "title": "Think Thrice Before Reranking: Multi-perspective Evidence and Reasoning Integration for Text Reranking",
+    "url": "https://arxiv.org/abs/2609.20131",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.20131v1 Announce Type: new Abstract: Reasoning-based reranking with Large Language Models (LLMs) has shown promising improvements in text ranking. However, current methods predominantly rely on a single reasoning trajectory, resulting in rankings that are susceptible to reasoning errors and inherently constrained in modeling the multifaceted signals underlying document relevance. To resolve this dilemma, we propose MERIT-Rank(Multi-perspective Evidence and Reasoning Integration for Te…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "2529a7b099cf",
+    "title": "FacetCRS: Multi-Faceted Preference Learning for Pricking Filter Bubbles in Conversational Recommender System",
+    "url": "https://arxiv.org/abs/2609.20175",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.20175v1 Announce Type: new Abstract: The filter bubble is a notorious issue in Recommender Systems (RSs), which describes the phenomenon whereby users are exposed to a limited and narrow range of information or content that reinforces their existing dominant preferences and beliefs. This results in a lack of exposure to diverse and varied content. Many existing works have predominantly examined filter bubbles in static or relatively-static recommendation settings. However, filter bubb…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5b18fd022935",
+    "title": "Reasoning Quality Matters: Combating Reasoning Collapse in LLM-based Embedding Learning",
+    "url": "https://arxiv.org/abs/2609.20563",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.20563v1 Announce Type: new Abstract: Large Language Models (LLMs) have recently shown strong potential for producing context-rich text embeddings for retrieval. Most existing methods either treat embedding learning as passive feature extraction or exploit LLM reasoning through instruction following for better embedding optimization. However, specialization toward embedding objectives can suppress useful reasoning generation or produce retrieval-irrelevant text. We refer to these two f…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "0fe72fbd5104",
+    "title": "What Users Think of Generative AI: A Cross-Platform NLP Analysis of Trust and Friction in App Store Reviews",
+    "url": "https://arxiv.org/abs/2609.19151",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.19151v1 Announce Type: cross Abstract: Generative AI (GenAI) applications have achieved rapid consumer adoption, yet little large-scale research examines user-perceived quality, trust, and adoption barriers. We present one of the first cross-application analyses of app store reviews for six major GenAI applications (ChatGPT, Gemini, Microsoft Copilot, Claude, DeepSeek, and Perplexity), comprising 17,012 English-language reviews from Google Play and the Apple App Store. We combine BERT…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "8cd4c4de0ac9",
+    "title": "Stop Removing Stopwords: How an Inherited Preprocessing Default Distorts Legal Text-as-Data",
+    "url": "https://arxiv.org/abs/2609.19153",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.19153v1 Announce Type: cross Abstract: Empirical legal scholarship increasingly treats judicial text as data, and much of it still runs on sparse, interpretable pipelines -- TF-IDF features and linear classifiers -- because the textual feature is often the object of study, not merely a means to a prediction. Yet these pipelines inherit a chain of preprocessing defaults from mid-century information retrieval that were never validated against classification accuracy, the most entrenched…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "cf3be2ab5afa",
+    "title": "VisKG-LM: Compiling Knowledge Graphs into Visual Memory for Multiple-Choice Question Answering",
+    "url": "https://arxiv.org/abs/2609.19158",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.19158v1 Announce Type: cross Abstract: Knowledge graphs are usually integrated into question answering by encoding a retrieved subgraph with a graph neural network and fusing it with the language model in the online inference path. The same subgraph is therefore re-encoded from scratch every time a pair is scored, across training epochs, seeds, and evaluation runs, even though the knowledge graph never changes. We ask whether the retrieved knowledge graphs can instead be compiled once…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "832e040fa8ea",
+    "title": "Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses",
+    "url": "https://arxiv.org/abs/2609.19244",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.19244v1 Announce Type: cross Abstract: Conversational LLM agents increasingly rely on Web search, yet the end-to-end lifecycle of agentic search remains poorly understood. We present the first study of Web search across four major conversational platforms (ChatGPT, Claude, Grok, and DeepSeek), combining real-world user interactions (invivo) with controlled experiments using the same platform's models by their APIs (invitro). We investigate the quality of agentic decisions to invoke We…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "b04f6ae71847",
+    "title": "Beyond Private Training: The New Landscape of AI Privacy",
+    "url": "https://arxiv.org/abs/2609.19456",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.19456v1 Announce Type: cross Abstract: Retrieval-augmented systems increasingly rely on vector indexes that may retain deleted items in their search graph. Existing deletion interfaces can prevent deleted identifiers from appearing in returned results while still computing distances to their embeddings during graph traversal. We formalize this distinction as output safety versus traversal safety, and introduce TSD-AUDIT, a framework for auditing and enforcing traversal-safe deletion i…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "5ac11e42c664",
+    "title": "SCOUT: Sim-to-Real Text-Based Person Retrieval by Embedding-Space Prediction over Frozen Video Features",
+    "url": "https://arxiv.org/abs/2609.19483",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.19483v1 Announce Type: cross Abstract: Text-based person retrieval under a sim-to-real gap (synthetic training data, a real-image gallery) is usually tackled with costly fine-tuned cross-encoders. We ask whether a frozen-encoder system can compete. We present SCOUT, which casts cross-modal retrieval as prediction in embedding space. A trainable predictor maps the patch tokens of a frozen video encoder into the embedding space of a frozen text encoder under a bidirectional InfoNCE obje…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "3812049aebb6",
+    "title": "CliniCIRCA: A Modular LLM Framework for Constructing Longitudinal Mental Health Patient Journeys from Raw EHR Narratives",
+    "url": "https://arxiv.org/abs/2609.19585",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.19585v1 Announce Type: cross Abstract: In mental health care, reasoning over patient journeys is a key task for clinicians. Yet these journeys, encompassing a longitudinal progression of biological, psychological, and social events, are often spread across disparate unstructured text narratives, making temporal recovery challenging. We present CliniCIRCA, a multi-stage LLM framework for Calendar-anchored, Imprecision-aware Reconstruction of Clinical Annals. To our knowledge, CliniCIRC…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "cc2151f6a5df",
+    "title": "FootprintRAG: Visual Analytics for Evidence Context Refinement in RAG-based Scientific Literature Exploration",
+    "url": "https://arxiv.org/abs/2609.19601",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.19601v1 Announce Type: cross Abstract: Retrieval-Augmented Generation (RAG) is increasingly used to ground large language model (LLM) outputs in scientific literature. However, in open-ended literature exploration, the evidence context used for generation is often produced through hidden retrieval, reranking, assessment, and filtering steps. Users may receive retrieval summaries without knowing how the system constructed the evidence context, which evidence units were retained or disc…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "733ba7f0579d",
+    "title": "Semantic Layer Induction from Raw Telemetry via Hierarchical LLM and RAG Abstraction",
+    "url": "https://arxiv.org/abs/2609.19615",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.19615v1 Announce Type: cross Abstract: Modern applications generate massive volumes of raw telemetry data, but translating those noisy, heterogeneous event streams into actionable business insights remains a fundamental challenge. Data engineers and analysts expend substantial effort reconciling semantic discrepancies, hand-crafting parsing logics, and maintaining fragile mappings between raw data and business KPIs. In this paper, we present an end-to-end framework that fully automate…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "827b61d8776e",
+    "title": "FINSKILLOPS: A Self-Evolving Multi-Agent System for SEC Filing QA",
+    "url": "https://arxiv.org/abs/2609.19680",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.19680v1 Announce Type: cross Abstract: Financial QA systems are typically improved before deployment through better retrieval, prompting, or agent coordination, leaving their reliability behavior fixed thereafter. In practice, new SEC-filing questions repeatedly expose heterogeneous errors in period, entity, evidence use, and calculation. Existing self-improvement methods can turn failures into new behaviors, but offer limited control over where a correction should apply or which prev…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0bb66c2211ea",
+    "title": "Trust, but Validate the Instrument: Auditing AI-Generated RTL Verification Plans on Authored Security-Regression Proxies",
+    "url": "https://arxiv.org/abs/2609.19844",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.19844v1 Announce Type: cross Abstract: AI-generated RTL verification plans can satisfy a provider schema yet fail at the boundary to trusted execution. We present SecTB-RTL, an auditable framework covering 31 tasks and 124 authored hardware-security regressions. A deterministic non-AI baseline killed 36, 75, and 78 mutants at increasing resource limits. The first confirmatory run (C1-R2) failed before model execution because the provider rejected its response schema. After a schema-on…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "31c932aa0e19",
+    "title": "Intrinsic Sequence-Likelihood Confidence in Retrieval-Dominated Extractive QA: Two Pre-Specified Negatives, and What They Do and Do Not Attribute",
+    "url": "https://arxiv.org/abs/2609.19942",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.19942v1 Announce Type: cross Abstract: In extractive document question answering whose questions were generated from the passages that contain their answers -- so that retrieval recovers 92-99.8% of what any mode combination could reach, whatever its absolute accuracy -- confidence-driven mechanisms have little to gain. Fine-tuning an open language model on a specialized domain corpus yields a model whose own confidence is a tempting control signal: it could decide which queries warra…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "cffddab32814",
+    "title": "Viveka-Insight: a cross-lingual concept graph and citation-grounded retrieval resource over the complete works of Swami Vivekananda in English and Bengali",
+    "url": "https://arxiv.org/abs/2609.20303",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.20303v1 Announce Type: cross Abstract: Classical philosophical corpora pose three compounding challenges for language resources: they exist in several languages without parallel alignment, their vocabulary is remote from that of contemporary readers, and generated text over culturally sensitive material must be verifiably grounded. We present Viveka-Insight, a bilingual resource and open-source pipeline for the works of Swami Vivekananda (1863-1902): the nine-volume English Complete W…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "460c76f8e53e",
+    "title": "Chunk Twice, Embed Once: A Systematic Study of Segmentation and Representation Trade-offs in Chemistry-Aware Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2506.17277",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2506.17277v2 Announce Type: replace Abstract: The retrieval stage of retrieval-augmented generation (RAG) for scientific question answering depends on how documents are segmented and how chunks are represented in embedding space. This dependence is especially relevant to chemistry texts, which contain dense terminology, symbolic notation, quantitative evidence, and context associated with document structure. However, benchmark-based evidence on the interaction between chunking strategy and…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "d977ea976dda",
+    "title": "MARS: Modality-Aligned Retrieval for Sequence Augmented CTR Prediction",
+    "url": "https://arxiv.org/abs/2509.01184",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2509.01184v2 Announce Type: replace Abstract: Click-through rate (CTR) prediction serves as a cornerstone of recommender systems. Despite the strong performance of current CTR models based on user behavior modeling, they are still severely limited by interaction sparsity, especially in low-active user scenarios. To address this issue, data augmentation of user behavior is a promising research direction. However, existing data augmentation methods heavily rely on collaborative signals while…",
+    "category": "Information Behavior"
+  },
+  {
+    "id": "eda750c2e896",
+    "title": "greCAPTCHA: Assessing Understanding as Evidence of Research Authorship Under Generative AI",
+    "url": "https://arxiv.org/abs/2609.20481",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.20481v1 Announce Type: new Abstract: Conferences, journals, funders, schools, and universities are struggling with a surge of potentially AI-generated submissions from ostensibly human authors, who may not have exercised sufficient human oversight for their manuscripts. In turn, institutions evaluating submissions can no longer reliably credit expertise based solely on authors' names on submitted work. To address this problem, we propose greCAPTCHA, a proctored assessment approach tha…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "e1f3253b1add",
+    "title": "Funding the runners-up beats a golden ticket",
+    "url": "https://arxiv.org/abs/2609.19552",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.19552v1 Announce Type: cross Abstract: A golden ticket allows one reviewer to advance a proposal that the rest of a panel would reject. We assess its score-based rationale by comparing minority-support ranking with other rules for allocating the same number of places. We do so on 10,625 rejected submissions to a computer-science conference between 2017 and 2024, using later citation percentiles as the outcome. Minority-support ranking measured the gap between the two highest scores af…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "39f6526d2f10",
+    "title": "Improving Cross-Lingual Transfer for Sequential Sentence Classification in Research Papers via Structural Similarity",
+    "url": "https://arxiv.org/abs/2609.19650",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.19650v1 Announce Type: cross Abstract: Sequential sentence classification (SSC) is an essential task for structuring scientific publications, and extending SSC research to languages other than English can improve accessibility to scientific knowledge in multilingual digital libraries. Cross-lingual transfer is a promising approach to address the scarcity of training data in non-English languages. Prior work on other natural language processing tasks has shown the benefits of capturing…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "ae03187c7d72",
+    "title": "Automated Goldsmith's Mark Retrieval in Silverware",
+    "url": "https://arxiv.org/abs/2609.20509",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.20509v1 Announce Type: cross Abstract: For art historians, goldsmith marks play a critical role in the identification and dating of artifacts. In practice, experts must manually compare a query mark against hundreds of documented examples, a process that is both tedious and highly dependent on specialist knowledge. To address this, we present an AI-assisted retrieval pipeline that combines mark localization with metric-learning fine-tuning across three backbone architectures: an Image…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "35342dda7468",
+    "title": "Here’s What the AI Apocalypse Could Look Like",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/",
+    "source": "Wired AI",
+    "date": "2026-09-17T22:20:21+00:00",
+    "summary": "This week on “Uncanny Valley,” we discuss three possible AI doomsday scenarios, AI safety, and the unexpected bipartisan alliance forming against AI.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "3cec5bf6ab8c",
+    "title": "The AI ‘Slowdown’ Is an Antitrust Mess",
+    "url": "https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/",
+    "source": "Wired AI",
+    "date": "2026-09-17T19:58:28+00:00",
+    "summary": "By framing their efforts as a “slowdown” rather than an industry-wide push for better security standards, AI labs may have set themselves up for years of regulatory headaches.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "72296e29af6c",
+    "title": "The AI Slowdown Debate Crashed Salesforce’s Party",
+    "url": "https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/",
+    "source": "Wired AI",
+    "date": "2026-09-17T18:42:25+00:00",
+    "summary": "The Dreamforce conference became an unlikely battleground for the CEOs of OpenAI, Anthropic, and Nvidia to debate whether AI development should slow down.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "217a2a320660",
+    "title": "New Resources from FADGI on Content Authenticity and Provenance for AI-impacted Content",
+    "url": "https://blogs.loc.gov/thesignal/2026/09/fadgi-tcr4cap/",
+    "source": "LOC Signal",
+    "date": "2026-09-17T13:00:55+00:00",
+    "summary": "The Federal Agencies Digital Guideline Initiative has two new resources now open for public comment: \"TCR4CAP: Tiered Community Recommendations for Content Authenticity and Provenance, with a focus on LAM collections content impacted by artificial intelligence\" and the supporting technical assessment report, \"Content Authenticity and Provenance for Audiovisual Collections: An Environmental Review\" (also called CAP Environmental Review). Both resources will assist cultural heritage institutions w…",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "69c06402b6d8",
     "title": "Scaling Articulated Rationales for MLLM-based Recommendation",
     "url": "https://arxiv.org/abs/2609.17639",
