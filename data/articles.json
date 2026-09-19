@@ -1,5 +1,68 @@
 [
   {
+    "id": "0e6162939d74",
+    "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
+    "url": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
+    "source": "Wired AI",
+    "date": "2026-09-19T11:00:00+00:00",
+    "summary": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "111832ce11a9",
+    "title": "Mathematicians Hate AI. They Can’t Quit It",
+    "url": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
+    "source": "Wired AI",
+    "date": "2026-09-19T10:00:00+00:00",
+    "summary": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b0725c2c8151",
+    "title": "Join the WIRED World Fair in Miami on November 4",
+    "url": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
+    "source": "Wired AI",
+    "date": "2026-09-19T09:00:00+00:00",
+    "summary": "For one day only, WIRED is bringing the technologies, people, and cultural forces transforming our world off the page and into real life.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0f3cb72b85c7",
+    "title": "Here’s How an AI Slowdown Could Actually Be Enforced",
+    "url": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
+    "source": "Wired AI",
+    "date": "2026-09-18T19:21:09+00:00",
+    "summary": "Even if big AI companies agree to a pause, ensuring that nobody tries to sneak ahead could prove tricky.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "599c093b8d7e",
+    "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
+    "url": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race/",
+    "source": "Wired AI",
+    "date": "2026-09-18T15:00:08+00:00",
+    "summary": "The reliably Republican South Dakota senate seat has an incumbent on the ballot. But PACs associated with AI labs and investors have already spent more money on the race than actual residents have.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "68b12fa7143d",
+    "title": "If the AI Industry Followed Its Own Research, It Might Have Paused Already",
+    "url": "https://www.wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/",
+    "source": "Wired AI",
+    "date": "2026-09-18T15:00:00+00:00",
+    "summary": "Anthropic’s CEO says that safety hinges on understanding how AI “thinks.” So far the evidence is disturbing.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4e0596c90ea9",
+    "title": "Adopt This Data Center Plushie and Hear Its Piercing Scream",
+    "url": "https://www.wired.com/story/adopt-this-data-center-plushie-and-hear-its-piercing-scream/",
+    "source": "Wired AI",
+    "date": "2026-09-18T13:30:00+00:00",
+    "summary": "The satirical collaboration between a creative studio and the music producer behind Big Data, “Bezzy” is a cute little doll that spews the sounds of real data centers.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "193c8bfab556",
     "title": "Could AI really kill us all? Your questions, answered.",
     "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
