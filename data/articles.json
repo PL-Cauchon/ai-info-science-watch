@@ -1,5 +1,194 @@
 [
   {
+    "id": "acfd28523742",
+    "title": "Got an Android Phone? Google Thinks You’ll Probably Want a Googlebook Laptop",
+    "url": "https://www.wired.com/story/google-launches-googlebook-laptops/",
+    "source": "Wired AI",
+    "date": "2026-09-21T13:00:00+00:00",
+    "summary": "Apple lovers have long enjoyed seamless connectivity between their iPhones and Macs. Now, Google’s bringing that experience to Android.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f8c4e8d06db8",
+    "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+    "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+    "source": "MIT Tech Review",
+    "date": "2026-09-21T12:00:00+00:00",
+    "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of&#160;Dying on Camera, a collaboration between&#160;MIT Technology Review&#160;and&#160;Times of San Diego. Journalists in both newsrooms spent the past&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d3127432d763",
+    "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+    "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+    "source": "MIT Tech Review",
+    "date": "2026-09-21T12:00:00+00:00",
+    "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled towers and later died nearby, where their bodies remained unnoticed for&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "cd25620efbb8",
+    "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+    "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+    "source": "MIT Tech Review",
+    "date": "2026-09-21T12:00:00+00:00",
+    "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.&#160; As he walked through the desert in southern New Mexico that morning, he was within range of three surveillance towers. Newly installed&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "cddec4e64586",
+    "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+    "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+    "source": "MIT Tech Review",
+    "date": "2026-09-21T12:00:00+00:00",
+    "summary": "She had only walked for a couple of hours, and already she was lost.&#160; It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she walked.&#160; This story is part of&#160;Dying&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "bfcae31e7c49",
+    "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
+    "url": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
+    "source": "Wired AI",
+    "date": "2026-09-21T10:34:43+00:00",
+    "summary": "Officials discussed setting up a mechanism for the two countries to notify each other of AI incidents which could threaten national security.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2496408d293e",
+    "title": "Verify, Don't Trust: Agentic Model Development for Video Discovery Retrieval at Scale",
+    "url": "https://arxiv.org/abs/2609.21257",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-21T04:00:00+00:00",
+    "summary": "arXiv:2609.21257v1 Announce Type: new Abstract: Large language model (LLM) agents can propose, implement, and evaluate model changes. Autoresearch loops demonstrate this capability through minutes-scale iterations on a self-contained program. Online autoresearch instead spans asynchronous systems, hours-long variants, and weeks-long campaigns that can influence a product. A completed run can still support an invalid conclusion when a code change is a no-op, data windows leak, evaluator semantics…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "cb014a1f521d",
+    "title": "Hybrid GPU-CPU Retrieval for Personalized Search at Ultra-Large Scale",
+    "url": "https://arxiv.org/abs/2609.21281",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-21T04:00:00+00:00",
+    "summary": "arXiv:2609.21281v1 Announce Type: new Abstract: Embedding-based retrieval on user-generated content at the trillion-document scale exposes a sharp conflict between two production demands: deep, expressive personalization for queries with rich user intent, and broad coverage of a massive inventory under fixed latency and resource budgets. We characterize this as the personalization-scale paradox: hosting the full serving inventory in GPU memory is too resource intensive, while CPU compute cannot …",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "73a8ef8669f5",
+    "title": "Auto-Bidding with Disentangled Advertiser Profiles and Train-Free Adaptation",
+    "url": "https://arxiv.org/abs/2609.21308",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-21T04:00:00+00:00",
+    "summary": "arXiv:2609.21308v1 Announce Type: new Abstract: Auto-bidding is a key component of modern advertising systems that provides a personalized bidding strategy for each advertiser. By characterizing each individual, profile-based methods achieve personalization and have proven effective in domains such as recommendation. However, despite the diverse bidding behavior of advertisers, their application to auto-bidding remains limited. A primary reason is that constructing and leveraging advertiser prof…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "485108075c9c",
+    "title": "Adaptive Preference Modeling via Explicit Indirect Relational Learning for Personalized Fashion Matching",
+    "url": "https://arxiv.org/abs/2609.21475",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-21T04:00:00+00:00",
+    "summary": "arXiv:2609.21475v1 Announce Type: new Abstract: Personalized fashion complementary recommendation requires jointly modeling user preferences and item compatibility under sparse and multimodal data conditions. Existing approaches often capture higher-order relational signals implicitly through graph propagation or rely on direct interaction data, limiting their ability to explicitly model indirect preference and compatibility relationships. To address this limitation, we propose an Adaptive Prefe…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "934d52c32eff",
+    "title": "Predictable Failure in Multi-Hop Retrieval: Score-Distributional Confidence Scoring and Abstention",
+    "url": "https://arxiv.org/abs/2609.22056",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-21T04:00:00+00:00",
+    "summary": "arXiv:2609.22056v1 Announce Type: new Abstract: Multi-hop retrieval failures are not uniformly distributed across queries: they cluster in structurally predictable subpopulations. We prove two results formalizing this structure. First (CWAR Reducibility): confident-failure reduction is achievable if and only if retrieval features carry mutual information about success, a condition satisfied by LLM-judge pipelines but substantially weaker in dense-only settings, explaining the AUC-AC gap between …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "7eb640d593d0",
+    "title": "MAGIC: Marginal-Guided Compression with Optimal Transport for Efficient Visual Document Retrieval",
+    "url": "https://arxiv.org/abs/2609.21018",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-21T04:00:00+00:00",
+    "summary": "arXiv:2609.21018v1 Announce Type: cross Abstract: Recent visual document retrieval (VDR) systems such as ColPali use multi-vector page embeddings, in which patch-level vectors enable fine-grained evidence matching but incur substantial index storage and MaxSim scoring overhead. Post-hoc merging offers a practical route to efficient VDR by reducing this cost without retraining the retriever, but its uniform reconstruction objectives are poorly aligned with the sparse, non-uniform patch usage indu…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "1ec963333ae0",
+    "title": "Do We Care About Personalization and Explainability? An Interview Study with News Recommendation Engineers",
+    "url": "https://arxiv.org/abs/2609.21547",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-21T04:00:00+00:00",
+    "summary": "arXiv:2609.21547v1 Announce Type: cross Abstract: Research on explainability in recommender systems largely centers on end users, overlooking the perspectives of those who build and maintain these systems and their potential use cases such as model debugging. In this study, we examine how news engineers and related technical stakeholders perceive and implement personalization and explainability in practice. We conducted 15 semi-structured interviews across nine news organizations, spanning diver…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8f99fb31098b",
+    "title": "AutoRecLab: Describe the Experiment, Get the Code!",
+    "url": "https://arxiv.org/abs/2609.21863",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-21T04:00:00+00:00",
+    "summary": "arXiv:2609.21863v1 Announce Type: cross Abstract: Empirical evaluation is central to recommender-systems (RecSys) research, but turning experimental designs into executable code remains a manual and error-prone task. We present AutoRecLab, a Python-based autonomous RecSys lab that automates RecSys experiments from natural-language prompts. Given a research idea, AutoRecLab derives explicit experiment requirements, builds and validates a prototype, and iteratively expands it into the requested fu…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "95508c7e284b",
+    "title": "RankSteer: Can Pointwise LLM Rankers Be Calibrated at the Representation Level?",
+    "url": "https://arxiv.org/abs/2602.03422",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-21T04:00:00+00:00",
+    "summary": "arXiv:2602.03422v2 Announce Type: replace Abstract: Large language models (LLMs) are strong zero-shot pointwise rankers, but lag behind pairwise and listwise methods. Beyond missing comparative signals, we identify a \\textit{calibration gap}: ranking-relevant information encoded in hidden states is not fully captured by the scalar output head. We propose RankSteer, a post-hoc activation-steering framework that calibrates ranking via projection-based interventions along multiple directions at inf…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "6091fabad010",
+    "title": "IntTravel: A Real-World Dataset and Generative Framework for Integrated Multi-Task Travel Recommendation",
+    "url": "https://arxiv.org/abs/2602.11664",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-21T04:00:00+00:00",
+    "summary": "arXiv:2602.11664v2 Announce Type: replace Abstract: Next Point of Interest (POI) recommendation is essential for modern mobility and location-based services. To provide a smooth user experience, models must understand several components of a journey holistically: \"when to depart\", \"how to travel\", \"where to go\", and \"what needs arise via the route\". However, current research is limited by fragmented datasets that focus merely on next POI recommendation (\"where to go\"), neglecting the departure t…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "60d80031d902",
+    "title": "Compass: General Filtered Search across Vector and Structured Data",
+    "url": "https://arxiv.org/abs/2510.27141",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-21T04:00:00+00:00",
+    "summary": "arXiv:2510.27141v5 Announce Type: replace-cross Abstract: The increasing prevalence of hybrid vector and relational data necessitates efficient, general support for queries that combine high-dimensional vector search with complex relational filtering. However, existing filtered search solutions are fundamentally limited by specialized indices, which restrict arbitrary filtering and hinder integration with general-purpose DBMSs. This work introduces \\textsc{Compass}, a unified framework that enab…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "4430c7af042f",
+    "title": "Beyond Final Answers: CRYSTAL Benchmark for Transparent Multimodal Reasoning Evaluation",
+    "url": "https://arxiv.org/abs/2603.13099",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-21T04:00:00+00:00",
+    "summary": "arXiv:2603.13099v3 Announce Type: replace-cross Abstract: We introduce CRYSTAL (Clear Reasoning via Yielded Steps, Traceability, and Logic), a diagnostic benchmark with 6,372 instances that evaluates multimodal reasoning through verifiable intermediate steps. We propose two complementary metrics: Match F1, which scores step-level precision and recall via semantic similarity matching, and Ordered Match F1, which further penalizes disordered reasoning chains. References are constructed through a D…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2a72cfc52492",
+    "title": "Transferable knowledge graphs with executable learned operators for algorithm design",
+    "url": "https://arxiv.org/abs/2603.27922",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-21T04:00:00+00:00",
+    "summary": "arXiv:2603.27922v2 Announce Type: replace-cross Abstract: Procedural knowledge in algorithm design is embedded in source code and rebuilt for each new domain. We introduce Generative Executable Algorithm Knowledge Graphs (GEAKG), a representation in which this knowledge is stored as a generative, executable, transferable graph: typed nodes hold validated operators, edges encode admissible compositions, and learned edge weights record effective sequences. The same engine instantiates the structur…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "68e2132390f4",
+    "title": "From Papers to Interpretive Knowledge Nodes: Proposing the Missing Object in Scholarly Knowledge Circulation",
+    "url": "https://arxiv.org/abs/2609.20840",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-21T04:00:00+00:00",
+    "summary": "arXiv:2609.20840v1 Announce Type: new Abstract: The modern scholarly communication system, with the paper at its core, has successfully solidified \"research outputs\" into citable and traceable scholarly objects. Yet, across the full chain from knowledge production to knowledge reuse, a critical link - interpretation - has long existed without ever being objectified. The theoretical elaborations, methodological translations, and conceptual clarifications that researchers perform when reading pape…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "15041eb462a7",
+    "title": "From Code Archival to Knowledge Graph: Bridging Software Heritage, COAR Notify and Wikidata",
+    "url": "https://arxiv.org/abs/2609.21667",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-21T04:00:00+00:00",
+    "summary": "arXiv:2609.21667v1 Announce Type: new Abstract: Software is a first-class scientific object, yet validated links between source code and the scholarly record remain largely absent from the Linked Open Data (LOD) cloud, isolating archived artefacts from semantic discovery. This paper presents an end-to-end reconciliation pipeline that harvests, validates, and models publication-to-repository pairs from sources where the link between a paper and its source code is explicit and editorially verified…",
+    "category": "AI & Knowledge Management"
+  },
+  {
     "id": "8225d45909d6",
     "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
     "url": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
