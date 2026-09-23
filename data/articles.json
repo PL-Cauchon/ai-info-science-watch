@@ -1,5 +1,275 @@
 [
   {
+    "id": "3323137ee133",
+    "title": "AT&T Is Automating Away Jobs—and Its Old Telecom Empire",
+    "url": "https://www.wired.com/story/atandt-is-automating-away-its-old-telecom-empire/",
+    "source": "Wired AI",
+    "date": "2026-09-23T10:15:00+00:00",
+    "summary": "The telecom giant is eager to show Wall Street that it can do more with less. That means fewer employees, less electricity, and increased automation.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "fc2172001673",
+    "title": "GroundedGEO: Auditing the Evidence Gap in Generative Search Rankings",
+    "url": "https://arxiv.org/abs/2609.25189",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.25189v1 Announce Type: new Abstract: Generative search systems rank products and services for consequential decisions, and publishers can cheaply make candidate text look relevant. Yet evidence status is not a text property but a claim-evidence relation: text-only rankers and defenses cannot separate honest detailed content from fabricated detail, creating an identifiability gap. We audit this gap with an evidence-paired benchmark (50 e-commerce queries, 1,950 cases) and a claim-level…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "81d4a6d0be41",
+    "title": "ReFilter: Bridging Embeddings and LLM Filtering for Similar Mobile App Retrieval",
+    "url": "https://arxiv.org/abs/2609.25306",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.25306v1 Announce Type: new Abstract: Retrieving similar mobile applications (apps) is essential for researchers, developers, and end-users. Researchers use similarity detection to study app ecosystems and trends, developers for competitor analysis, and end-users for focused app recommendations. Existing approaches rely on embedding-based retrieval, which captures semantic similarity but fails to identify functionally similar apps. To our knowledge, no prior work has applied large lang…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "8b8990fde037",
+    "title": "Robust Fusion of Semantic and Behavioural Signals for LLM Reranking in Personalised Search",
+    "url": "https://arxiv.org/abs/2609.25825",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.25825v1 Announce Type: new Abstract: Personalised search must satisfy query intent while incorporating user context and historical interactions. LLM-based cross-encoders provide a single reranking interface, but injecting predictive behavioural statistics into their prompts can encourage shortcut learning: reliance on historical signals at the expense of semantic and user-context patterns that generalise to sparse or unseen searches. We study this problem in the personalised search sy…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "2a14632b8530",
+    "title": "Knowledge-as-Skill: A Structural Design for Autonomous Knowledge-Base Use by LLM Agents",
+    "url": "https://arxiv.org/abs/2609.25991",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.25991v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) gives large language models (LLMs) access to external knowledge, but its conventional retrieve-concatenate-generate pipeline makes retrieval decisions on behalf of the model. As tool use and agent loops become more reliable, an agent can decide whether to retrieve, what to inspect, and when to stop. This shift exposes a new bottleneck: the agent may not know what a knowledge base contains. Traditional knowledge …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "1d534ec43159",
+    "title": "TailSpec-EASE: Knowledge-Graph-Regularized Linear Recommendation for Web Long-Tail Discovery",
+    "url": "https://arxiv.org/abs/2609.26143",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.26143v1 Announce Type: new Abstract: Recommender systems on Web platforms tend to over-serve popular items and neglect the long tail. Item-side knowledge graphs (KGs), often available as linked data or RDF-style Web resources, can help by connecting sparse items through shared semantic attributes. Many competitive KG-aware recommenders rely on graph neural architectures, whereas strong shallow linear models such as EASE-R typically ignore side information and may become infeasible in …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c11349a89ed8",
+    "title": "When Concealed Links Cannot Be Recovered: A Structural Identifiability Bound and Evaluation Pitfalls in Offshore Leak Networks",
+    "url": "https://arxiv.org/abs/2609.26171",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.26171v1 Announce Type: new Abstract: Leaks such as the Panama and Paradise Papers expose large networks of offshore entities, and they invite an obvious question for network learning. Can the relations these structures are built to hide---above all, who beneficially owns what---be recovered from the public part of the leak by link prediction? We argue that the answer is mostly no, and that the analyses which suggest otherwise are measuring the wrong thing. Our main result is a distrib…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f3491ce0d07d",
+    "title": "A Semantic Approach to the Academic Publishing Network: Document Vector Representations and Hybrid Structural-Semantic Fusion over OpenAlex Data",
+    "url": "https://arxiv.org/abs/2609.26218",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.26218v1 Announce Type: new Abstract: Structural graph analysis of the academic publishing network captures the topological relationships between entities but does not see the content of works. Building on our structural approach, this work complements it with a semantic layer and a parameterized structural-semantic fusion. We represent scientific documents by citation-informed vector embeddings (SPECTER2) and store them in an embedded vector database keyed by the stable OpenAlex ID, s…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "9da01787b810",
+    "title": "ABAI at COLIEE 2026 Task 1: Multi-Stage Retrieval with GraphRAG-Enhanced Meta-Learning, and a Post-Hoc Study of the Cross-Validation-to-Test Gap",
+    "url": "https://arxiv.org/abs/2609.26237",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.26237v1 Announce Type: new Abstract: We present the ABAI submission to COLIEE 2026 Task 1, case law retrieval, together with a controlled study of why it underperformed. The task suppresses the cited passages themselves, which removes much of the lexical overlap a retriever would rely on. Our pipeline answers this with four independently trained stages: multi-view BM25 over citation-context windows with reciprocal rank fusion, neural reranking, graph-based features from entity communi…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a66cfdb22d2f",
+    "title": "Which Reranking Conclusions Survive the Answer Interface? A Prospective Finite-Orbit Audit",
+    "url": "https://arxiv.org/abs/2609.26250",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.26250v1 Announce Type: new Abstract: Rerankers are increasingly evaluated through downstream language-model answers. This raises a retrieval-measurement question: if only the reader's answer interface changes, should we reach the same conclusion about BM25 versus BGE-v2-m3? We prospectively audit their claim-paired effect on RAGuard and FEVER with four readers. Retrieval policies, evidence, claims, and context depth remain fixed while semantic-to-label binding, A/B versus X/Y vocabula…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b56310fc1e63",
+    "title": "When Does Permutation Instability Generalize? Independent-View Validation for Listwise LLM Reranking",
+    "url": "https://arxiv.org/abs/2609.26251",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.26251v1 Announce Type: new Abstract: Listwise language-model rerankers often disagree across equivalent candidate permutations. Finite instability diagnostics are therefore used to motivate additional sampling, aggregation, or selective computation. But an association with a validation statistic that reuses the probe views need not isolate predictive information about unseen permutations. Shared measurements can induce classical part-whole association. We study how this affects claims…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "d0a6724cc0e6",
+    "title": "Discovery-Driven Integration of Disjoint Tables via Text",
+    "url": "https://arxiv.org/abs/2609.26658",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.26658v1 Announce Type: new Abstract: Integrating heterogeneous datasets within data lakes is a critical challenge, particularly for semantically related tables that lack the explicit attributes needed to be joined. We study Discovery-Driven Integration, where the relevant sources and their missing relational structure must be discovered before integration. In this setting, unstructured text provides the evidence that connects otherwise disjoint tables. The fundamental challenge is to …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d8d3502255c8",
+    "title": "From Offline Proxies to Online Decisions: A Layered Engagement Evaluation Framework for Conversational AI",
+    "url": "https://arxiv.org/abs/2609.25408",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.25408v1 Announce Type: cross Abstract: Online A/B experiments are the decision standard for user engagement, but traffic and readout time limit how many conversational-AI changes can be tested. We ask whether an offline signal designed to be computable without treatment-arm user exposure agrees with the outcomes of those experiments. We contribute a reusable construction and diagnosis checklist that treats an offline proxy as a chain of three alignments: behavioral label to product ou…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "7ff3b934b220",
+    "title": "ARAFA: An LLM-Generated Arabic Fact-Checking Dataset",
+    "url": "https://arxiv.org/abs/2609.25833",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.25833v1 Announce Type: cross Abstract: Automatic fact-checking poses a significant challenge in Arabic natural language processing due to the scarcity of datasets and resources. In this manuscript, we introduce Arafa, a new large-scale dataset for fact-checking in Modern Standard Arabic, constructed through an automated framework leveraging large language models (LLMs). The dataset was constructed through a three-step pipeline: (1) claim generation from Arabic Wikipedia pages with sup…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "71fca3cfe1aa",
+    "title": "CoVeR: Coverage-Based Routing of Verifier Calls in Agentic Retrieval",
+    "url": "https://arxiv.org/abs/2609.26086",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.26086v1 Announce Type: cross Abstract: An agentic retrieval system issues a sequence of search queries and must decide, at each step, whether the evidence collected so far is enough to stop. Delegating that decision to an LLM verifier or a prompt judge makes stopping reliable, but the verifier then reprocesses the growing evidence after every retrieval step, a substantial repeated cost. We show that most of these calls can be skipped without materially changing answer accuracy: a sing…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "3afdf1961ff4",
+    "title": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue",
+    "url": "https://arxiv.org/abs/2609.26780",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.26780v1 Announce Type: cross Abstract: Long-term conversational memory in multi-party settings requires more than retrieving relevant content from long-term conversations: it must distinguish who said what, whom each statement concerns, how individuals perceive one another, what information is shared by the group, and how states change over time. Recent studies on multi-party dialogue benchmarks show that existing general-purpose LLM memory systems tend to lose person and group relati…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "add3f94d5fa9",
+    "title": "WebArxiv: A Reproducible Benchmark for Evaluating Multimodal Web Agents on arXiv Tasks",
+    "url": "https://arxiv.org/abs/2507.00938",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2507.00938v3 Announce Type: replace Abstract: Foundation models now enable autonomous agents to interact with real-world websites, but existing benchmarks emphasize general-purpose browsing, underrepresent research-oriented environments and scholarly discovery workflows, and often depend on live sites whose changing content and structure undermine reproducibility. arXiv provides a realistic, reproducible, hierarchically structured, information-centric testbed without privacy-sensitive inte…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1603e2d2127f",
+    "title": "Scoring Grant Applications with Large Language Models",
+    "url": "https://arxiv.org/abs/2609.25327",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.25327v1 Announce Type: new Abstract: Purpose: Assessing grant applications is time-consuming and difficult, adding to the overall burden of academic peer review. Whilst funders are exploring whether AI can help, there is no published research into the accuracy of Large Language Models (LLMs) for scoring contemporary grants. Design/methodology/approach: This study investigates whether six open-weight LLMs (Gemma 3 1B/4B/12B/27B, DeepSeek R1 32B, Qwen 3 32B) can give useful scores for 2…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "8ccd6ea86ae8",
+    "title": "Open Science, Closed Models: How Funding Shapes AI in Science",
+    "url": "https://arxiv.org/abs/2609.25347",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.25347v1 Announce Type: new Abstract: How funding shapes AI engagement in science is poorly understood despite its structural importance. We analyze 104,226 scientific papers (2018-2025), linking funding acknowledgments to how each paper engages with foundation models: whether it extends a model (fine-tunes or builds on it), uses one without modification, or references models only peripherally. Three findings emerge. First, funding source is associated with the character of engagement:…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c413bd53fb8b",
+    "title": "GitScholar: A Dataset for Predicting AI Research Impact from GitHub Engagement",
+    "url": "https://arxiv.org/abs/2609.26361",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.26361v1 Announce Type: new Abstract: With the rapid pace of AI research and the hundreds of daily new publications, staying up-to-date with the latest developments has become increasingly difficult. For researchers, quickly identifying impactful work is essential, yet manually reviewing each new publication is impractical. Automated impact prediction methods help address this challenge, usually by combining various information sources available, such as a paper's content or citation h…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "6d1abcb56a1b",
+    "title": "Peerify: Benchmarking Peer-Review Claim Verification",
+    "url": "https://arxiv.org/abs/2609.25046",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.25046v1 Announce Type: cross Abstract: Peer review plays a central role in scholarly publishing, yet verifying whether reviewer claims are supported by manuscript evidence remains a largely manual and time-consuming process. We present Peerify, a pipeline for manuscript-grounded verification of peer-review claims. Given a manuscript and a review comment, the Peerify pipeline decomposes reviews into atomic claims, retrieves relevant manuscript evidence, and determines whether each clai…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e409afde9c0f",
+    "title": "Layout-Guided Masking for GROBID: Lightweight Structural Gains in Large-Scale Scientific PDF Ingestion",
+    "url": "https://arxiv.org/abs/2609.26381",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.26381v1 Announce Type: cross Abstract: Transforming scholarly PDFs into machine-readable fulltext remains a bottleneck for large-scale information systems. Recent vision-based parsers improve accuracy, but need GPUs and may introduce noise into the extracted text. GROBID, a modular font-stream parser running on CPU, is the de-facto standard for structuring scientific articles and underpins several of the largest open scholarly corpora. We pair it with a lightweight CPU detector locali…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "34a91345e4a9",
+    "title": "FMMD: A multimodal multidisciplinary dataset of open peer reviews from F1000Research",
+    "url": "https://arxiv.org/abs/2602.14285",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2602.14285v2 Announce Type: replace Abstract: Automated scholarly paper review (ASPR) has entered the coexistence phase with traditional peer review, where artificial intelligence (AI) systems are increasingly incorporated into real-world manuscript evaluation. In parallel, research on automated and AI-assisted peer review has proliferated. Despite this momentum, empirical progress remains constrained by several critical limitations in existing datasets. While reviewers routinely evaluate …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "441a0696122f",
+    "title": "How to Claim Your Cut of Apple’s $250 Million Siri Settlement",
+    "url": "https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/",
+    "source": "Wired AI",
+    "date": "2026-09-22T18:19:13+00:00",
+    "summary": "Apple may pay out up to $95 for each eligible iPhone purchased by someone who felt misled about Siri’s release. You have until December 21 to submit a claim.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "884f576aaa69",
+    "title": "Rabbit Is Back, This Time With an AI Agent App",
+    "url": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/",
+    "source": "Wired AI",
+    "date": "2026-09-22T16:00:00+00:00",
+    "summary": "Two years after trying to sidestep mobile apps with dedicated AI hardware, Rabbit is launching OS3, a cross-platform agent that lives on the screens you already use.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "66feda62a4c6",
+    "title": "Call for Nominations: 17th Annual Privacy Papers for Policymakers Awards",
+    "url": "https://fpf.org/blog/call-for-nominations-17th-annual-privacy-papers-for-policymakers-awards/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-09-22T15:01:40+00:00",
+    "summary": "The 17th Privacy Papers for Policymakers call for submissions is now open until October 16, 2026. FPF’s Privacy Papers for Policymakers Award recognizes leading privacy research and analytical scholarship relevant to policymakers in the U.S. and internationally. The award highlights important work that analyzes current and emerging privacy issues and proposes achievable short-term solutions or means [&#8230;]",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0a54ac4599d9",
+    "title": "By the People Webinar: Exploring the Life and Death of James A. Garfield",
+    "url": "https://blogs.loc.gov/thesignal/2026/09/btp-webinar-garfield/",
+    "source": "LOC Signal",
+    "date": "2026-09-22T13:45:15+00:00",
+    "summary": "We warmly invite you to join staff from the Library of Congress volunteer transcription program, By the People, for a special webinar on Thursday, September 24, from 3:00 PM to 4:00 PM EDT featuring Manuscript Division historian, Michelle Krowl, as she presents “Slumbering Thunder in His Soul: Exploring the Life and Death of James A. Garfield In His Papers.” Registration is required for the virtual event - click through to learn more.",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "5f3b2680ef21",
+    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "source": "MIT Tech Review",
+    "date": "2026-09-22T13:42:05+00:00",
+    "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who moved through areas watched by these towers&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4c7a59a6d36b",
+    "title": "Viture’s Vonder Glasses Are Meant to Map Your Mind",
+    "url": "https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/",
+    "source": "Wired AI",
+    "date": "2026-09-22T13:00:00+00:00",
+    "summary": "No cameras? No problem. Viture’s first display-free smart glasses have bone-conduction microphones to privately record your daily musings.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "6a391c588ba5",
+    "title": "AI Models Built From Rat Brains Just Got Closer to Reality",
+    "url": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/",
+    "source": "Wired AI",
+    "date": "2026-09-22T13:00:00+00:00",
+    "summary": "The Biological Computing Company is bringing its AI tools to Amazon Web Services in a major boost for a once-fringe field that aims to marry nature with code.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "51d4ae7b470f",
     "title": "Don’t be fooled by this summer of AI hype",
     "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
