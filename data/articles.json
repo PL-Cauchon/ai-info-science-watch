@@ -1,5 +1,320 @@
 [
   {
+    "id": "ffbbca040254",
+    "title": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
+    "url": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
+    "source": "Wired AI",
+    "date": "2026-09-24T10:46:56+00:00",
+    "summary": "The country’s prime minister expressed disappointment at being informed of the hack only via email. Now Australia is investigating whether OpenAI broke the law.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "31a6e799d916",
+    "title": "ItColBERT: An Italian-Specialised Late-Interaction Retriever",
+    "url": "https://arxiv.org/abs/2609.26856",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.26856v1 Announce Type: new Abstract: Neural information retrieval for Italian is served almost entirely by multilingual models. Several multi-vector (late-interaction) retrievers include Italian among dozens of languages, and several strong Italian dense embedders exist, but as of August 2026 no late-interaction retriever specialised on Italian had been released. We present ItColBERT, a 135M-parameter Italian ColBERT trained with PyLate following the ColBERT-Zero recipe: initialise fr…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "d48313dfd19c",
+    "title": "Distilling Lexical Product Associations into Deep Transformers: An Extreme Multi-Label Approach for Natural Language E-Commerce Search",
+    "url": "https://arxiv.org/abs/2609.26921",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.26921v1 Announce Type: new Abstract: Traditional e-commerce search platforms rely heavily on inverted indices and token-level lexical matching algorithms (e.g., BM25 and TF-IDF), which frequently fail on conversational, intent-driven, or paraphrased user queries -- the classic vocabulary mismatch problem. We formulate conversational product recommendation as an Extreme Multi-Label Classification (XMLC) problem over an e-commerce catalog of N = 54,000 products spanning 27 balanced reta…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "81fd073b1987",
+    "title": "Calibrating Reproduced Claims in Recommender Systems",
+    "url": "https://arxiv.org/abs/2609.26975",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.26975v1 Announce Type: new Abstract: Reproduction studies can produce mixed outcomes. Reported values may differ while the ordering of the compared methods remains the same, a result may hold only under some experimental conditions, or a released implementation may fail to reproduce a result that the model can still reach. The terms repeatability, reproducibility, and replicability describe how a follow-up study relates to the original experiment, but not which parts of the original c…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "9eeba77c4fa5",
+    "title": "Tie Handling Is Part of the Evaluation Protocol: An Order-Invariance Audit for Tie-Heavy Recommender Scores",
+    "url": "https://arxiv.org/abs/2609.26977",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.26977v1 Announce Type: new Abstract: Offline top-k evaluation often ranks one held-out relevant item together with sampled negatives. When several candidates receive exactly the same score, the tie-breaking rule becomes part of the ranking. A common implementation stores the relevant item first and then applies a stable sort, which preserves input order among equal scores; the relevant item therefore wins every tie. We call an evaluator row-order invariant when permuting the input can…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e690ec00139f",
+    "title": "When LLM-Based User Profiling Adds Value in Production Streaming Recommendation",
+    "url": "https://arxiv.org/abs/2609.27183",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.27183v1 Announce Type: new Abstract: Personalized recommendation depends critically on how user representations are constructed from historical behavior. Two paradigms have emerged for constructing semantic user profiles in content-based recommendation. First, aggregate methods derive user representations as numerical aggregates of semantic item embeddings. Second, LLM-based methods generate natural-language summaries of user preferences and encode them through a text encoder. Each pa…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "cc3f6f8c15de",
+    "title": "BoundaryMORPH: Budgeted Reranking via Active Set Selection for Diffuse Retrieval",
+    "url": "https://arxiv.org/abs/2609.27213",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.27213v1 Announce Type: new Abstract: Open-ended queries in modern Retrieval-Augmented Generation (RAG) are increasingly \"diffuse,\" requiring a large set of documents to be assembled into a finite LLM context window. To ensure retrieval quality, systems use fast dual-encoders and more expensive cross-encoders (CEs) to score candidates. However, the CE budget $B$ is strictly bounded by latency and is often smaller than the context window capacity $k$. This mismatch makes standard rerank…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c018f6faea69",
+    "title": "Test-Time Adaptation with Query-Dependent Residuals for Visual Document Retrieval",
+    "url": "https://arxiv.org/abs/2609.27688",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.27688v1 Announce Type: new Abstract: Visual document retrieval (VDR) systems depend on page embeddings computed before deployment, which makes adaptation difficult when encoder parameters or corpus re-encoding are unavailable. Rerankers provide useful relevance signals, but conventional reranking applies them only to selected queries and candidate pages. We introduce Q-REACT, a query-side test-time adaptation method that converts limited reranker feedback into reusable retrieval impro…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "ace2dc6e4c9b",
+    "title": "EidosDoc: Implicit Structure Encoding for Cost-Effective Semi-Structured Document QA",
+    "url": "https://arxiv.org/abs/2609.27784",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.27784v1 Announce Type: new Abstract: Semi-structured documents are ubiquitous in scientific reports, financial statements, and technical manuals. Question answering over such documents requires simultaneous understanding of text, tables, charts, and complex hierarchical layouts. Existing methods either rely on repeatedly calling large language models for structure parsing and retrieval, leading to high cost and large latency, or they flatten the document and lose layout and hierarchy …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "0bf2b026245a",
+    "title": "Query Implied Generative Engine Optimization",
+    "url": "https://arxiv.org/abs/2609.27845",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.27845v1 Announce Type: new Abstract: The landscape of search has changed drastically with how people look for information online. Traditional search engines are being replaced by Generative Search Engines (GSEs), which use Large Language Models (LLMs) to generate natural language responses to user queries. For content creators, visibility is no longer solely determined by ranking in search results but by being cited within generated responses. But Generative Search Engines are black-b…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "0f190a7e950a",
+    "title": "The Recall Ceiling of LLM Recommendation Reranking",
+    "url": "https://arxiv.org/abs/2609.27953",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.27953v1 Announce Type: new Abstract: Some LLM-based recommendation rerankers are evaluated under an oracle protocol that guarantees the ground-truth item is present in the scored set, either by injecting it into the candidate list or by scoring it against sampled negatives. Across three primary Amazon datasets, we show that this protocol overestimates realistic NDCG@10 by 92--95%. The cause is a recall ceiling: realistic retrieval covers only 2--19% of relevant items at $K=100$ across…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "8b3e9db81bd6",
+    "title": "A Flexible Recommendation System for Individuals and Groups",
+    "url": "https://arxiv.org/abs/2609.27998",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.27998v1 Announce Type: new Abstract: Group recommender systems typically rely on either aggregating individual preferences or treating groups as distinct meta-users. However, these methods often suffer from static aggregation strategies or data sparsity issues within group histories. This paper introduces a novel approach, that relies on a GNN-based architecture to learn a dual representation of each user's preferences, capturing their behavior as an independent individual from one si…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5cffae114ade",
+    "title": "Dual-Hypergraph Indexing: Bridging Knowledge Islands for Multi-Hop Reasoning in Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2609.28108",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.28108v1 Announce Type: new Abstract: While hypergraph-based Retrieval-Augmented Generation (RAG) effectively captures higher-order multi-entity correlations, existing paradigms treat extracted hyperedges as isolated factual assertions. This structural fragmentation engenders rigid \"knowledge islands\" that bottleneck multi-hop causal inference, temporal tracking, and narrative synthesis. To systematically address these challenges, we introduce Dual-Hypergraph Indexing (DHI), a hierarch…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "bbf4d1f787a3",
+    "title": "Beyond a Scalar: Distributional Serving Interfaces for Watch-Time Prediction",
+    "url": "https://arxiv.org/abs/2609.28383",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.28383v1 Announce Type: new Abstract: Watch time is the primary engagement signal in short video feeds, and its prediction directly affects ranking and exposure. Existing methods improve watch time prediction by correcting duration bias or modeling richer distributions, but most expose only an expected or debiased watch time at serving time. Even when video duration is available to later models, the interface gives only one estimate of watch time and no probabilities for completion, ov…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "3753c570712e",
+    "title": "When Learned Context Planning Fails to Beat Strong Retrieval: A Controlled Study of Planning, Routing, and Reranking for Long-Context QA",
+    "url": "https://arxiv.org/abs/2609.26976",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.26976v1 Announce Type: cross Abstract: Learned context planning selects evidence atoms before an answer model reasons over them. We test whether this learned selection improves long-context multiple-choice QA after strong retrieval, routing, budgeted-selector, and reranking controls. Our primary diagnostic uses all 503 LongBench-v2 MCQ questions with Qwen2.5-7B-Instruct. The planner is SFT-trained on outcome-selected traces from 140 training and 28 development questions; because the 5…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e3082308c34c",
+    "title": "LEGO: Synergizing Expert GraphRAG and Expert Chain-of-Thought for Legal Reasoning",
+    "url": "https://arxiv.org/abs/2609.27009",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.27009v1 Announce Type: cross Abstract: Large language models are increasingly applied to high-risk domains such as law, yet complex legal reasoning remains limited by two structural challenges. First, existing RAG and GraphRAG methods emphasize lexical or semantic similarity while overlooking normative relations among legal provisions. Second, vanilla Chain-of-Thought prompting may generate plausible rationales without enforcing the normative structure of legal reasoning. To deal with…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "22064b257384",
+    "title": "Meet, Compare, or Abstain: LatWeave for Deterministic Multi-Hop Question Answering on Knowledge Lattices",
+    "url": "https://arxiv.org/abs/2609.27225",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.27225v1 Announce Type: cross Abstract: Probabilistic question-answering systems -- whether large language models (LLMs) themselves, retrieval-augmented generation (RAG), or trained multi-hop retrievers -- conflate \"what is known\" and \"how to reason\" into a single probabilistic computation: hallucination cannot be eradicated, evidence chains cannot be audited, and the system answers even when it does not know. We present LatWeave, which organizes knowledge into a multidimensional knowl…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "47b4972aa2ac",
+    "title": "Large Knowledge Model: From Papers to a Scientific Reasoning Landscape",
+    "url": "https://arxiv.org/abs/2609.27297",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.27297v1 Announce Type: cross Abstract: Accumulated scientific knowledge advances inquiry when prior findings help researchers choose new questions, design investigations, and interpret results. Realizing this value at scale requires access to the reasoning that connects research problems, scientific procedures, conclusions, and evidence. We introduce the Large Knowledge Model (LKM), a scientific knowledge infrastructure that transforms the literature into a shared, computationally acc…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "01d92f147aeb",
+    "title": "Automated Extraction of Records of Processing Activities (RoPA) Using Hybrid RAG and Locally Deployed Large Language Models",
+    "url": "https://arxiv.org/abs/2609.27359",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.27359v1 Announce Type: cross Abstract: Vietnam's Personal Data Protection Law (Law No. 91/2025/QH15) and Decree No. 356/2025/ND-CP, effective January 1, 2026, require organizations to establish and maintain Records of Processing Activities (RoPA). Manual RoPA preparation is labor-intensive, while cloud-hosted large language models (LLMs) may conflict with data-sovereignty requirements. We propose RoPA Manager, a system for automated RoPA information extraction using hybrid retrieval t…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "d6a3c6269a69",
+    "title": "Seal, Then Sample: Sampled Layerwise Proofs for Verifiable LLM Inference from GPT-2 to 70B",
+    "url": "https://arxiv.org/abs/2609.27367",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.27367v1 Announce Type: cross Abstract: Verifying outsourced language-model inference requires a precisely identified computation and an audit whose cost a service can afford. We present Sampled Layerwise Proofs (SLP), a protocol and prototype that commits the boundary activations of every chunk of an inference trace, absorbs all commitments before any challenge is drawn, and then proves a verifier-selected subset of chunks together with the chunks that bind the prompt and the answer. …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "466f176b17aa",
+    "title": "LabourCrew: A Multi-Agent RAG Framework for Trustworthy Adversarial Deliberation and Statutory Reasoning over Labour Law",
+    "url": "https://arxiv.org/abs/2609.27814",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.27814v1 Announce Type: cross Abstract: In statutory question answering, every claim must be traceable to evidence, not merely relevant, since unverifiable labour-rights answers carry serious legal consequences. Current systems fall short: single-pass RAG cannot detect insufficient evidence, while multi-agent legal-debate systems treat grounding as a prompting convention, letting agents cite unretrieved evidence. To address this gap, we introduce LabourCrew, a multi-agent RAG framework…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "6ac2daa6cb33",
+    "title": "Agentic Governance and Adversarial Verification for Policy-Constrained LLM Healthcare Appeal Generation",
+    "url": "https://arxiv.org/abs/2609.27844",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.27844v1 Announce Type: cross Abstract: Claim denial management costs U.S. healthcare approximately $260 billion annually in administrative overhead. Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) can produce fluent clinical text, but single-agent architectures fail in high-stakes healthcare: they introduce unsupported clinical details and lose the logical structure of hierarchical payer policy. We propose AGVF (Agentic Governance and Adversarial Verification Fra…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "d06c355ee7ab",
+    "title": "LLM-Assisted Workflow for Structural Difference Visualization in Evolving Software Requirements",
+    "url": "https://arxiv.org/abs/2609.28002",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.28002v1 Announce Type: cross Abstract: This paper presents an LLM-assisted workflow for visualizing structural differences in evolving software require- ments. Implemented in the OntologyWeb environment, the work- flow represents baseline and current requirements as triple-based semantic graphs and supports side-by-side comparison of curated graph snapshots. The comparison view aligns matched entities and uses visual encoding to highlight structural changes.",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "5c5c8025faca",
+    "title": "Evaluating Open-Weight LLMs for Turkish Domain Documents Under Retrieval and Hardware Constraints",
+    "url": "https://arxiv.org/abs/2609.28007",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.28007v1 Announce Type: cross Abstract: Most Turkish-capable large language models (LLMs) are evaluated using general-purpose benchmarks rather than long, structurally complex domain documents. This paper evaluates five open-weight 7B-8B models for Turkish document question answering under a resource-constrained local deployment setting. The primary benchmark contains 100 systematically validated questions derived from a 109-page industrial R&amp;D report, and the evaluation protocol i…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "f39a2343a10b",
+    "title": "Entangle: Uncovering Collaboration in the GitHub Quantum Software Ecosystem",
+    "url": "https://arxiv.org/abs/2609.28349",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.28349v1 Announce Type: cross Abstract: Quantum computing is moving from research laboratories towards early commercialization and broader socio-technical adoption, supported by sustained hardware progress and a rapidly expanding open-source software ecosystem. This momentum is especially visible on GitHub, where many quantum and hybrid software projects coexist around frameworks such as Qiskit, Cirq, PennyLane and Amazon Braket. However, this ecosystem remains fragmented, making it di…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "3fc584d66757",
+    "title": "MultiVENT-Raw: A Benchmark for Retrieval and Reasoning over Raw Videos",
+    "url": "https://arxiv.org/abs/2609.28437",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.28437v1 Announce Type: cross Abstract: Online information is increasingly consumed in video format. Much of this comes in the form of *raw video*: continuous footage taken on a cell phone, with a hand-held camera, or via CCTV, which is then directly uploaded to social media platforms and content sharing services. Whereas professional or even amateur-edited footage tends to feature scripted speech, chyrons, graphics, and metadata that help contextualize its subject matter, raw video ty…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "465629b1cab3",
+    "title": "PaperAtlas: an automatically constructed atlas of computational methods and software from 6.4 million open-access articles",
+    "url": "https://arxiv.org/abs/2609.28275",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.28275v1 Announce Type: new Abstract: Computational methods and software are dispersed across a literature that is increasingly difficult to review manually, while curated registries capture only a subset of available resources. We present PaperAtlas, an automatically constructed atlas derived from the PubMed Central open-access corpus. Of 6,446,741 abstracts screened, 1,074,191 were classified as computational, with schema-valid records extracted for 1,074,140. Among these, 267,893 pa…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d7340646dd55",
+    "title": "Only Pay What You Must Spend: On-Demand Privacy Budget Payment for Differentially Private RAG",
+    "url": "https://arxiv.org/abs/2609.27406",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.27406v1 Announce Type: cross Abstract: Deploying large language models (LLMs) on sensitive data via Retrieval-Augmented Generation (RAG) introduces severe privacy risks. Recent studies apply Differential Privacy (DP) to LLMs with RAG for formal privacy guarantees. However, existing DP-RAG frameworks rapidly exhaust the privacy budget. Although recent efforts attempt to save the budget by narrowing the retrieval scope or sparsifying private generation, these methods themselves cumulati…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "593407cfd288",
+    "title": "TiAb Review Plugin: A Browser-Based Tool for AI-Assisted Study Selection in Systematic Reviews",
+    "url": "https://arxiv.org/abs/2604.08602",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2604.08602v2 Announce Type: replace Abstract: Server-based screening tools impose subscription costs, while open-source alternatives require coding skills, and full-text screening has remained outside the scope of no-code open-source tools. We developed TiAb Review Plugin, an open-source Chrome browser extension that provides no-code, serverless artificial intelligence (AI)-assisted study selection covering both title and abstract (T&amp;A) screening and full-text screening. It uses Google…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "9a13df0d58ad",
+    "title": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
+    "url": "https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/",
+    "source": "Wired AI",
+    "date": "2026-09-23T23:42:44+00:00",
+    "summary": "At its Meta Connect event, CEO Mark Zuckerberg announced a handful of new smart glasses, including a slimmed-down VR headset and the company’s first camera-free glasses.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "cdf5468b7916",
+    "title": "A US-China AI Hotline Won't Be Ready For a While",
+    "url": "https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/",
+    "source": "Wired AI",
+    "date": "2026-09-23T21:00:00+00:00",
+    "summary": "As the US and China race to become the dominant power in the AI industry, the countries also appear to be figuring out ways to communicate on national security issues.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f9fb3ca5e3b6",
+    "title": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
+    "url": "https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/",
+    "source": "Wired AI",
+    "date": "2026-09-23T18:30:00+00:00",
+    "summary": "A clandestine card-counting operation suggests we may need new ways to spot agent-to-agent deception.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "002f8b1e6732",
+    "title": "The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs",
+    "url": "https://www.wired.com/story/popes-ai-advisor-warns-of-cartel-behavior-big-labs/",
+    "source": "Wired AI",
+    "date": "2026-09-23T18:03:00+00:00",
+    "summary": "Paolo Benanti tells WIRED that hysteria over whether godlike AI could destroy humanity is distracting from the need for public debate about how to govern the technology.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "74c578f62f89",
+    "title": "New FPF Report Analyzes the Rise in Chatbot Legislation & What’s Ahead",
+    "url": "https://fpf.org/press-releases/new-fpf-report-analyzes-the-rise-in-chatbot-legislation-whats-ahead/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-09-23T15:12:26+00:00",
+    "summary": "As lawmakers look to regulate how AI systems interact with minors, new report breaks down key state and federal chatbot policy developments WASHINGTON, D.C. – The Future of Privacy Forum (FPF), a global non-profit focused on data protection, AI, and emerging technologies, today released a new report analyzing one of the most active areas of [&#8230;]",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "efa67800074e",
+    "title": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
+    "url": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/",
+    "source": "Wired AI",
+    "date": "2026-09-23T12:54:58+00:00",
+    "summary": "Meta says it issued a fix for the Muse zero-day vulnerability that would have let attackers do “whatever” they wanted on a victim’s Mac, highlighting the inherent dangers of AI helpers.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "3323137ee133",
     "title": "AT&T Is Automating Away Jobs—and Its Old Telecom Empire",
     "url": "https://www.wired.com/story/atandt-is-automating-away-its-old-telecom-empire/",
@@ -7,6 +322,15 @@
     "date": "2026-09-23T10:15:00+00:00",
     "summary": "The telecom giant is eager to show Wall Street that it can do more with less. That means fewer employees, less electricity, and increased automation.",
     "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d736c96f97b6",
+    "title": "The AI Hype Index: AI loves cheating",
+    "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+    "source": "MIT Tech Review",
+    "date": "2026-09-23T09:00:00+00:00",
+    "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s&#8230;",
+    "category": "Information Retrieval & Search"
   },
   {
     "id": "fc2172001673",
