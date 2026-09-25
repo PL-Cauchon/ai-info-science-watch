@@ -1,5 +1,302 @@
 [
   {
+    "id": "93b91a44c537",
+    "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+    "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+    "source": "MIT Tech Review",
+    "date": "2026-09-25T09:16:25+00:00",
+    "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called “Polygraph+” or “Polygraph Next,” will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing,” which&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "48ac639a22a5",
+    "title": "OneTrans-V2: Unifying Retrieval, Pre-rank, and Fine-rank with One Transformer in Industrial Recommender",
+    "url": "https://arxiv.org/abs/2609.28589",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.28589v1 Announce Type: new Abstract: Industrial recommendation systems typically operate as a \\emph{cascade} of retrieval, pre-rank, and fine-rank, but these stages are usually trained and served as separate models, causing repeated user-sequence encoding, isolated optimization, and duplicated engineering effort. Building on OneTrans' model-level unification, we present OneTrans-V2, one Transformer that unifies the entire cascade. It encodes the user behavior sequence once as a shared…",
+    "category": "Information Behavior"
+  },
+  {
+    "id": "69a5cfe8ce34",
+    "title": "The Fellowship of the Query: Learning Retrieval Actions",
+    "url": "https://arxiv.org/abs/2609.28653",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.28653v1 Announce Type: new Abstract: Retrieval-augmented question answering requires control decisions about when to decompose a question, search, reformulate, extract evidence, synthesize facts, verify progress, and stop. We study whether trajectory fine-tuning can improve small language models (SLMs) as next-action controllers. We additionally evaluate a low-resource setting in which a single SLM serves as both the controller and the final-answer generator. From accepted teacher sea…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "452c3c9955cb",
+    "title": "Cross-Country Code-Mixing for Generative Recommendation",
+    "url": "https://arxiv.org/abs/2609.28972",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.28972v1 Announce Type: new Abstract: Cross-country recommendation on modern e-commerce platforms is typically deployed with disjoint user and item ID spaces across markets, removing the shared anchors that conventional cross-domain methods rely on. Generative recommendation (GR) mitigates this by mapping items into a shared token space and training a unified model, but existing approaches keep behavior sequences strictly country-specific, so knowledge transfer occurs only at the param…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "7da71e8d1472",
+    "title": "Seek: Self-Evaluative Exploration for Knowledge Retrieval",
+    "url": "https://arxiv.org/abs/2609.28980",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.28980v1 Announce Type: new Abstract: LLM-based retrievers and rerankers have advanced passage ranking, yet both paradigms interact with the corpus in a single pass and commit to the resulting candidate set, leaving relevant documents permanently unrecoverable once missed. We introduce Seek, Self-Evaluative Exploration for Knowledge Retrieval, a training-free framework that addresses this limitation through iterative corpus interaction at test time. At each round, an LLM generates pseu…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "3be0c4232d7e",
+    "title": "X-Rec Technical Report",
+    "url": "https://arxiv.org/abs/2609.29180",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.29180v1 Announce Type: new Abstract: Recent advances in generative modeling have reshaped recommender systems by formulating recommendation as a next-item generation problem. Existing retrieval approaches primarily follow two paradigms: user-to-item (U2I) methods represent user context using one or a few deterministic embeddings, which limits the ability to capture diverse and multi-mode interests, while semantic-ID-based autoregressive (SID-AR) methods model more expressive distribut…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "e52f59d5cd0f",
+    "title": "ScalarLens: Numerical Embeddings with Stable Coordinates and Contextual Responses for CTR Prediction",
+    "url": "https://arxiv.org/abs/2609.29182",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.29182v1 Announce Type: new Abstract: Numerical embeddings for click-through rate (CTR) prediction are built on a convenient but restrictive premise: a scalar has one representation. This premise conflates where a value lies with what it means for the current sample. On the Criteo validation split, the same numerical interval carries residual click evidence with opposite signs across categorical and numerical contexts, even after additive main effects are removed. Production pipelines …",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "953627f1e910",
+    "title": "Asymmetric Dynamic Routing: Balancing Reasoning Depth and Computational Efficiency in Hypergraph RAG",
+    "url": "https://arxiv.org/abs/2609.29282",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.29282v1 Announce Type: new Abstract: While graph-based and hypergraph-based Retrieval-Augmented Generation (RAG) significantly mitigate hallucinations in Large Language Models (LLMs), existing structure-based RAG systems typically adopt static traversal strategies regardless of the query complexity. We identify this ``static retrieval fallacy'' as a primary source of computational redundancy for simple queries and cognitive context gaps for complex reasoning tasks. To balance reasonin…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "1091cc03b9ac",
+    "title": "A Systematic Multi-Domain Evaluation of Document Retrievers",
+    "url": "https://arxiv.org/abs/2609.29455",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.29455v1 Announce Type: new Abstract: Document retrieval is a crucial component of many modern AI systems, directly influencing their effectiveness, robustness, and fairness in downstream tasks. While recent years have seen a growing number of retrievers, comparative studies in the literature are typically limited in scope or focused on singular benchmarks, domains, or model families. This fragmentation makes it difficult to draw reliable conclusions about the relative strengths, weakn…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "00c932ef32bd",
+    "title": "Anatomy of a Decision: Uncertainty-aware Hierarchical Intent Learning via Flow Matching for Multimodal Recommendation",
+    "url": "https://arxiv.org/abs/2609.29609",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.29609v1 Announce Type: new Abstract: Modeling the underlying user intent is crucial for recommendation, but existing methods struggle with the inherent uncertainty and the dynamic, hierarchical nature of user interests. Current approaches often rely on clustering or prototype learning to discover a static set of intents. However, they face two critical challenges: (1) they overlook the uncertainty inherent in multimodal features; and (2) they assume a static and flat intent structure,…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1f48c2e36a97",
+    "title": "OBLIQ-IR: Training a Dense Retriever for Oblique Queries",
+    "url": "https://arxiv.org/abs/2609.29649",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.29649v1 Announce Type: new Abstract: Oblique retrieval, as exemplified by OBLIQ-Bench, asks a retriever to find documents whose relevance is determined by a latent attribute (an implicit stance, an analogous reasoning technique, an authorial fingerprint, or a vague tip-of-the-tongue recollection) that has little or no surface expression in the document. State-of-the-art dense encoders and agentic search pipelines built around frontier language models exhibit a large first-stage bottle…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "3878bcbf531b",
+    "title": "SmallReason-ColBERT: An Ultra-Small Late-Interaction Retriever for Reasoning Intensive Retrieval",
+    "url": "https://arxiv.org/abs/2609.29652",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.29652v1 Announce Type: new Abstract: Reasoning-intensive retrieval remains difficult for small models. Compact public ColBERTs are usually trained on general-purpose corpora and underperform reasoning-tuned 150M+ baselines on BRIGHT~\\cite{bright} by several nDCG@10 points. However, no public reasoning-tuned ColBERT exists at edge scale. We introduce \\textbf{SmallReason-ColBERT}, a 32M late-interaction retriever that closes much of this gap with three components: a varied-length contra…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "cfcb26813803",
+    "title": "EvLink: Source-Grounded Evidence Linking for Graph RAG",
+    "url": "https://arxiv.org/abs/2609.29695",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.29695v1 Announce Type: new Abstract: Graph-based Retrieval-Augmented Generation (GraphRAG) supports multi-hop reasoning by organizing corpora into structured graphs. However, graph reachability often captures semantic association rather than evidence support, so a reachable passage may still fail to justify a required cross-passage transition. We propose EvLink, an evidence-linking retriever that preserves passages as retrievable evidence units and builds evidence-supported transition…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "eec17fe15890",
+    "title": "SEEK: Skill-Routed Evaluation with Evolvable Knowledge for Industrial Search",
+    "url": "https://arxiv.org/abs/2609.29803",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.29803v1 Announce Type: new Abstract: Search quality evaluation provides essential supervision and diagnostic signals for the development and iteration of industrial search systems. Although large language models (LLMs) offer a scalable alternative to manual assessment, reliable automatic evaluation remains challenging: users experience search results at the page level, while the applicable evaluation criteria are multi-dimensional and continuously evolving. Packing all evaluation crit…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "8446c067eb73",
+    "title": "LSF-SR: Latent Semantic Fusion for Sequential Recommendation via Flow-based Conditional Variational Autoencoders",
+    "url": "https://arxiv.org/abs/2609.29815",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.29815v1 Announce Type: new Abstract: Sequential recommendation aims to predict users' future interests from their historical interactions. Although Large Language Models (LLMs) capture rich item semantics, existing methods often struggle to align collaborative signals with textual semantic knowledge. As a result, the learned item representations fail to capture the complementary strengths of both signals, leading to suboptimal recommendation quality. To address this limitation, we pro…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "ae4420f6cb68",
+    "title": "Learning Better Reasoning for Generative Recommendation with Semantic IDs",
+    "url": "https://arxiv.org/abs/2609.29973",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.29973v1 Announce Type: new Abstract: Generative recommendation reformulates item retrieval as sequence generation, allowing a unified model to directly generate the next item from a user's interaction history. Semantic IDs further make this paradigm effective and scalable by representing each item as discrete codes, enabling knowledge sharing among semantically related items. Recent studies introduce explicit reasoning before Semantic-ID generation, helping models summarize user inter…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "80f6c31bb01d",
+    "title": "From Interests to Semantic IDs: Retrieval-Grounded Credit Assignment for Generative Recommendation",
+    "url": "https://arxiv.org/abs/2609.29983",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.29983v1 Announce Type: new Abstract: Semantic IDs (SIDs) encode each catalog item as a short token sequence, enabling generative recommenders to predict the next item autoregressively. Reasoning-enhanced variants, an increasingly common extension, first generate a textual trace and then decode a next-item SID by beam search. Such recommenders are commonly trained with group-relative policy optimization under an exact-match SID reward, which is sparse in large catalogs. Two failure mod…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "7e91c3e1b7fd",
+    "title": "Reinforcement Learning with Verifiable Rewards for Small Search Agents",
+    "url": "https://arxiv.org/abs/2609.28765",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.28765v1 Announce Type: cross Abstract: Reinforcement Learning with Verifiable Rewards (RLVR) performs well on problems with clear rewards, such as mathematics and coding, but whether it also works where the reward is less clear remains open. The reason-over-search recipe applies RLVR to open-domain question answering, where retrieval grounds the answer and a match against the reference supplies the reward. So far it has been demonstrated on large models, and below one billion paramete…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "dbfceda84c32",
+    "title": "Claim-Gated Source-Risk Auditing for Generative Search",
+    "url": "https://arxiv.org/abs/2609.29145",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.29145v1 Announce Type: cross Abstract: A generative search answer can cite a supported passage yet omit a source relationship that changes its interpretation. We specify a claim-gated audit of the query-source-answer tuple. An omission is resolved only when relationship evidence, answer adoption, materiality, and disclosure are all observed; incomplete evidence remains unresolved rather than being treated as independence. The specification separates this endpoint from citation support…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c468fac961cb",
+    "title": "ASIRF: An Agentic Framework for Context-Dependent Sensitive Information Redaction",
+    "url": "https://arxiv.org/abs/2609.29191",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.29191v1 Announce Type: cross Abstract: Sensitive information is defined by domain and intent, not a universal category, yet redaction systems such as privacy filters and named-entity recognizers fix a taxonomy at training time, requiring retraining for each new domain. We introduce ASIRF (Agentic Sensitive Information Redaction Framework), which retrieves domain-specific definitions based on the input's domain from a flexible knowledge base at inference time, needing no retraining to …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "8fa38d787a39",
+    "title": "Decoupled Learning and Selection in Slate Recommendation for Privacy and Stability Under Noisy Scores",
+    "url": "https://arxiv.org/abs/2609.29453",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.29453v1 Announce Type: cross Abstract: We formalize slate recommendation as a randomized score learner followed by deterministic selection. First, an appropriately scoped differential-privacy guarantee passes through selection and its audit trace by post-processing. End-to-end privacy holds only when selector inputs are public or independent, previous private outputs, or separately privacy-accounted; fixing raw state or candidate information instead yields only a conditional guarantee…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "147bb63aea52",
+    "title": "CodeGraph: Open-Taxonomy Knowledge Graph for Source Code with Wikidata Grounding",
+    "url": "https://arxiv.org/abs/2609.29474",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.29474v1 Announce Type: cross Abstract: Public software repositories, like GitHub and Software Heritage Archive, store billions of files, yet extracting their implicit engineering knowledge ---i.e., the algorithms they implement, the paradigms they follow, the patterns they instantiate, and the application domains they serve--- remains challenging, as current tools are constrained to syntactic and token-level analysis. We present a pipeline for building an open-taxonomy semantic annota…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "ba91ba90d612",
+    "title": "An Exploratory Ablation of a Small MLA--SSM Hybrid Language Model",
+    "url": "https://arxiv.org/abs/2609.29618",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.29618v1 Announce Type: cross Abstract: We report an exploratory, single-seed ablation of TALH (Adaptive Latent Hybrid), a decoder-only language model with parallel Multi-head Latent Attention (MLA) and a custom recurrent state-space (SSM) branch. Five variants, spanning 117--217M estimated active parameters per token, are trained from scratch on a FineWeb sample for the same number of optimisation steps and tokens. In this specific setup, removing the SSM branch gives the largest degr…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "57e38c55bf02",
+    "title": "Ingest-Time Fact Compilation for Cost-Efficient and Reliable Question Answering over Revised Corpora",
+    "url": "https://arxiv.org/abs/2609.29661",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.29661v1 Announce Type: cross Abstract: Most agentic question answering (QA) systems do an important part of their semantic work at the worst possible time: every time someone asks a question. When a corpus contains revisions, drafts, revocations, deletions, and sources with different levels of authority, the model must reconstruct the governed current state on every read - then throw that work away and repeat it on the next query. This is a bit like a database that rebuilds a material…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b640ea80607f",
+    "title": "Stochastic Semantic Evidence Graphs: Uncertainty Propagation and Governance for Agentic AI",
+    "url": "https://arxiv.org/abs/2609.29703",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.29703v1 Announce Type: cross Abstract: AI-agent evaluations usually inspect a final answer, yet error may enter through evidence, retrieval, prompting, generation or decision mapping. We introduce a stochastic semantic evidence graph (SSEG), a hierarchical stochastic DAG whose language node expands into an autoregressive token subgraph and whose observable output may be a law over complete phrases. Semantic reduction and calibration are optional. We define graph-relative local defects…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a0d1ba6aa3b9",
+    "title": "SALI: Shot-Aware Late Interaction for Cross-Shot Relation Matching in Text-to-Video Retrieval using Film-Grammar Knowledge",
+    "url": "https://arxiv.org/abs/2609.29721",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.29721v1 Announce Type: cross Abstract: Text-to-video retrieval usually represents a video clip by a single embedding. This embedding often loses important relations between people. E.g., an interaction \"Anna confronts Mark\" is regularly filmed as alternating shot and reverse shot of both (Fig. 1a). No single shot or averaged embedding over clip shots captures this relation. Thus, we propose SALI (Shot-Aware Late Interaction). It extracts the subject and object from a single-sentence q…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "ec46df12a87d",
+    "title": "Residential Electricity Consumption Dataset for Sri Lanka (RECON-SL)",
+    "url": "https://arxiv.org/abs/2609.28783",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.28783v1 Announce Type: new Abstract: This article describes the Residential Electricity Consumption Dataset for Sri Lanka (RECON-SL), a multi-source resource that integrates utility records, high-frequency smart meter data, and household surveys from the service area of Lanka Electricity Company (LECO) in Sri Lanka. The dataset captures electricity use for 4,063 households, collected over the period October 2022 to January 2025, with coverage at monthly, 6-hour, and 15-minute interval…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e72356535506",
+    "title": "A framework for linking literature-based knowledge integration and infrastructure-supported knowledge integration: Opportunities and challenges from a case study",
+    "url": "https://arxiv.org/abs/2609.29161",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.29161v1 Announce Type: new Abstract: Integrating knowledge across disciplines is central to sustainability research, yet most evidence-synthesis methods rely on findings as reported in publications, limiting verification and reuse of underlying data and workflows. We develop a conceptual framework linking literature-based and infrastructure-supported knowledge integration, using a systematic review case study to examine when integration can extend beyond reported findings. We reviewed…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a7468ed58d5e",
+    "title": "Comparability in the public olfactory record: volatile measurement, human perception, and the join between them",
+    "url": "https://arxiv.org/abs/2609.29702",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.29702v1 Announce Type: new Abstract: Research data infrastructure measures metadata completeness, the share of fields populated. This is the wrong quantity: a populated field is not a joinable field. We measure comparability instead: whether two records can be used together, and for what. Working from 180,877 records across eight public sources, we adapt measurement invariance from psychometrics into a four-rung ladder, each rung established by its own test and licensing one specific …",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "03d036560d00",
+    "title": "Generating Interesting Scientific Ideas using Knowledge Graphs and LLMs: Evaluations with 100 Research Group Leaders",
+    "url": "https://arxiv.org/abs/2405.17044",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2405.17044v4 Announce Type: replace-cross Abstract: The rapid growth of scientific literature makes it increasingly challenging for researchers to identify novel and impactful ideas, especially across disciplines. Modern artificial intelligence (AI) systems offer new opportunities for scientific ideation, but how compelling are AI-generated ideas, and how can their quality be improved? Here, we introduce SciMuse, which generates personalized research ideas using a knowledge graph of 58 mil…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "01b3022d0b4f",
+    "title": "I Think I Found an AI Agent Worth the Risk",
+    "url": "https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/",
+    "source": "Wired AI",
+    "date": "2026-09-24T19:36:35+00:00",
+    "summary": "Instinct saved me $550, booked my restaurant reservations, and warned me about a phishing scam. It also wasted $64 and might be a security nightmare.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d78e096af7b6",
+    "title": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
+    "url": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/",
+    "source": "Wired AI",
+    "date": "2026-09-24T16:00:00+00:00",
+    "summary": "Call for Me—a feature that’s exclusive to the Pixel 11 series—gives robocalls a new meaning.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "12e21db109e7",
+    "title": "It’s Just Math: Recent Legislative Trend Reignites Debate About the Bounds of Biometric Data",
+    "url": "https://fpf.org/blog/its-just-math-recent-legislative-trend-reignites-debate-about-the-bounds-of-biometric-data/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-09-24T13:14:09+00:00",
+    "summary": "Special thanks to FPF’s Rafal Fryc (former U.S. Policy Intern), Tatiana Rice (Senior Director for U.S. Legislation), and Jim Siegl (Senior Fellow) for research support and feedback A new exemption being proposed and considered in state legislatures across the country is resurfacing old debates around the contours of what constitutes biometric data. Biometric data has [&#8230;]",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "ffbbca040254",
     "title": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
     "url": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
