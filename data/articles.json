@@ -1,5 +1,266 @@
 [
   {
+    "id": "ba01a62d5f1b",
+    "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+    "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
+    "source": "Wired AI",
+    "date": "2026-09-28T11:32:19+00:00",
+    "summary": "Sam Altman says the company “have not been as fast as we would have liked” at dealing with security breaches, after news of further incidents over the summer forces another temporary halt.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d96ba4928f0e",
+    "title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
+    "url": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
+    "source": "Wired AI",
+    "date": "2026-09-28T10:00:00+00:00",
+    "summary": "Your next coworker might well be an AI agent—and will require a whole new model of workplace interactions.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b357dec36994",
+    "title": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
+    "url": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/",
+    "source": "Wired AI",
+    "date": "2026-09-28T09:30:00+00:00",
+    "summary": "Mathematics has been one of humanity’s most creative endeavors, akin to painting and poetry. Now, mathematicians are trying to save it from the brute force of AI.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "6eaf16d9dfa3",
+    "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
+    "url": "https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/",
+    "source": "Wired AI",
+    "date": "2026-09-28T09:00:00+00:00",
+    "summary": "A British startup is shaping video game inputs into training data for AI models that can navigate the physical world.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "86cde2e5a0bd",
+    "title": "Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System",
+    "url": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/",
+    "source": "Wired AI",
+    "date": "2026-09-28T09:00:00+00:00",
+    "summary": "In the wake of a series of high-profile AI safety incidents, Nvidia is introducing a new software tool that helps keep agents from escaping containment.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5b67311c7107",
+    "title": "Who’s liable when AI agents go rogue?",
+    "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+    "source": "MIT Tech Review",
+    "date": "2026-09-28T08:06:22+00:00",
+    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f59b2f98aa69",
+    "title": "Nearest but Not Dearest: Shared Curator-Feedback Infrastructure for Content-Only Search and Recommendation",
+    "url": "https://arxiv.org/abs/2609.30568",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2609.30568v1 Announce Type: new Abstract: A deployed B2B music-discovery platform serves both query-driven search (text prompts, vibe tags) and seed-driven recommendation (seed-track and artist stations) over one licensed catalog, one LAION-CLAP joint audio-text embedding space, one candidate-generation filter, and one ranking head -- and neither path consumes end-listener behavioral signal. In this content-only regime, curator judgment is the principal feedback signal available, and offli…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "472cf2e2f2c3",
+    "title": "Embedding Subspace Partitioning for Dynamic Multi-Objective Retrieval",
+    "url": "https://arxiv.org/abs/2609.30601",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2609.30601v1 Announce Type: new Abstract: Modern industrial recommender systems must optimize across competing objectives, balancing semantic relevance with business metrics such as engagement and revenue. While bi-encoders dominate large-scale retrieval due to their efficiency, they collapse these heterogeneous signals into a single static embedding space. This design creates a fundamental limitation: once trained, the retriever cannot adapt to shifting objective priorities at serving tim…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "da746f56d3fc",
+    "title": "Component Benchmark: Hierarchical Model Profiling for Large-scale Recommendation Systems",
+    "url": "https://arxiv.org/abs/2609.30656",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2609.30656v1 Announce Type: new Abstract: Large-scale recommendation models pose distinct, under-explored profiling challenges. Most recommendation model architectures are structurally heterogeneous, intermixing memory-bandwidth-bound operations, small compute-bound dense layers, dynamic shapes from jagged categorical features, and low-arithmetic-intensity operations. Recommendation models evolve rapidly as modeling engineers experiment with compositions, often written without visibility i…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b3148ede8607",
+    "title": "Recommendation World Models for Future-State Control",
+    "url": "https://arxiv.org/abs/2609.30711",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2609.30711v1 Announce Type: new Abstract: Sequential recommendation optimizes which items to rank, while each displayed slate also shapes subsequent feedback and user state. We study how a trained ranker can support decisions about these future consequences. We introduce UA-TWM, a utility-anchored world-model interface that constructs nearby slate actions, estimates their target-relevant consequences, and selects an alternative subject to utility constraints. The reference slate serves as …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f41b4d58e17b",
+    "title": "RecToolBench: Benchmarking Recommendation-Specific Tool Orchestration under Fuzzy User Intent",
+    "url": "https://arxiv.org/abs/2609.30717",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2609.30717v1 Announce Type: new Abstract: Recent advances in agentic recommender systems are shifting recommender systems from passive filtering engines to instruction-following agents that use external tools to resolve user intent. However, existing benchmarks often assume explicit user intent, simplified tool environments, or isolated function calls, leaving realistic tool orchestration for recommendation underexplored. To bridge this gap, we propose RecToolBench, a Model Context Protoco…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "7df578281466",
+    "title": "QReason: Query-Focused Decoupled Chain-of-Thought for Efficient Passage Reranking",
+    "url": "https://arxiv.org/abs/2609.30904",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2609.30904v1 Announce Type: new Abstract: Passage reranking plays a crucial role in information retrieval by refining the ordering of candidate passages to better reflect relevance. Existing listwise LLM rerankers with Chain-of-Thought (CoT) reasoning can handle complex queries effectively, but they suffer from substantial redundancy and high latency due to sliding-window strategies, which repeatedly generate highly similar CoTs. To address this, we propose QReason, a decoupled framework t…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c18f60406442",
+    "title": "KuaFu: Compressing Long User Behavior into Understanding at Billion Scale",
+    "url": "https://arxiv.org/abs/2609.31045",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2609.31045v1 Announce Type: new Abstract: Conversational agents, generative recommenders, and personalized advertising all rest on one capability: understanding each user from raw behavior. Prevailing industrial practice is task-specific: for each task, a relevant subsequence is extracted from the full history and a dedicated model trained on it. In production it hits two bottlenecks. First, even after filtering, a single-task sequence stays extremely long: content-interest summarization r…",
+    "category": "Information Behavior"
+  },
+  {
+    "id": "77df2c0d180e",
+    "title": "SPADE: Escaping the Popularity-Similarity Frontier to Measure Serendipitous Recommendations",
+    "url": "https://arxiv.org/abs/2609.31164",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2609.31164v1 Announce Type: new Abstract: Recommender systems engineer serendipity to foster active exploration and break predictable consumption cycles. The problem with existing offline beyond-accuracy metrics is that they often either isolate historical similarity or global popularity. We aim to design an evaluation metric that examines similarity, popularity, and actual user relevance. To achieve this, we introduce SPADE (Serendipitous Pareto Distance Evaluation). SPADE maps all items …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "22e05d8c44d7",
+    "title": "AgentRecommender: LLM Agents Enable Customizable Recommender Systems on the User Side",
+    "url": "https://arxiv.org/abs/2609.31166",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2609.31166v1 Announce Type: new Abstract: Recommender systems have traditionally been developed for platforms. However, this has given rise to many phenomena that may be advantageous for platform lock-in but are a nuisance to users, such as clickbait, filter bubbles, and the spread of fake news. Recently, user-side recommender systems have been proposed as a new paradigm for solving this problem. If users deploy their own recommender systems, they are no longer at the mercy of the platform…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "bc2c5cdf16f3",
+    "title": "Enriching Sequential Recommendation with Graph Laplacian Positional Embeddings",
+    "url": "https://arxiv.org/abs/2609.31253",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2609.31253v1 Announce Type: new Abstract: Sequential recommenders typically rely on learnable positional embeddings to encode the order of user interactions. In this work, we ask whether this ordinal signal can be replaced by a structural one derived from the item space. We propose to use Laplacian positional embeddings in SASRec: we build an item co-occurrence graph from training interactions, compute eigenvectors of its symmetric normalized Laplacian, and use them as frozen graph-derived…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "d48f79b1cd3d",
+    "title": "Retail Product Search: A Practical Approach at Target",
+    "url": "https://arxiv.org/abs/2609.31498",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2609.31498v1 Announce Type: new Abstract: Search is one of the most important features in e-commerce, directly driving customer engagement and business growth. A good product search system must show both relevant and desirable results. However, retail search presents unique challenges. User intent can range from exact matches to open-ended discovery. Search systems must also balance multiple goals, such as relevance, revenue, and profit, while keeping response times low. Traditional keywor…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "9cb34f07f4f3",
+    "title": "SignTrace: Describe a Sign, Find the Word",
+    "url": "https://arxiv.org/abs/2609.30295",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2609.30295v1 Announce Type: cross Abstract: Identifying an unfamiliar sign is difficult when a learner remembers its movement but does not know its meaning or formal feature codes. SignTrace addresses this longstanding reverse-lookup problem through natural-language access to a Chinese sign-language dictionary. The system integrates LLM-based dictionary enrichment, action extraction, dictionary-style rewriting, seven-channel retrieval, and candidate reranking over 6,699 entries. It has bee…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "e01dfab93863",
+    "title": "Bootstrapping Conversational Recommendation Agents At Spotify: Synthetic Data Generation and Self-Improvement Loops",
+    "url": "https://arxiv.org/abs/2609.30297",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2609.30297v1 Announce Type: cross Abstract: Conversational recommendation agents are a new paradigm for content discovery, enabling users to express complex intents through natural language (e.g., \"recommend Italian indie artists I haven't heard before\"). A central challenge in building such agents is optimizing agent planning -- deciding how to select, sequence, and invoke tools -- particularly in cold-start settings where real user interactions are not yet available. We introduce a pipel…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c7da6e75caf0",
+    "title": "Where Does Retrieval-Based Open-Ended Evaluation Fail? Automatic Taxonomy Induction from Long-Form Medical Answer Factuality Verification",
+    "url": "https://arxiv.org/abs/2609.30467",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2609.30467v1 Announce Type: cross Abstract: Retrieval-based factuality evaluation, where LLM-generated claims are verified against evidence from authoritative medical corpora, has become the dominant paradigm for scalable hallucination detection in high-stakes clinical settings. Despite the urgency of reliable and transparent medical fact verification, most systems measure performance with aggregate metrics like F1, which obscure where and why failures occur. Existing RAG diagnostics requi…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "daaada8f9323",
+    "title": "AutoResearch at Production Scale: Failure Modes and a Multi-Agent Framework",
+    "url": "https://arxiv.org/abs/2609.30541",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2609.30541v1 Announce Type: cross Abstract: Optimizing embedding systems for production recommendation pipelines demands systematic exploration that consumes disproportionate engineering effort at scale. We apply Andrej Karpathy's AutoResearch paradigm -- a large language model that iteratively edits a training script and retains modifications that improve a held-out scalar metric -- to automate this exploration. We report on twelve weeks of running this paradigm at production scale, where…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "d350f809d198",
+    "title": "REALMS: An AI-Assistant Conversational System for Real-Time Exact Audience Sizing over High-Dimensional Nested Profiles",
+    "url": "https://arxiv.org/abs/2609.30547",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2609.30547v1 Announce Type: cross Abstract: Audience sizing is a critical component of digital marketing. It enables precise resource allocation, campaign planning, and performance optimization. Traditional approaches using skeleton audiences, sampling, or predictive modeling suffer from significant delays, estimation errors, and poor scalability over high-dimensional profile data. We present REALMS (Real-time Exact Audience sizing via LLM-based Multi-attribute Search), a conversational sy…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "932cf09d8eb8",
+    "title": "T-RoPE: Time-Aware Rotary Position Embedding for Sequential Recommendation",
+    "url": "https://arxiv.org/abs/2609.30576",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2609.30576v1 Announce Type: cross Abstract: Large-scale recommenders increasingly adopt the sequential generative recipe behind large language models, bringing the Transformer into recommendation along with design choices made for text, including Rotary Position Embedding (RoPE). In language models, RoPE encodes token indices for relative position reasoning, but in recommendation, an interaction index records only event order, saying nothing about elapsed time, behavioral cycles across sca…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c3d4316927bc",
+    "title": "Epstein Files Engine: Agentic Search for Investigative Journalism",
+    "url": "https://arxiv.org/abs/2609.30611",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2609.30611v1 Announce Type: cross Abstract: On Jan. 30, 2026, the U.S. Department of Justice released a mixed-media collection concerning Jeffrey Epstein, including about three million pages of PDFs. We describe the Epstein Files Engine, an A.I. agent The New York Times deployed to investigate the files. The Engine translated reporter questions into Google BigQuery SQL queries across three corpora: Epstein-related releases, the Times's archive and external, Epstein-related news headlines. …",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "e0a4cc00bce3",
+    "title": "CG-Probes: Recovering Guardrail Directions from Patient Query Embeddings",
+    "url": "https://arxiv.org/abs/2609.31062",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2609.31062v1 Announce Type: cross Abstract: Patient-facing AI assistants promise valuable support to patients, but incoming queries can pose medical risks. To create guardrails, we work with oncologists to define three ordinal risk axes: Medical Urgency, Psychological Urgency, and Topic Sensitivity. We propose Clinical Guardrail Probes (CG-Probes) to measure the risks from query embeddings. We probe for each axis in the normalized embedding space of frozen embedders via the difference-in-m…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "3a95d942da8f",
+    "title": "On Function-Correcting Codes in the Lee Metric",
+    "url": "https://arxiv.org/abs/2507.17654",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2507.17654v4 Announce Type: replace-cross Abstract: Function-correcting codes are a coding framework designed to minimize redundancy while ensuring that specific functions or computations of encoded data can be reliably recovered, even in the presence of errors. The choice of metric is crucial in designing such codes, as it determines which computations must be protected and how errors are measured and corrected. Previous work by Liu and Liu [6] studied function-correcting codes over $\\mat…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "51d8cf86f793",
+    "title": "FlyAOC: Evaluating Agentic Ontology Curation of Drosophila Scientific Knowledge Bases",
+    "url": "https://arxiv.org/abs/2602.09163",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2602.09163v2 Announce Type: replace-cross Abstract: Scientific knowledge bases accelerate discovery by curating findings from primary literature into structured, queryable formats for both human researchers and emerging AI systems. Maintaining these resources requires expert curators to search papers, reconcile evidence across documents, and produce ontology-grounded annotations. Existing benchmarks usually evaluate isolated subtasks, such as named entity recognition or relation extraction…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "7b365b59d25c",
+    "title": "MM-ContextFold: Context Folding for Multimodal Agentic Retrieval",
+    "url": "https://arxiv.org/abs/2609.23121",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2609.23121v2 Announce Type: replace-cross Abstract: Multimodal Agentic Retrieval (MAR) requires agents to solve complex information-seeking tasks by iteratively invoking external tools. Typical frameworks such as ReAct maintain raw multimodal inputs and the accumulating interaction history in a single, ever-growing context, leading to the context explosion problem. While existing methods alleviate this issue by compressing redundant text, effective strategies for managing token-intensive v…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "6be78d8ad5e7",
+    "title": "Peer Review as Structured Commentary: Immutable Identity, Public Dialogue, and Reproducible Scholarship",
+    "url": "https://arxiv.org/abs/2506.22497",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2506.22497v2 Announce Type: replace-cross Abstract: This paper reconceptualises peer review as structured public commentary. Traditional academic validation is hindered by anonymity, latency, and gatekeeping. We propose a transparent, identity-linked, and reproducible system of scholarly evaluation anchored in open commentary. Leveraging blockchain for immutable audit trails and AI for iterative synthesis, we design a framework that incentivises intellectual contribution, captures epistemi…",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "b65d1a2bb490",
     "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
     "url": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
