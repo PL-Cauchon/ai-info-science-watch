@@ -1,5 +1,77 @@
 [
   {
+    "id": "09364ac11ad4",
+    "title": "Making AI an asset, not an expense",
+    "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+    "source": "MIT Tech Review",
+    "date": "2026-09-29T10:43:45+00:00",
+    "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to production, model choice is only&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a0f4ea73d942",
+    "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
+    "url": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
+    "source": "Wired AI",
+    "date": "2026-09-29T10:36:22+00:00",
+    "summary": "The company said its latest Astra model would undergo more work to meet safety standards, and issued an apology for the way it handled the hacking of an Australian government website.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c4fe21ac6125",
+    "title": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI",
+    "url": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/",
+    "source": "Wired AI",
+    "date": "2026-09-29T10:30:00+00:00",
+    "summary": "One of AI’s fiercest critics believes the doom talk is about founders making money, not saving humanity.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "43cfd2e61fc0",
+    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "source": "MIT Tech Review",
+    "date": "2026-09-28T22:17:07+00:00",
+    "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "12c9fbae4221",
+    "title": "Founding Documents in Context: AI-Powered and Grounded Cultural Heritage",
+    "url": "https://blogs.loc.gov/thesignal/2026/09/ai-powered-and-grounded-cultural-heritage/",
+    "source": "LOC Signal",
+    "date": "2026-09-28T18:13:22+00:00",
+    "summary": "This post describes a recent collaboration between the Digital Strategy Directorate in the Library’s Office of the Chief Information Officer and the Arizona State University Cloud Innovation Center. The partnership explored necessary steps to create an effective AI-powered tool using context engineering allows for the exploration of United States Revolutionary Era history with the Library’s collections as grounding data.",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "d19a7dc33090",
+    "title": "When can we say AI made a scientific discovery?",
+    "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+    "source": "MIT Tech Review",
+    "date": "2026-09-28T17:03:16+00:00",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ced6f6409485",
+    "title": "Defining “Agentic”: Why We Need a Shared Taxonomy for AI Agents",
+    "url": "https://fpf.org/blog/defining-agentic-why-we-need-a-shared-taxonomy-for-ai-agents/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-09-28T16:12:29+00:00",
+    "summary": "The authors would like to thank Alex Rosenberger and Justine Gluck for their feedback and contributions. Join us on October 21st in California for a Workshop on Advanced Issues in Agentic Deployment. This summer, lawmakers in the United States released two of the first legislative proposals for regulating “AI agents”: the federal AI AGENT Act [&#8230;]",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "4eb6605bf280",
+    "title": "Counting the costs of continuity: Status quo costs in library decision-making",
+    "url": "https://hangingtogether.org/counting-the-costs-of-continuity-status-quo-costs-in-library-decision-making/",
+    "source": "OCLC Research",
+    "date": "2026-09-28T15:03:16+00:00",
+    "summary": "The status quo is a choice, not a state of nature. Should you preserve it? Make sure you understand the costs of continuity. The post Counting the costs of continuity: Status quo costs in library decision-making appeared first on Hanging Together.",
+    "category": "Libraries & Archives"
+  },
+  {
     "id": "ba01a62d5f1b",
     "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
     "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
