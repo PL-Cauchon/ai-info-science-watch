@@ -1,5 +1,284 @@
 [
   {
+    "id": "1de975b2d16f",
+    "title": "Securing Water and Wastewater Operational Technology Environments",
+    "url": "https://www.nist.gov/blogs/cybersecurity-insights/securing-water-and-wastewater-operational-technology-environments",
+    "source": "NIST",
+    "date": "2026-10-01T12:00:00+00:00",
+    "summary": "Recent cyberattacks on the U.S. water and wastewater systems (WWS) sector are highlighting the escalating threat to our nation’s critical infrastructure and the practical challenges of securing it. These incidents underscore an important challenge: the connectivity that utilities depend upon must be designed and operated with security as a core priority rather than a secondary consideration. They also provide a critical insight — that effective cybersecurity protections require a broad-based und…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "bcf05e57341c",
+    "title": "TAGGRAPH: Tag-Augmented Graphs for Graph Retrieval of Agent Persistent Histories",
+    "url": "https://arxiv.org/abs/2609.38353",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.38353v1 Announce Type: new Abstract: Long-term memory lets LLM agents recall past interactions and remain consistent across sessions, but memory systems are hard to compare because they often vary in representation, indexing, retrieval, and evaluation. We present a controlled evaluation framework based on shared 5W-style conversational memories. Localized graph configurations traverse a common base graph; AdaptiveGraph adds chronological edges and Personalized PageRank diffusion. We a…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "12c6bb253a45",
+    "title": "AdaM-Rec: Adaptive Modality Routing for Multimodal Recommendation",
+    "url": "https://arxiv.org/abs/2609.38455",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.38455v1 Announce Type: new Abstract: While recent multimodal recommender systems have demonstrated the effectiveness of incorporating visual and textual information to improve downstream performance, most existing methods rely on static modality fusion, assuming that the relative importance of textual and visual signals remains stable across recommendation scenarios. This design may not fully account for an important variation across recommendation requests: some queries require fine-…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "50dd0d8cd78b",
+    "title": "Re-ranking and Late Interaction Drive Retrieval Quality: A Controlled Comparison of RAG Strategies for Scientific Question Answering",
+    "url": "https://arxiv.org/abs/2609.38473",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.38473v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) is now the standard way to ground Large Language Models (LLMs) in external knowledge, yet the design space of retrieval pipelines is large and the trade-offs between variants are not well understood, especially on domain-specific corpora at realistic scale. In this work, we present a controlled comparison of six retrieval strategies for scientific question answering: (i) classic top-k dense retrieval, (ii) LLM-b…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "b43dbcb1fc6a",
+    "title": "Exploring Forum Post Retrieval with Generative Modeling",
+    "url": "https://arxiv.org/abs/2609.38646",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.38646v1 Announce Type: new Abstract: Generative recommendation (GR) has emerged as an alternative to embedding-based retrieval, building on the success of generative models in language and vision. We are exploring GR on Facebook Forum, a standalone application for medium-to-heavy users of Facebook Groups. Because Forum is a new surface, its own interaction data are too sparse to train a GR model from scratch. We address this with transfer along two axes: we train on a broader corpus o…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "bcc4140b335c",
+    "title": "PatchHolmes: Agentic Patch Retrieval via Listwise Selection",
+    "url": "https://arxiv.org/abs/2609.38807",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.38807v1 Announce Type: new Abstract: Patch retrieval, the task of finding the commit that fixes a known vulnerability, is the foundation of vulnerability management workflows, yet 60% to 63% of CVEs in the major advisory databases lack a patch link. We present PatchHolmes, a two-phase patch retrieval system that pairs a hybrid first-stage retriever with an agentic second-stage inspection loop. Unlike pointwise prior work that scores each candidate independently, the Phase 2 agent read…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4ff7755fc47f",
+    "title": "SkillSeek: Revisiting Agent Skill Retrieval at Marketplace Scale",
+    "url": "https://arxiv.org/abs/2609.38822",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.38822v1 Announce Type: new Abstract: Anthropic's Agent Skills package reusable procedural know-how for an LLM agent into SKILL.md directories, and open-source aggregations have grown past 230,000 skills, making selection rather than authoring the bottleneck. The standing answer in the literature outsources selection to the agent itself: an LLM-mediated retrieval loop that rewrites queries and refines candidates inside the agent's decision loop, paying LLM tokens on every task. We pres…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "bb533bfe8eb8",
+    "title": "Text-Video Retrieval via Multi-Dimensional Saliency Assessment and Granularity-Aware Query Decomposition",
+    "url": "https://arxiv.org/abs/2609.38949",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.38949v1 Announce Type: new Abstract: Text-video retrieval, which aims to bridge visual and textual modalities by learning a joint embedding space, has become a crucial task in multimodal intelligence. Despite extensive efforts to mitigate visual redundancy, previous methods typically rely on a single-aspect criterion to assess visual importance, overlooking the multifaceted spatiotemporal nature of video. In addition, encoding text into a single global embedding to align with videos c…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "f42d1a633c47",
+    "title": "When LLM-Inferred User Context Adds Value in Production Streaming Recommendation",
+    "url": "https://arxiv.org/abs/2609.38999",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.38999v1 Announce Type: new Abstract: Contextual information in recommender systems is shifting from static, predefined variables toward latent representations inferred from behavior. Large language models support this shift by rendering an unstructured interaction history as a natural-language summary, which yields a thematic user context that can be encoded and used in place of an aggregate profile. The conditions under which such generated profiles outperform aggregate embeddings ha…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "28a618f158d1",
+    "title": "RouteRec: Behavior-Guided Sparse Routing for Sequential Recommendation",
+    "url": "https://arxiv.org/abs/2609.39007",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.39007v1 Announce Type: new Abstract: Sessionized interaction histories contain behavioral patterns that can improve sequential recommendation. However, existing models process all sessions through the same parameterized blocks, regardless of their behavioral differences. Mixture of Experts (MoE) enables conditional computation, but it leaves open what should guide expert allocation. We propose RouteRec, a sequential recommender that uses observed session behavior as the routing criter…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ab08f619a4a9",
+    "title": "Routing Between Generative and Collaborative User Profiles: A Serving-Time Gate for Controllable Novelty",
+    "url": "https://arxiv.org/abs/2609.39043",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.39043v1 Announce Type: new Abstract: Large language models (LLMs) enable rich semantic user profiles for recommendation, but such profiles are more expensive to generate and are not necessarily desirable to deploy uniformly. We study whether LLM-generated profiles can instead be invoked selectively within a production recommendation pipeline. Using a real-world streaming dataset covering movies, TV shows, and sports content, we train a serving-time routing gate that assigns each user …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "d0fc38bd551d",
+    "title": "Learning Multiresolution Relevance for Hierarchical Generative Retrieval",
+    "url": "https://arxiv.org/abs/2609.39312",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.39312v1 Announce Type: new Abstract: Generative retrieval with semantic identifiers (SIDs) makes successive decisions over a document hierarchy. Relevant documents for the same query may share coarse prefixes and diverge at finer depths, with branching patterns varying across queries. These paths reveal how relevance is distributed across successive refinements, yet standard full-SID supervision treats them as separate training targets. To make this allocation explicit, we formulate m…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e5ce0b25eef3",
+    "title": "Residual Trajectory Distillation for Generative Retrieval",
+    "url": "https://arxiv.org/abs/2609.39319",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.39319v1 Announce Type: new Abstract: Generative retrieval has emerged as a general retrieval paradigm, representing items with discrete Semantic IDs (SIDs) and retrieving them through autoregressive identifier generation. When SIDs are constructed with residual quantization (RQ), standard retrieval training supervises only the selected codes and discards the residual trajectories that produce them. The same hard code can nevertheless arise from different preferences over competing cod…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "55da1ed9179c",
+    "title": "Generative End-to-end Ad Retrieval at Douyin",
+    "url": "https://arxiv.org/abs/2609.39327",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.39327v1 Announce Type: new Abstract: Generative retrieval reformulates recommendation as the generation of discrete item tokens. However, scaling this paradigm to real-world recommender systems reveals two critical bottlenecks: 1) Representation collapse, where the item tokenizer converges to degenerate results under continuous distribution shifts, fundamentally hindering stable end-to-end adaptation. 2) Item collisions, where the massive candidate pool causes distinct items to share …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4210e4a55712",
+    "title": "When the Label Ignores the Request: Auditing Policy-Selected Targets in Synthetic Conversational Music Recommendation",
+    "url": "https://arxiv.org/abs/2609.39696",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.39696v1 Announce Type: new Abstract: Synthetic dialogues generated by LLM pipelines now serve as complete conversational-recommendation benchmarks: an LLM listener talks to an LLM recommender, and the track logged next in the conversation becomes the official label for each turn. These policy-selected labels make large-scale evaluation reproducible, but they are proxies for what the simulated user asked. We audit the one place where label and request are directly comparable: turns whe…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c852983d5e9c",
+    "title": "KUAISHOU Explorer LLM-Rec Challenge 2026: Reasoning Generative Recommendation",
+    "url": "https://arxiv.org/abs/2609.39828",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.39828v1 Announce Type: new Abstract: Generative recommendation, has been attracted a surge of attentions in industrial and academic research community, towards to build more smart system to build next-generation recommender. Under the significant developing wave of large language model, our team have been developed Semantic ID based OneRec/OneRec-V2. These models have been widely deployed in production and demonstrate the scaling potential of the autoregressive next-item prediction pa…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "7d4cebec14ac",
+    "title": "Decision-Oriented Recommendation Reranking: An Empirical Study of Jev",
+    "url": "https://arxiv.org/abs/2609.40241",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.40241v1 Announce Type: new Abstract: Large language models (LLMs) have shown promise for recommendation reranking, but their use introduces an important tradeoff between recommendation quality and serving efficiency. We investigate whether a decision-oriented model provides a useful alternative when the reranking task is fundamentally a structured choice among predefined candidate items. Specifically, we conduct a controlled empirical study of Jev, described by TypeSafe AI as a ``Syst…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c7134f1d422e",
+    "title": "Life-Bench: A Benchmark and Knowledge Graph Framework for Multimodal Personalization Beyond Concept Recognition",
+    "url": "https://arxiv.org/abs/2602.19001",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2602.19001v2 Announce Type: cross Abstract: As large language models increasingly power personal assistants, users expect them to reason over multimodal life histories, from recognizing people to understanding events to aggregating patterns, yet existing benchmarks primarily target concept-level recognition. We introduce Life-Bench, a fully synthetic, human-verified multimodal benchmark of over 11,800 question-answer pairs across 10 tasks, organized by required evidence scope: concept iden…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "be4bd580ddc5",
+    "title": "Privacy in Personalized AI Is a System Property, Not Just a Model Property",
+    "url": "https://arxiv.org/abs/2609.38289",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.38289v1 Announce Type: cross Abstract: In personalized AI applications, such as conversational assistants and recommender systems, users interact not with models in isolation but with broader systems that access, infer, and reuse user information across components and over time. While such use of user information is integral to personalization, it also raises important privacy questions. In this paper, we argue that individual model- or component-level analyses may not capture all pri…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "afedc684732a",
+    "title": "Doc2LoRA Provides Decodable Representations of Scientific Ideas",
+    "url": "https://arxiv.org/abs/2609.38374",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.38374v1 Announce Type: cross Abstract: Representing scientific papers as points in a space lets us search for similar papers and inquire about how fields relate to one another and drive innovation. Beyond search, the vector space of papers invites generation: mixing papers through simple vector operations creates new points, mirroring combinatorial novelty, the recombination of existing ideas into new ones. However, a mixed point often represents an idea no paper has yet realized, wit…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "468a87cd8bbc",
+    "title": "Component-Aware Feedback for Self-Evolving Programs",
+    "url": "https://arxiv.org/abs/2609.38639",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.38639v1 Announce Type: cross Abstract: LLM-guided evolutionary search can discover complex programs, but existing methods mostly only save candidate programs and fitness scores while discarding which component edits produced which fitness metric changes. Existing methods force the mutator LLM to infer the effect of prior edits from cluttered histories, making program search slow and unstable. This is especially true for locally servable LLMs to evolve multi-component systems. We intro…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "9e1f313ad337",
+    "title": "Learning to Route in Visual Space via Multi-Step Embedding Retrieval",
+    "url": "https://arxiv.org/abs/2609.38743",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.38743v1 Announce Type: cross Abstract: LLM agents rely on retrieval tools to access external knowledge, yet visual agentic search remains severely bottlenecked by standard single-step retrievers. In current pipelines, the agent must issue text queries for every intermediate step, struggling when visual clues are difficult to describe or when the retriever fails to surface necessary intermediate evidence within its top results. We hypothesize that offloading multi-step navigation acros…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "8dea2d380171",
+    "title": "TRACE: Target-Aware Retrieval, Attributed Evidence, and Contract-Constrained Extraction for LitTraceQA",
+    "url": "https://arxiv.org/abs/2609.38861",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.38861v1 Announce Type: cross Abstract: Finding a relevant paper is not the same as producing a verifiable answer from it. LitTraceQA requires canonical paper identifiers, exact evidence at the page or object level, and typed answers that match the evaluator. We call the separation between source access and scorer-visible correctness the grounding contract gap. TRACE - Target-Aware Retrieval, Attributed Evidence, and Contract-Constrained Extraction - addresses this gap with target-grou…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "91c128fe1ae3",
+    "title": "Breaking News Out of the Filter Bubble: Generative AI Search Diversifies Collective Attention and Raises Shared Information Consumption",
+    "url": "https://arxiv.org/abs/2609.38946",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.38946v1 Announce Type: cross Abstract: Generative AI search and AI overviews are transforming access to information and news, renewing concerns that readers will encounter a narrower range of topics and have less in common. We examine these concerns via a randomized field experiment with 37,561 readers at The Washington Post. Both groups searched the same archive, but treatment readers also received AI answers with article citations above conventional results. Measuring consumption ac…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "6b7a17d7307c",
+    "title": "Evidence First, Arithmetic Second: A System Report and Failure Analysis for DocSem",
+    "url": "https://arxiv.org/abs/2609.39013",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.39013v1 Announce Type: cross Abstract: EVICALC, our system for the DocSem shared task, achieved 8.61% joint accuracy on 1,730 tasks in the official final test evaluation. It reads a PDF, selects a passage, asks a language model to write an arithmetic expression, and evaluates that expression in local code. Saved intermediate results support inspection of failures. A separate public-validation run achieved 92.17% answer accuracy and 1.00 evidence F1. The configurations and metrics diff…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e7ef395e87dc",
+    "title": "O-Funnel: Lossless Structural Capture and Requirement-Driven Extraction from Drifting, Heterogeneous Documents",
+    "url": "https://arxiv.org/abs/2609.39209",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.39209v1 Announce Type: cross Abstract: Pulling a fixed set of fields out of documents that arrive in many formats and under drifting schemas is usually done with hand-written byte patterns, which break whenever a key is renamed, a value is reformatted, or a lookalike value appears first. We argue the cause is structural: one pattern must both describe the value and locate it among its surroundings. O-Funnel separates the two. It transcribes any XML, JSON, CSV, HTML or key-value text d…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "440effc7a2da",
+    "title": "Augmenting Italian Cultural Heritage with Virtual and Digital Technologies: the final outcomes of Project CHANGES' Spoke 4",
+    "url": "https://arxiv.org/abs/2609.39316",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.39316v1 Announce Type: new Abstract: CHANGES (Cultural Heritage Innovation for Next-Gen Sustainable Society) was a project coordinated by the CHANGES Foundation, bringing together complementary disciplines and expertise across the entire cultural heritage lifecycle. This article focuses on the project's research area dedicated to applying virtual technologies to museums and art collections. This research enabled us to experiment with different types of museums and art collections acro…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "388f811f22f4",
+    "title": "Drift Inspector: Exploring and Measuring Scientific Drift with Atomic Contribution Claims",
+    "url": "https://arxiv.org/abs/2609.39710",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.39710v1 Announce Type: cross Abstract: Scientific abstracts mix contributions with background, motivation, and meta-language, so tools that read them as-is cannot separate what a field produces from what it discusses. We present Drift Inspector, an open-source system for measuring and exploring how a research field changes over time at the level of Atomic Contribution Claims (ACCs): decontextualized, contribution-bearing propositions an LLM extracts from each abstract before analysis.…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "da90560c54ac",
+    "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
+    "url": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
+    "source": "Wired AI",
+    "date": "2026-09-30T20:30:09+00:00",
+    "summary": "Six major AI companies signed a voluntary agreement with the White House this week vowing to implement safeguards. It’s unclear how much that matters.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0340c6a1003f",
+    "title": "The Battle to Be Your Personal AI Agent Is Here",
+    "url": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
+    "source": "Wired AI",
+    "date": "2026-09-30T19:30:00+00:00",
+    "summary": "OpenAI's Dots and Meta's Muse are vying to be your AI agent of choice. I've tried both—and I suspect you will too.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "dc2e6e7fe28a",
+    "title": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI",
+    "url": "https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/",
+    "source": "Wired AI",
+    "date": "2026-09-30T19:00:00+00:00",
+    "summary": "In her new book on biological warfare, Annie Jacobsen didn’t even discuss AI because scientists can already warp Mother Nature to create extinction-level events.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "62c863652362",
     "title": "Web Archive Collections in Online Reference Resources",
     "url": "https://blogs.loc.gov/thesignal/2026/09/web-archive-collections-in-online-reference-resources/",
