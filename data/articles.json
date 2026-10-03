@@ -1,5 +1,41 @@
 [
   {
+    "id": "ff612af46aef",
+    "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
+    "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
+    "source": "Wired AI",
+    "date": "2026-10-03T12:00:00+00:00",
+    "summary": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "79f54c6e9d52",
+    "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
+    "url": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
+    "source": "Wired AI",
+    "date": "2026-10-02T16:00:00+00:00",
+    "summary": "Many frontier labs keep their risky research locked away. Trillium Labs wants to show off its work when it comes to self-improvement and model behavior.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "063821072894",
+    "title": "Redefining enterprise intelligence with autonomous AI",
+    "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+    "source": "MIT Tech Review",
+    "date": "2026-10-02T15:49:04+00:00",
+    "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has&#8230;",
+    "category": "Enterprise Information Management"
+  },
+  {
+    "id": "bb07669d3b3d",
+    "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
+    "url": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
+    "source": "Wired AI",
+    "date": "2026-10-02T15:00:00+00:00",
+    "summary": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump canceled the term.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "c2c94c06b8ec",
     "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
     "url": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
@@ -12,6 +48,15 @@
     "id": "085187c7d81c",
     "title": "Health Care Workers Are Tired of Cleaning Up Palantir’s Mess",
     "url": "https://www.wired.com/story/healthcare-workers-are-tired-of-cleaning-up-palantirs-mess/",
+    "source": "Wired AI",
+    "date": "2026-10-02T09:30:00+00:00",
+    "summary": "A hospital giant and radiology network turned to Palantir to streamline scheduling, but nurses and other staff say the new software is causing errors, burnout, and frustration.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "932dc2df3404",
+    "title": "AI Is Making a Mess of Nurses’ Schedules. They Say It’s a Safety Issue",
+    "url": "https://www.wired.com/story/ai-making-mess-of-nurses-schedules-they-say-its-a-safety-issue/",
     "source": "Wired AI",
     "date": "2026-10-02T09:30:00+00:00",
     "summary": "A hospital giant and radiology network turned to Palantir to streamline scheduling, but nurses and other staff say the new software is causing errors, burnout, and frustration.",
