@@ -1,5 +1,185 @@
 [
   {
+    "id": "a166b7265245",
+    "title": "Bringing predictive analytics to the agentic AI era",
+    "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+    "source": "MIT Tech Review",
+    "date": "2026-10-05T13:29:32+00:00",
+    "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomous decision making, and the gap between&#8230;",
+    "category": "Enterprise Information Management"
+  },
+  {
+    "id": "ff98e6182fed",
+    "title": "Authors Discuss Being Banned, Part 1: Patricia McCormick and Stephen Chbosky",
+    "url": "https://americanlibrariesmagazine.org/2026/10/05/authors-discuss-being-banned-part-1-patricia-mccormick-and-stephen-chbosky/?utm_source=rss&utm_medium=rss&utm_campaign=authors-discuss-being-banned-part-1-patricia-mccormick-and-stephen-chbosky",
+    "source": "American Libraries",
+    "date": "2026-10-05T12:45:07+00:00",
+    "summary": "Behind each title is an author being professionally—and sometimes personally—targeted for the stories they have chosen to share. These works usually amplify marginalized voices such as abuse victims or those within the LGBTQ+ community. American Libraries spoke with five authors on the Top 11 Most Challenged Books of 2025 list included in the report to &#8230; Continue reading Authors Discuss Being Banned, Part 1: Patricia McCormick and Stephen Chbosky &#8594; The post Authors Discuss Being Bann…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "7df48d7e14b3",
+    "title": "Introducing the New Small Business Cybersecurity Support Program Finder",
+    "url": "https://www.nist.gov/blogs/cybersecurity-insights/introducing-new-small-business-cybersecurity-support-program-finder",
+    "source": "NIST",
+    "date": "2026-10-05T12:00:00+00:00",
+    "summary": "For small businesses who are often confronted with limited resources, knowing how to get started and where to find support with planning, implementing, or evaluating a cybersecurity risk management strategy can be challenging — sometimes making cybersecurity feel like an insurmountable hurdle. However, there is good news. Many non-profit organizations across the United States have created programs for their local small business communities (in addition to local schools, municipal governments, an…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "7a474ffcdd2c",
+    "title": "People really hate AI, so why can’t they get enough?",
+    "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+    "source": "MIT Tech Review",
+    "date": "2026-10-05T08:00:00+00:00",
+    "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI&#8230;",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "3158e35cc2e8",
+    "title": "Adaptive Sparsity Optimization with Learnable Soft Top-K and Per-Term Thresholding for Efficient Retrieval",
+    "url": "https://arxiv.org/abs/2610.02572",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-05T04:00:00+00:00",
+    "summary": "arXiv:2610.02572v1 Announce Type: new Abstract: Recent work on neural sparse retrieval has demonstrated strong relevance by leveraging Large Language Models (LLMs) for semantic term expansion. However, learned models paired with previous sparsification techniques still yield overly long document and query vectors partly due to a large LLM vocabulary, imposing a serious challenge to retrieval time and space efficiency. This paper proposes a scheme for optimizing model sparsity through a synergy o…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "34cbf5dc77ba",
+    "title": "When History Misleads: Asymmetric Margin Supervision for Instruction-Guided LLM Generative Recommendation",
+    "url": "https://arxiv.org/abs/2610.02600",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-05T04:00:00+00:00",
+    "summary": "arXiv:2610.02600v1 Announce Type: new Abstract: In instruction-guided generative recommendation, LLM-based recommenders need to balance two goals: responding to the user's current request and aligning with the preferences in their interaction history. When the two conflict, history events can override the request. We show that turning the effect of individual history events into supervision faces two obstacles. First, the events that most influence a recommendation are not necessarily the ones t…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "2c61b69bef2d",
+    "title": "Learning Query Encoders Can Be Hard Even When Vector Retrieval Is Geometrically Easy",
+    "url": "https://arxiv.org/abs/2610.02749",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-05T04:00:00+00:00",
+    "summary": "arXiv:2610.02749v1 Announce Type: new Abstract: Efficient vector retrieval requires both a corpus geometry that supports retrieving the right documents through vector similarity, and a query encoder that can embed queries near their desired documents in the embedding space. Recent work has studied geometric capacity through the lens of the minimum embedding dimension needed to realize all top-$k$ answer sets of $n$ documents. We study a different notion of geometric capacity--the maximum recall …",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "542cfff963e4",
+    "title": "Benchmarking Literature Retrieval for a Model Organism: A Dictyostelium Case Study",
+    "url": "https://arxiv.org/abs/2610.03130",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-05T04:00:00+00:00",
+    "summary": "arXiv:2610.03130v1 Announce Type: new Abstract: Biological literature retrieval systems are often developed and evaluated using broad biomedical corpora and general-purpose search tasks. However, many curated knowledge bases operate in narrower model-organism domains, where the literature is sparse and terminology is organism-specific. We introduce a retrieval benchmark from dictyBase for Dictyostelium, a model organism in cell and developmental biology. The benchmark consists of curator-generat…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "f02280578fbe",
+    "title": "A Manifold-Aware Topic Modeling Approach via Rank-Based Prototypes",
+    "url": "https://arxiv.org/abs/2609.29630",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-05T04:00:00+00:00",
+    "summary": "arXiv:2609.29630v1 Announce Type: cross Abstract: Recent topic models leverage pretrained embeddings, but neural architectures produce latent representations without grounding in specific texts, and clustering-based pipelines assign representative documents only post hoc, relying on absolute distances distorted by hubness and anisotropy in high-dimensional spaces. We introduce MARETopic, a training-free framework that casts topic discovery as rank-based prototype selection. After projecting embe…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "c6f6b7fc2946",
+    "title": "SOLO: Certified-Recall Metric Similarity Search with Scan-Only Sampled Inverted Lists",
+    "url": "https://arxiv.org/abs/2610.02387",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-05T04:00:00+00:00",
+    "summary": "arXiv:2610.02387v1 Announce Type: cross Abstract: We present SOLO, an index for approximate nearest-neighbor search in general metric spaces whose serving path contains no ranking heuristic of any kind: a query is routed to the $k_s$ nearest points of a random sample of the database, and every object in the touched posting lists is evaluated with the true distance. Because nothing must outrank anything, recall equals a coverage probability computable from the stored index: one ground-truth pass …",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "f512913a2500",
+    "title": "On-Premises Multi-Course RAG Tutoring for Business Education: Hardware-Software Trade-offs in a Campus AI Tutor",
+    "url": "https://arxiv.org/abs/2610.02510",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-05T04:00:00+00:00",
+    "summary": "arXiv:2610.02510v1 Announce Type: cross Abstract: Campus AI tutors based on retrieval-augmented generation (RAG) must ground answers in assigned course materials while keeping textbooks and student dialogue on institutional infrastructure. We present CourseChat, an on-premises, multi-course RAG tutor for undergraduate business education, deployed behind a campus web gateway and intended for use embedded in Moodle. Six isolated course offerings, each keyed by its own course reference number (CRN)…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "8923e6d63bc7",
+    "title": "Asterism: Exploring and Synthesizing Scattered Observations into Literature-Grounded Hypotheses and Theories",
+    "url": "https://arxiv.org/abs/2610.02673",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-05T04:00:00+00:00",
+    "summary": "arXiv:2610.02673v1 Announce Type: cross Abstract: A theory draws many independent observations into one framework with novel hypotheses. A researcher building such a theory must synthesize observations scattered across many papers, each describing related concepts but often in different terms. Which concepts matter most also depends on their preferences and research questions. Recent approaches scale theory synthesis with LLMs, but automate away choices and intuitions from researchers. We presen…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "4ca77c51994b",
+    "title": "Query-aware routing for Cross-lingual performance gains in Encoders",
+    "url": "https://arxiv.org/abs/2610.02875",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-05T04:00:00+00:00",
+    "summary": "arXiv:2610.02875v1 Announce Type: cross Abstract: Multilingual encoders can exhibit reduced retrieval effectiveness when queries and relevant documents differ in language, despite strong same-language performance. We investigate whether Finnish and Swedish cross-lingual retrieval can improve while preserving an encoder's existing same-language performance and document index. We combine a query-only low-rank adapter, trained against frozen document embeddings, with deterministic routing based on …",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "75738747d8db",
+    "title": "TSGuard: A Real-Time Framework for Detecting and Imputing Missing Data in Streaming Time Series",
+    "url": "https://arxiv.org/abs/2610.03147",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-05T04:00:00+00:00",
+    "summary": "arXiv:2610.03147v1 Announce Type: cross Abstract: Streaming sensor applications routinely suffer from delayed or missing observations caused by faults, communication losses, or environmental interference. Although recent imputation methods exploit temporal and spatial dependencies effectively, most either assume offline access to future observations or prioritize throughput without enforcing domain plausibility. We present TSGuard, a real-time demonstration system for monitoring, validating, and…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "101bc8f79873",
+    "title": "MRVQ: One Resident Index for Dimension- and Rate-Elastic Vector Search",
+    "url": "https://arxiv.org/abs/2610.03651",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-05T04:00:00+00:00",
+    "summary": "arXiv:2610.03651v1 Announce Type: cross Abstract: Dense-retrieval services must switch among embedding-prefix dimensions and index bit rates as latency, quality, and memory budgets change. Tuning a quantizer separately for each rate gives the best quality, but the retrieval tier then holds several code streams and quantizer states at once. We introduce Matryoshka Residual Vector Quantization (MRVQ), a post-hoc residual quantizer for frozen embeddings. Its maximum-rate code can be truncated two w…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "a257b91b5ab6",
+    "title": "Infinity Search: Approximate Vector Search with Projections on q-Metric Spaces",
+    "url": "https://arxiv.org/abs/2506.06557",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-05T04:00:00+00:00",
+    "summary": "arXiv:2506.06557v3 Announce Type: replace Abstract: An ultrametric space or infinity-metric space is defined by a dissimilarity function that satisfies a strong triangle inequality in which every side of a triangle is not larger than the larger of the other two. We show that search in ultrametric spaces with a vantage point tree has worst-case complexity equal to the depth of the tree. Since datasets of interest are not ultrametric in general, we employ a projection operator that transforms an a…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "d16e32546671",
+    "title": "Note-Level Temporal Grounding of Musical Concepts in Large Audio-Language Models",
+    "url": "https://arxiv.org/abs/2608.29480",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-05T04:00:00+00:00",
+    "summary": "arXiv:2608.29480v2 Announce Type: replace-cross Abstract: Large audio-language models (LALMs) demonstrate growing music-understanding capabilities, but whether their responses are grounded in acoustic evidence remains unclear. Musical language often involves abstract concepts whose acoustic evidence is difficult to define and evaluate precisely. We introduce MusicGroundingBench, a controlled benchmark of algorithmically generated piano audio with exact symbolic alignment, comprising three-note a…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "935b6152c789",
+    "title": "Auditing Long-Term Memory Evaluation: Repeated Judging, Reader Variation, and Negative Controls",
+    "url": "https://arxiv.org/abs/2609.38021",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-05T04:00:00+00:00",
+    "summary": "arXiv:2609.38021v2 Announce Type: replace-cross Abstract: This report audits evaluation of a long-term-memory retrieval chain on the 500 LongMemEval-S development questions. Its strongest historical reader lane scores 479 and 475 under an adapted GPT-4o rubric; re-judging the same pass-1 answers changes three labels and yields 478. Fixed-answer knowledge-update re-scoring gives 70/72 under the upstream template and 69/72 under the modified template. Reader lanes span 93 to 479 on fixed packets; …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ae8a5cf28e2a",
+    "title": "Still funded, no longer counted: how NIH's 2025 award reviews changed what the government counts as minority health research",
+    "url": "https://arxiv.org/abs/2610.03443",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-05T04:00:00+00:00",
+    "summary": "arXiv:2610.03443v1 Announce Type: new Abstract: Funders know their portfolios through software that classifies award text. The US National Institutes of Health (NIH) reports its spending in more than 300 categories mined this way, and work on classification and indicators treats the text as the applicant's to write. In 2025 NIH required \"DEI language\" removed from awards not supporting DEI activities, and so policed the words it also counts. We followed population names through 37,790 continuing…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "7b6e175f38ee",
+    "title": "Science Is Falling Behind the Frontier: Foundation Model Adoption Across Half a Million Papers",
+    "url": "https://arxiv.org/abs/2511.21739",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-05T04:00:00+00:00",
+    "summary": "arXiv:2511.21739v2 Announce Type: replace Abstract: We present the first large-scale analysis of AI foundation model usage in science -- not just citations or keywords. We find that adoption has grown rapidly, at nearly-exponential rates, with the highest uptake in Linguistics, Computer Science, and Engineering. Vision models are the most used foundation models in science, although language models' share is growing. Open-weight models dominate. As AI builders increase the parameter counts of the…",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "5021eb4ecd13",
     "title": "Rural Data Centers Are in for a Big Federal Tax Break",
     "url": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
