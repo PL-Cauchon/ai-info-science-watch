@@ -1,5 +1,50 @@
 [
   {
+    "id": "e25a9486006c",
+    "title": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
+    "url": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
+    "source": "Wired AI",
+    "date": "2026-10-06T13:15:23+00:00",
+    "summary": "With the release of its new trillion-parameter model, Mistral is hoping to demonstrate it’s “still in the race” to build frontier-level artificial intelligence.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a049b3a96d12",
+    "title": "Authors Discuss Being Banned, Part 2: Malinda Lo, Ellen Hopkins, and Jennifer L. Armentrout",
+    "url": "https://americanlibrariesmagazine.org/2026/10/06/on-being-banned-part-2-malinda-lo-ellen-hopkins-jennifer-armentrout/?utm_source=rss&utm_medium=rss&utm_campaign=on-being-banned-part-2-malinda-lo-ellen-hopkins-jennifer-armentrout",
+    "source": "American Libraries",
+    "date": "2026-10-06T12:37:38+00:00",
+    "summary": "Behind each title is an author being professionally—and sometimes personally—targeted for the stories they have chosen to share. These works usually amplify marginalized voices such as abuse victims or those within the LGBTQ+ community. American Libraries spoke with five authors on the Top 11 Most Challenged Books of 2025 list included in the report to &#8230; Continue reading Authors Discuss Being Banned, Part 2: Malinda Lo, Ellen Hopkins, and Jennifer L. Armentrout &#8594; The post Authors Dis…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "ce4fb1db1532",
+    "title": "Kevin Roose Didn’t Use AI to Write His Book About AI",
+    "url": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/",
+    "source": "Wired AI",
+    "date": "2026-10-06T10:30:00+00:00",
+    "summary": "The author of The AGI Chronicles says his book “was written by a very tired, overworked, under-slept human being.”",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2937a35cf326",
+    "title": "What Gets Measured Gets Governed: Benchmarking Privacy in Frontier AI Development and Deployment",
+    "url": "https://fpf.org/blog/what-gets-measured-gets-governed-benchmarking-privacy-in-frontier-ai-development-and-deployment/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-10-05T18:56:38+00:00",
+    "summary": "As frontier AI systems grow more capable and autonomous, questions about how they handle personal data are no longer theoretical. Standardized benchmarks have long served as one of the primary methods of measuring and comparing frontier AI performance, capabilities, and limitations. However, there is currently a lack of standardized ways to evaluate privacy risks and [&#8230;]",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1ba99535ff8c",
+    "title": "Connecting AI agents to enterprise knowledge",
+    "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+    "source": "MIT Tech Review",
+    "date": "2026-10-05T15:47:52+00:00",
+    "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to reason about situations, make decisions, and ultimately&#8230;",
+    "category": "Enterprise Information Management"
+  },
+  {
     "id": "a166b7265245",
     "title": "Bringing predictive analytics to the agentic AI era",
     "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
@@ -177,6 +222,15 @@
     "source": "arXiv: Digital Libraries",
     "date": "2026-10-05T04:00:00+00:00",
     "summary": "arXiv:2511.21739v2 Announce Type: replace Abstract: We present the first large-scale analysis of AI foundation model usage in science -- not just citations or keywords. We find that adoption has grown rapidly, at nearly-exponential rates, with the highest uptake in Linguistics, Computer Science, and Engineering. Vision models are the most used foundation models in science, although language models' share is growing. Open-weight models dominate. As AI builders increase the parameter counts of the…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "9ccd829ecd1f",
+    "title": "EmTech Future 2026: When AI Meets Everything",
+    "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+    "source": "MIT Tech Review",
+    "date": "2026-10-05T04:00:00+00:00",
+    "summary": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.&#160; Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches&#8230;",
     "category": "AI & Information Sciences"
   },
   {
