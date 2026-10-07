@@ -1,5 +1,311 @@
 [
   {
+    "id": "4dd372055642",
+    "title": "By the Numbers: Banned Books Week 2026",
+    "url": "https://americanlibrariesmagazine.org/2026/10/07/by-the-numbers-banned-books-week-2026/?utm_source=rss&utm_medium=rss&utm_campaign=by-the-numbers-banned-books-week-2026",
+    "source": "American Libraries",
+    "date": "2026-10-07T13:00:44+00:00",
+    "summary": "4,235 Total number of unique titles challenged in libraries in 2025, as documented by the American Library Association’s (ALA’s) Office for Intellectual Freedom (OIF). That number is the second highest on record, just short of 2023’s 4,240 unique titles challenged. 2007 Average publication year of the books on ALA’s list of the Top 11 Most &#8230; Continue reading By the Numbers: Banned Books Week 2026 &#8594; The post By the Numbers: Banned Books Week 2026 appeared first on American Libraries M…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "9b46ea31ce3d",
+    "title": "Noted and Quoted: Banned Books Week 2026",
+    "url": "https://americanlibrariesmagazine.org/2026/10/07/noted-and-quoted-banned-books-week-2026/?utm_source=rss&utm_medium=rss&utm_campaign=noted-and-quoted-banned-books-week-2026",
+    "source": "American Libraries",
+    "date": "2026-10-07T13:00:27+00:00",
+    "summary": "&#160; “Book bans are pervasive and insidious threats to creative expression and intellectual freedom. Stories are an unparalleled tool for truth, and in the face of fear of misinformation, it is paramount that truth prevails.” Tony Weaver Jr., Banned Books Week honorary cochair and author of the graphic novel Weirdo, Banned Books Week, Sept. 17 &#8230; Continue reading Noted and Quoted: Banned Books Week 2026 &#8594; The post Noted and Quoted: Banned Books Week 2026 appeared first on American L…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a79d29d3d8a4",
+    "title": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
+    "url": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
+    "source": "Wired AI",
+    "date": "2026-10-07T11:00:00+00:00",
+    "summary": "Dots are designed to automate online tasks, like buying furniture. In my initial experience, the always-on agent was a bit buggy and couldn’t complete a captcha.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e4256127e5cc",
+    "title": "Your Next Great Read Might Be Certified ‘Organic’",
+    "url": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/",
+    "source": "Wired AI",
+    "date": "2026-10-07T08:30:00+00:00",
+    "summary": "Amid a sea of AI writing slop, a new stamp for “organic literature” will help readers to pick out books authored by real, corn-fed, free-range humans.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "20b585f7b477",
+    "title": "Beyond Successor Accuracy: State Retention for Recursive Self-Improvement in Recommendation",
+    "url": "https://arxiv.org/abs/2610.07105",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.07105v1 Announce Type: new Abstract: Recommendation recursive self-improvement (Rec-RSI) feeds recommender outputs into subsequent training. Evaluating each round solely through its latest model assumes that the successor consolidates the update, although pre- and post-update models may retain complementary ranking decisions. We term this \\emph{distributed progress} and quantify it using cross-generation advantage (CGA), a marginally matched contrast between cross- and within-generati…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "915e4787e3ec",
+    "title": "RAGFlip: Measuring Query-Level Negative Flips in Retriever Upgrades",
+    "url": "https://arxiv.org/abs/2610.07266",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.07266v1 Announce Type: new Abstract: Retriever upgrades are typically evaluated using aggregate metrics, which can hide regressions on queries the previous retriever already served correctly. We study these regressions as negative flips: queries for which BM25 retrieves a judged relevant passage and the replacement does not. We evaluate BGE-large, E5-large-v2, and SPLADE on three BEIR collections: Natural Questions, HotpotQA, and FiQA, across five retrieval depths. All replacements im…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5c7ed195c1a1",
+    "title": "Rethinking Semantic ID Construction for Generative Recommendation: SimHash with Parallel Decoding and Semantic Alignment",
+    "url": "https://arxiv.org/abs/2610.07402",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.07402v1 Announce Type: new Abstract: Semantic ID-based generative recommendation represents each item as a sequence of discrete tokens, enabling structured modeling of item semantics. A critical challenge is constructing semantic IDs that are both semantically expressive and computationally efficient. While recent approaches favor complex learned quantization, simple hashing-based methods such as SimHash are widely regarded as fundamentally inferior. In this work, we challenge this co…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0761f2ea0353",
+    "title": "A Study of Prior Case Retrieval Using Lexical, Semantic, and Rhetorical Role Information in Indian Legal Documents",
+    "url": "https://arxiv.org/abs/2610.07437",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.07437v1 Announce Type: new Abstract: For retrieving prior cases in Indian legal judgments, the problem involves distinguishing relevant legal facts from mere lexical similarities because a prior case that shares a statute with the query judgment is not necessarily relevant. In this paper, we describe an empirical evaluation of three consecutive designs of retrieval systems for the IL PCR(Indian Legal Prior Case Retrieval) task. We demonstrate that the combination of the rhetorical rol…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0ed89a94da0f",
+    "title": "DBRAG: Multi-Table Retrieval-Augmented Generation for Complex Database Queries",
+    "url": "https://arxiv.org/abs/2610.07622",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.07622v1 Announce Type: new Abstract: Recent advancements in large language models have introduced new capabilities for reasoning over structured data, particularly through program-aided tools that can analyze tables. However, many existing methods address single-table scenarios or assume that the relevant tables are already provided. In practice, users often issue complex data exploration queries over entire databases, where relevant information may be distributed across multiple rela…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "cd512e87f530",
+    "title": "Learning to Retrieve via Reinforcement Learning in Embedding Space",
+    "url": "https://arxiv.org/abs/2610.07731",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.07731v1 Announce Type: new Abstract: Dense retrieval models are typically trained with contrastive objectives that learn effective representations but do not directly optimize retrieval metrics or downstream task performance. To address this problem, we introduce RELER (REinforcement LEarning for Retrieval), a reinforcement learning framework that enables existing embedding models to learn to retrieve directly in embedding space and align to task-specific rewards. We train RELER by sa…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "31b7fb54d04c",
+    "title": "Token-Budgeted Escalation for Financial Document QA: Cost Is Predictable, Benefit Is the Bottleneck",
+    "url": "https://arxiv.org/abs/2610.07760",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.07760v1 Announce Type: new Abstract: Retrieval-augmented generation systems can route difficult queries to deeper context, but batch deployments must allocate a shared token budget across calls whose costs vary by query. We formulate selective escalation as finite-batch allocation for financial document question answering. Each of 150 FinanceBench questions first receives a top-1 retrieval answer. Predictors estimate the adjudication-quality gain and token cost of an optional top-5 ca…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "242b7e0b2111",
+    "title": "Contrastive Learning for Aspect Representation towards Explainable Recommendation",
+    "url": "https://arxiv.org/abs/2610.07761",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.07761v1 Announce Type: new Abstract: In this work, we propose a novel recommendation model, CLARER (Contrastive Learning for Aspect Representation towards Explainable Recommendation) that integrates aspect features learned from textual reviews with rating information to improve the accuracy and explainability of recommendations. Our proposed framework learns user and item representations by combining rating-based features and aspect-based features from reviews. Specifically, rating-ba…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "64adb6de1bde",
+    "title": "From Delivery to Stateful Exploration: Rethinking the Index for Agentic Search",
+    "url": "https://arxiv.org/abs/2610.07960",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.07960v1 Announce Type: new Abstract: Recent advances in agentic search have given large language model (LLM) agents finer control over corpus exploration. However, search interfaces often return matching passages even when feedback about the candidate set would suffice for the next decision, coupling candidate refinement with source-text exposure. We propose IndexAct, an interface for Index-Native Corpus Interaction that separates candidate-set refinement from text inspection. Agents …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "0a3babe898b2",
+    "title": "Adapting Generative Recommenders for Multi-Turn Interaction",
+    "url": "https://arxiv.org/abs/2610.08136",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.08136v1 Announce Type: new Abstract: Generative recommenders decode items from a user's interaction history, but offer no way for users to correct a recommendation that misses their current intent. Adding conversation is natural since items and words share same output space, yet training the model to converse may overwrite the history-to-item mapping it relies on. We introduce INTEGER (**INTE**ractive **GE**nerative **R**ecommendation), which extends generative recommendation to multi…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "3d2ae1b33143",
+    "title": "Behavior-Mining, Generative Conversations, and Collaborative Advisory: the Future of Travel and Tourism Recommender Systems",
+    "url": "https://arxiv.org/abs/2610.08232",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.08232v1 Announce Type: new Abstract: Since the early adoption of e-commerce, travel and tourism has been a lab for the design of recommender systems: tools that help travelers choose destinations, flights, accommodations, and combine them into itineraries. Data-driven recommendation techniques, ranging from case-based reasoning to reinforcement learning, have been adapted to travelers' needs. The research community has produced multifaceted prototypes of travel and tourism recommender…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4cbf1cc7c86f",
+    "title": "Aligning Performance with Contribution: Towards Contribution-Aware Fair Recommendation",
+    "url": "https://arxiv.org/abs/2610.08245",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.08245v1 Announce Type: new Abstract: Existing research on user fairness in recommender systems has developed diverse objectives. However, it has paid limited attention to a distinct distributive perspective: whether users' contributions to model learning should be reflected in the recommendation benefits they receive. We argue that, in addition to existing fairness protections, a fair system may account for the alignment between users' estimated contributions and the recommendation pe…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "455cc3f0d2d3",
+    "title": "Seeing the Context: Enhancing Recommender Systems with Image-Derived Contextual Signals",
+    "url": "https://arxiv.org/abs/2610.08407",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.08407v1 Announce Type: new Abstract: Contextual information, capturing the circumstances of a user-item interaction, is central to recommender systems. Prior work draws context from location, time, or reviews, but not images; multimodal recommender systems mainly use images to enrich item or user representations, not identify situational context. We propose a new representation of context derived from images, spanning physical, social, and modal categories learned via a vision-languag…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8ccd87d5bda1",
+    "title": "Disentangling Paradigm, Identifier, and Decoding in Generative Retrieval",
+    "url": "https://arxiv.org/abs/2610.08716",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.08716v1 Announce Type: new Abstract: Generative retrieval trains a language model to generate the identifier of a relevant document. Recent work replaces the autoregressive decoder with diffusion, but changes identifiers, training recipe and decoding at once, so differences cannot be credited to the paradigm. On NQ320K and MS300K, we train autoregressive, masked-diffusion and block-diffusion models with residual-quantised, product-quantised and random identifiers. With identifier leng…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "90e25c403aec",
+    "title": "A Systematic Study of Semantic ID Spaces for Generative Information Retrieval",
+    "url": "https://arxiv.org/abs/2610.08732",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.08732v1 Announce Type: new Abstract: Generative Information Retrieval (GIR) has emerged as a transformative paradigm, shifting document retrieval from a traditional \"retrieve-and-rank\" workflow to sequence-to-sequence generation, where a model directly predicts document identifiers (DocIDs). While the semantic design of these DocIDs is known to be critical for performance, a fundamental question remains under-explored: what makes a good DocID? Current approaches rely heavily on comput…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "c5edc007f3e3",
+    "title": "Diff-SQL: SQL Efficiency Optimization via Patch Generation and Constraint Alignment",
+    "url": "https://arxiv.org/abs/2610.06857",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.06857v1 Announce Type: cross Abstract: SQL efficiency optimization aims to transform slow queries into semantically equivalent but faster alternatives. However, directly optimizing SQL with large language models in an end-to-end fashion often induces Objective Misalignment which creates a fundamental tension between optimization and correctness, making direct full SQL rewriting unreliable for execution-facing database applications. To address this problem, we propose Diff-SQL, a two-s…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "35708eb93104",
+    "title": "Tree Navigation Without LLM Summaries: A Matched-Cost Study of Hierarchical Retrieval for Long-Document QA",
+    "url": "https://arxiv.org/abs/2610.06902",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.06902v1 Announce Type: cross Abstract: Retrieval-augmented generation grounds language models in external context, but for long documents flat top-$k$ retrieval can cluster on a single region and miss complementary evidence. RAPTOR-style summary trees address this by recursively clustering chunks and using a language model to summarize each cluster at indexing time, then ranking summary nodes alongside raw chunks at query time. We show the main benefit of summary trees in long-documen…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "4bdab949b9c2",
+    "title": "Beyond Refusal Patterns: Safe-Role Internalization for Robust and Generalizable LLM Safety Alignment",
+    "url": "https://arxiv.org/abs/2610.07023",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.07023v1 Announce Type: cross Abstract: Large Language Models (LLMs) have achieved remarkable capabilities but remain vulnerable to jailbreak attacks that elicit harmful or unsafe outputs. Existing safety alignment approaches, including Supervised Fine-Tuning (SFT) and Reinforcement Learning from Human Feedback (RLHF), often require substantial attack-specific supervision and computational resources, while remaining susceptible to shallow safety alignment and over-refusal. To address t…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "164243af59ad",
+    "title": "Smart Content Ingestion for Generative AI Workloads",
+    "url": "https://arxiv.org/abs/2610.07091",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.07091v1 Announce Type: cross Abstract: The evolution of machine learning has progressively changed where intelligence resides in an AI system. In conventional machine learning the task, data representation, labels and model architecture were tightly coupled, so data preparation was narrow, schema-bound and visible. Generative AI decouples the model from any single task: one foundation model serves open-ended downstream tasks, and the generality gained on the model side is matched by h…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "8c40e7846ab3",
+    "title": "CroissantMiner: Automated Extraction and Validation of Croissant Metadata for ML Datasets",
+    "url": "https://arxiv.org/abs/2610.07132",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.07132v1 Announce Type: cross Abstract: Croissant has emerged as a standard for machine-readable dataset metadata, yet populating its fields remains labor-intensive and requires careful reading of accompanying dataset documentation. We present the first benchmark enabling end-to-end evaluation of metadata extraction aligned with a community-standard schema. The benchmark comprises 602 papers, including 102 with human-validated gold annotations and 500 with LLM-generated silver annotati…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "8b39ddebf5a8",
+    "title": "The Right Memory in the Wrong Context: Verifying Retrieval Admissibility in Long-Term Agent Memory",
+    "url": "https://arxiv.org/abs/2610.07309",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.07309v1 Announce Type: cross Abstract: Long-term-memory agents can retrieve relevant information that is inadmissible for the current request because it belongs to another principal, violates policy, or reflects an incompatible lifecycle state. Recall and final-answer accuracy do not reveal this: a route can appear safe by missing required evidence, while a correct answer may follow inadmissible prompt exposure. We introduce a retrieval-admissibility verification framework that assign…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a2319e4fdbb7",
+    "title": "WildMatch: Weakly Supervised Image Matcher Adaptation for Wildlife Re-Identification",
+    "url": "https://arxiv.org/abs/2610.07384",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.07384v1 Announce Type: cross Abstract: Individual animal re-identification from camera-trap imagery is an instance retrieval problem central to non-invasive wildlife monitoring: a query image must retrieve the correct individual from a reference set of known animals. This requires computer vision models to recognize distinctive local patterns in fur, skin, or other visual markings. Current approaches either learn global embeddings as a classification problem, requiring many labeled im…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "d89c3e39880f",
+    "title": "ShanLiangRen: A Nutrition Agent for Personalized Daily Meal Planning",
+    "url": "https://arxiv.org/abs/2610.07886",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.07886v1 Announce Type: cross Abstract: Dietary nutrition planning plays an important role in chronic disease management and maintaining a healthy body. In applications, it must simultaneously satisfy personalized constraints and reasonable multidimensional nutritional goals. These two aspects often conflict, and user constraints evolve with feedback, resulting in a substantial gap between generic guidelines and executable plans. To bridge this gap, we first propose the personalized fu…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "21303a0d2d13",
+    "title": "Self-Retrospection Distillation: Turning Post-hoc Experiences into Prior Foresight",
+    "url": "https://arxiv.org/abs/2610.08077",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.08077v1 Announce Type: cross Abstract: Reinforcement learning with verifiable rewards (RLVR) turns agent experience into learning signals primarily through scalar outcome rewards after interaction. For group-relative objectives, however, this signal vanishes when all rollouts receive the same reward, even though their trajectories may reveal useful information about what the task requires and how the agent fails. We ask a complementary question: can hindsight teach an agent what it co…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f20d556e29d9",
+    "title": "Confidence-Ordering Reversal under Contextual Priors in Neural Decoding",
+    "url": "https://arxiv.org/abs/2610.08229",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.08229v1 Announce Type: cross Abstract: Contextual priors improve neural-to-language decoding by reshaping candidate scores. However, confidence is read from the same reshaped scores, so the errors a prior leaves behind can become more confident with no change in accuracy to reveal it. We study how a prior shapes confidence in speech retrieval on MEG-MASC and MOUS using local decoding scores, a contextual prior combined by additive shallow fusion, and the fused top-two margin as confid…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "25448ddbc057",
+    "title": "Large scientific teams are more, not less, disruptive",
+    "url": "https://arxiv.org/abs/2610.07329",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.07329v1 Announce Type: new Abstract: Modern science has moved decisively toward larger and more collaborative research teams. Yet an influential 2019 study reported that small teams are more disruptive than large teams, a conclusion difficult to reconcile with both the well-known trend toward increasing collaboration and the disproportionately large teams behind widely recognized disruptive research, such as work that has been awarded Nobel Prizes. Here we show that the reported disru…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f70f53e77c64",
+    "title": "Citations Are Late: Reading epistemic instability from what papers believe, years before the citation graph catches up",
+    "url": "https://arxiv.org/abs/2610.07397",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.07397v1 Announce Type: new Abstract: Paradigm shifts in science are visible in what researchers assert and contest before they are visible in the citation graph. We ask whether a cheap, content-level signal of epistemic instability, derived from the changing distribution of stated modelling beliefs in paper abstracts, can anticipate a paradigm shift earlier than the dominant citation-based disruption index (CD5). On the displacement of recurrent networks by Transformers in NLP, a pre-…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "f5aea1fd011d",
+    "title": "The Challenges of PROTAC Permeability Prediction",
+    "url": "https://arxiv.org/abs/2610.07998",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.07998v1 Announce Type: new Abstract: Cell permeability is a key bottleneck for PROTAC development, and public data available to model it is scarce and inconsistent. We adapt an expert-in-the-loop LLM extraction workflow to mine PAMPA measurements from the primary literature, recovering image-only structures by optical chemical structure recognition and hand-verifying every record, expanding the public record from 31 PROTACs to 87. Ridge models trained on PROTAC-DB 3.0 reach $R^2 = 0.6…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "dd51d944db44",
+    "title": "‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers",
+    "url": "https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/",
+    "source": "Wired AI",
+    "date": "2026-10-06T18:45:39+00:00",
+    "summary": "From their dorky parties to their weird walks, the movie holds OpenAI CEO Sam Altman and other stakeholders with contempt, while demonstrating their recklessness.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f2d406e0dd6f",
+    "title": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
+    "url": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
+    "source": "Wired AI",
+    "date": "2026-10-06T17:28:33+00:00",
+    "summary": "“There’s a perception of mobster behavior” from leading AI companies, one mathematician tells WIRED as OpenAI prepares to release more than 100 new solutions to unsolved problems.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "e25a9486006c",
     "title": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
     "url": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
