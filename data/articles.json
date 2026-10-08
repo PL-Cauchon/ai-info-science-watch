@@ -1,5 +1,239 @@
 [
   {
+    "id": "82ecb46dcf28",
+    "title": "Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’",
+    "url": "https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/",
+    "source": "Wired AI",
+    "date": "2026-10-08T09:30:00+00:00",
+    "summary": "The Center for Humane Technology helped spark a movement against excessive screen time, but internal tensions over its direction and strategy have simmered for years, sources tell WIRED.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "7e0548f31e36",
+    "title": "AI breakthroughs in robotics won’t change your life any time soon",
+    "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+    "source": "MIT Tech Review",
+    "date": "2026-10-08T09:00:00+00:00",
+    "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds. Perhaps you’ve seen it dance or&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "48f3042078ba",
+    "title": "Building a safer path to autonomous industrial AI",
+    "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+    "source": "MIT Tech Review",
+    "date": "2026-10-08T08:17:32+00:00",
+    "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, industrial AI can interact directly with physical systems,&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "451e9f6d43bf",
+    "title": "Trustworthy Domain-Specific AI for Structured Knowledge Retrieval and Reasoning",
+    "url": "https://arxiv.org/abs/2610.08894",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-08T04:00:00+00:00",
+    "summary": "arXiv:2610.08894v1 Announce Type: new Abstract: This dissertation presents a scalable architecture for transforming unstructured, domain-specific text into structured knowledge for retrieval and reasoning. It integrates semi-automatic corpus curation, semantic structuring, retrieval, and inference into an interpretable pipeline. The research introduces Binary Bleed, an adapted binary search method that reduces low-rank search complexity for Non-negative Matrix Factorization (NMF), and Hierarchic…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "06eb853b0d41",
+    "title": "What Transfers from a VLM Teacher? Comparing Supervision Signals for Visual Document Retrieval",
+    "url": "https://arxiv.org/abs/2610.09177",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-08T04:00:00+00:00",
+    "summary": "arXiv:2610.09177v1 Announce Type: new Abstract: Visual document retrievers are trained contrastively: each query is matched to one page labelled relevant - the positive - and pushed away from negatives, pages presumed irrelevant. Recent methods distil a vision-language model (VLM) teacher into the retriever by enriching that positive, transferring the teacher's attention over it or a description of it. We ask whether the teacher is better spent on the other side, judging the candidates the retri…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4d9d3e64fb61",
+    "title": "Quantize by Drift: Label-Free Mixed-Precision Post-Training Quantization for Text Embedders",
+    "url": "https://arxiv.org/abs/2610.09227",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-08T04:00:00+00:00",
+    "summary": "arXiv:2610.09227v1 Announce Type: new Abstract: Mixed-precision post-training quantization needs a per-module sensitivity signal; for a text embedder the obvious one -- the retrieval quality a module costs when quantized -- needs relevance labels that deployments rarely have. We measure a label-free substitute: quantization-induced representation drift, obtained by quantizing one module, re-encoding the corpus, and recording how far the output embeddings moved from their full-precision positions…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "329575114d43",
+    "title": "Reading Position Is the Baseline to Beat: A Time-Ordered Evaluation of Personalised Highlight Prediction",
+    "url": "https://arxiv.org/abs/2610.09262",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-08T04:00:00+00:00",
+    "summary": "arXiv:2610.09262v1 Announce Type: new Abstract: A reader's first highlights on a page are the cheapest personal signal a reading product has. The natural plan is to suggest what similar earlier readers marked, and to judge the result against popularity. We argue that the baseline to beat is reading position. In a time-ordered evaluation on one social highlighting platform (7,343 reader-page pairs on 1,511 pages after one highlight), ranking the sentences just below a reader's first highlight, wi…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "56fa30af5cb7",
+    "title": "From Chunks to Functional Evidence: Function-Aware Retrieval for EDA Documentation QA",
+    "url": "https://arxiv.org/abs/2610.09361",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-08T04:00:00+00:00",
+    "summary": "arXiv:2610.09361v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) is widely used to ground answers in documents. For complex technical documentation, however, the primary bottleneck is often not model reasoning but a mismatch between a query and the way knowledge is organized for retrieval. This mismatch is pronounced in Electronic Design Automation (EDA) documentation, where the information needed for an answer is scattered across heterogeneous yet tightly coupled artifacts. …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a95b3417a063",
+    "title": "Finding the Right Balance: Relevance and Diversity in LLM Retrieval",
+    "url": "https://arxiv.org/abs/2610.09412",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-08T04:00:00+00:00",
+    "summary": "arXiv:2610.09412v1 Announce Type: new Abstract: Retrieval diversification is widely available in retrieval-augmented generation (RAG) frameworks, yet prior studies disagree on whether it improves retrieval and answer quality. We show that its effectiveness varies primarily with candidate-pool redundancy, in a pattern consistent with the number of distinct evidence pieces a query requires. Using controlled near-duplicate injection and production-style overlapping chunking, we find that diversific…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "9fb09bbaf191",
+    "title": "Towards Explaining Query Expansion Performance in Information Retrieval",
+    "url": "https://arxiv.org/abs/2610.09724",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-08T04:00:00+00:00",
+    "summary": "arXiv:2610.09724v1 Announce Type: new Abstract: Query Expansion (QE) techniques have long been widely used in Information Retrieval (IR) to address the vocabulary mismatch problem. They remain relevant in modern retrieval systems, including those based on large language models (LLMs). However, no single QE method consistently outperforms others across all queries. This work seeks to explain the variation in QE performance through two complementary perspectives. The first is the concept of an Ide…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "b0a94e1e9e68",
+    "title": "The Impact of Backbone Evolution on LLM-Based Relevance Assessments",
+    "url": "https://arxiv.org/abs/2610.09820",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-08T04:00:00+00:00",
+    "summary": "arXiv:2610.09820v1 Announce Type: new Abstract: LLMs are evolving rapidly, with newer models offering stronger capabilities. This suggests that in LLM-based relevance judging, more capable models will achieve higher agreement with human judgements under the same prompt. We challenge this understanding by investigating the behavior of LLM-based relevance judges under backbone evolution. Keeping the prompts fixed, we evaluate a representative single-prompt (UMBRELA) and a rubric-based prompt (EXAM…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "9facc2e3e0cf",
+    "title": "Inverting Multi-Vector Visual Document Indices",
+    "url": "https://arxiv.org/abs/2610.09920",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-08T04:00:00+00:00",
+    "summary": "arXiv:2610.09920v1 Announce Type: new Abstract: Prevailing multi-vector visual document retrievers store each page as about a thousand patch vectors, often in vector databases run by a third party. Since no one can read a page from its vectors, this index is easily treated as less sensitive than the page. However, because the index keeps one vector per patch in raster order, and each vector is computed by a vision-language model pre-trained to read documents, we hypothesize that whoever runs or …",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "12545ab16875",
+    "title": "Training with Missed Targets in Generative Recommendation: Separating Supervision from Probability Competition",
+    "url": "https://arxiv.org/abs/2610.10124",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-08T04:00:00+00:00",
+    "summary": "arXiv:2610.10124v1 Announce Type: new Abstract: Generative recommenders return a limited candidate set and may omit observed targets before reranking. A training strategy appends these missed targets to reranker training lists, although inference still ranks only original candidates. This operation simultaneously changes retrieved-target weight, adds supervision over appended targets, and makes the two groups compete for probability. An append/no-append comparison therefore cannot explain change…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ae3b945681bc",
+    "title": "Does Document Structure Help Dense Retrieval? A Placebo-Controlled Ablation of Four Mechanisms Across Two Corpora",
+    "url": "https://arxiv.org/abs/2610.10170",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-08T04:00:00+00:00",
+    "summary": "arXiv:2610.10170v1 Announce Type: new Abstract: Retrieval-augmented generation systems increasingly rely on document-structure treatments: structure-aligned chunking, LLM-generated chunk contexts, heading-path metadata, and hierarchical two-stage retrieval. Separate studies support each on different corpora, embedders, and metrics, and none control for a shared confound: any text prepended to a chunk perturbs its embedding. We present a mechanism-isolating ablation testing all four treatments un…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "1c3e9e75a720",
+    "title": "BEACON-SP: Ontology-Grounded GraphRAG Framework for Clinical Suicide Risk Assessment",
+    "url": "https://arxiv.org/abs/2610.09026",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-08T04:00:00+00:00",
+    "summary": "arXiv:2610.09026v1 Announce Type: cross Abstract: We present BEACON-SP, an ontology-grounded Graph Retrieval-Augmented Generation (GraphRAG) framework for clinician-facing decision support in behavioral health settings such as suicide prevention, where effective assessment requires integrating heterogeneous clinical, behavioral, social, and temporal evidence. BEACON-SP combines patient knowledge graphs with ontology-guided retrieval to support multi-hop reasoning across diagnoses, medications, r…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "faaee8728317",
+    "title": "From High Recall to High Utility: Dataset-Adaptive Post-Processing of LLM-Generated Customer Intents",
+    "url": "https://arxiv.org/abs/2610.09039",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-08T04:00:00+00:00",
+    "summary": "arXiv:2610.09039v1 Announce Type: cross Abstract: Large language models can extract useful signals from heterogeneous enterprise data, but high-recall extraction often produces outputs that are duplicated, uneven in granularity, semantically overlapping, or too numerous for downstream systems and human reviewers to use effectively. We present a dataset-adaptive post-processing architecture developed for Customer Intent Extraction (CIE), where unstructured customer language is transformed into st…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a77f3e67dfc7",
+    "title": "Building Navigable Graphs Without Search in Three Composable Stages",
+    "url": "https://arxiv.org/abs/2610.09041",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-08T04:00:00+00:00",
+    "summary": "arXiv:2610.09041v1 Announce Type: cross Abstract: Navigable graphs can be built without searching for neighbors: partition the data, evaluate every pair inside each part, and select each point's edges from the candidates. We give such a construction in three separable stages and show that the middle one decides the quality. The pool is any partition with a few memberships per point. The ending turns a point's candidates into out-edges; ours keeps a bounded heap, prunes by occlusion with a per-co…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "53f5768b0e78",
+    "title": "SoccerNet-FoulRet: Retrieving Semantically Similar Soccer Foul Videos",
+    "url": "https://arxiv.org/abs/2610.09742",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-08T04:00:00+00:00",
+    "summary": "arXiv:2610.09742v1 Announce Type: cross Abstract: Refereeing decisions in professional soccer remain inconsistent because referees cannot easily compare a contentious foul against similar past cases. We cast this as a retrieval problem and introduce SoccerNet-FoulRet, the first benchmark for semantic foul retrieval. Given a query foul, the task is to retrieve past fouls judged to be relevant precedents, regardless of camera angle, teams, or appearance. This differs from prior video-to-video retr…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ea475a420d29",
+    "title": "ExperienceIndex: Artifact-Grounded Memory",
+    "url": "https://arxiv.org/abs/2610.10091",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-08T04:00:00+00:00",
+    "summary": "arXiv:2610.10091v1 Announce Type: cross Abstract: Knowledge-intensive tasks require answering many questions by reasoning about a shared corpus of artifacts (e.g., court cases, or scientific literature). As humans interact with these corpora, they naturally accumulate experiential knowledge about artifacts, enabling them to quickly identify the complete set of relevant artifacts for each new task. However, existing AI agents lack appropriate memory solutions to build or reuse such artifact-groun…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "700be99d8750",
+    "title": "CrossWeave: Bridging Perspectives Across Online Communities with a Dual-Pane Design",
+    "url": "https://arxiv.org/abs/2610.10441",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-08T04:00:00+00:00",
+    "summary": "arXiv:2610.10441v1 Announce Type: cross Abstract: Social media systems typically display conversations among already familiar contributors, which can be predictable and one-sided. In civic discourse, this design narrows discussion, reinforces divides, and distorts the perception of public opinion. To encourage cross-community engagement, we present CrossWeave, an AI-powered bridging system that augments the standard social media feed. As the user reads a post, CrossWeave surfaces diverse relevan…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "6571eeda8785",
+    "title": "Two-Level Softmax Sampling Done Right: Correcting Bias from Size Imbalance and Dispersion",
+    "url": "https://arxiv.org/abs/2610.10483",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-08T04:00:00+00:00",
+    "summary": "arXiv:2610.10483v1 Announce Type: cross Abstract: Sampling from a softmax distribution is a fundamental operation in machine learning, but its linear complexity in the number of items makes exact sampling impractical at scale. Two-level softmax (2LS) sampling is a popular alternative enabling sublinear-time sampling. Assuming items are partitioned into clusters, 2LS first samples a cluster and then an item within it. In this paper, we show that, despite its advantages, 2LS introduces systematic …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e9be7f5b1715",
+    "title": "Hypergraph-Enhanced Dual Convolutional Network for Bundle Recommendation",
+    "url": "https://arxiv.org/abs/2312.11018",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-08T04:00:00+00:00",
+    "summary": "arXiv:2312.11018v4 Announce Type: replace Abstract: Bundle recommendation ranks sets of related items rather than isolated items. Its central challenge is to connect user preferences, item interactions, and bundle composition without losing the signals needed to rank bundles. We propose Hypergraph-Enhanced Dual Convolutional Neural Network (HED), which constructs a complete hypergraph containing user--bundle, user--item, and bundle--item interactions together with intra-user and intra-bundle rel…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c80bcccfd142",
+    "title": "Persistence Paradox in Dynamic Science: Evidence from the Deep Learning Revolution",
+    "url": "https://arxiv.org/abs/2506.22729",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-08T04:00:00+00:00",
+    "summary": "arXiv:2506.22729v3 Announce Type: replace Abstract: Persistence is often regarded as a virtue in science. In this paper, however, we challenge this conventional view by highlighting its contextual nature, particularly how persistence can become a liability during paradigm shifts. We focus on the deep learning revolution catalyzed by AlexNet in 2012. Analyzing the 20-year career trajectories of more than 5,000 scientists active in top machine learning venues during the preceding decade, we examin…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ed38d420f232",
+    "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
+    "url": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
+    "source": "Wired AI",
+    "date": "2026-10-07T18:45:00+00:00",
+    "summary": "Three engineers put GPT, Claude, and Grok in charge of a real car. Only one of them was successful.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "fa46422694a2",
+    "title": "The New ChatGPT Is More Show Than Tell",
+    "url": "https://www.wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell/",
+    "source": "Wired AI",
+    "date": "2026-10-07T18:00:00+00:00",
+    "summary": "OpenAI is updating ChatGPT for all users with an “Intelligent UI” that’s more visual—generating interactive elements as part of the chatbot’s outputs.",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "809a6d27d1da",
+    "title": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
+    "url": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
+    "source": "Wired AI",
+    "date": "2026-10-07T15:34:33+00:00",
+    "summary": "The US government’s Tradewinds initiative has made it easier to throw millions of dollars at “nontraditional” defense contractors, including OpenAI, Anthropic, and Google.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "4dd372055642",
     "title": "By the Numbers: Banned Books Week 2026",
     "url": "https://americanlibrariesmagazine.org/2026/10/07/by-the-numbers-banned-books-week-2026/?utm_source=rss&utm_medium=rss&utm_campaign=by-the-numbers-banned-books-week-2026",
