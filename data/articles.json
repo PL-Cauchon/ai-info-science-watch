@@ -1,5 +1,284 @@
 [
   {
+    "id": "e6422b9d6cbd",
+    "title": "Even ‘Law & Order’ Is Terrified of AI",
+    "url": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
+    "source": "Wired AI",
+    "date": "2026-10-09T10:00:00+00:00",
+    "summary": "In its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "12c2c27c0af6",
+    "title": "We’re putting too much faith in AI’s ability to say no",
+    "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+    "source": "MIT Tech Review",
+    "date": "2026-10-09T09:00:00+00:00",
+    "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.&#160; But recently, the idea that AI shouldn’t&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4b49eea0c277",
+    "title": "LIFT: A Lifecycle-aware Interaction Factorization Transformer for Unified Retrieval and Ranking",
+    "url": "https://arxiv.org/abs/2610.10556",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-09T04:00:00+00:00",
+    "summary": "arXiv:2610.10556v1 Announce Type: new Abstract: Cascaded recommender systems use the same user history for retrieval and ranking, while the two stages have access to different information at different points of an interaction. We propose the Lifecycle-aware Interaction Factorization Transformer (LIFT), which decomposes each interaction into ordered Request, Item, Context, and Action states and models them as a causal sequence. Retrieval reads the Request state, while ranking reads the Context st…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "7692854637b0",
+    "title": "Learning Multi-Step Query Rewriting via Corpus Feedback for Conversational Search",
+    "url": "https://arxiv.org/abs/2610.10955",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-09T04:00:00+00:00",
+    "summary": "arXiv:2610.10955v1 Announce Type: new Abstract: Conversational Query Rewriting (CQR) turns a context dependent user turn into a standalone query for a retriever, and most methods do this in a single step from the dialogue history before retrieving once. The rewrite is therefore fixed before any corpus evidence is available to correct its reference resolution or its vocabulary. We recast CQR as a sequential retrieval problem: an agent rewrites the current turn, retrieves, and conditions its next …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "30d990d404dd",
+    "title": "H2CE: Modeling Geo-Semantic Interactions for POI Reranking with Heterogeneous Two-Stage Cross-Encoders",
+    "url": "https://arxiv.org/abs/2610.11277",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-09T04:00:00+00:00",
+    "summary": "arXiv:2610.11277v1 Announce Type: new Abstract: Point-of-Interest (POI) reranking in local search must model query-conditioned tradeoffs among lexical semantics, geospatial proximity, and numerical quality signals such as rating and review count, while remaining practical under real-time serving constraints. A close POI may only partially satisfy the query intent, while a farther one may offer stronger semantic and quality evidence. We present H2CE, a Heterogeneous Two-stage Cross-Encoder for la…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "cf8d06e20298",
+    "title": "EVIE: Evidence-Vector-Informed Embeddings for Visual Document Retrieval",
+    "url": "https://arxiv.org/abs/2610.11553",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-09T04:00:00+00:00",
+    "summary": "arXiv:2610.11553v1 Announce Type: new Abstract: Accurate and scalable visual document retrieval (VDR) requires both fine-grained page understanding and efficient indexing, yet existing approaches struggle to achieve both. OCR-based text retrieval adds preprocessing latency and can lose visual and structural cues needed to understand complex pages. Single-vector vision-language models bypass OCR, but compressing an entire page into one vector limits the granularity of query--document matching. Mu…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "8af9d4eb1f24",
+    "title": "Overview of the NTCIR-19 Automatic Evaluation of LLMs 2 (AEOLLM-2) Task",
+    "url": "https://arxiv.org/abs/2610.11598",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-09T04:00:00+00:00",
+    "summary": "arXiv:2610.11598v1 Announce Type: new Abstract: In this paper, we provide an overview of the NTCIR-19 Automatic Evaluation of LLMs 2 (AEOLLM-2) task. Building on the success of the NTCIR-18 core task AEOLLM, we proposed AEOLLM-2 for NTCIR-19 to further investigate automatic evaluation methods for Large Language Models (LLMs), particularly in long-form text generation scenarios. In AEOLLM-2, we introduced a new subtask, Deep Research Evaluation, which focuses on the automatic evaluation of long-f…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "98e32b933be3",
+    "title": "SkillContrast: Difference-Guided Text Selection for Agent Skill Reranking",
+    "url": "https://arxiv.org/abs/2610.11650",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-09T04:00:00+00:00",
+    "summary": "arXiv:2610.11650v1 Announce Type: new Abstract: Similar agent skills can share instructions but differ in their conditions of use. Query-based text selection may retain shared instructions and omit these distinctions. We introduce SkillContrast, a training-free selector that compares retrieved skills and retains their differing text with local context for a pretrained reranker. On 1,235 requests from SameCapRisk-Bench, it yields 54-72 more clean hits (requests that retrieve a helpful skill witho…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2ef1bfe18740",
+    "title": "Autoregressive Retriever: Improving Query Understanding from Item Feedback for Universal Multimodal Retrieval",
+    "url": "https://arxiv.org/abs/2610.11666",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-09T04:00:00+00:00",
+    "summary": "arXiv:2610.11666v1 Announce Type: new Abstract: Universal multimodal retrieval typically encodes a query once and ranks independently indexed items by embedding similarity. This design supports efficient search, but leaves the query representation unchanged even when retrieved items could help clarify the information need. We introduce the AutoRegressive Retriever (ARR), a multimodal retrieval model that learns both to select informative items and to use their content to refine subsequent retrie…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "c6902e4e14ea",
+    "title": "Chaos in the Text: Revealing the Modality Preference in Mixed-Modality Retrievers",
+    "url": "https://arxiv.org/abs/2610.11816",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-09T04:00:00+00:00",
+    "summary": "arXiv:2610.11816v1 Announce Type: new Abstract: Dense retrievers have made significant progress on text and image corpora, but whether these capabilities extend reliably to mixed corpora containing text, image, and fused text-image documents remains unclear. In this paper, we systematically examine retrievers across architectures and find that their performance is highly sensitive to modality composition. As image documents are progressively replaced with semantically corresponding text represen…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5857a65053fb",
+    "title": "Project Greenhouse: Progress Toward Fully Open and Sovereign Agentic Search",
+    "url": "https://arxiv.org/abs/2610.11922",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-09T04:00:00+00:00",
+    "summary": "arXiv:2610.11922v1 Announce Type: new Abstract: Project Greenhouse represents our exploration of a simple thesis: We believe that it is possible to build fully open and sovereign models for agentic search with only modest computational resources. As a first milestone, we describe how to build a competitive pointwise decoder-only reranker using a simple two-step recipe comprising pre-training from scratch followed by supervised fine-tuning, starting only from commonly available datasets. Contrary…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "60d561889ade",
+    "title": "NativeScope: Relation-Localized Retrieval over Native Topology with a Correct Anchor",
+    "url": "https://arxiv.org/abs/2610.12243",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-09T04:00:00+00:00",
+    "summary": "arXiv:2610.12243v1 Announce Type: new Abstract: Dense retrieval usually ranks text chunks by their semantic similarity to a question. This ignores structure that many data systems already store, including section membership, session boundaries, and native order. We propose NativeScope, a scope-then-rank method for queries with a known anchor and relation. It represents a query as q -> (A, r, B). The anchor A and relation r select native units through belonging, before, or after operators, and th…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "9485e10442d4",
+    "title": "Compact and Efficient Indexes for Learned Sparse Retrieval",
+    "url": "https://arxiv.org/abs/2610.12300",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-09T04:00:00+00:00",
+    "summary": "arXiv:2610.12300v1 Announce Type: new Abstract: This paper investigates how to substantially reduce the memory footprint of learned sparse retrieval indexes without sacrificing the efficiency of state-of-the-art retrieval data structures. Building on SEISMIC, we revisit both levels of its design: the inverted index used to select candidates and the forward index used to score them. For the inverted index, we replace costly per-block summaries with medoids, namely existing documents elected as bl…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "f44b80349750",
+    "title": "Language Models for Page-Level Layout Decisions in E-commerce Search",
+    "url": "https://arxiv.org/abs/2610.10920",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-09T04:00:00+00:00",
+    "summary": "arXiv:2610.10920v1 Announce Type: cross Abstract: E-commerce search pages are critical touchpoints for millions of online shoppers. While traditional search engines return a ranked list of results, modern E-commerce search pages increasingly incorporate recommender system modules -- for example, secondary stacks that surface alternative product groupings at specific positions. When introduced appropriately, secondary stacks can improve user engagement; however, suboptimal placement may disrupt b…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "964c712d86b7",
+    "title": "Gated Memory: Admission-Controlled Memory Formation for Conversational AI",
+    "url": "https://arxiv.org/abs/2610.11270",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-09T04:00:00+00:00",
+    "summary": "arXiv:2610.11270v1 Announce Type: cross Abstract: Personalized conversational AI relies on long-term memory systems that extract facts from user utterances and store them in persistent vector stores. Despite progress in retrieval, deduplication, and lifecycle management, the formation stage, the moment a fact is first written to storage has received almost no principled attention. We identify this as the binding constraint on memory quality in production systems. Critical contextual signals, suc…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "6280e1651b4c",
+    "title": "RIT-RAG: Navigating Document Corpora with Retrieval-Induced Trees",
+    "url": "https://arxiv.org/abs/2610.11370",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-09T04:00:00+00:00",
+    "summary": "arXiv:2610.11370v1 Announce Type: cross Abstract: Retrieval-augmented generation (RAG) grounds language models in external corpora. Agentic RAG enables iterative search, yet exposes the model to isolated chunks without document structure, making it difficult to distinguish relevant evidence from chunks that merely resemble the query. Structure-aware methods such as PageIndex navigate document structure but cannot scale to the structures of large corpora, which do not fit in the LLM context. Henc…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "1418eac8c95b",
+    "title": "On-Chain Archaeology of Bitcoin Oracles: Evidence of Use under Limited Observability",
+    "url": "https://arxiv.org/abs/2610.11439",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-09T04:00:00+00:00",
+    "summary": "arXiv:2610.11439v1 Announce Type: cross Abstract: Before Ethereum made the \"oracle problem\" a household term, Bitcoin already had oracles serving as feeds, key-release services, federated signers, and arbiters that carried real value on the main chain. This study traces their use and the changing evidence of oracle activity from early days through July 2026. We combine a complete census of Counterparty betting (1,149 bets), analysis of the full Bitcoin chain through block 958,628, and searches f…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "065fd1fd7526",
+    "title": "SAIL: Scientific Agentic Intelligence via a Science-Aware Loop",
+    "url": "https://arxiv.org/abs/2610.11451",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-09T04:00:00+00:00",
+    "summary": "arXiv:2610.11451v1 Announce Type: cross Abstract: We introduce SAIL, an open model with 35B total and 3B active parameters for literature research, scientific coding, and multi-step research workflows. SAIL is developed through a science-aware improvement loop: agents built on frontier AI models analyze its task failures and construct training tasks that address the underlying capability gaps. The diagnosis examines search and evidence selection in literature tasks, scientific assumptions and re…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f22ecef6d1f0",
+    "title": "Beyond Resolution: Object-to-Image Ratio Mismatch in Instance Retrieval",
+    "url": "https://arxiv.org/abs/2610.11489",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-09T04:00:00+00:00",
+    "summary": "arXiv:2610.11489v1 Announce Type: cross Abstract: Visual instance retrieval often fails when the same object appears at different apparent sizes in the query and gallery. We show that the dominant cause is usually not resolution loss but object-to-image (O2I) ratio mismatch: the object occupies different fractions of the two images. On a controlled benchmark of 3,021 Objaverse objects rendered at five camera distances, more than 80% of the cross-distance degradation is attributable to O2I mismat…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "558e692ae2b2",
+    "title": "Compactness and Consistency: A Conjoint Framework for Deep Graph Clustering",
+    "url": "https://arxiv.org/abs/2610.11506",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-09T04:00:00+00:00",
+    "summary": "arXiv:2610.11506v1 Announce Type: cross Abstract: Graph clustering is a fundamental task in data analysis, aiming at grouping nodes with similar characteristics in the graph into clusters. This problem has been widely explored using graph neural networks (GNNs) due to their ability to leverage node attributes and graph topology for effective cluster assignments. However, representations learned through GNNs typically struggle to capture global relationships between nodes via local message-passin…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "efcb2d40d0c1",
+    "title": "Syn-Omni: Structured Specialization and Progressive Collaboration for Omnimodal Embeddings",
+    "url": "https://arxiv.org/abs/2610.12256",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-09T04:00:00+00:00",
+    "summary": "arXiv:2610.12256v1 Announce Type: cross Abstract: Omnimodal embeddings naturally involve both shared representations and modality-specific features across heterogeneous inputs. However, existing omnimodal embedding methods often rely on a single shared parameter space over mixed-modality data, limiting structural separation between universal and modality-specific representations. To address this, we propose Syn-Omni, a unified framework for structured omnimodal adaptation with modality specializ…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "22dc763096f5",
+    "title": "LIME: Link-based User-item Interaction Modeling with Decoupled XOR Attention for Efficient Test Time Scaling",
+    "url": "https://arxiv.org/abs/2510.18239",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-09T04:00:00+00:00",
+    "summary": "arXiv:2510.18239v4 Announce Type: replace Abstract: Scaling large recommendation systems requires advancing three major frontiers: processing longer user histories, expanding candidate sets, and increasing model capacity. While promising, transformers' computational cost scales quadratically with the user sequence length and linearly with the number of candidates. This trade-off makes it prohibitively expensive to expand candidate sets or increase sequence length at inference, despite the signif…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d161a74e5cb9",
+    "title": "Retrieval-Augmented Generation for Predicting Cellular Responses to Gene Perturbation",
+    "url": "https://arxiv.org/abs/2603.07233",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-09T04:00:00+00:00",
+    "summary": "arXiv:2603.07233v2 Announce Type: replace-cross Abstract: Predicting transcriptional responses to genetic perturbations is fundamental to functional genomics and therapeutic discovery. Recent deep learning models have shown promise in single-cell perturbation response prediction, but they typically generate each response in isolation, without explicitly leveraging related perturbations. We introduce PT-RAG (Perturbation-aware Two-stage Retrieval-Augmented Generation), a plug-in retrieval-and-con…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a5caf95d62e9",
+    "title": "Life after delisting: tracking the publication output and citation impact of Scopus-discontinued journals with OpenAlex",
+    "url": "https://arxiv.org/abs/2610.11684",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-09T04:00:00+00:00",
+    "summary": "arXiv:2610.11684v1 Announce Type: new Abstract: Selective databases such as Scopus periodically re-evaluate the titles they index and remove those that no longer meet their quality criteria. Once a journal is removed, its subsequent output is no longer recorded, and the consequences of this process have therefore received little attention. This study analyzes the publication output and citation impact of 514 sources delisted from Scopus between 2018 and 2024, based on 678,162 documents retrieved…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "0a4e81ceaaa2",
+    "title": "Wieszcz-XIX: A 3.1-Billion-Word Corpus of Pre-1918 Polish and Temporally Bounded Language Models Trained From Scratch",
+    "url": "https://arxiv.org/abs/2610.10592",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-09T04:00:00+00:00",
+    "summary": "arXiv:2610.10592v1 Announce Type: cross Abstract: Historical Polish is well documented as a language but annotated in machine-readable form only to about a million words for the period this paper covers; the rest sits behind optical character recognition of variable quality. We present Wieszcz-XIX, a corpus of 6.75 billion tokens (about 3.1 billion words) in 294,369 documents, most of them periodical issues, of Polish published from 1800 to 1918, assembled from Wolne Lektury and the Internet Arc…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "81eee2f9d08a",
+    "title": "Large Language Model Turnover Undermines Screening for Artificial Intelligence-Assisted Scientific Writing",
+    "url": "https://arxiv.org/abs/2610.11599",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-09T04:00:00+00:00",
+    "summary": "arXiv:2610.11599v1 Announce Type: cross Abstract: Journals and conferences have begun to screen submitted manuscripts for text written using large language models (LLMs). The reliability of this screening rests on benchmark evaluations against a fixed set of LLM versions, while the versions in actual use keep changing. Here we quantify how this LLM turnover affects the screening of scientific manuscripts. We paired 4,000 pre-ChatGPT abstracts from the Proceedings of the National Academy of Scien…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "577a3234004b",
+    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "source": "MIT Tech Review",
+    "date": "2026-10-09T00:08:24+00:00",
+    "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Join senior AI reporter&#8230;",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "0dee0bd6640a",
+    "title": "Inside Elon Musk’s Midterm Spending Spree",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/",
+    "source": "Wired AI",
+    "date": "2026-10-08T21:14:12+00:00",
+    "summary": "This week on “Uncanny Valley,” we discuss where Elon Musk’s PAC is spending millions, the latest ideology Trump claims is dangerous, and the backlash against the designer behind Muse’s logo.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "30a8cc7bafed",
+    "title": "Informing AI Strategy and Literacy: An Interview with Sylvia Staal Riordan",
+    "url": "https://blogs.loc.gov/thesignal/2026/10/interview-with-sylvia-staal-riordan/",
+    "source": "LOC Signal",
+    "date": "2026-10-08T20:03:03+00:00",
+    "summary": "In this interview, 2026 Library of Congress intern Sylvia Staal Riordan reflects on her experience working in the Digital Strategy Directorate of the Library’s Office of the Chief Information Officer. This interview has been edited for length and clarity.",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "b51373487acf",
+    "title": "She Designed Meta’s New AI Logo. Then Came the Hate",
+    "url": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/",
+    "source": "Wired AI",
+    "date": "2026-10-08T19:30:00+00:00",
+    "summary": "Jessica Hische knew working for Meta might upset some people. But she didn’t anticipate just how angry they would get.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "62b8d4dac987",
+    "title": "FPF Submits Comments to Inform Vermont Age-Appropriate Design Code Act Rulemaking Process",
+    "url": "https://fpf.org/blog/fpf-submits-comments-to-inform-vermont-age-appropriate-design-code-act-rulemaking-process/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-10-08T18:58:25+00:00",
+    "summary": "Co-authored by Carisma De Anda, Youth Policy Research Contractor On October 2, the Future of Privacy Forum (FPF) submitted comments in response to the Vermont Office of the Attorney General’s (the Office’s) rulemaking process for the Vermont Age-Appropriate Design Code (S 69). While a handful of states have signed Age-Appropriate Design Codes into law, Vermont [&#8230;]",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "82ecb46dcf28",
     "title": "Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’",
     "url": "https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/",
