@@ -1,5 +1,131 @@
 [
   {
+    "id": "79a8e85c3e29",
+    "title": "Beyond the Final Embedding: Retrieving Memories from Token-Level Evidence",
+    "url": "https://arxiv.org/abs/2610.13277",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-12T04:00:00+00:00",
+    "summary": "arXiv:2610.13277v1 Announce Type: new Abstract: Memory-augmented assistants retrieve evidence from stored conversations and documents to answer queries. Most embedding-based retrievers compare single-vector representations of queries and memories, even when relevance depends on a small part of the content. Such local evidence can be matched to queries using the contextual token representations already computed by the same embedding models. Our method uses sparse token matching to improve retriev…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "7975c20dd350",
+    "title": "PRIME: Pre-Retrieval Index Modeling Enhancement for Structured Document Retrieval-Real",
+    "url": "https://arxiv.org/abs/2610.13296",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-12T04:00:00+00:00",
+    "summary": "arXiv:2610.13296v1 Announce Type: new Abstract: High-precision retrieval over external knowledge bases is essential for LLM agents to operate effectively. However, existing Information Retrieval (IR) research primarily optimizes query-side retrievers (e.g., ColBERT, BGE) and generators (e.g., Self-RAG, GraphRAG), while reducing corpus-side representation to chunking. This leaves index-side quality an underexplored lever. We propose Pre-Retrieval Index Modeling & Enhancement (PRIME), an index-sid…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "2c64ae9a71a9",
+    "title": "NEAR: Neighborhood-Aware Residuals for Memory Retrieval",
+    "url": "https://arxiv.org/abs/2610.13314",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-12T04:00:00+00:00",
+    "summary": "arXiv:2610.13314v1 Announce Type: new Abstract: Memory retrieval aims to identify evidence from stored records to answer a query. Stored records with different factual details may share topics, entities, or events. Such shared contents would make records without the required evidence more likely to receive high similarity scores and outrank the correct evidence. In this paper, we use the information shared by these records to construct local references for query-memory matching. We propose NEigh…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "7816bbd4367b",
+    "title": "SPARQL-LLM in the TEXT2SPARQL 2026 Challenge",
+    "url": "https://arxiv.org/abs/2610.13648",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-12T04:00:00+00:00",
+    "summary": "arXiv:2610.13648v1 Announce Type: new Abstract: Querying distributed data represented as Knowledge Graphs (KGs) via SPARQL remains a difficult task, requiring fluency in query syntax, endpoint specifications, and schema details. Knowledge Graph Question Answering (KGQA) systems address this by automatically translating natural language into SPARQL, and recent advances in Large Language Models (LLMs) have made this translation increasingly feasible. In this paper, we describe SPARQL-LLM, our open…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "375a1befe414",
+    "title": "Tracing and Taming Hallucinated Terms via Subsequence-Association Filtering and Breadth-Aware Selection for LLM Query Expansion",
+    "url": "https://arxiv.org/abs/2610.13810",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-12T04:00:00+00:00",
+    "summary": "arXiv:2610.13810v1 Announce Type: new Abstract: Large language models (LLMs) are now a standard source of query expansion terms but they hallucinate. They inject non existent entities and off-topic terms that add ranking noise and can hurt strong retrievers. Existing remedies such as corpus grounding, mutual verification and preference alignment treat hallucinated terms as an undifferentiated nuisance to be filtered by agreement heuristics, without a mechanistic account of why a given term appea…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "0bc367ba1c8a",
+    "title": "GeopoliticalQA: Benchmarking Retrieval and Generation over Intelligence Reports",
+    "url": "https://arxiv.org/abs/2610.12617",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-12T04:00:00+00:00",
+    "summary": "arXiv:2610.12617v1 Announce Type: cross Abstract: Geopolitical and strategic intelligence reports constitute a rich source of expert knowledge and have increasing value in the current political climate, but their heterogeneity and analytical complexity pose challenges for retrieval-augmented question answering. We introduce a benchmark for grounded question answering over 415 open-source geopolitical and strategic intelligence reports, comprising 5,525 document-grounded question-answer pairs spa…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "ac65fab381d3",
+    "title": "Locate, Judge, Read: Role-Specialized Tool Agents over a Knowledge-Point Index for Open-Domain Multimodal Document QA",
+    "url": "https://arxiv.org/abs/2610.13128",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-12T04:00:00+00:00",
+    "summary": "arXiv:2610.13128v1 Announce Type: cross Abstract: Question answering over large heterogeneous document collections requires first finding the right passages and then reading them, yet current retrieval-augmented agents give one model both kinds of tools and let it schedule itself. We present KnowForge, a pipeline separated by job: a hybrid-retrieval knowledge-point index; a Locator agent that can only search; a code-scheduled bridge judge that forces the missing second hop; a typed, size-bounded…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "0956bcc82289",
+    "title": "Web$hell: A Unified Interface for Agentic Web Access",
+    "url": "https://arxiv.org/abs/2610.13416",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-12T04:00:00+00:00",
+    "summary": "arXiv:2610.13416v1 Announce Type: cross Abstract: Large language model (LLM) agents are becoming direct users of the open web. As they take on increasingly complex and information-intensive tasks, effective web access is becoming a core capability for agentic problem solving. Existing approaches have advanced agentic web access through different access models, including search-augmented agents, browser-based agents, and, more recently, filesystem-based agents. Nevertheless, as users expect agent…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "40c8ea91900e",
+    "title": "Beyond Temporal Proximity: Explanatory World Models for Credit Assignment in Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2610.13504",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-12T04:00:00+00:00",
+    "summary": "arXiv:2610.13504v1 Announce Type: cross Abstract: Generative Recommenders increasingly use Reinforcement Learning (RL) to optimize outcomes that may appear hundreds or thousands of interactions after a decision. Standard RL propagates reward according to temporal proximity rather than explicit relevance, attenuating the signal assigned to distant but important actions and creating a source of sample inefficiency. We introduce Explanatory World Models (EWM), an attribution framework that uses exp…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1deb98a2655c",
+    "title": "RATED: Reliability-Aware AI Agent Tool Retrieval via Execution Dynamics",
+    "url": "https://arxiv.org/abs/2610.13889",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-12T04:00:00+00:00",
+    "summary": "arXiv:2610.13889v1 Announce Type: cross Abstract: As AI agents increasingly rely on external tools, accurate retrieval is essential for reliable behavior. Existing methods optimize semantic relevance but largely ignore tool availability during execution. To address this gap, we propose RATED (Reliability-Aware Tool Retrieval via Execution Dynamics), a retrieval framework that combines robust semantic matching with dynamic reliability adaptation. RATED employs a frozen dual-encoder with contrasti…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "883718028139",
+    "title": "Can Language Models Play the Wikipedia Game?",
+    "url": "https://arxiv.org/abs/2610.13948",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-12T04:00:00+00:00",
+    "summary": "arXiv:2610.13948v1 Announce Type: cross Abstract: Language models increasingly support or automate information retrieval from document collections too large to index. This task is difficult when it requires specialist linguistic or scientific knowledge. We used the Wikipedia Game to test language models on an analogous information retrieval task. In the game, players must reach a target article using only article links. We compared sentence embedding models and LLMs across five Wikipedia languag…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "f7f685891fad",
+    "title": "CRM: Retrieval Model with Controllable Condition",
+    "url": "https://arxiv.org/abs/2412.13844",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-12T04:00:00+00:00",
+    "summary": "arXiv:2412.13844v2 Announce Type: replace Abstract: Retrieval models for recommendation need to account for outcomes such as watch time while searching large item corpora efficiently. We present the Controllable Retrieval Model (CRM), an outcome-conditioned retrieval framework that adds watch time as an input to the user tower. During training, CRM learns to predict the next item given its observed watch time; at inference, we supply a desired watch time to steer retrieval without retraining. Th…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a4731931691f",
+    "title": "A precision-driven evaluation protocol for author name disambiguation",
+    "url": "https://arxiv.org/abs/2610.13415",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-12T04:00:00+00:00",
+    "summary": "arXiv:2610.13415v1 Announce Type: new Abstract: Author Name Disambiguation systems are commonly evaluated using pairwise and B$^3$ metrics, which summarize clustering quality through aggregate precision and recall but do not explicitly distinguish between lumping (merging publications from different authors) and splitting (fragmenting the publications of a single author). Because these errors can have asymmetric consequences in bibliographic applications, we propose a precision-driven evaluation…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "cc8b2d73db21",
+    "title": "OC-AND: A Citation-Enriched Benchmark for Author Name Disambiguation",
+    "url": "https://arxiv.org/abs/2610.13462",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-12T04:00:00+00:00",
+    "summary": "arXiv:2610.13462v1 Announce Type: new Abstract: Author Name Disambiguation benchmarks are predominantly derived from closed infrastructures that may not reflect conditions in open bibliographic environments. We present OC-AND, an open citation-enriched benchmark for AND constructed by remapping the WhoIsWho dataset with bibliographic and citation metadata from OpenCitations. The dataset is produced through a reproducible five-stage pipeline involving DOI verification, metadata validation, OpenCi…",
+    "category": "Information Retrieval & Search"
+  },
+  {
     "id": "746b43993255",
     "title": "I Made Terrible Games With Google’s AI Playground",
     "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
