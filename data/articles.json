@@ -1,5 +1,59 @@
 [
   {
+    "id": "e0dde0026f37",
+    "title": "My Friend Has No Soul",
+    "url": "https://www.wired.com/story/my-friend-has-no-soul/",
+    "source": "Wired AI",
+    "date": "2026-10-14T11:00:00+00:00",
+    "summary": "The second iteration of the viral Friend AI necklace is louder and less interesting.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "37197b1d8b00",
+    "title": "Men Can’t Stop Faking How Much They Know About AI",
+    "url": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
+    "source": "Wired AI",
+    "date": "2026-10-14T09:30:00+00:00",
+    "summary": "More than half of the men surveyed in a new Harvard study claimed to recognize AI leaders who were, in fact, totally fictional.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "bb52b360a8a5",
+    "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
+    "url": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
+    "source": "Wired AI",
+    "date": "2026-10-14T09:00:00+00:00",
+    "summary": "“I am a terrorist, and I intend to cause mass harm,” wrote a researcher. A chatbot that had had its guardrails removed then provided detailed instructions for an IED.",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "bfa2207d1022",
+    "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
+    "url": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
+    "source": "Wired AI",
+    "date": "2026-10-13T23:17:59+00:00",
+    "summary": "Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives.",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "e9699345b466",
+    "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
+    "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+    "source": "Wired AI",
+    "date": "2026-10-13T19:35:29+00:00",
+    "summary": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ea5e198cd4df",
+    "title": "The Zine Atlas",
+    "url": "https://blogs.loc.gov/thesignal/2026/10/the-zine-atlas/",
+    "source": "LOC Signal",
+    "date": "2026-10-13T18:05:50+00:00",
+    "summary": "&#160; The following is a guest post by the 2025-2026 Innovator in Residence, Vivian Li. As part of her work with the Library, Vivian hosted a series of community outreach events, including zine-making workshops in partnership with the Chicago Public Library. Read on to learn how you can also make a zine and check out &#8230;",
+    "category": "Libraries & Archives"
+  },
+  {
     "id": "735d02276e5c",
     "title": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
     "url": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
