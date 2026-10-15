@@ -1,5 +1,203 @@
 [
   {
+    "id": "53a65ba9cc5c",
+    "title": "Revisiting Generative vs. Dense Retrieval: A Static Value Prior Reverses the Gap",
+    "url": "https://arxiv.org/abs/2610.19065",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-15T04:00:00+00:00",
+    "summary": "arXiv:2610.19065v1 Announce Type: new Abstract: Generative retrieval (GR) has emerged as a strong candidate generator for sequential recommendation as language models and semantic-item identifiers have improved. However, GR is not a uniformly stronger replacement of dense retrieval (DR) in online retail candidate generation. We examine their differences on two Amazon Toys datasets under different metrics. GR leads on best relevant item value among users both methods cover, while DR leads on exac…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ea536e74558a",
+    "title": "RCER: Reconstructing Cross-Evidence Relations for Iterative Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2610.19398",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-15T04:00:00+00:00",
+    "summary": "arXiv:2610.19398v1 Announce Type: new Abstract: Iterative retrieval-augmented generation (RAG) accumulates knowledge from retrieved evidence to answer complex questions, but existing methods struggle to reconstruct entity correspondences and inferential dependencies across retrieved passages as new information emerges. We propose RCER, an iterative RAG method that reconstructs these cross-evidence relations directly from accumulated source passages. Inter-round relational evidence acquisition id…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "30d211ce4cb9",
+    "title": "Bridging the Topological Divide: Dual-Branch Graph Distillation with Semantic Priors for Robust Cold-Start Recommendation",
+    "url": "https://arxiv.org/abs/2610.19578",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-15T04:00:00+00:00",
+    "summary": "arXiv:2610.19578v1 Announce Type: new Abstract: Graph Collaborative Filtering models have achieved remarkable success in recommendation systems. However, they inherently suffer from a catastrophic representation collapse in strict cold-start scenarios due to the topological isolation of unobserved items. While integrating multi-modal semantic features offers a potential remedy, directly mapping isolated semantic attributes into a globally topology-driven collaborative space frequently precipitat…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "49720c292492",
+    "title": "Twenty Days Later: A Pre-Registered Test of History-Based Forecasts of Brand Mentions in Gemini Answers",
+    "url": "https://arxiv.org/abs/2610.19608",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-15T04:00:00+00:00",
+    "summary": "arXiv:2610.19608v1 Announce Type: new Abstract: Counts of which brands a large language model names are useful only if they hold long enough to act on. We test this with a pre-registered replication. The same 162 requests (54 questions in English, Estonian and Finnish about three software categories, four of twelve candidate brands per question, three repeats) were sent to gemini-3.1-pro-preview in three waves within about ten hours on 22 and 23 September 2026, and again on 13 October 2026, 20.3…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "56463a00f44a",
+    "title": "Reading the Neighborhood: Text-Attentive Graph Reranking for Automated Subject Indexing",
+    "url": "https://arxiv.org/abs/2610.20048",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-15T04:00:00+00:00",
+    "summary": "arXiv:2610.20048v1 Announce Type: new Abstract: Subject indexing assigns descriptors from a controlled vocabulary to bibliographic records, a task characterized by thousands of labels, few positive examples per label, and a long tail of rarely used descriptors. Existing extreme multi-label classifiers treat the vocabulary as a flat list, ignoring the semantic relations that thesauri encode. We present TAGHN, a heterogeneous graph reranker over a per-document subgraph of retrieved candidates augm…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "21f764d76516",
+    "title": "XViewRank: Overlap-Conditioned Score Fusion for LLM-Augmented Sparse Retrieval",
+    "url": "https://arxiv.org/abs/2610.20122",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-15T04:00:00+00:00",
+    "summary": "arXiv:2610.20122v1 Announce Type: new Abstract: Large language models can reduce vocabulary mismatch in sparse retrieval by generating alternative views of a query. Once these views are searched independently, however, their ranked lists may be complementary, redundant, or affected by query drift, making fixed fusion suboptimal. We present XViewRank, a lightweight retrieval-side method for conditionally fusing BM25 results from an original query, a hypothesis view, and a step-back view. For each…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "8aa634ea0fb7",
+    "title": "Creating SquashFS Images to Support HPC and AI Datasets",
+    "url": "https://arxiv.org/abs/2610.20578",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-15T04:00:00+00:00",
+    "summary": "arXiv:2610.20578v1 Announce Type: new Abstract: HPC users often download datasets on HPC systems for analysis and processing. When these datasets are comprised of hundreds of thousands (or more) of small files, accessing them in parallel can put a tremendous burden on the metadata servers of central parallel file systems. If the dataset is read-only, an effective solution is to compress the dataset into a SquashFS image. There are, however, a number of workflows that can be used to create such a…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "302d474fa905",
+    "title": "Plan or Retrieve First? A Scale Study of Tool Discovery Architectures",
+    "url": "https://arxiv.org/abs/2610.19068",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-15T04:00:00+00:00",
+    "summary": "arXiv:2610.19068v1 Announce Type: cross Abstract: Tool-augmented LLM agents discover relevant APIs from large registries before planning execution, yet finite context windows prohibit injecting all tool definitions into a single prompt. The dominant approach, which we term Retrieve-then-Plan (RtP), embeds the user query and retrieves similar tools via approximate nearest-neighbor search. We study an alternative Plan-then-Retrieve (PtR) paradigm in which the LLM first generates Abstract Tool Stub…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "ad71753506f3",
+    "title": "AdCoEvo: A Co-Evolving Multi-Agent Advertising Delivery System",
+    "url": "https://arxiv.org/abs/2610.19454",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-15T04:00:00+00:00",
+    "summary": "arXiv:2610.19454v1 Announce Type: cross Abstract: Digital advertising is an important means for platforms to reach potential users and drive business growth. Advertising delivery is the core link between marketing objectives and actual returns. Existing methods have achieved partial automation in individual tasks such as bidding and budget allocation, but they still rely on human operators for overall coordination, making it difficult to support large-scale operations. They also often fail to ac…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "791770ce7d75",
+    "title": "Retrieve What Helps, Only When It Helps: Agentic Reinforcement Learning for Selective Retrieval-Augmented Machine Translation",
+    "url": "https://arxiv.org/abs/2610.19528",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-15T04:00:00+00:00",
+    "summary": "arXiv:2610.19528v1 Announce Type: cross Abstract: Retrieving external knowledge can improve large language model (LLM) translation by providing supplementary information such as idiom interpretations and terminology. However, existing retrieval-augmented machine translation systems typically apply predefined retrieval strategies uniformly across all inputs. We argue that translation operates in a partial-evidence regime: LLM's parametric knowledge suffices for many inputs, while external evidenc…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "b941f16e1479",
+    "title": "HEM-Med: A Hierarchical Agentic Memory Framework for Safe Multi-Center Medication Recommendation",
+    "url": "https://arxiv.org/abs/2610.20191",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-15T04:00:00+00:00",
+    "summary": "arXiv:2610.20191v1 Announce Type: cross Abstract: Medication recommendation (MR) is critical for clinical decision support. While existing MR methods are mostly designed for single-center learning, where only one independent hospital is involved, multi-center MR with hospitals of different scales has become increasingly demanding in practice. In multi center settings, abundant data from large medical centers can improve recommendation performance for low-resource centers. Despite a few prelimina…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "57f3b4f865af",
+    "title": "CASI: Credit Assignment via Set Intervention for Agentic Retrieval",
+    "url": "https://arxiv.org/abs/2610.20293",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-15T04:00:00+00:00",
+    "summary": "arXiv:2610.20293v1 Announce Type: cross Abstract: Large language models increasingly generate multiple retrieval actions jointly, while downstream systems often provide only one reward for the resulting set. Broadcasting this reward provides a valid score-function gradient estimator for the expected set-level objective, but does not determine a coalition-dependent within-set attribution. We introduce CASI (Credit Assignment via Set Intervention for Agentic Retrieval), which constructs the missin…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "b7e68bbcf8f2",
+    "title": "On the Impact of Graph Neural Networks in Recommender Systems: A Topological Perspective",
+    "url": "https://arxiv.org/abs/2512.07384",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-15T04:00:00+00:00",
+    "summary": "arXiv:2512.07384v2 Announce Type: replace Abstract: In recommender systems, user-item interactions can be modeled as a bipartite graph, where user and item nodes are connected by undirected edges. This graph-based view has motivated the rapid adoption of graph neural networks (GNNs), which often outperform collaborative filtering (CF) methods such as latent factor models, deep neural networks, and generative strategies. Yet, despite their empirical success, the reasons why GNNs offer systematic …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "de1a34aa5638",
+    "title": "Relevance Supervision Can Teach Neural Retrievers to Prefer LLM-Generated Text",
+    "url": "https://arxiv.org/abs/2604.06163",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-15T04:00:00+00:00",
+    "summary": "arXiv:2604.06163v2 Announce Type: replace Abstract: Recent studies show that neural retrievers often exhibit source bias, ranking LLM-generated passages above semantically similar human-written ones, which threatens the reliability of modern information access systems. While this bias is often viewed as a model-level property, we show that relevance supervision itself can induce it. Empirically, source bias is clearest in relevance-supervised retrievers, and the same encoders become more LLM-pre…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "21ab7038a8c4",
+    "title": "Document-as-Image Representations Fall Short for Scientific Retrieval",
+    "url": "https://arxiv.org/abs/2604.18508",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-15T04:00:00+00:00",
+    "summary": "arXiv:2604.18508v2 Announce Type: replace Abstract: Many recent document embedding models are trained on document-as-image representations, embedding rendered pages as images rather than the underlying source. Meanwhile, existing benchmarks for scientific document retrieval, such as ArXivQA and ViDoRe, treat documents as images of pages, implicitly favoring such representations. In this work, we argue that this paradigm is not well-suited for text-rich multimodal scientific documents, where crit…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "1f43c19a04ce",
+    "title": "Data Curation and Model Souping: Unlocking Qwen3-0.6B for MS MARCO Passage Ranking",
+    "url": "https://arxiv.org/abs/2610.14816",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-15T04:00:00+00:00",
+    "summary": "arXiv:2610.14816v2 Announce Type: replace Abstract: This report studies passage retrieval and re-ranking on the MS MARCO benchmark using lightweight Qwen3-0.6B models. Across three experimental settings --- BM25-then-reranking task, corpus-wide dense retrieval task, and dense retrieval then re-ranking task --- the results demonstrate that competitive ranking performance can be achieved without complex architectural modifications, custom loss functions, or cross-encoder distillation. Instead, sub…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "56b53a1a26c6",
+    "title": "Computed, not Memorized: Bit-Factorized Identifiers for Efficient Generative Retrieval",
+    "url": "https://arxiv.org/abs/2610.17467",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-15T04:00:00+00:00",
+    "summary": "arXiv:2610.17467v2 Announce Type: replace Abstract: Generative retrieval is known for its efficient end-to-end indexing and retrieval. In particular, numeric Document Identifiers (DocIDs) are generally more efficient because they are shorter and generally fixed-length sequences over a small vocabulary, requiring fewer decoding steps during beam search. However, they tend to generalize poorly to unseen documents and must be learned during indexing-stage training. In this paper, we propose a numer…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "c3addd5f9037",
+    "title": "Ground-Truth Subgraphs for Better Training and Evaluation of Knowledge Graph Augmented LLMs",
+    "url": "https://arxiv.org/abs/2511.04473",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-15T04:00:00+00:00",
+    "summary": "arXiv:2511.04473v4 Announce Type: replace-cross Abstract: Retrieval of information from graph-structured knowledge bases represents a promising direction for improving the factuality of LLMs. While various solutions have been proposed, a comparison of methods is difficult due to the lack of challenging QA datasets with ground-truth targets for graph retrieval. We present SynthKGQA, an LLM-powered framework for generating high-quality Knowledge Graph Question Answering datasets from any Knowledge…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "504254bcfb29",
+    "title": "GenState-AI: State-Aware Dataset for Text-to-Video Retrieval on AI-Generated Videos",
+    "url": "https://arxiv.org/abs/2603.14426",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-15T04:00:00+00:00",
+    "summary": "arXiv:2603.14426v2 Announce Type: replace-cross Abstract: Existing text-to-video retrieval benchmarks often permit matching from static appearance, making it difficult to determine whether models capture state changes and final outcomes. We introduce GenState-AI, a benchmark comprising 956 AI-generated videos and 195 verified state-change queries across Toy, Cartoon, Home, and Manipulation domains. Its construction uses prompt-controlled variants that target either conflicting temporal/state out…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "fdb7a6e7a963",
+    "title": "General Classification for Digital Knowledge: Algorithm, Identifiers and a First Benchmark",
+    "url": "https://arxiv.org/abs/2610.19547",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-15T04:00:00+00:00",
+    "summary": "arXiv:2610.19547v1 Announce Type: new Abstract: Digital libraries and knowledge graphs need a way to organize very large collections so that related works are close and any work is quick to reach. The classifications libraries inherited for this, such as LCC and DDC, are maintained by editorial staff, are partly closed, and were not built against a stated, measurable objective. We propose the opposite: a general classification that is fitted, under the constraints that make a classification usab…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "cae5f68ff0ce",
+    "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
+    "url": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
+    "source": "Wired AI",
+    "date": "2026-10-14T18:15:00+00:00",
+    "summary": "AI may soon be the default way to solve theoretical problems in economics, high-energy physics, and other fields, MIT researchers tell WIRED.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "71cedf8f58a7",
+    "title": "Kicking off Cybersecurity Career Week with NIST!",
+    "url": "https://www.nist.gov/blogs/cybersecurity-insights/kicking-cybersecurity-career-week-nist",
+    "source": "NIST",
+    "date": "2026-10-14T12:00:00+00:00",
+    "summary": "Considering a career in cybersecurity? Cybersecurity Career Week (CCW), a campaign led by the NICE Program at NIST from October 19-24, 2026, aims to raise public awareness and help people find their path to #ChooseCyber. During this week, academia, industry, non-profit organizations, and government agencies host events, share resources, provide trainings, and engage community to build awareness about the cybersecurity job opportunities, educate people on how to develop capabilities to qualify fo…",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "e0dde0026f37",
     "title": "My Friend Has No Soul",
     "url": "https://www.wired.com/story/my-friend-has-no-soul/",
