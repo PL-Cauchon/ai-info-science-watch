@@ -1,5 +1,230 @@
 [
   {
+    "id": "359d1a26c134",
+    "title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
+    "url": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
+    "source": "Wired AI",
+    "date": "2026-10-16T11:00:00+00:00",
+    "summary": "A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c45d3ccf0780",
+    "title": "Information-Gain Calibrated On-Policy Distillation for Deep Search Agents",
+    "url": "https://arxiv.org/abs/2610.20664",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-16T04:00:00+00:00",
+    "summary": "arXiv:2610.20664v1 Announce Type: new Abstract: On-policy distillation (OPD) has recently emerged as a promising approach for transferring the capabilities of large agents to compact students. In deep search, where agents iteratively retrieve external evidence, a teacher's preference among plausible queries before retrieval may not predict which queries will return useful evidence. Standard OPD nevertheless supervises each student query from the preceding context alone, inducing a failure mode w…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c289ec39eff8",
+    "title": "Idea2Prior: Auditable Paper Retrieval and Ranking from Research Ideas",
+    "url": "https://arxiv.org/abs/2610.20857",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-16T04:00:00+00:00",
+    "summary": "arXiv:2610.20857v1 Announce Type: new Abstract: Finding a paper from an informal research idea requires more than matching topic words: relevant work may use different terminology, and its distinguishing mechanism may be absent from the abstract. We present \\system{}, an auditable literature-search system built on PaperArena. It combines multi-source discovery, identity verification, facet-based abstract assessment, semantic citation expansion, and joint Expert ranking. A retrieval-only mode ran…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c4e9f92b38fe",
+    "title": "TransX Technical Report: Scaling Sequence Transduction for Recommendation",
+    "url": "https://arxiv.org/abs/2610.20913",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-16T04:00:00+00:00",
+    "summary": "arXiv:2610.20913v1 Announce Type: new Abstract: We present TransX, a sequence-transduction framework and co-designed infrastructure for scaling industrial recommendation with explicit control over model-compute allocation and execution amortization. TransX separates sequence encoding, behavior memory, and candidate-conditioned fusion into independently scalable components. Training amortizes causal trajectory computation across behavioral prefixes and fans out memory states to candidates; servin…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "56d3f20e382d",
+    "title": "Learning When to Think: Utility-Guided Adaptive Reasoning for Efficient Text Retrieval",
+    "url": "https://arxiv.org/abs/2610.21030",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-16T04:00:00+00:00",
+    "summary": "arXiv:2610.21030v1 Announce Type: new Abstract: Reasoning-conditioned embeddings can improve retrieval by progressively refining semantic constraints. However, additional reasoning may introduce over-generalized or semantically noisy abstractions that weaken retrieval specificity. Existing methods largely supervise reasoning through final retrieval outcomes, providing limited guidance over the refinement process itself. We propose AURA, a framework that directly supervises intermediate reasoning…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "23b7810b4312",
+    "title": "RecSoup: Efficient Model Merging Approach for Controllable Multi-Objective Recommendation",
+    "url": "https://arxiv.org/abs/2610.21220",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-16T04:00:00+00:00",
+    "summary": "arXiv:2610.21220v1 Announce Type: new Abstract: Recommender systems often need to balance multiple conflicting objectives. Controllable Multi-Objective Recommendation (CMOR) enables dynamic adjustment of objective trade-offs at inference time without retraining, adapting to shifting user or system requirements. Existing CMOR approaches typically rely on output-level reranking or parameter-generating modules, which either limit the scope of feasible trade-offs or incur substantial training and in…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "7d9d2dbde3c2",
+    "title": "VoteGEO-Bench: Measuring the Impact of Generative Engine Optimization on Electoral Visibility",
+    "url": "https://arxiv.org/abs/2610.21330",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-16T04:00:00+00:00",
+    "summary": "arXiv:2610.21330v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used for election information, yet little is known about how external web content shapes the political information they present. Generative engine optimization (GEO) rewrites web content to improve its visibility in generated responses. To investigate its potential risks in voting scenarios (VoteGEO), we introduce VoteGEO-Bench, a benchmark covering the 2024 U.S. presidential election and the 2026 Japan…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "6ed40c53b3b9",
+    "title": "Aligning LLMs with Sparse Retrieval via Adaptive Sparse Supervision",
+    "url": "https://arxiv.org/abs/2610.21877",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-16T04:00:00+00:00",
+    "summary": "arXiv:2610.21877v1 Announce Type: new Abstract: While large language models (LLMs) offer strong semantic representations, their application to first-stage retrieval incurs substantial latency and storage costs. Neural sparse retrievers such as SPLADE provide efficient retrieval but rely on relatively compact encoders with limited representational capacity. To bridge this gap, we propose an LLM-based sparse retrieval framework with input-adaptive sparse alignment. Specifically, we introduce a dyn…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "e48aced70887",
+    "title": "GACC-Bench: Benchmarking Goal-Adaptive Context Compression Ability across Large Language Models",
+    "url": "https://arxiv.org/abs/2610.21893",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-16T04:00:00+00:00",
+    "summary": "arXiv:2610.21893v1 Announce Type: new Abstract: Context compression in long-running applications of large language models (LLMs) must preserve goal-relevant information, often before specific downstream questions are known. We introduce GACC-Bench, a benchmark for Goal-Adaptive Context Compression that evaluates how reliably LLMs adapt information retention to specified high-level goals. For each source context, we derive one or more high-level goals by grouping source-grounded questions accordi…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a4351fe54aa0",
+    "title": "ReviewPilot: A Multi-Agent System for Screening and Data Extraction in Systematic Reviews",
+    "url": "https://arxiv.org/abs/2610.21042",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-16T04:00:00+00:00",
+    "summary": "arXiv:2610.21042v1 Announce Type: cross Abstract: Systematic literature reviews follow the PRISMA process of screening scholarly works and extracting evidence from included studies. Deep research tools based on large language models (LLMs) can search and summarize the literature but do not record which studies are excluded or where extracted values come from. We develop a conversational multi-agent system called ReviewPilot that automates the PRISMA workflow from paper screening to information e…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "9ccfe0f3a00d",
+    "title": "SSR: Structural Signal Retriever for Scalable Agent Discovery in LLM-Orchestrated Multi-Agent Systems",
+    "url": "https://arxiv.org/abs/2610.21113",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-16T04:00:00+00:00",
+    "summary": "arXiv:2610.21113v1 Announce Type: cross Abstract: Large-scale multi-agent ecosystems require mechanisms for discovering suitable agents without exposing entire registries to a large language model (LLM) orchestrator. The challenge is not only to retrieve relevant Agent Cards from a growing registry, but also to maintain a compact candidate context, since each additional candidate increases prompt size, inference cost, latency, and the risk of exceeding the model context window. We formulate this…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "3791e6f89867",
+    "title": "TRACER: Trajectory-Aware Tool Retrieval for LLM Agents",
+    "url": "https://arxiv.org/abs/2610.21267",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-16T04:00:00+00:00",
+    "summary": "arXiv:2610.21267v1 Announce Type: cross Abstract: Modern agents select tools from registries, but exposing entire registries incurs high token costs and can impair selection as they grow. We present TRACER, a retrieval front-end that indexes observed tool-call sequences in a trie and ranks continuations using a learned blend of empirical and contextual priors. On a mixed retail-and-telecom $\\tau^2$ environment, TRACER improves GPT-5.4's tool-selection accuracy by 4.7 points while reducing input …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "ed183f2957e3",
+    "title": "Making every stage of medical device document assessment with large language models deterministic",
+    "url": "https://arxiv.org/abs/2610.21300",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-16T04:00:00+00:00",
+    "summary": "arXiv:2610.21300v1 Announce Type: cross Abstract: To show that a medical device complies with regulation, experts judge whether documents and records meet each requirement and record the judgment for others to verify. For each assessment item that experts define, large language models could prepare a preliminary assessment: a label such as Satisfied or Not satisfied, a reason and quoted evidence. We sent fourteen commercial deployments of such models (seven models from three providers, through s…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c47f86cabc28",
+    "title": "Retrieved but Not Read: Understanding Why Search-Augmented LLMs Fail to Use Available Evidence",
+    "url": "https://arxiv.org/abs/2610.21731",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-16T04:00:00+00:00",
+    "summary": "arXiv:2610.21731v1 Announce Type: cross Abstract: Web search allows LLMs to access up-to-date information, but it remains unclear why they sometimes produce outdated answers even when relevant evidence is available. To study this problem, we construct temporal facts whose values changed after the models' training cutoffs. We evaluate one proprietary model under deployed web search and six open-weight model configurations under controlled retrieval. We find that models often answer from search sn…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "ebda0cdf2258",
+    "title": "CARA: Causally Guided Retrieval Agent for Question Answering",
+    "url": "https://arxiv.org/abs/2610.22017",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-16T04:00:00+00:00",
+    "summary": "arXiv:2610.22017v1 Announce Type: cross Abstract: Retrieval-augmented generation over text-rich knowledge graphs requires identifying evidence that contributes to answering a question, rather than merely matching its textual content. Existing agentic retrievers adaptively balance global search and multi-hop exploration but primarily rely on textual similarity to guide retrieval. We propose CARA, a training-free, CAusally guided Retrieval Agent that explicitly evaluates the causal relevance of re…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "2ce62aae2dfc",
+    "title": "How Do LLM-Generated Texts Impact Term-Based Retrieval Models?",
+    "url": "https://arxiv.org/abs/2508.17715",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-16T04:00:00+00:00",
+    "summary": "arXiv:2508.17715v2 Announce Type: replace Abstract: As more content generated by large language models (LLMs) floods into the Internet, information retrieval (IR) systems now face the challenge of distinguishing and handling a blend of human-authored and machine-generated texts. Recent studies suggest that neural retrievers may exhibit a preferential inclination toward LLM-generated content, while classic term-based retrievers like BM25 tend to favor human-written documents. This paper investiga…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "028d6867cbbf",
+    "title": "Self-improving data synthesis enables scalable adaptation of embedding models",
+    "url": "https://arxiv.org/abs/2610.14730",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-16T04:00:00+00:00",
+    "summary": "arXiv:2610.14730v2 Announce Type: replace Abstract: AI agents require specialised retrieval across domains and tasks, but adapting embedding models is constrained by costly manual training-data design. Here we introduce SYNTRA, a self-improving agentic framework that turns a few retrieval examples into reusable synthesis instructions. Given an unlabelled corpus and a few relevant query-document pairs, SYNTRA infers implicit information needs and relevance criteria, then uses feedback on trial ou…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "3c72c1299969",
+    "title": "When Inputs Receive No Score: Evaluating Open-Web Event Admission on the Complete Stream",
+    "url": "https://arxiv.org/abs/2610.17814",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-16T04:00:00+00:00",
+    "summary": "arXiv:2610.17814v2 Announce Type: replace Abstract: A Web item can link to the correct event without contributing information worth organizing. Evaluating item-level admission therefore begins with complete inputs, including those a processing pipeline fails to score. We study how this upstream selection changes ranking comparisons and constrains operational decisions. Across six instruction-model backbones, three strategies, and 602 human-annotated evaluation items, systems score different popu…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "443b4a0e7f8b",
+    "title": "Enhancing Knowledge Density via Hierarchical Context Pruning for Retrieval-Augmented Repository-Level Code Completion",
+    "url": "https://arxiv.org/abs/2508.10068",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-16T04:00:00+00:00",
+    "summary": "arXiv:2508.10068v3 Announce Type: replace-cross Abstract: Retrieval-Augmented Generation (RAG) has advanced repository-level code completion by retrieving external code snippets, API documentation, or type definitions to expand the model's contextual awareness. However, under the finite token budget of the context window, existing retrieval-augmented methods often saturate the budget with highly similar or even redundant code, which not only wastes tokens but also suppresses critical cross-file …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "db46b124d80b",
+    "title": "GraphCompliance: Structure-Aware Regulatory Compliance through Policy-Context Graph Alignment",
+    "url": "https://arxiv.org/abs/2510.26309",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-16T04:00:00+00:00",
+    "summary": "arXiv:2510.26309v2 Announce Type: replace-cross Abstract: Regulatory compliance is an important requirement in many industrial and administrative settings. Yet compliance assessment remains difficult because regulatory requirements are distributed across structured documents and may depend on hierarchy, definitions, conditions, and cross-references, while the evidence relevant to a particular requirement may be embedded among multiple interacting actors, events, objects, and conditions in the as…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "234527c9c445",
+    "title": "Multiplex coupling: Connecting the intellectual base and the topics of a research field",
+    "url": "https://arxiv.org/abs/2610.21858",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-16T04:00:00+00:00",
+    "summary": "arXiv:2610.21858v1 Announce Type: new Abstract: Two documents can be close because they cite the same works or because they write about the same things, and the two kinds of proximity often disagree. Science mapping reads them in separate maps or merges them, as hybrid clustering does; either way the disagreement is lost. We introduce multiplex coupling, a framework that couples the same documents by their references and by their terms, keeps the two layers separate and analyses their relation. …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "91276ef8442d",
+    "title": "Faster alone vs. further together: The speed and impact of researchers' responses to societal crises",
+    "url": "https://arxiv.org/abs/2603.19246",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-16T04:00:00+00:00",
+    "summary": "arXiv:2603.19246v2 Announce Type: replace Abstract: Throughout the 21st century, society encountered numerous crises that demanded quick and widespread action. In the present work, we documented researchers' responses to 25 of these crises, analyzing 1,537,284 published responses from 3,262,152 researchers spanning 225 countries and territories. An analysis of publication speed and citation patterns yielded support for a proverbial claim: \"to go fast, go alone; to go far, go together\". Solo auth…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "97b696edc2ea",
+    "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
+    "source": "Wired AI",
+    "date": "2026-10-15T21:18:15+00:00",
+    "summary": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "9122daee4eec",
+    "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
+    "url": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
+    "source": "Wired AI",
+    "date": "2026-10-15T21:00:28+00:00",
+    "summary": "Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a66d21321df5",
+    "title": "Anywhere Adventures in Southeast Wyoming",
+    "url": "https://blogs.loc.gov/thesignal/2026/10/anywhere-adventures-in-southeast-wyoming/",
+    "source": "LOC Signal",
+    "date": "2026-10-15T17:04:15+00:00",
+    "summary": "The following is a guest post by the 2025-2026 Innovator in Residence, Vivian Li. As part of her work with the Library, Vivian hosted a series of community outreach events. Read on to learn about her time in Southeast Wyoming, one of the locations in Anywhere Adventures, Vivian’s mobile-first website which brings local history to &#8230;",
+    "category": "Libraries & Archives"
+  },
+  {
     "id": "53a65ba9cc5c",
     "title": "Revisiting Generative vs. Dense Retrieval: A Static Value Prior Reverses the Gap",
     "url": "https://arxiv.org/abs/2610.19065",
