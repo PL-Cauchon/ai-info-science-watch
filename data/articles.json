@@ -1,5 +1,41 @@
 [
   {
+    "id": "4a0e4538d4e7",
+    "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
+    "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+    "source": "Wired AI",
+    "date": "2026-10-17T09:00:00+00:00",
+    "summary": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "3287a3bb9b23",
+    "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
+    "url": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
+    "source": "Wired AI",
+    "date": "2026-10-16T20:05:08+00:00",
+    "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "85ddbdc7a76d",
+    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "source": "MIT Tech Review",
+    "date": "2026-10-16T18:00:00+00:00",
+    "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch&#8230;",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "b90b32688ead",
+    "title": "Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’",
+    "url": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
+    "source": "Wired AI",
+    "date": "2026-10-16T15:00:00+00:00",
+    "summary": "MIT professor Sherry Turkle warns that people have become dangerously enmeshed with chatbots.",
+    "category": "AI & Knowledge Management"
+  },
+  {
     "id": "359d1a26c134",
     "title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
     "url": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
