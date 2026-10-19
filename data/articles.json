@@ -1,5 +1,158 @@
 [
   {
+    "id": "b32798372587",
+    "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+    "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+    "source": "MIT Tech Review",
+    "date": "2026-10-19T09:08:05+00:00",
+    "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2afd84a2181a",
+    "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
+    "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+    "source": "Wired AI",
+    "date": "2026-10-19T09:00:00+00:00",
+    "summary": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "ec83c24c0fbc",
+    "title": "NoveltyScope: A Multi-Agent Research Assistant for Evidence-Grounded Novelty Assessment of Scientific Papers",
+    "url": "https://arxiv.org/abs/2610.22703",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-19T04:00:00+00:00",
+    "summary": "arXiv:2610.22703v1 Announce Type: new Abstract: NoveltyScope is a prototype that compares a scientific paper with retrieved prior work and produces a structured report and a five-level novelty score. The system extracts the core task and at most two author-claimed contributions, then searches a closed local corpus using BM25 and dense retrieval with reciprocal rank fusion. Contribution comparisons request paired passages for potential refutations, and quotations are checked against cached source…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "3032c5a09875",
+    "title": "Reasoning Reranking with Semantic IDs as the Sole Item Representation",
+    "url": "https://arxiv.org/abs/2610.22797",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-19T04:00:00+00:00",
+    "summary": "arXiv:2610.22797v1 Announce Type: new Abstract: Reasoning rerankers write a rationale before ranking a candidate slate, and existing systems read item metadata to do so, even though generative recommenders increasingly represent items as compact Semantic IDs (SIDs). Ranking from SIDs alone has two appeals: SID prompts are far shorter than the matched item text, and although item codes are fixed from content, the backbone learns their token embeddings in part from user-item interaction sequences,…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "880760b5961a",
+    "title": "Jev-as-a-Judge for Brazilian Portuguese Information Retrieval: Relevance Assessment and Reranking",
+    "url": "https://arxiv.org/abs/2610.23346",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-19T04:00:00+00:00",
+    "summary": "arXiv:2610.23346v1 Announce Type: new Abstract: This study investigates Jev, a System One model designed for fast, structured decision-making, in information retrieval. We use Jev-as-a-judge to generate relevance judgments for four Brazilian Portuguese IR collections covering different domains and compare them with the official relevance judgments of each collection. We also evaluate Jev as a reranker. For relevance assessment, exact agreement ranged from 52.9% to 64.9%, while quadratic weighted…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "93f57b26fbe3",
+    "title": "QD-Rec: Open-Ended Evolution of Recommendations via Quality-Diversity",
+    "url": "https://arxiv.org/abs/2610.23470",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-19T04:00:00+00:00",
+    "summary": "arXiv:2610.23470v1 Announce Type: new Abstract: Open-ended search combined with foundation models has produced advances such as faster algorithms, new results on open mathematical problems, and self-improving agents. We extend this paradigm to recommendation for decision-making, focusing on decisions where the set of possible choices is fixed but the reasons for choosing them are not. In high-stakes decisions, e.g., which company to acquire or which customer to target, comparing diverse, well-re…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e68809066917",
+    "title": "LSNR: Learned Sparse News Recommendations with Attentive User Modeling",
+    "url": "https://arxiv.org/abs/2610.23510",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-19T04:00:00+00:00",
+    "summary": "arXiv:2610.23510v1 Announce Type: new Abstract: Current learned sparse approaches for recommender systems, such as STAR, represent a user by concatenating their interaction history into a single query string. For news, this creates two bottlenecks: concatenation collapses a user's distinct reading interests into one flat query, and, because news articles are long-form text, concatenating several news articles quickly overruns the context window of the language model used as backbone and forces q…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "858c1ea1b6da",
+    "title": "Humanity's Last Choice: A Common Evaluation Standard for Generative Engine Optimization",
+    "url": "https://arxiv.org/abs/2610.23541",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-19T04:00:00+00:00",
+    "summary": "arXiv:2610.23541v1 Announce Type: new Abstract: Humanity's Last Choice describes the idea that the last choice people need to make is which AI system they entrust with the decisions that follow. These systems rely on external sources that content providers can edit through generative engine optimization (GEO) to increase source visibility and influence recommendations. Choosing among these systems therefore requires comparable evidence of how well they carry out user requests when exposed to GEO…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "fea811d0edf3",
+    "title": "Star Light, Star Bright: Can Multimodal Models Parse an Astronomy Visual Question Answering Dataset Right?",
+    "url": "https://arxiv.org/abs/2610.22474",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-19T04:00:00+00:00",
+    "summary": "arXiv:2610.22474v1 Announce Type: cross Abstract: Figures are essential for scientific communication, and the field of Visual Question Answering (VQA) aims to test the figure understanding capabilities of large multimodal models (LMMs). Here, we investigate the accuracy of several low-cost LMMs on domain-specific VQA tasks for astronomical images of the sky. As instrument for this task we build a domain-specific VQA dataset comprising 2001 partially-synthetic figures divided evenly between conto…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4ed6a98137a2",
+    "title": "AuditKIT: A Unified Evaluation Spine for Benchmarking, Judging, and Comparing Large Language Models and Agentic Systems",
+    "url": "https://arxiv.org/abs/2610.22511",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-19T04:00:00+00:00",
+    "summary": "arXiv:2610.22511v1 Announce Type: cross Abstract: Evaluating language models and agents requires combining benchmark accuracy, judge-based assessment, runtime performance, tool-use behavior, and retrieval quality. Differences in interfaces, metric semantics, and trace formats complicate these comparisons and can hide failures in agentic workflows. We present AuditKIT, a source-available evaluation library that records these measurements in one result representation, with direction-aware metric c…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "6fd99b3d4b18",
+    "title": "Improving OCR Accuracy Through Multi-Classifier Verification of Visually Similar Characters",
+    "url": "https://arxiv.org/abs/2610.22726",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-19T04:00:00+00:00",
+    "summary": "arXiv:2610.22726v1 Announce Type: cross Abstract: Distinguishing visually similar characters is a persistent challenge for optical character recognition (OCR) systems, causing errors in critical applications of text digitization. While preprocessing techniques improve image quality and word-level post-processing corrects spelling errors, neither addresses character-level visual ambiguity, an intrinsic property of certain character pairs that limits even state-of-the-art OCR models. We present th…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5dc7fac1a564",
+    "title": "Code Skill Server: A Large-Scale Search Engine for Code Generation Skills",
+    "url": "https://arxiv.org/abs/2610.23186",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-19T04:00:00+00:00",
+    "summary": "arXiv:2610.23186v1 Announce Type: cross Abstract: Agent skills have proven to be an effective technique for improving agent ability on specific tasks, including software engineering, natural science, and mathematics. During such a process, using agent skills often involves manually discovering and organizing skills from heterogeneous sources, while existing skill retrieval methods mainly focus on selecting relevant skills from established skill libraries. However, with the rapidly increasing num…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "c07e2e1238a1",
+    "title": "Tool Recommendation for Multi-Step Agents: Finding Every Tool a Task Needs",
+    "url": "https://arxiv.org/abs/2610.23707",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-19T04:00:00+00:00",
+    "summary": "arXiv:2610.23707v1 Announce Type: cross Abstract: A multi-step agent task fails when a single tool it needs is missing, yet the tools an agent may need are too many to list: the roughly 8,200 tools on the platform we study have definitions that together exceed the context window of any model we evaluate. We present Tool Recommendation, a deployed system that gives an agent all of them, hundreds of times more than a typical MCP server exposes, through a fixed interface of three tools. It runs at …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "dcf4a748b2c8",
+    "title": "Advertising to Agents: Measuring Description-Framing Bias in LLM Tool Selection",
+    "url": "https://arxiv.org/abs/2605.23916",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-19T04:00:00+00:00",
+    "summary": "arXiv:2605.23916v3 Announce Type: replace Abstract: AI agents often pick tools from registries, where each provider writes its tool's description; we ask whether sales language there changes which tool an agent picks. We built pairs of listings that differ in one way (praise, a verifiable specification, or list order) and asked two OpenAI models to call one tool. In a preregistered study, stacked praise (four kinds) raised a tool's pick rate by about 43 percentage points, matching or beating a v…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "2a8b0e748559",
+    "title": "EKLAV: Elicited Key CoT Learning via Answer only superVision",
+    "url": "https://arxiv.org/abs/2607.25182",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-19T04:00:00+00:00",
+    "summary": "arXiv:2607.25182v2 Announce Type: replace-cross Abstract: Reasoning distillation trains a student to reproduce both the teacher's chain-of-thought trace and its final answer. We ask whether the trace is better used as privileged training context than as an imitation target. EKLAV keeps the teacher's reasoning in the input sequence but supervises only the final task answer, applying a task-dependent placement that moves part or all of the trace into the prompt. On BRIGHT passage reranking, EKLAV …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1b41f43bad56",
+    "title": "Kwai Summary Attention V2 Technical Report",
+    "url": "https://arxiv.org/abs/2610.18654",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-19T04:00:00+00:00",
+    "summary": "arXiv:2610.18654v2 Announce Type: replace-cross Abstract: Summary-token architectures such as Kwai Summary Attention (KSA) compress distant context into learnable Summary token per chunk, and hybrid variants interleave these layers with full attention to retain exact access to the original text. In such hybrid KSA-Full architecture, the interleaving inserted summary tokens are served as a streaming flow role across different layers. Although effective, however, it also introduce some bottlenecks…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "6587a994ef2e",
+    "title": "On some unresolved issues in aggregate level comparative research evaluation",
+    "url": "https://arxiv.org/abs/2610.23318",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-19T04:00:00+00:00",
+    "summary": "arXiv:2610.23318v1 Announce Type: new Abstract: This short conceptual paper recalls to the attention of the scientometrics community some long-standing open methodological problems and proposes new directions that might be taken in renewed engagements with them. These problems are the differential dependency of the global reference score on the included units' observed scores and the dilution of impact measurement accuracy due to collaboration, which causes a global convergence in country citati…",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "70bdb9d8dab5",
     "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
     "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
