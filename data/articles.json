@@ -1,5 +1,311 @@
 [
   {
+    "id": "04cfd76c8ff1",
+    "title": "A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse",
+    "url": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/",
+    "source": "Wired AI",
+    "date": "2026-10-21T12:35:00+00:00",
+    "summary": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "9a2f77b65b0e",
+    "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
+    "url": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/",
+    "source": "Wired AI",
+    "date": "2026-10-21T10:30:00+00:00",
+    "summary": "It’s the latest in a growing wave of bets that AI companies are making on brain data.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "00386a311247",
+    "title": "Europe Wants Data Centers. Its Climate Goals Are Getting in the Way",
+    "url": "https://www.wired.com/story/europe-data-centers-climate-change/",
+    "source": "Wired AI",
+    "date": "2026-10-21T08:30:00+00:00",
+    "summary": "A plan to funnel the heat given off by data centers into nearby homes has run aground in Germany. Across Europe, policymakers are weighing AI ambitions against climate objectives.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "903179553487",
+    "title": "MOSS: A Production Framework for Monitoring and Diagnosing Semantic Failures in Search and Recommendation Systems",
+    "url": "https://arxiv.org/abs/2610.26902",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-21T04:00:00+00:00",
+    "summary": "arXiv:2610.26902v1 Announce Type: new Abstract: Detecting semantic failures in production recommendation and search systems is hard: behavioral metrics lag by days, manual review does not scale, and most LLM evaluation frameworks are designed for offline, fixed datasets rather than continuous operational monitoring. We present Model Sanity Service (MOSS), a production framework that addresses this operational gap by embedding LLM-based relevance scoring into a recurring monitoring loop with targ…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "9778d14c8550",
+    "title": "GRaSP: Latency-Aware Optimization for Geo-Distributed Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2610.26938",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-21T04:00:00+00:00",
+    "summary": "arXiv:2610.26938v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) is increasingly served across geo-distributed cloud and edge infrastructures, where wide-area latency, cross-region egress cost, and data-residency rules compete with retrieval quality. Conventional pipelines rank by semantic similarity alone and ignore where content lives, inflating tail latency and cost. We formalize the Geo-RAG Selection Problem (GRaSP), a drop-in re-scoring layer that decays relevance by lat…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "1980ad68fe36",
+    "title": "UIBK-Embedding: Effective Text Retrieval by Unifying Dense and Late-Interaction Retrieval",
+    "url": "https://arxiv.org/abs/2610.27195",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-21T04:00:00+00:00",
+    "summary": "arXiv:2610.27195v1 Announce Type: new Abstract: Dense bi-encoders and late-interaction retrievers are usually treated as alternatives, yet they fail on different queries: one vector captures what a text is about, token-level matching finds its exact entities and phrases. Using both today means two models, two indexes and a score-fusion step. We present UIBK-Embedding-v1, a 179M-parameter English encoder that produces both representations in one pass and scores them with one unmodified MaxSim. Th…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "78ef3f759576",
+    "title": "Neighborhood-Aware Unlearning for Generative Recommendation",
+    "url": "https://arxiv.org/abs/2610.27232",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-21T04:00:00+00:00",
+    "summary": "arXiv:2610.27232v1 Announce Type: new Abstract: Generative recommendation predicts items by autoregressively generating semantic identifiers (SIDs), whose tokens are shared across semantically related items. With this paradigm gaining adoption, the question of how to support unlearning in it has become pressing. If training interactions must later be removed, such as injected spam or interactions with items a user no longer wants, this sharing lets an unlearning update unintentionally affect the…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8fdf30b45999",
+    "title": "FLINT: Fixed-budget Late Interaction",
+    "url": "https://arxiv.org/abs/2610.27273",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-21T04:00:00+00:00",
+    "summary": "arXiv:2610.27273v1 Announce Type: new Abstract: Multi-vector retrieval models such as ColBERT often outperform single-vector models of comparable scale by matching queries and documents at the token level. However, retaining a vector for every token substantially increases storage requirements and slows retrieval compared to single-vector bi-encoders, limiting their scalability. We introduce FLINT (Fixed-budget Late INTeraction), an architecture that uses attention-based pooling to represent eac…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "673d8350037d",
+    "title": "Conversational AI for Perceived Cognitive Decline Screening in Older Adults",
+    "url": "https://arxiv.org/abs/2610.27344",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-21T04:00:00+00:00",
+    "summary": "arXiv:2610.27344v1 Announce Type: new Abstract: Early detection of cognitive decline in older adults remains challenging due to the resource demands of standard neuropsychological assessments. Chatbot-based Intelligent Cognitive Assistants (ICAs) provide a scalable alternative by eliciting open-ended responses rich in linguistic, semantic, and autobiographical cues. This study evaluates whether ICA question-answer (Q/A) interviews with older adults can screen for participant-reported perceived c…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "0d16b4c86b6c",
+    "title": "Baseline and Incremental: User, Item, and Request Debiasing in Instagram Feed Ranking",
+    "url": "https://arxiv.org/abs/2610.27423",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-21T04:00:00+00:00",
+    "summary": "arXiv:2610.27423v1 Announce Type: new Abstract: A feed ranker scores candidates with a value model, a weighted sum of engagement predictions. Each prediction conflates a baseline, what this viewer, item or request would produce anyway, with the incremental amount by which this candidate exceeds it. The literature mostly removes the baseline. We argue that a multi-signal value model should keep the raw prediction and add the incremental part as a separately weighted term. On Instagram Feed, three…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "44d2de6df8af",
+    "title": "Robustness Analysis of Pareto-based Joint Evaluation of Fairness and Relevance in Recommender Systems",
+    "url": "https://arxiv.org/abs/2610.27850",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-21T04:00:00+00:00",
+    "summary": "arXiv:2610.27850v1 Announce Type: new Abstract: Recommender Systems (RSs) can be evaluated for many aspects, two of them being recommendation relevance and fairness. These two aspects can be evaluated either in isolation, using a measure for each aspect; or jointly with a single`relevance-aware' fairness measure that quantifies fairness with respect to relevance. Yet, neither approach provides a simultaneous evaluation of both relevance and fairness: the first approach may result in two differen…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f5f7fc2a2034",
+    "title": "SPAR: Stepwise Personalized Autoregressive Recommendation with Prefix-Balanced Semantic IDs",
+    "url": "https://arxiv.org/abs/2610.27898",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-21T04:00:00+00:00",
+    "summary": "arXiv:2610.27898v1 Announce Type: new Abstract: Semantic ID (SID)-based generative recommendation retrieves items through successive token-level decisions, making personalization at each decoding step essential. However, existing methods insufficiently account for prefix-dependent user evidence and imbalanced historical interaction loads among candidate branches. This can cause irreversible branch-selection errors and favor popular paths. We propose SPAR, a generative recommendation framework th…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "299b991dfdd9",
+    "title": "AutoSim: A Self-Improving User Simulator for Conversational Search Evaluation",
+    "url": "https://arxiv.org/abs/2610.28054",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-21T04:00:00+00:00",
+    "summary": "arXiv:2610.28054v1 Announce Type: new Abstract: User simulators promise to evaluate conversational search systems at a scale human studies cannot reach, but only if their behavior is realistic enough to trust. We study AutoSim, a conversational-search user simulator whose relevance judgments rank a controlled pool of retrieval systems in agreement with NIST across three TREC iKAT years (Kendall's $\\tau$ of $0.66$, $0.91$, and $0.91$; all $p{\\le}0.002$), an agreement that survives removing its pe…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5601f92cef6d",
+    "title": "Multimodal Reranking Is a System One Decision",
+    "url": "https://arxiv.org/abs/2610.28435",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-21T04:00:00+00:00",
+    "summary": "arXiv:2610.28435v1 Announce Type: new Abstract: Multimodal rerankers are usually dedicated models: a vision-language model (VLM) is trained on retrieval data to score the candidates of a query. Scoring options is not specific to reranking. System One decision models such as Jev map a state and a typed question to one probability per option without generating text, and general models can make such decisions with little or no training. Reranking is one such decision, with the query and its candida…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5aed2ff3c662",
+    "title": "ECHO: Efficient Cascade with Homogeneous Operators for Distillation-Guided 100K-Sequence Modeling",
+    "url": "https://arxiv.org/abs/2610.28569",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-21T04:00:00+00:00",
+    "summary": "arXiv:2610.28569v1 Announce Type: new Abstract: Modeling lifetime user behavior sequences is essential for capturing long-range preferences in industrial recommendation, yet 100K-length user sequences make target-aware ranking prohibitively expensive. Search-based methods that retrieve from raw sequences incur candidate-dependent costs that grow with sequence length, whereas latent compression methods reduce computation at the expense of item-level addressability. We propose ECHO (Efficient Casc…",
+    "category": "Information Behavior"
+  },
+  {
+    "id": "515127fc969c",
+    "title": "Expert-Guided Rubrics as Dense Reward Signals for Reinforcement Learning in Non-Verifiable Domains",
+    "url": "https://arxiv.org/abs/2610.26932",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-21T04:00:00+00:00",
+    "summary": "arXiv:2610.26932v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly deployed as autonomous agents in non-verifiable domains such as financial services, where they must interpret user intent, rewrite queries, and retrieve information under domain-specific constraints. Although reinforcement learning (RL) can train such agents from the consequences of their actions, recent successes largely rely on verifiable tasks with automatically computed binary rewards. In non-veri…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "ca363b8a2068",
+    "title": "The Bottleneck Is Retrieval, Not Reading: Diagnosing Evidence-Based Generation with RAG for Long Context Question Answering",
+    "url": "https://arxiv.org/abs/2610.26951",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-21T04:00:00+00:00",
+    "summary": "arXiv:2610.26951v1 Announce Type: cross Abstract: Retrieval-augmented generation (RAG) is the dominant paradigm for grounding large language models in external corpora, but its similarity-driven, chunked pipeline has structural blind spots: it cannot anticipate which passages a question requires and discards document-level context that resolves cross-passage references. We introduce evidence-based generation (EBG), requiring models to return an answer with line-level citations, and a joint Ans+E…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "25a5dc5a5ca5",
+    "title": "MultiCard: Multiple Attribute Cardinality Estimation via Deep Learning",
+    "url": "https://arxiv.org/abs/2610.27019",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-21T04:00:00+00:00",
+    "summary": "arXiv:2610.27019v1 Announce Type: cross Abstract: Cardinality estimation is essential for query optimization, but most existing learned estimators focus on a single predicate type, such as string LIKE clauses or numerical range filters. In practice, analytical workloads often combine both types, while the accuracy of string estimators tends to decrease with longer patterns. We introduce MultiCard, a comprehensive learned cardinality estimator that unifies LIKE predicates and numerical filters wi…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ca941056543f",
+    "title": "Joint Constraint Aggregation for Qualifier-Sensitive Retrieval-Augmented QA",
+    "url": "https://arxiv.org/abs/2610.27114",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-21T04:00:00+00:00",
+    "summary": "arXiv:2610.27114v1 Announce Type: cross Abstract: Retrieval-augmented QA can fail even when the correct answer is in the retrieved evidence. This can happen when a competing answer satisfies some, but not all, of the question's requirements and is mentioned frequently in the retrieved documents, which can make it appear to be the best-supported answer. To test whether this retrieval skew actually affects the decision, we manipulate it directly: increasing the prevalence of passages that favor th…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "1ff9e8b876a0",
+    "title": "SweepANN: A GPU-Accelerated Large-K Approximate Vector Search for Drug Discovery",
+    "url": "https://arxiv.org/abs/2610.27306",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-21T04:00:00+00:00",
+    "summary": "arXiv:2610.27306v1 Announce Type: cross Abstract: DrugCLIP places small molecules and protein pockets in one space, turning genome-wide drug discovery into large-K retrieval by vector proximity. A campaign fixes over 20K pockets in advance for one library of over 500M molecules. Each pocket keeps K = 500K candidates, 0.1% of the collection, versus 100 in ANN benchmarks. Missed hits never get tested, so mean recall must reach 99% relative to exact search. Large answers make IVF probe every list h…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "e38a39725622",
+    "title": "Factual Access States in Diffusion Language Models: From Mechanism to Knowledge Editing and Retrieval",
+    "url": "https://arxiv.org/abs/2610.27580",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-21T04:00:00+00:00",
+    "summary": "arXiv:2610.27580v1 Announce Type: cross Abstract: Factual recall is a lookup: some representation inside the network serves as the key, and what that key is made of decides which queries can retrieve the fact, what an edit must cover, and what a retriever can read. We call it the factual access state. In autoregressive (AR) models the subject position enriches attributes largely independently of the relation, and relation-specific selection happens later, at the readout position. In masked diffu…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "38af920b2a1d",
+    "title": "GARRET: Generative Feedback for Region Retrieval in Visual Documents",
+    "url": "https://arxiv.org/abs/2610.27829",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-21T04:00:00+00:00",
+    "summary": "arXiv:2610.27829v1 Announce Type: cross Abstract: Multimodal retrieval-augmented generation over visually rich documents requires evidence at a finer granularity than entire pages. Existing visual retrievers typically index or return full pages, whereas training region-level retrievers often requires costly query-to-region annotations or noisy model-generated labels. We introduce GARRET, a region-retrieval framework trained from (page, question, answer) triplets through differentiable generative…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "36fc4c16ed97",
+    "title": "DeclineCraft: A RAG Abstention Benchmark for Jointly Measuring Combined Retrieval and Parametric Knowledge",
+    "url": "https://arxiv.org/abs/2610.28340",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-21T04:00:00+00:00",
+    "summary": "arXiv:2610.28340v1 Announce Type: cross Abstract: Reliable retrieval-augmented generation (RAG) requires recognizing when neither retrieved documents nor parametric knowledge supports an answer. We introduce DeclineCraft, a dynamic abstention benchmark whose unanswerable questions target Minecraft feature additions after a corpus cut-off, with audits of possible parametric exposure. Later cut-offs support evaluation of future models. Across 27 LLMs, we measure Correct Abstention Rate (CAR; how o…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "5d8e14f85187",
+    "title": "Evolving Semantic Indexes for Generative Retrieval",
+    "url": "https://arxiv.org/abs/2610.28568",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-21T04:00:00+00:00",
+    "summary": "arXiv:2610.28568v1 Announce Type: cross Abstract: Generative retrieval (GR) casts search and recommendation as autoregressive generation of discrete semantic identifiers (SIDs). SID design largely determines GR quality, but its discrete, interdependent components (SID construction, collision handling, decoding, and training) cannot be optimized end-to-end with gradients and remain largely hand-designed. We introduce a framework that improves these components through LLM-driven evolutionary progr…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "b1cffa8d2c4d",
+    "title": "WeGR: Towards Unified Generative Retrieval via Behavior-aware Tokenization and Preference Alignment",
+    "url": "https://arxiv.org/abs/2610.16979",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-21T04:00:00+00:00",
+    "summary": "arXiv:2610.16979v2 Announce Type: replace Abstract: Generative retrieval (GR) offers a promising paradigm for industrial search by unifying candidate generation within an autoregressive framework. However, effectively leveraging user behaviors in industrial GR remains challenging: existing SID tokenization methods struggle to preserve collaborative signals while maintaining balanced codebook utilization, whereas reinforcement learning (RL) for prioritizing high-value candidates suffers from spar…",
+    "category": "Information Behavior"
+  },
+  {
+    "id": "d94d009ac969",
+    "title": "From Crawled to Published: A Publisher-Controlled Web Architecture for an AI-Native Internet",
+    "url": "https://arxiv.org/abs/2511.18354",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-21T04:00:00+00:00",
+    "summary": "arXiv:2511.18354v2 Announce Type: replace-cross Abstract: AI agents, not humans, are becoming the web's primary consumers, yet the web still ships content structured for human browsing, with no native way for publishers to expose the semantic units within it. Access is therefore mediated by a handful of AI providers that crawl, chunk, and index content unilaterally, leaving publishers little control over how their content is represented, retrieved, or attributed. We argue this is a structural pr…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "bdbf52c7a9dc",
+    "title": "Deep learning enables urban change profiling through alignment of historical maps",
+    "url": "https://arxiv.org/abs/2602.02154",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-21T04:00:00+00:00",
+    "summary": "arXiv:2602.02154v2 Announce Type: replace-cross Abstract: Prior to modern Earth observation technologies, historical maps provide a unique record of long-term urban transformation and offer a lens on the evolving identity of cities. However, extracting consistent and fine-grained change information from historical map series remains challenging due to spatial misalignment, cartographic variation, and degrading document quality, limiting most analyses to small-scale or qualitative approaches. We …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "6d43328f5543",
+    "title": "Are explicit novelty claims in research abstracts associated with higher ChatGPT scores?",
+    "url": "https://arxiv.org/abs/2610.26947",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-21T04:00:00+00:00",
+    "summary": "arXiv:2610.26947v1 Announce Type: new Abstract: Large Language Models (LLMs) such as ChatGPT can estimate research quality from article titles and abstracts, and decision makers may increasingly use LLM scores to support research assessment. In this context, it is a concern that LLM scores may be influenced by linguistic signals rather than the quality of the research described. This study investigates whether explicit novelty claims in research abstracts are associated with higher ChatGPT score…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "65857ecc9e17",
+    "title": "Large Teams Consistently Develop Science",
+    "url": "https://arxiv.org/abs/2610.27649",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-21T04:00:00+00:00",
+    "summary": "arXiv:2610.27649v1 Announce Type: new Abstract: Scientific progress depends on both developing established knowledge and disrupting it to make way for new ideas. Using the disruption index (D), our previous work showed that large teams tend to develop science, while small teams are more likely to disrupt it. Recent work challenges this finding, arguing that D mechanically depends on reference-list length. Using an alternative measure (oneD), it reaches the opposite conclusion: large teams are mo…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "5fb9f070600c",
+    "title": "InsightRAG: Aggregating Distributed Scholarly Judgments for Scientific Survey Generation",
+    "url": "https://arxiv.org/abs/2610.28085",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-21T04:00:00+00:00",
+    "summary": "arXiv:2610.28085v1 Announce Type: cross Abstract: The rapid growth of scientific literature makes survey writing increasingly challenging, motivating automatic survey generation. Yet, existing systems must search an open space of papers and an open space of concepts with no trace of how the community itself has navigated them, leading to incomplete scope, weak taxonomies, and unreliable citations. Our core insight is that author-written Related Work sections contain the human judgments needed to…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e6729fe7617a",
+    "title": "French Government Calls Emergency Meetings With Platforms Over Protests",
+    "url": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
+    "source": "Wired AI",
+    "date": "2026-10-20T17:41:58+00:00",
+    "summary": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "913203c4de74",
+    "title": "The new economics of enterprise AI",
+    "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+    "source": "MIT Tech Review",
+    "date": "2026-10-20T15:20:25+00:00",
+    "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from &#8220;can we use it?&#8221; to &#8220;how efficiently are we using it?&#8221;&#8230;",
+    "category": "Enterprise Information Management"
+  },
+  {
+    "id": "7ee5ffca62bf",
+    "title": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
+    "url": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
+    "source": "Wired AI",
+    "date": "2026-10-20T15:07:43+00:00",
+    "summary": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "922049b779a9",
+    "title": "Become Part of the Legacy of Abolitionist and Educator, Myrtilla Miner",
+    "url": "https://blogs.loc.gov/thesignal/2026/10/myrtilla-miner/",
+    "source": "LOC Signal",
+    "date": "2026-10-20T13:30:36+00:00",
+    "summary": "The Library of Congress and the By the People volunteer transcription program invite you to celebrate the life and legacy of Myrtilla Miner. Click through to learn more about how you can improve the visibility of Miner’s story and the women she educated by transcribing her papers with By the People.",
+    "category": "Libraries & Archives"
+  },
+  {
     "id": "7d296a29338c",
     "title": "AI adoption by industry shows what other sectors can learn",
     "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
