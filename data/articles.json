@@ -1,5 +1,437 @@
 [
   {
+    "id": "6a85074051ec",
+    "title": "Making the case for context-aware AI",
+    "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+    "source": "MIT Tech Review",
+    "date": "2026-10-22T10:00:00+00:00",
+    "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead&#8230;",
+    "category": "Enterprise Information Management"
+  },
+  {
+    "id": "ddf7f86b51c1",
+    "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+    "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+    "source": "Wired AI",
+    "date": "2026-10-22T10:00:00+00:00",
+    "summary": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1597d0c89aca",
+    "title": "AI’s hidden storage bill: What inference leaves behind",
+    "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+    "source": "MIT Tech Review",
+    "date": "2026-10-22T08:41:18+00:00",
+    "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily prompts, images, and videos—needs&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "007e4b83a6f7",
+    "title": "RESEARCHHUB: A Personalized Literature Discovery System for Biomedical Preprints",
+    "url": "https://arxiv.org/abs/2610.28636",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-22T04:00:00+00:00",
+    "summary": "arXiv:2610.28636v1 Announce Type: new Abstract: We present ResearchHub, an interactive system for personalized literature discovery over biomedical preprints. Given a researcher profile or a free-form query, ResearchHub retrieves relevant papers from a domain-specific MedRxiv corpus and helps users move beyond near-duplicate recommendations through controllable novelty, diversity, and curriculum ordering. At the core of the system is prism, a bi-encoder retriever adapted to biomedical preprints …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e077a00260ab",
+    "title": "TAGR: Task-Adaptive Geo-Semantic Retrieval across Heterogeneous Urban Delivery Tasks",
+    "url": "https://arxiv.org/abs/2610.28638",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-22T04:00:00+00:00",
+    "summary": "arXiv:2610.28638v1 Announce Type: new Abstract: As urban residents demand higher-quality instant delivery services, demand forecasting, estimated time of arrival prediction, and next-stop prediction have become critical tasks in urban delivery systems. However, the three tasks rely on historical evidence with substantially different structures and granularities. Meanwhile, their prediction targets differ in output form, making it difficult to integrate retrieved evidence through a single fusion …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "43eabb36fcdf",
+    "title": "Can AI Chat Replace Traditional Search? Evidence from a RAG-based Live Events Experiment",
+    "url": "https://arxiv.org/abs/2610.28639",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-22T04:00:00+00:00",
+    "summary": "arXiv:2610.28639v1 Announce Type: new Abstract: Conversational AI tools are being increasingly integrated into online search and browsing interfaces. To understand how such tools affect user behavior and search outcomes, we run a pre-registered, incentivized online experiment in which participants search a catalog of several thousand events scraped from a major live-events platform. We compare three interfaces: a classic, attribute-based filter interface (Filter), a GenAI chat interface (Chat), …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a5168020aadd",
+    "title": "Transaction Foundation Models for Retrieval-Augmented Generation over Financial Transaction Data: A Comparative Evaluation with Text Embeddings",
+    "url": "https://arxiv.org/abs/2610.28641",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-22T04:00:00+00:00",
+    "summary": "arXiv:2610.28641v1 Announce Type: new Abstract: Domain-specific tabular and transaction foundation models are increasingly proposed as drop-in representation learners for financial applications, but their value relative to off-the-shelf text embedding models for retrieval-augmented generation (RAG) over structured data remains underexamined. We construct a deterministic, template-generated question-answering benchmark of 1,026 questions with retrieval-level gold-document annotations over IBM's s…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "51ebb24d761d",
+    "title": "Controllable Generative Recommendation via Guided Token Refinement",
+    "url": "https://arxiv.org/abs/2610.28642",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-22T04:00:00+00:00",
+    "summary": "arXiv:2610.28642v1 Announce Type: new Abstract: Generative recommendation over discrete Semantic IDs has become a powerful paradigm for item retrieval. Real-world systems, however, frequently require real-time controllability to balance accuracy against objectives such as diversity. Existing autoregressive methods generate tokens strictly from left to right. This fixed direction locks in early decisions, preventing holistic planning and making control difficult. Consequently, direct intervention…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5d8c189cb1db",
+    "title": "Constrained Tagging for Span Labeling",
+    "url": "https://arxiv.org/abs/2610.28922",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-22T04:00:00+00:00",
+    "summary": "arXiv:2610.28922v1 Announce Type: new Abstract: Generative LLMs can label spans without task-specific training, but their output is not tied to positions in the input: a returned span may be absent from the input or occur several times. We present constrained tagging, a training-free method in which the model reproduces the input and wraps each span in labeled inline markup. A logits processor using a byte-level token trie and a finite-state machine admits only tokens that continue the input ver…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "fedd58c84e81",
+    "title": "Progressive Learning from Content to Relevance to Personalization for CTR Prediction",
+    "url": "https://arxiv.org/abs/2610.29138",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-22T04:00:00+00:00",
+    "summary": "arXiv:2610.29138v1 Announce Type: new Abstract: Multimodal click-through rate (CTR) prediction is central to search systems, where ranking depends on item content, query relevance, and user preference. Existing approaches incorporate content through dense embeddings or coarse discrete IDs, yet effectively integrating fine-grained heterogeneous content with ID-based predictors remains challenging. We propose FineSID, a progressive learning framework that unifies content tokenization, query--item …",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "4e2481f9e912",
+    "title": "Reasoning-Search-Augmented LLMs: An Operational Taxonomy, Benchmark Analysis and Controlled Evidence Synthesis",
+    "url": "https://arxiv.org/abs/2610.29189",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-22T04:00:00+00:00",
+    "summary": "arXiv:2610.29189v1 Announce Type: new Abstract: Large language models (LLMs) demonstrate impressive emergent reasoning capabilities, yet they remain constrained by fixed model parameters and finite context windows. Even when augmented with static retrieval, they can produce statements that are unsupported by, or even contradictory to, retrieved evidence. This leads to hallucinations, difficulty incorporating up-to-date information, and failures to correctly interpret or reconcile sources. Recent…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "95a56e6510df",
+    "title": "Preference Is Not Permission: Personalizing the Auto-Purchase Line in Agentic Commerce",
+    "url": "https://arxiv.org/abs/2610.29216",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-22T04:00:00+00:00",
+    "summary": "arXiv:2610.29216v1 Announce Type: new Abstract: Personalized shopping benchmarks ask which item fits the user; we ask how far an agent may commit on that item, and pose learning the individual's auto-purchase line as a task. The boundary is evidence-conditioned and three-valued: whether committing is appropriate depends on the sufficiency of product information (warrant), reversibility, price against the user's norm, and urgency, not only on fit; and the natural output is don't buy, confirm firs…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d9392aa8a6b9",
+    "title": "Learning Marginal Viewpoint Utility for Budgeted Evidence Selection in RAG",
+    "url": "https://arxiv.org/abs/2610.29234",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-22T04:00:00+00:00",
+    "summary": "arXiv:2610.29234v1 Announce Type: new Abstract: Retrieval-augmented generation over multi-viewpoint queries must preserve distinct answers and positions from the retrieved evidence while operating under a fixed context budget. We introduce LMVU, a lightweight ranker that learns to prioritize candidates by the marginal viewpoint coverage they add to the current selection. Training uses viewpoint annotations from each benchmark's development split to compare candidates within the same selection st…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "53840290a610",
+    "title": "Generative Recommenders Forget the Long Tail: Restoring Memorization in Retrieval and Ranking",
+    "url": "https://arxiv.org/abs/2610.29298",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-22T04:00:00+00:00",
+    "summary": "arXiv:2610.29298v1 Announce Type: new Abstract: Generative recommenders replace the retrieve-then-rank cascade with a single model: beam search over semantic item identifiers performs retrieval, and the same likelihood performs ranking. We show that this shared score makes them forget long-tail items twice. In retrieval, beam search keeps identifier prefixes by the probability mass of their subtrees, so tail items are pruned early, and a wider beam admits few more of them. In ranking, the likeli…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "76e7f88ada84",
+    "title": "Directional Posterior Feedback Fusion for Query Reformulation in Dense Retrieval",
+    "url": "https://arxiv.org/abs/2610.29464",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-22T04:00:00+00:00",
+    "summary": "arXiv:2610.29464v1 Announce Type: new Abstract: Dense retrieval has become a fundamental paradigm for modern information retrieval, supporting efficient semantic search across a wide range of applications. Its effectiveness, however, relies critically on query embeddings that adequately capture users' information needs, which can be difficult for short, ambiguous, or underspecified queries. Feedback-based query reformulation approaches like pseudo-relevance feedback (PRF) alleviate this by incor…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "a1cdf0a3dbb2",
+    "title": "Beyond the Vote: When Do LLMs Add Value to Retrieval-Based Tabular Classification?",
+    "url": "https://arxiv.org/abs/2610.29520",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-22T04:00:00+00:00",
+    "summary": "arXiv:2610.29520v1 Announce Type: new Abstract: Retrieval-based in-context learning (ICL) enables large language models (LLMs) to predict tabular labels from similar examples, but it remains unclear whether LLM inference improves on direct voting over those same examples. We address this question by comparing four general-purpose LLMs with distance-weighted nearest-neighbor voting (Distance-KNN) using identical retrieved neighbors across 19 tabular classification datasets. With the number of dem…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "18cef7d57529",
+    "title": "X-Embedding: Two-Stage Training for Multilingual Patent Prior-Art Retrieval",
+    "url": "https://arxiv.org/abs/2610.29521",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-22T04:00:00+00:00",
+    "summary": "arXiv:2610.29521v1 Announce Type: new Abstract: Multilingual patent prior-art retrieval requires identifying X-category references that are particularly relevant to the novelty or inventive step of a claimed invention, beyond topical similarity across languages and document views. We present X-Embedding, a two-stage framework that first learns patent-domain representations and then optimizes X-category retrieval relevance. The first stage aligns complementary sections within patents and correspo…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "81433829717e",
+    "title": "pplx-embed-v2-late Technical Report",
+    "url": "https://arxiv.org/abs/2610.29523",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-22T04:00:00+00:00",
+    "summary": "arXiv:2610.29523v1 Announce Type: new Abstract: In this report, we introduce pplx-embed-v2-late, a pair of 0.6B and 9B multilingual and multimodal late-interaction models. Both models achieve state-of-the-art results within their respective size classes across a range of text, image, and visual document retrieval benchmarks. On visual document retrieval tasks, pplx-embed-v2-late-0.6b is competitive with models several times larger than itself. The models are trained via representation distillati…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "cc359717ed9a",
+    "title": "ERCLIP: Small-Data Adaptation of CLIP for Free-Length Image-Text Retrieval",
+    "url": "https://arxiv.org/abs/2610.29939",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-22T04:00:00+00:00",
+    "summary": "arXiv:2610.29939v1 Announce Type: new Abstract: CLIP's 77-token text encoder truncates detailed image descriptions. We present ERCLIP, a small-data adaptation of CLIP for long-caption image--text retrieval. During training, a long caption is split into sentences that the CLIP text encoder encodes independently; the sentence embeddings are fused by mean pooling or a gated residual Transformer scorer and receive their own contrastive loss. At inference ERCLIP is an unmodified CLIP dual encoder: te…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "73cb7aea25d6",
+    "title": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation",
+    "url": "https://arxiv.org/abs/2610.30128",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-22T04:00:00+00:00",
+    "summary": "arXiv:2610.30128v1 Announce Type: new Abstract: Existing sequential recommenders usually allocate a fixed computational budget to every item in a user's interaction history, regardless of the item's contribution to the final prediction. We challenge this de facto design with two diagnostic findings. (1) Non-uniform computational need: items within the same sequence vary drastically in how much computation they require. Most converge after shallow processing while a critical minority only stabili…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1fd232a7fed3",
+    "title": "Building Knowledge Graphs for Theses: A Survey",
+    "url": "https://arxiv.org/abs/2610.28648",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-22T04:00:00+00:00",
+    "summary": "arXiv:2610.28648v1 Announce Type: cross Abstract: Academic theses are a valuable source of scientific knowledge, yet their semantic exploitation remains limited. While Scholarly Knowledge Graphs have significantly advanced the representation of scientific publications, knowledge graph construction for academic theses has received comparatively limited attention. This paper provides a systematic review of existing approaches and analyzes their potential application for the thesis domain. We analy…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "cf3c138f4089",
+    "title": "FutureLens: Longitudinal Topic Patterns in Scholarly Text and Future-Work References",
+    "url": "https://arxiv.org/abs/2610.28656",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-22T04:00:00+00:00",
+    "summary": "arXiv:2610.28656v1 Announce Type: cross Abstract: Future-work statements offer a record of the questions researchers choose to leave open. Using them to describe a field, however, requires separating thematic change from changes in document coverage, topic assignment, and scholarly writing. FutureLens examines these measurement issues in a recovered snapshot of 5,655 ACL papers published during 2012--2022, including 4,005 with supplied future-work reference text. We compare non-negative matrix f…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "93522d31daf7",
+    "title": "Scriptorium: System Design and Implementation of a Multi-Human, Multi-AI Collaborative Digital Library Search Platform",
+    "url": "https://arxiv.org/abs/2610.28929",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-22T04:00:00+00:00",
+    "summary": "arXiv:2610.28929v1 Announce Type: cross Abstract: This technical report documents the design and implementation of Scriptorium, a digital library search interface designed to support multi-human, multi-AI collaboration: full cross-user transparency of search activity combined with a Manager--Worker architecture of seven role-specialized generative AI agents. A companion short demonstration paper describes Scriptorium's interaction design; because a demonstration format is constrained to a few pa…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "20271ff45bcb",
+    "title": "Our Own Jev: Typed Decisions in One Forward Pass, from an In-House Judge to Open LoRA Models",
+    "url": "https://arxiv.org/abs/2610.29052",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-22T04:00:00+00:00",
+    "summary": "arXiv:2610.29052v1 Announce Type: cross Abstract: A typed decision maps evidence, a question and a fixed set of options to a probability for every option, computed in one forward pass, by reading a language model's logits or a small head over its hidden states, instead of generating and parsing text. The commercial system Jev popularised this System~1 interface, and open reproductions have followed. We report two uses of the pattern. \\emph{Part I} describes an in-house System~1 judge that triage…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "613381e50241",
+    "title": "Extending FAIR Principles with Observability for Trustworthy Federated Learning",
+    "url": "https://arxiv.org/abs/2610.29252",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-22T04:00:00+00:00",
+    "summary": "arXiv:2610.29252v1 Announce Type: cross Abstract: Federated learning (FL) keeps data at its source, but locality alone does not make a federation trustworthy. Without sufficient observability, an aggregator cannot determine whether the client service was healthy, the local data pipeline was trustworthy, or contractual constraints were properly monitored during training. We take the position that trustworthy FL needs an evidence plane in addition to its model-update process. Each participant cont…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "bd041cc2973f",
+    "title": "SOAR: Social and Opinion-Aware Recommendations",
+    "url": "https://arxiv.org/abs/2610.29556",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-22T04:00:00+00:00",
+    "summary": "arXiv:2610.29556v1 Announce Type: cross Abstract: One of the enduring challenges in online platforms is recommendation. Both communities and advertisers face difficulties in analyzing complex user behavior, identifying habits and evolving preferences, and providing timely recommendations that are relevant to user interests. In particular, point of interest recommendation poses the additional challenge of identifying the factors that influence user behavior, capturing user tendencies, and generat…",
+    "category": "Information Behavior"
+  },
+  {
+    "id": "81a8286396be",
+    "title": "Real PMIDs, Wrong Papers: Harness Design for Biomedical Claim-Verification Agents",
+    "url": "https://arxiv.org/abs/2610.29812",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-22T04:00:00+00:00",
+    "summary": "arXiv:2610.29812v1 Announce Type: cross Abstract: Literature-searching language agents are becoming a standard component of scientific assistants for the life sciences, yet there is little controlled evidence on which parts of their harness matter. We run a controlled ablation on biomedical claim verification (SciFact) with the live PubMed API as the only tool. Holding the backbone and output format fixed, we compare four harnesses: closed-book answering, single-shot retrieval using the claim as…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "542301427348",
+    "title": "What the Author Wrote, What the Agent Reads: Silent Cue Loss in Enterprise Document Ingestion",
+    "url": "https://arxiv.org/abs/2610.30026",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-22T04:00:00+00:00",
+    "summary": "arXiv:2610.30026v1 Announce Type: cross Abstract: Enterprise agents act on documents. Before an agent can follow a policy, answer a compliance question or file a ticket, some ingestion layer must turn a Word file or PDF into tokens - and that layer is where an agent deployed in the wild silently loses information. We show that one layer is lost by every mainstream converter - the meaning an author encodes in how text looks - and that the loss makes agents confidently wrong rather than visibly in…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a3955943b30d",
+    "title": "Gender Stereotypes Make Women Invisible: The Presence of Female Scientists in the Media",
+    "url": "https://arxiv.org/abs/2610.28640",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-22T04:00:00+00:00",
+    "summary": "arXiv:2610.28640v1 Announce Type: new Abstract: Interest in the situation of women scientists has increased in recent years. Scientific institutions and governmental authorities have launched initiatives to promote science as a vocation among women. Within this context, the effort made by the media in disseminating role models is of vital importance. The aim of this research is to analyse the presence of women scientists in the media, and to conduct an appraisal of the status granted to them and…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8aeaa623dba1",
+    "title": "Evolution of article processing charges in medicine: disciplinary position, access gaps and future prospects",
+    "url": "https://arxiv.org/abs/2610.28643",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-22T04:00:00+00:00",
+    "summary": "arXiv:2610.28643v1 Announce Type: new Abstract: Medicine occupies a singular position in the open access economy: It is the field with the highest number of OA journals with APCs in DOAJ, the second largest by global APC expenditure with high rates of APC adoption among researchers in the Global South. This article analyses APC trajectories in medicine from a comparative disciplinary perspective, drawing together evidence from multiple studies to position medicine in relation to other scientific…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a1dff8dcf049",
+    "title": "MultiphaseHUB for Evidence-Grounded Metadata Curation and Task-Aware Compression of Multiphase Data",
+    "url": "https://arxiv.org/abs/2610.28644",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-22T04:00:00+00:00",
+    "summary": "arXiv:2610.28644v1 Announce Type: new Abstract: Multiphase transport experiments and simulations generate high-dimensional data whose scientific value depends on the physical conditions, sensing configuration, calibration, synchronization, uncertainty, and provenance accompanying the raw signals. These data are difficult to reuse when experimental context is scattered across publications and repositories, while large measurement volumes increase the cost of transfer and analysis. In this work, w…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "6b9693159423",
+    "title": "Peer review should constrain evaluative authority",
+    "url": "https://arxiv.org/abs/2610.28646",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-22T04:00:00+00:00",
+    "summary": "arXiv:2610.28646v1 Announce Type: new Abstract: Our position shifts the target of peer-review reform from reducing uncertainty through evaluator improvement or judgment aggregation to constraining evaluative authority under persistent uncertainty. Scientific peer review aims to assure research quality but also allocates scarce academic opportunities, such as publication in high-impact venues. However, the review system is under growing pressure as submissions increase while reviewer capacity, ex…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d7041b92b201",
+    "title": "An Open-Source Data Infrastructure for Alloy Synthesis Research: Stage 1 --- Composition Screening and Literature Cross-Referencing",
+    "url": "https://arxiv.org/abs/2610.28647",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-22T04:00:00+00:00",
+    "summary": "arXiv:2610.28647v1 Announce Type: new Abstract: Experimental materials-science labs routinely accumulate synthesis and characterization data across spreadsheets, instrument export files, and ad-hoc folders, with no durable link between a sample's recipe, its measured properties, and whether a similar composition has been reported elsewhere. We present Stage 1 of an open-source data infrastructure closing this loop for a single working alloy-synthesis lab: a relational schema for composition and …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "9df0d925aef7",
+    "title": "Zero-Cost Detection of Fabricated Citations: A Staged Heuristic Approach for Computing Dissertation Assessment",
+    "url": "https://arxiv.org/abs/2610.28649",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-22T04:00:00+00:00",
+    "summary": "arXiv:2610.28649v1 Announce Type: new Abstract: Generative AI's growing role in academic writing has driven a rise in fabricated references across dissertations and student reports. We present the Fabrication Severity Stack (FSS), a three-tiered framework classifying citation fabrications by detection complexity - from non-existent references to subtle content misattribution. Building on the FSS, we propose a staged heuristic verification workflow, executable through mainstream LLM interfaces. W…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "19c7eb3e770b",
+    "title": "The CIDOC CRM Periodic Table: Documentation You Can Test to Support the Adoption of Scientific Research Ontologies for the Humanities",
+    "url": "https://arxiv.org/abs/2610.28650",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-22T04:00:00+00:00",
+    "summary": "arXiv:2610.28650v1 Announce Type: new Abstract: The CIDOC CRM family is not only a schema for museum collections. Its extensions formalise the apparatus through which research knowledge is produced and justified: CRMsci models scientific observation and measurement, CRMdig the provenance of digital processes, CRMinf inference and belief. Together they constitute a schema for research data, and the obstacle to their adoption is documentary rather than theoretical: four normative documents, four c…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "fc3c1c89bf18",
+    "title": "The Scientific Research Taste Benchmark (SciTaste-Bench): A Multi-Disciplinary Benchmark for Assessing Large Language Models' Judgment of Research Taste in Scientific Papers",
+    "url": "https://arxiv.org/abs/2610.28653",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-22T04:00:00+00:00",
+    "summary": "arXiv:2610.28653v1 Announce Type: new Abstract: Whether large language models can assess the innovativeness of academic publications matters for literature reviews, research funding screening, and academic recommendations. We introduce the Scientific Research Taste Benchmark (SciTaste), a gold-standard benchmark covering six disciplines: physics, mathematics, chemistry, biology, medicine, and finance. SciTaste measures research taste, that is, the ability to judge a paper's scientific value and …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "30aa378e46b2",
+    "title": "What Git Does Not Record: Provenance Legibility in Two AI-Assisted Research Repositories",
+    "url": "https://arxiv.org/abs/2610.28655",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-22T04:00:00+00:00",
+    "summary": "arXiv:2610.28655v1 Announce Type: new Abstract: Publishers and funders increasingly ask authors to disclose how AI tools contributed to a piece of research. In computational work the repository is where an author or an auditor would look for the answer, and we ask what it can actually supply. We audit two single-investigator repositories by the same author in the same field, each carrying a different class of agent residue: a prescriptive trace of standing rule files and a narrative trace of a r…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "03ae2b17032e",
+    "title": "CompLit: Scientific Literature Search Benchmarks Must Cover Implicit, Cumulative, and Unmet Needs",
+    "url": "https://arxiv.org/abs/2610.28658",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-22T04:00:00+00:00",
+    "summary": "arXiv:2610.28658v1 Announce Type: new Abstract: How much can we trust an agent to find the paper we need? As researchers, we search the literature from what we have read toward what we have not. We thus describe what we want in our own terms, which a paper may show only implicitly; our requirements grow as we read; and what we seek may lie in an empty region no paper yet covers. We introduce CompLit, a literature search benchmark spanning all eight arXiv domains, with one diagnostic setting for …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "64eb24199693",
+    "title": "Beyond source attribution: Address authorship and comparability decisions in an LLM-built scholarly knowledge graph",
+    "url": "https://arxiv.org/abs/2610.28663",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-22T04:00:00+00:00",
+    "summary": "arXiv:2610.28663v1 Announce Type: new Abstract: A knowledge graph needs a stable address for its evidence even where the literature offers competing classifications and agrees on none. Yet an address chosen for retrieval readily passes for the only classification available. This happens whenever records gathered under one name concern units that differ in boundaries, rank, or the criteria by which they are described or counted. In Sinitic dialectology the same localities recur in schemes whose u…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "504ed6d57d49",
+    "title": "Learning Checklists to Reduce Lottery Effects in Scientific Peer Review",
+    "url": "https://arxiv.org/abs/2610.28666",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-22T04:00:00+00:00",
+    "summary": "arXiv:2610.28666v1 Announce Type: new Abstract: Reviewer lottery error describes error due to a small set of peer reviews attending to only some of the issues with a paper that a larger pool of eligible reviewers would raise. We show this error can be reduced by surfacing a checklist of criticisms learned from a historical review corpus. Our approach generates a tree of checklists representing coarsenings of the atomic review claim space, then selects the coarsening that maximizes a theoreticall…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "77ea3afac7f7",
+    "title": "Epistemic Substitution: How Grokipedia's AI-Generated Encyclopedia Restructures Authority",
+    "url": "https://arxiv.org/abs/2512.03337",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-22T04:00:00+00:00",
+    "summary": "arXiv:2512.03337v2 Announce Type: replace-cross Abstract: For more than two decades, Wikipedia has represented a decentralized, human-curated model of encyclopedic knowledge production. The emergence of AI-generated encyclopedias, such as Grokipedia, raises a fundamental question: do human- and AI-curated knowledge systems rely on the same foundations of epistemic authority? We examine this question through a comparative analysis of 1,000 matched Wikipedia--Grokipedia article pairs, comprising n…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "19e4246081a2",
+    "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
+    "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
+    "source": "Wired AI",
+    "date": "2026-10-22T02:24:17+00:00",
+    "summary": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “broadly exploited” across the internet.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "7a1215e9d397",
+    "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
+    "url": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
+    "source": "Wired AI",
+    "date": "2026-10-21T22:39:50+00:00",
+    "summary": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ac27fddde30c",
+    "title": "Policy Analyst – Latin America (temporary)",
+    "url": "https://fpf.org/blog/policy-analyst-latin-america-temporary/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-10-21T20:49:36+00:00",
+    "summary": "Job Title:&#160;Policy Analyst &#8211; Latin America (temporary) Location:&#160;Washington, DC or Remote (UTC-3 to UTC-6 time zones preferred) Position Type:&#160;Part-Time Contractor (20 hours per week) Compensation:&#160;Fixed stipend of US$2,500.00 per month About FPF The&#160;Future of Privacy Forum (FPF)&#160;is a non-profit organization that serves as a catalyst for privacy leadership and scholarship, advancing principled data practices in [&#8230;]",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5bfc4a4f8215",
+    "title": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
+    "url": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/",
+    "source": "Wired AI",
+    "date": "2026-10-21T16:00:00+00:00",
+    "summary": "Recursive makes the case that the benefits of using AI to build AI outweigh the risks.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a6d54c880e97",
+    "title": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
+    "url": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
+    "source": "Wired AI",
+    "date": "2026-10-21T15:02:15+00:00",
+    "summary": "At Nvidia’s GTC in Berlin, Huang unveiled the company’s new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1dd354d60175",
+    "title": "‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
+    "url": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
+    "source": "Wired AI",
+    "date": "2026-10-21T14:26:19+00:00",
+    "summary": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire consequences.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e50d33e77f8a",
+    "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
+    "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
+    "source": "Wired AI",
+    "date": "2026-10-21T14:00:00+00:00",
+    "summary": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "04cfd76c8ff1",
     "title": "A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse",
     "url": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/",
