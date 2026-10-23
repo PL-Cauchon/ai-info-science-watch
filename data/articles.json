@@ -1,5 +1,311 @@
 [
   {
+    "id": "75abde9c0f3c",
+    "title": "IRAH: Hierarchical Agentic Tree Search for Retrieval Pipeline Optimization",
+    "url": "https://arxiv.org/abs/2610.30167",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-23T04:00:00+00:00",
+    "summary": "arXiv:2610.30167v1 Announce Type: new Abstract: Optimizing Information Retrieval (IR) pipelines for Retrieval-Augmented Generation (RAG) requires jointly selecting structural components and numerical hyperparameters under limited evaluation budgets. We introduce the Information Retrieval Agentic Harness (IRAH), which combines Language Agent Tree Search for IR (LATS-IR) with offline meta-learned initialization. LATS-IR performs UCT-guided hierarchical search, first exploring macro-structural pipe…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "308a6ceccb8d",
+    "title": "FormBench: A Benchmark for Fine-Grained Retrieval in Formulation Patents",
+    "url": "https://arxiv.org/abs/2610.30175",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-23T04:00:00+00:00",
+    "summary": "arXiv:2610.30175v1 Announce Type: new Abstract: We introduce FormBench, a platform for testing the ability of models to retrieve precise chemical information from technical documents. FormBench contains 55,352 queries and two retrieval corpus variants each with ~1M passages: FormBench-Random (C0), with randomly sampled distractors, and FormBench-Structured (C1), with structurally proximate distractors. Each query is paired with an anchor passage, a hard negative, and a soft negative - derived fr…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "83c55e49166b",
+    "title": "FlexVDR: Learning to Allocate Matryoshka Representation Budgets for Visual Document Retrieval",
+    "url": "https://arxiv.org/abs/2610.30177",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-23T04:00:00+00:00",
+    "summary": "arXiv:2610.30177v1 Announce Type: new Abstract: Visual document retrieval relies on rich multi-vector representations to capture fine-grained evidence in document pages, but encoding and matching these representations can be computationally expensive. Existing compression and elastic representation methods expose smaller configurations, yet making multiple budgets available does not determine which configuration a query should use. The allocation decision must estimate the retrieval value of alt…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d96759b4ad7f",
+    "title": "Association between Player Perception and AI Disclosure on Steam: An Exploratory Study",
+    "url": "https://arxiv.org/abs/2610.30178",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-23T04:00:00+00:00",
+    "summary": "arXiv:2610.30178v1 Announce Type: new Abstract: The use of generative AI in game development is growing rapidly and is the subject of intense debate in which player reactions play a central role. This paper contributes to this discussion by analyzing Steam reviews to examine whether games with AI disclosure are associated with different review patterns. Using a dataset across multiple disclosure groups, we apply linguistic analysis including keyword-based, word frequency, and characteristic word…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "e5c517c81bf4",
+    "title": "QProtFuse: Query-Guided Layer Fusion for Retrieval-Augmented Protein Function Prediction",
+    "url": "https://arxiv.org/abs/2610.30180",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-23T04:00:00+00:00",
+    "summary": "arXiv:2610.30180v1 Announce Type: new Abstract: Predicting protein functions from amino acid sequences is essential to understanding biological processes. Large language models (LLMs) offer flexible function descriptions to natural-language queries, yet their limited protein understanding motivates retrieval-augmented generation (RAG). Existing protein RAG methods primarily expand external retrieval signals while overlooking the rich knowledge encoded within a single protein language model (PLM)…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "1dc6e7054c9e",
+    "title": "Deep Search in Real-World Web Environments",
+    "url": "https://arxiv.org/abs/2610.30181",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-23T04:00:00+00:00",
+    "summary": "arXiv:2610.30181v1 Announce Type: new Abstract: Despite substantial progress in Deep Search agents, their ability to conduct end-to-end research in real-world open Web environments remains insufficiently evaluated. Unlike static retrieval settings, information on the real-world Web is distributed across diverse sources, modalities, and heterogeneous formats, often involving complex interaction mechanisms that require agents to autonomously search for, access, and integrate relevant evidence duri…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1cc44b1e1bff",
+    "title": "FAIRGate: Agentic Runtime Policy Selection and Verified Repair for Fairer Recommendation Delivery",
+    "url": "https://arxiv.org/abs/2610.30359",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-23T04:00:00+00:00",
+    "summary": "arXiv:2610.30359v1 Announce Type: new Abstract: Fairness-aware recommender systems often encode one fairness objective during training or apply a fixed re-ranking rule after scoring. In deployment, however, the appropriate fairness action can vary across requests because the candidate pool, item metadata, exposure debt, user preference history, and utility budget all change at runtime. We propose FAIRGate, a model-agnostic delivery controller that places an agentic policy-selection layer between…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "6445269779a2",
+    "title": "When Agentic Retrieval Fails Silently: Framework and Production Evidence from a Creative AI Assistant",
+    "url": "https://arxiv.org/abs/2610.30423",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-23T04:00:00+00:00",
+    "summary": "arXiv:2610.30423v1 Announce Type: new Abstract: CTR, MRR, and behavioral NDCG assume the user sees ranked results and acts on them. In an agentic assistant, a generation layer consumes retrieval output first, and that assumption breaks in three ways. The agent reads the results before the user does (who). The user's action can come several turns or sessions after retrieval (when). Outcomes blend retrieved content with the model's own knowledge (what caused it). We call this the attribution gap. …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "208a4fa6b97b",
+    "title": "Getting a GRIP on Graph-Based Search for Learned Sparse Retrieval",
+    "url": "https://arxiv.org/abs/2610.30425",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-23T04:00:00+00:00",
+    "summary": "arXiv:2610.30425v1 Announce Type: new Abstract: Learned sparse retrieval (LSR) has recently gained traction in the information retrieval community for the ability to combine the generalization capabilities of neural representations with the interpretability of keyword-based search. A number of recent works have demonstrated that inverted indexes, when appropriately modified for learned sparse embeddings, achieve state-of-the-art recall-latency tradeoffs for LSR, often outperforming graph-based i…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "c6dee0bd43ce",
+    "title": "The Fusion Tax: A Diagnostic Analysis of When Hybrid Retrieval Hurts",
+    "url": "https://arxiv.org/abs/2610.30612",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-23T04:00:00+00:00",
+    "summary": "arXiv:2610.30612v1 Announce Type: new Abstract: Hybrid retrieval, which fuses a sparse lexical retriever with a dense neural one, is widely recommended in the software documentation surveyed in September 2026, usually with reciprocal rank fusion (RRF), on the strength of aggregate gains. We ask what fusion costs on individual queries, treating \"do not fuse\" as a first-class outcome, in the setting in which hybrid retrieval is deployed: a standard Anserini BM25, five dense encoders spanning 22M-5…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d0846ab15d95",
+    "title": "OneLatent: Latent Reasoning for Efficient Foundation Recommendation Models",
+    "url": "https://arxiv.org/abs/2610.30675",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-23T04:00:00+00:00",
+    "summary": "arXiv:2610.30675v1 Announce Type: new Abstract: Large language models (LLMs) have demonstrated strong reasoning capabilities, motivating their use as the backbone of foundation recommendation models (FRMs). Existing methods enhance recommendations through explicit Chain-of-Thought (CoT) reasoning under a Think-then-Answer paradigm. However, explicit CoT incurs substantial inference overhead by generating lengthy reasoning traces and relies on manually designed templates that struggle to capture …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "2babd1833158",
+    "title": "Lychee: Certified Screening of Inverted Lists for High-Recall Vector Search",
+    "url": "https://arxiv.org/abs/2610.30697",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-23T04:00:00+00:00",
+    "summary": "arXiv:2610.30697v1 Announce Type: new Abstract: Nearest-neighbor search over embedding vectors matches faces against watchlists, transactions against known fraud patterns, and medical images against confirmed cases, where a missed neighbor is a missed threat, fraud, or diagnosis. Because an approximate index cannot report which queries lost a true neighbor, these applications require recall of 0.999 to 0.9999, at a cost far below that of exact search over billions of vectors. Inverted-file index…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "fc9c269d4b1c",
+    "title": "Automated Enrichment Analysis with GraphRAG: Efficient Multi-Database ORA Extraction and Biological Interpretation",
+    "url": "https://arxiv.org/abs/2610.30710",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-23T04:00:00+00:00",
+    "summary": "arXiv:2610.30710v1 Announce Type: new Abstract: Over-representation analysis (ORA) is widely used to interpret gene-expression studies, but its outputs are often fragmented across gene-set databases and presented as flat term lists that obscure gene-level links among related enrichment signals. We propose Graph-Based Over-Representation Retrieval-Augmented Generation (GBOR-RAG), an integrated and traceable framework for ORA interpretation. GBOR-RAG represents heterogeneous gene-set databases as …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "31a3e39943fd",
+    "title": "Bezier-Guided Adaptive Flow for Cross-domain Sequential Recommendation",
+    "url": "https://arxiv.org/abs/2610.30825",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-23T04:00:00+00:00",
+    "summary": "arXiv:2610.30825v1 Announce Type: new Abstract: Cross-domain sequential recommendation aims to alleviate data sparsity and cold-start problems by transferring useful preference knowledge across domains. However, users exhibit varying degrees of preference consistency across domains, while existing methods often rely on global alignment objectives or coarse-grained transfer strategies. Such approaches may introduce irrelevant information and provide limited flexibility in adapting semantic repres…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c5add34a9676",
+    "title": "UserArena: Benchmarking Interactive User Simulation for Long-Horizon Shopping Agents",
+    "url": "https://arxiv.org/abs/2610.30932",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-23T04:00:00+00:00",
+    "summary": "arXiv:2610.30932v1 Announce Type: new Abstract: Agentic recommendation pursues shopper goals through sequences of context-dependent decisions. Developing and evaluating such policies requires faithful recommendation world models that capture both the interactive shopping environment and users' behavioral responses over long interactions. Existing resources rarely provide long-horizon, fine-grained real-user trajectories or support trajectory-level evaluation and offline validation against produc…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "42bd32961f4d",
+    "title": "PAIR: Preference-Aligned Intent Retrieval for Premium People Recommendation at LinkedIn",
+    "url": "https://arxiv.org/abs/2610.30941",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-23T04:00:00+00:00",
+    "summary": "arXiv:2610.30941v1 Announce Type: new Abstract: General-purpose embeddings trained on profile similarity often misrank candidates in professional networks, where relevance is inherently complementary rather than symmetric. For example, job seekers usually engage with recruiters rather than peers with similar credentials. Current user recommendation systems are often built on profile similarity or social signals such as shared connections, which are effective in friend-oriented social networks wh…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "6c6389e7be94",
+    "title": "Formal-Informal Mathematical Alignment through and beyond Human Annotations",
+    "url": "https://arxiv.org/abs/2610.31011",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-23T04:00:00+00:00",
+    "summary": "arXiv:2610.31011v1 Announce Type: new Abstract: Formalized mathematics libraries such as Lean's \\texttt{mathlib} provide machine-verifiable representations of mathematical knowledge, including definitions, theorems, and their relationships. If effectively connected to informal mathematical resources, formal mathematics could help uncover previously implicit links between mathematical concepts and improve access to existing formalizations. However, connections between informal and formal mathemat…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "873477d0c593",
+    "title": "The Delayed Countdown Method for Validating Review-Oriented AI Workflows in eDiscovery",
+    "url": "https://arxiv.org/abs/2610.31311",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-23T04:00:00+00:00",
+    "summary": "arXiv:2610.31311v1 Announce Type: new Abstract: Review-oriented workflows have become the dominant approach to AI-assisted document review in electronic discovery (eDiscovery). How to validate the effectiveness of review-oriented workflows has, however, remained a confusing and controversial topic in technology-assisted review (TAR) in the law. We examine the sources of this controversy, and propose a simple and practical evaluation approach for review-oriented workflows. Our Delayed Countdown m…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "41f054ebc69e",
+    "title": "Protection Is Not One Event: A Survey of RAG Protection Research by Measured Endpoint",
+    "url": "https://arxiv.org/abs/2610.30193",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-23T04:00:00+00:00",
+    "summary": "arXiv:2610.30193v1 Announce Type: cross Abstract: Retrieval-augmented generation (RAG) systems face security, privacy, and copyright risks including content leakage, source reconstruction, unauthorized access, data poisoning, and prompt injection. Yet RAG protection studies use incompatible evaluation metrics, datasets, and threat models. We present a systematic survey and human-coded evidence map of 118 full-text-confirmed RAG defense papers, organized by measured endpoint rather than claimed g…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "01708505b4ef",
+    "title": "Data-Void Exploits in Web-Searching LLMs",
+    "url": "https://arxiv.org/abs/2610.30365",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-23T04:00:00+00:00",
+    "summary": "arXiv:2610.30365v1 Announce Type: cross Abstract: Web-searching Large Language Models (LLMs) have changed how users seek online information: instead of sifting through ranked lists of links, users read synthesized answers. This shift creates a new LLM vulnerability: a data-void exploit. Disinformers publish their narratives in search spaces where relevant and reliable content is scarce, i.e. data voids, then rely on the LLM's web-search to retrieve and then use, cite, or list those pages in its …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "e2e2a120101b",
+    "title": "Journal Basket: Supporting Cross-Disciplinary Literature Searching and Methodological Transparency",
+    "url": "https://arxiv.org/abs/2610.30544",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-23T04:00:00+00:00",
+    "summary": "arXiv:2610.30544v1 Announce Type: cross Abstract: Business students beginning a research project must learn how to identify relevant scholarly publications, distinguish disciplinary sources, construct database searches, and report the decisions behind their literature reviews. These tasks can be difficult because journal classification systems and bibliographic databases organize scholarly information differently. This paper introduces Journal Basket, a browser-based tool developed to help busin…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1b105308b487",
+    "title": "Better Reasoning, Not Just Bigger Models: A Structure-Grounded Framework for Efficient and Reliable Inference",
+    "url": "https://arxiv.org/abs/2610.30611",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-23T04:00:00+00:00",
+    "summary": "arXiv:2610.30611v1 Announce Type: cross Abstract: Scaling large language models has substantially improved linguistic fluency, yet reliable autonomous agents require more than fluent generation. In multi-turn inference, current agentic systems often produce semantically plausible but structurally ungrounded reasoning, especially under incomplete observations. We propose Structure-Grounded Uncertainty Reduction (SGUR), a training-free framework that complements token-level generation with active …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "104375bd5f0e",
+    "title": "Compiling Autoregressive LLM Control into Policy-Exact Parallel Inference for Hierarchical RAG",
+    "url": "https://arxiv.org/abs/2610.30664",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-23T04:00:00+00:00",
+    "summary": "arXiv:2610.30664v1 Announce Type: cross Abstract: Large language models increasingly act as controllers in structured decision pipelines, yet their decisions are still executed by autoregressive text decoding. Hierarchical RAG is one such setting: at each frontier of a document tree, an LLM commits to $b$ of $k$ sections under an input-dependent action grammar, executed as either failure-prone free-form JSON or reliable but strictly serial grammar-constrained generation. We show that this serial…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "437524a8e7a8",
+    "title": "Lean Finder V2: Semantic Search for Mathlib That Disambiguates User Queries",
+    "url": "https://arxiv.org/abs/2610.30843",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-23T04:00:00+00:00",
+    "summary": "arXiv:2610.30843v1 Announce Type: cross Abstract: We introduce Lean Finder V2, a semantic search framework for Mathlib that disambiguates user queries through complementary model-level adversarial training and input-level query rewriting. Human mathematicians and coding agents rarely search Mathlib by providing detailed context. In practice, they query short properties, notation, aliases, or hypotheses, leaving much of the intended mathematics implicit. In contrast, existing Mathlib search engin…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "1f25ad55af66",
+    "title": "Chunk Recomputation under Real Document Revisions: Measuring Update Cost and Retrieval Quality of Fixed, Recursive, and Content-Defined Chunking",
+    "url": "https://arxiv.org/abs/2610.31019",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-23T04:00:00+00:00",
+    "summary": "arXiv:2610.31019v1 Announce Type: cross Abstract: Chunking strategies for retrieval-augmented generation are almost always evaluated on a static snapshot, yet the documents underlying a knowledge base continue to change. Because chunks are embedded independently, a boundary that moves after an edit forces unchanged text to be re-embedded. We measure this update cost on 120 pairs of adjacent Chinese and English Wikipedia revisions for three stateless chunkers (non-overlapping fixed-size, recursiv…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a5c5d659f036",
+    "title": "Major Revision, Minor Accountability: LLMs as Reviewers of Published Articles in Top-Tier Journals",
+    "url": "https://arxiv.org/abs/2610.31414",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-23T04:00:00+00:00",
+    "summary": "arXiv:2610.31414v1 Announce Type: new Abstract: With the growth of scientific output, the peer review system is approaching a breaking point: reviewers are increasingly hard to secure, and turnaround times lengthen accordingly. LLM-assisted or LLM-generated peer review has been proposed as a remedy, but how such models would treat manuscripts already published in top-tier journals, the closest thing the current system has to a gold standard of scientific validity, is not known. Here we assembled…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "68246c4e94ea",
+    "title": "CiteAnchor: Source-Aware Grounding for Hallucinated Citation Detection and Resolution",
+    "url": "https://arxiv.org/abs/2610.30355",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-23T04:00:00+00:00",
+    "summary": "arXiv:2610.30355v1 Announce Type: cross Abstract: Hallucinated citations make it harder to trace sources and verify the evidence behind scientific claims. Detecting them is difficult because bibliographic records can be incomplete or differ across source types and publication versions. A plausible match alone neither validates the citation nor establishes its underlying source. We introduce CiteResolve, a benchmark of 423 real-world hallucinated citations annotated for source recoverability. We …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e745d90ca914",
+    "title": "When More Metadata Misleads: Probing Field-Level Grounding in LLM-Generated Museum Descriptions",
+    "url": "https://arxiv.org/abs/2610.31193",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-23T04:00:00+00:00",
+    "summary": "arXiv:2610.31193v1 Announce Type: cross Abstract: Metadata-conditioned generation is often framed as a data-to-text task in which additional input fields should improve grounding. Museum description generation challenges this assumption because catalogue records are heterogeneous, partially visual, and unevenly documented across geographic regions. We study how metadata composition shapes the generation of artefact descriptions through a two-phase framework. Phase 1 analyses natural metadata var…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "4fefc55ab2d6",
+    "title": "FLAWS: A Benchmark for Error Identification and Localization in Scientific Papers",
+    "url": "https://arxiv.org/abs/2511.21843",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-23T04:00:00+00:00",
+    "summary": "arXiv:2511.21843v2 Announce Type: replace-cross Abstract: The identification and localization of errors is a core task in peer review, yet the exponential growth of scientific output has made it increasingly difficult for human reviewers to reliably detect errors given the limited pool of experts. Recent advances in Large Language Models (LLMs) have sparked interest in their potential to support such evaluation tasks, from academic peer review to automated scientific assessment. However, despite…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "2aedd54f3eb3",
+    "title": "Designing an AI serving harness built to last",
+    "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+    "source": "MIT Tech Review",
+    "date": "2026-10-22T21:17:29+00:00",
+    "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have&#8230;",
+    "category": "Enterprise Information Management"
+  },
+  {
+    "id": "52e6d464731a",
+    "title": "The Social Society Helping Women Join the AI Boom",
+    "url": "https://www.wired.com/story/aged-intelligence-society-interview/",
+    "source": "Wired AI",
+    "date": "2026-10-22T19:56:32+00:00",
+    "summary": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d8c2939ee8cf",
+    "title": "The Foundations of Scalable AI",
+    "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+    "source": "MIT Tech Review",
+    "date": "2026-10-22T18:48:04+00:00",
+    "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "dadfd9acc171",
+    "title": "Preserving More Than the Web: Building an Archive of Online Resources for Preservation and Conservation",
+    "url": "https://blogs.loc.gov/thesignal/2026/10/preserving-more-than-the-web-building-an-archive-of-online-resources-for-preservation-and-conservation/",
+    "source": "LOC Signal",
+    "date": "2026-10-22T15:30:21+00:00",
+    "summary": "In this interview, Jon Sweitzer-Lamme explains how web archiving is supporting the work of conservators and preservation scientists at the Library. He describes the process of creating the Preservation and Conservation Web Archive, what it preserves and why, the challenges of expanding the collection internationally, and how the archive can help future researchers understand the history of the field.",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "f109b36dab6a",
+    "title": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
+    "url": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
+    "source": "Wired AI",
+    "date": "2026-10-22T13:00:00+00:00",
+    "summary": "Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "6a85074051ec",
     "title": "Making the case for context-aware AI",
     "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
