@@ -1,5 +1,383 @@
 [
   {
+    "id": "f65e1d863674",
+    "title": "Design Tenets for Agent Identity Management Systems",
+    "url": "https://www.nist.gov/blogs/cybersecurity-insights/design-tenets-agent-identity-management-systems",
+    "source": "NIST",
+    "date": "2026-10-27T12:00:00+00:00",
+    "summary": "This blog #2 in our series on agentic identity, authentication and authorization. Our other post can be found via Post #1. In our last blog post, we highlighted the essential nature of having fundamentally sound identity and access management (IAM) capabilities as a precursor to implementing agents at scale. We started to form the core of what “good looks like” but wanted to take this a step further by defining an initial set of “Design Tenets” for agentic identity, authentication, and authoriza…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "9dbb9e5222c0",
+    "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+    "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+    "source": "MIT Tech Review",
+    "date": "2026-10-27T11:19:18+00:00",
+    "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8923f51bcf38",
+    "title": "AI Agents Are Media’s New Favorite Audience",
+    "url": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
+    "source": "Wired AI",
+    "date": "2026-10-27T11:00:00+00:00",
+    "summary": "As agents go mainstream, some publishers are hoping that people will pay for content tailor-made for AI—not humans.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5b42dab628ea",
+    "title": "I Tested Every Major AI Agent for a Day. Here’s the Best One",
+    "url": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
+    "source": "Wired AI",
+    "date": "2026-10-27T09:30:00+00:00",
+    "summary": "I ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "9c13ce1157ae",
+    "title": "PinGER: Token-Efficient Generative Retrieval with Semantic IDs",
+    "url": "https://arxiv.org/abs/2610.33435",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-27T04:00:00+00:00",
+    "summary": "arXiv:2610.33435v1 Announce Type: new Abstract: Generative retrieval replaces nearest-neighbor search with token-by-token decoding of an item's semantic ID (SID). But existing SID-based methods primarily use L levels of tokens sequentially to represent each item in the input history. As a result, a fixed context window holds L times fewer items than it would with one embedding per item. We present PinGER, a generative retriever deployed at Pinterest that retains SID outputs while making input hi…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "3aa5294b796f",
+    "title": "DyHist: Query-Aware Historical Dynamics Modeling for Temporal Knowledge Graph Extrapolation",
+    "url": "https://arxiv.org/abs/2610.33473",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-27T04:00:00+00:00",
+    "summary": "arXiv:2610.33473v1 Announce Type: new Abstract: Temporal Knowledge Graph (TKG) extrapolation aims to predict future facts from observed historical events. Existing methods usually achieve this goal by jointly modeling local historical evolution and long-range historical contexts. First, local evolution modeling often summarizes local history into an overall evolving representation, where query-relevant local deviations may not be sufficiently exploited as useful predictive features. Second, exis…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "e7fd9b73e2bc",
+    "title": "Novel or Not? PatEx-Gym: Agentic Prior-Art Search for Novelty Assessment in Patent Examination",
+    "url": "https://arxiv.org/abs/2610.33503",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-27T04:00:00+00:00",
+    "summary": "arXiv:2610.33503v1 Announce Type: new Abstract: Patent examination is a challenging real-world task that requires agents to discover sparse prior art, iteratively refine queries, inspect technical evidence, and produce novelty assessments documented in Office Actions (OAs) across heterogeneous scientific and technical domains. However, existing benchmarks largely focus on static and limited candidate sets, leaving the full search--reasoning--assessment process underexplored. We present PatEx-Gym…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "38ae0de946fa",
+    "title": "SkillQR: Agentic Skill Discovery for Reason-Intensive Query Rewriting",
+    "url": "https://arxiv.org/abs/2610.33768",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-27T04:00:00+00:00",
+    "summary": "arXiv:2610.33768v1 Announce Type: new Abstract: Dense retrievers provide grounded evidence that mitigates hallucinations in outputs from Large Language Models (LLMs). Real-world queries are often verbose, ambiguously framed, or require multi-step reasoning, introducing irrelevant details that weaken semantic matching for dense retrievers. Query rewriting is a widely adopted pre-retrieval technique that leverages LLMs to reformulate queries and bridge the semantic gap between such queries and the…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "8b2d3ec5a29c",
+    "title": "Bridging Search Intent and Tabular Data in Dataset Search",
+    "url": "https://arxiv.org/abs/2610.33936",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-27T04:00:00+00:00",
+    "summary": "arXiv:2610.33936v1 Announce Type: new Abstract: Dataset search remains a bottleneck in data analysis workflows, as existing systems largely rely on keyword matching or shallow retrieval that fail to capture user intent. To facilitate intent-driven search, we present two retrieval components to equip multi-faceted dataset search interfaces through natural language. First, we propose Hypothetical Schema Embeddings (HySE) that uses a language model to generate task-aligned hypothetical table schema…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "aead5211c79f",
+    "title": "Decision-Native Recommendation with Large Language Models",
+    "url": "https://arxiv.org/abs/2610.34124",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-27T04:00:00+00:00",
+    "summary": "arXiv:2610.34124v1 Announce Type: new Abstract: Large language models (LLMs) bring world knowledge to user preference modeling in sequential recommendation, but generation-based recommenders express next-item predictions indirectly as text. Generated outputs may fail to identify a unique candidate item, depend on candidate presentation order in the prompt, and lack explicit confidence in the recommendation. Recent studies explore Jev, a model for fast option selection with explicit confidence. I…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "9356bc9e89c2",
+    "title": "LoopGR: Parameter-Efficient Scaling for Generative Recommendation via Recurrent Depth",
+    "url": "https://arxiv.org/abs/2610.34157",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-27T04:00:00+00:00",
+    "summary": "arXiv:2610.34157v1 Announce Type: new Abstract: Generative recommendation formulates item recommendation as autoregressive generation rather than a discriminative scoring problem. Although empirical studies exhibit favorable scaling behavior in recommendation, unleashing the benefits of scaling remains challenging under the strict model size and inference cost constraints of real-world systems. A central challenge is to combine expressive modeling of user-item interaction histories with flexible…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5679de5b028d",
+    "title": "MIDA: Multi-Interest Decoding with Adaptive Aggregation for Session-based Recommendation",
+    "url": "https://arxiv.org/abs/2610.34192",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-27T04:00:00+00:00",
+    "summary": "arXiv:2610.34192v1 Announce Type: new Abstract: Session-based recommendation (SBR) infers user interest from limited interaction sequences, yet current models show a consistent performance drop when longer histories are available. This degradation is associated with decoder designs that overemphasize recent items while underutilizing distant, yet semantically relevant, interactions, leading to poor modeling of long-range dependencies and multi-interest behaviors. To address this challenge, we in…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "9e635080215a",
+    "title": "Cross-Lingual Information Retrieval in Tetun for Ad-Hoc Search",
+    "url": "https://arxiv.org/abs/2610.34362",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-27T04:00:00+00:00",
+    "summary": "arXiv:2610.34362v1 Announce Type: new Abstract: Developing information retrieval (IR) systems that enable access across multiple languages is crucial in multilingual contexts. In Timor-Leste, where Tetun, Portuguese, English, and Indonesian are official and working languages, no cross-lingual information retrieval (CLIR) solutions currently exist to support information access across these languages. This study addresses that gap by investigating CLIR approaches tailored to the linguistic landsca…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "c4f28b354dd6",
+    "title": "A Domain-Aware Pipeline for Structured Extraction and Retrieval-Augmented Question Answering over arXiv Superconductivity Literature",
+    "url": "https://arxiv.org/abs/2610.34391",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-27T04:00:00+00:00",
+    "summary": "arXiv:2610.34391v1 Announce Type: new Abstract: Scientific literature in materials physics is growing faster than researchers can manually inspect it, yet most retrieval tools rely on keyword matching or generic question answering that ignores domain-specific structure in PDF files. This paper presents an end-to-end pipeline that transforms arXiv superconductivity publications into a searchable corpus with structured metadata and retrieval-augmented question answering. The system combines themat…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "9d387efaaaf3",
+    "title": "Theoretically Sound Item Similarity Measures for Recommender Systems",
+    "url": "https://arxiv.org/abs/2610.34402",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-27T04:00:00+00:00",
+    "summary": "arXiv:2610.34402v1 Announce Type: new Abstract: Quantifying the similarity between items is fundamental to neighborhood-based collaborative filtering, yet many commonly used similarity measures are heuristics that lack theoretical justification. The use of heuristics forces practitioners to rely on empirical trial-and-error, offering little insight into why certain measures outperform others or how they might be improved. In this paper, we present a principled approach for designing item similar…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "fba84cf5dbb3",
+    "title": "Agent Memory as Recommendation: Recommender-System Design for Long-Term Memory of LLM Agents",
+    "url": "https://arxiv.org/abs/2610.34673",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-27T04:00:00+00:00",
+    "summary": "arXiv:2610.34673v1 Announce Type: new Abstract: Large language model (LLM) agents that serve users across many sessions must choose, for every request, the few stored memories that enter a limited context window. This choice largely decides whether the agent answers correctly, and it runs on every request at Web scale. This selection faces three challenges: a large and growing store, a per-request cost budget, and multi-session questions that need all of their evidence. Many memory systems build…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "9a2454e37928",
+    "title": "Knowing When the Evidence Is Enough: Requirement-Directed Search with Horn-Closure Certificates",
+    "url": "https://arxiv.org/abs/2610.34684",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-27T04:00:00+00:00",
+    "summary": "arXiv:2610.34684v1 Announce Type: new Abstract: After each Web search, a search-augmented model must decide whether its evidence suffices: answer, search again, or abstain. Prevailing systems leave this to holistic model judgement, which can accept a context naming every entity yet lacking one required fact. We instead make sufficiency structural: a per-query requirement hypergraph states which facts jointly yield another fact. This raises two challenges: deriving requirements from the question …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "29c549bd1b22",
+    "title": "DPE-Rec: Diversity-Preserving and Efficient Diffusion Language Model Recommendation for Bundle Construction",
+    "url": "https://arxiv.org/abs/2610.34700",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-27T04:00:00+00:00",
+    "summary": "arXiv:2610.34700v1 Announce Type: new Abstract: Generative bundle construction completes a partially observed bundle by generating its missing items from a large product catalog. Compared to autoregressive LLMs, diffusion LLM emerges as a natural fit for this unordered generation task. Their bidirectional attention provides an inductive bias better aligned with unordered bundle construction. Iterative denoising can reveal multiple tokens per step, potentially reducing inference latency. However,…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "6ff2387f4054",
+    "title": "Discovering Topics from Linear Autoencoders",
+    "url": "https://arxiv.org/abs/2610.34739",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-27T04:00:00+00:00",
+    "summary": "arXiv:2610.34739v1 Announce Type: new Abstract: Linear recommenders and topic models are similar in that they implicitly learn from co-occurrences of items. However, there has been little study of how these two model families are related. In this work, we show that, under a latent-factor model of the user-item interactions, the latent topics can be discovered from the weight matrix of a closed-form linear autoencoder. These topics provide a basis for interpreting the recommendations, and can be …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "7674709a48d3",
+    "title": "SLIDE: Search-to-List Item Distillation for Single-Rollout Generative Retrieval",
+    "url": "https://arxiv.org/abs/2610.34764",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-27T04:00:00+00:00",
+    "summary": "arXiv:2610.34764v1 Announce Type: new Abstract: Generative retrieval (GR) typically relies on item-level beam search to retrieve candidates, leaving cross-item dependencies unmodeled and limiting direct optimization of list-level objectives. A natural alternative is to generate the entire list within a single autoregressive trajectory. However, greedy decoding with directly trained list-wise models substantially underperforms beam search. We identify two contributing factors: the broader search …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ea38be503561",
+    "title": "CA-HNM: Constraint-Aware Hard Negative Mining for Dense Retrieval with Structured Domain Models",
+    "url": "https://arxiv.org/abs/2610.35045",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-27T04:00:00+00:00",
+    "summary": "arXiv:2610.35045v1 Announce Type: new Abstract: Dense retrievers are commonly trained with hard negatives selected from lexical or dense retrieval results. Retrieval proximity, however, does not indicate whether a candidate conflicts with explicit domain structure. We introduce CA-HNM, a constraint-aware hard-negative mining framework that combines retrieval-based candidate generation with deterministic incompatibility rules derived from a structured domain model. The framework removes known pos…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4375d23911bd",
+    "title": "Hallucination-Aware Multi-Agent RAG via Internal Attention Rewards",
+    "url": "https://arxiv.org/abs/2610.35056",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-27T04:00:00+00:00",
+    "summary": "arXiv:2610.35056v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) grounds language models in retrieved evidence, but its outputs often contain claims unsupported by that evidence. Recent multi-agent RAG systems decompose the pipeline into cooperative decisions, yet they typically optimize all agents under a shared task reward such as EM or F1, which measures answer overlap rather than faithfulness to evidence. We propose a hallucination-aware multi-agent RAG framework that com…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a88c032b04ea",
+    "title": "Learning to Remember: Advances in Memory Mechanisms for Large Language Models",
+    "url": "https://arxiv.org/abs/2610.35089",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-27T04:00:00+00:00",
+    "summary": "arXiv:2610.35089v1 Announce Type: new Abstract: Memory has become a central mechanism for extending large language models (LLMs) beyond fixed context windows, stateless interaction, and static parametric knowledge. This survey organizes the literature around three complementary dimensions: the life cycle of memory, the storage substrate, and the system role that memory plays in LLM-based agents, while using cognitive-science-inspired memory concepts as a lightweight conceptual motivation rather …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "8bc3a7399ae9",
+    "title": "Octen-WebGR: Scaling Generative Retrieval to 200 Million Web Pages",
+    "url": "https://arxiv.org/abs/2610.35256",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-27T04:00:00+00:00",
+    "summary": "arXiv:2610.35256v1 Announce Type: new Abstract: Navigational search aims to find a single target page among hundreds of millions of web pages. Click tables work well for queries seen before but cannot generalise to new formulations, while embedding retrievers generalise across content but often rank navigational targets poorly. We introduce Octen-WebGR, a generative retrieval framework that stores web pages in the parameters of a language model: given a query, the model generates a two-token sem…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "b8fcf51d7608",
+    "title": "Unified Heterogeneous Feature Interaction via Effective-Rank Scaling for Recommender Systems",
+    "url": "https://arxiv.org/abs/2610.35318",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-27T04:00:00+00:00",
+    "summary": "arXiv:2610.35318v1 Announce Type: new Abstract: Large-scale industrial ranking models must jointly capture heterogeneous feature interactions, long-term user behaviors, and multi-scenario dependencies under stringent online serving constraints. Existing architectures typically process sequential and non-sequential features with separate modules, limiting bidirectional information exchange. Directly applying homogeneous self-attention to all semantic tokens can also be inefficient when sequential…",
+    "category": "Information Behavior"
+  },
+  {
+    "id": "206c3fbee738",
+    "title": "CRIM: Composable and Reusable Item Memory for Efficient Personalized Retrieval",
+    "url": "https://arxiv.org/abs/2610.35323",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-27T04:00:00+00:00",
+    "summary": "arXiv:2610.35323v1 Announce Type: new Abstract: Large language models incur substantial training and inference costs in personalized search and recommendation, as growing interaction histories lengthen request inputs and repeatedly expose the same item text to the model. We propose \\textbf{C}omposable and \\textbf{R}eusable \\textbf{I}tem \\textbf{M}emory (CRIM), a framework that separates item-level semantic encoding from request-level history modeling. A small set of learnable summary tokens comp…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "3fc5e77e1fb7",
+    "title": "Read the Route: Attention-Steered Hypergraph Retrieval for Multi-hop RAG",
+    "url": "https://arxiv.org/abs/2610.35412",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-27T04:00:00+00:00",
+    "summary": "arXiv:2610.35412v1 Announce Type: new Abstract: Graph-based retrieval-augmented generation (GraphRAG) answers multi-hop questions by organizing a corpus into a graph and retrieving along its structure. Existing retrieval methods face two limitations. Diffusion- and similarity-based methods expand retrieval along fixed edge weights or by similarity to the question, without resolving its implicit entity references, allowing relevance errors to accumulate across hops. In contrast, exploration-based…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "3653e5d0059e",
+    "title": "Beyond \"[at]\": A Large-Scale Measurement of Email Address Presentation on Computer Science Scholars' Homepages",
+    "url": "https://arxiv.org/abs/2610.35499",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-27T04:00:00+00:00",
+    "summary": "arXiv:2610.35499v1 Announce Type: new Abstract: Publishing an email address makes a scholar reachable, but also exposes it to automated collection. Yet how email addresses are presented on the Web has not been measured systematically across their content, form, and location. We measure it across 32,413 homepage records of computer-science scholars listed in CSRankings with MailScope, which preserves raw and rendered HTML, extracts addresses with a three-stage cascade (rules, then large language …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "7c3cb5e9d3d0",
+    "title": "Hypergraph-Enhanced Evidence Selection for Long-Context Multimodal Document QA",
+    "url": "https://arxiv.org/abs/2610.35542",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-27T04:00:00+00:00",
+    "summary": "arXiv:2610.35542v1 Announce Type: new Abstract: Long-context multimodal document question answering (QA) has become an important yet challenging task for modern vision-language models (VLMs), as it requires reasoning over evidence dispersed across pages and modalities within limited input budgets. Current pipelines adopt retrieval-augmented generation (RAG) to select multimodal evidence for downstream VLMs. However, existing systems mainly rely on static selection rules over fixed-granularity re…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "968ac3e7578a",
+    "title": "Sealed bets on emerging research topics: a protocol for judging early detection, applied to a detector and to eight research funders",
+    "url": "https://arxiv.org/abs/2610.34245",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-27T04:00:00+00:00",
+    "summary": "arXiv:2610.34245v1 Announce Type: new Abstract: Tools that claim to detect emerging research topics are rarely judged on their own lists. Our main contribution is a protocol that makes such judgement possible. A bet freezes four things before its verdict can be known: the date of the photograph, the population of candidates, the verdict rule, and the comparison with chance drawn among the same candidates. The list has a fixed length, is read on two axes (champions and failures) against a compute…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a75d31ba693f",
+    "title": "From Data Footprints to Researcher Fingerprints: Temporal Ego-centric Research Group Detection in Scientific Knowledge Graphs",
+    "url": "https://arxiv.org/abs/2610.34313",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-27T04:00:00+00:00",
+    "summary": "arXiv:2610.34313v1 Announce Type: new Abstract: Understanding who researchers collaborate with, when and how their research groups form, and how these evolve over time is a foundational prerequisite for constructing multidimensional, evidence-based researcher fingerprints -- a requirement that has become increasingly urgent in the context of ongoing reforms in research evaluation advocated by initiatives such as DORA, the Leiden Manifesto, and CoARA. In this paper, we propose an egocentric appro…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "d9dc7a53f6d0",
+    "title": "Officially corrected errors persist in AI training data: preregistered measurements on EU law, Internet standards and retracted science",
+    "url": "https://arxiv.org/abs/2610.34379",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-27T04:00:00+00:00",
+    "summary": "arXiv:2610.34379v1 Announce Type: new Abstract: Official texts are corrected after publication: EU corrigenda, verified RFC errata, retractions. We measured whether these corrections are present in four public datasets used to train language models, and what models answer about the corrected passages. In EurlexResources, a legal training dataset, 1,989 of 2,082 testable single-language corrections to EU acts (95.5%, 94.6-96.3) remain in their erroneous form; in a random sample of 100, 46 change …",
+    "category": "AI Training & Literacy"
+  },
+  {
+    "id": "1cacb07e5ac6",
+    "title": "Interpreting LLM Scores in Peer Review: Alignment and Divergence Across Prompts, Domains, and Manuscript Features",
+    "url": "https://arxiv.org/abs/2610.35098",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-27T04:00:00+00:00",
+    "summary": "arXiv:2610.35098v1 Announce Type: new Abstract: Large language model (LLM) scores are being studied as information for scholarly evaluation. Interpreting these scores requires evidence about agreement with human judgments and its variation across evaluation conditions. Guided by an argument-based approach to validation, we compare four LLMs on 7,083 public ICLR 2024 submissions under a standard review condition and examine ten prompt conditions using DeepSeek-V3.2. We distinguish average score d…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "129d5baa28fd",
+    "title": "SUDO: From Scientific Publications to Global Scholarly Discourse",
+    "url": "https://arxiv.org/abs/2610.33018",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-27T04:00:00+00:00",
+    "summary": "arXiv:2610.33018v1 Announce Type: cross Abstract: Scholarly Knowledge Graphs (SKGs) support literature search, scientific discovery, and agent-assisted research. Yet, most approaches to SKG construction pre-specify the knowledge unit to be represented, typically named scholarly entities or contribution-level statements, and retain only the publication content expressible through that unit. This choice produces two dominant yet distinct paradigms: concept-centric SKGs that preserve entities and l…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "499cc0471d63",
+    "title": "The Hidden Costs of Gatekeeping in Open Science: Quasi-Experimental Evidence from arXiv's Endorsement Policy Tightening",
+    "url": "https://arxiv.org/abs/2610.33980",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-27T04:00:00+00:00",
+    "summary": "arXiv:2610.33980v1 Announce Type: cross Abstract: Preprint servers and open science platforms have become core infrastructure through which scientific knowledge circulates on the Web, greatly facilitating the dissemination and diffusion of online scientific information. Yet to safeguard content quality, many of these platforms rely on existing members to vouch for newcomers; how such network-mediated gatekeeping reshapes entry barriers across different scientific communities remains systematical…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b400635379be",
+    "title": "Is the arXiv Apocalypse upon us? A break in preprint growth coincident with agentic AI",
+    "url": "https://arxiv.org/abs/2610.34449",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-27T04:00:00+00:00",
+    "summary": "arXiv:2610.34449v1 Announce Type: cross Abstract: As an experiment in agentic assisted analysis, we used an agentic AI model to analyse the effect of agentic AI on arXiv submissions; data acquisition, analysis and the first draft were carried out by the model under the author's direction. Monthly arXiv submissions have grown exponentially for three decades, at about $9\\%$ per year. Fitting a piecewise log-linear trend with seasonal modulation to the full record, we find two post-pandemic breaks …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e663e24339fa",
+    "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
+    "url": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
+    "source": "Wired AI",
+    "date": "2026-10-26T21:27:15+00:00",
+    "summary": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c6549f35a055",
+    "title": "Will the real Anthropic please stand up",
+    "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+    "source": "MIT Tech Review",
+    "date": "2026-10-26T17:45:43+00:00",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "61539b974a5c",
+    "title": "AI Sandbox Series: The Embedded Catalog",
+    "url": "https://blogs.loc.gov/thesignal/2026/10/ai-sandbox-series-embedded-catalog/",
+    "source": "LOC Signal",
+    "date": "2026-10-26T17:41:42+00:00",
+    "summary": "This post was written by Matthew Miller, a Linked Data Applications Technical Specialist in Discovery and Preservation Services at the Library of Congress. We are excited to share this post in our ongoing series about the Library of Congress Artificial Intelligence (AI) Sandbox for staff. Posts in the series will feature details about experiments in text recognition and searchability, metadata and bibliographic record enhancement, and more. A previous post introduced the initiative’s goals and a…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "585abb42c5f8",
+    "title": "AI Hallucination Goes to Court: A Global Mapping of Emerging Legal Issues",
+    "url": "https://fpf.org/blog/ai-hallucination-goes-to-court-a-global-mapping-of-emerging-legal-issues/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-10-26T17:20:01+00:00",
+    "summary": "The following is a guest post on the FPF blog authored by Wenlong Li, Research Professor, Zhejiang University Guanghua Law School and 2026 PPPM Awardee. The guest post reflects the opinion of the author only and does not necessarily reflect the position or views of FPF and our stakeholder communities. FPF provides this platform to [&#8230;]",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5ecfeeaf9cec",
+    "title": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
+    "url": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
+    "source": "Wired AI",
+    "date": "2026-10-26T16:01:55+00:00",
+    "summary": "Anthropic thinks “closing the loop” is the best path to AI triumph—and a recipe for “existential” threats to humanity.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ad4aca2b15a9",
+    "title": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
+    "url": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
+    "source": "Wired AI",
+    "date": "2026-10-26T14:50:47+00:00",
+    "summary": "Anthropic on Monday filed documents ahead of a blockbuster IPO that offers insight into the company’s financials, risk factors, and views on the future of AI.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "3ae98091f4f2",
     "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
     "url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
