@@ -1,5 +1,347 @@
 [
   {
+    "id": "062387f0d6d1",
+    "title": "An Interview With Camilla Crane, Librarian-in-Residence",
+    "url": "https://blogs.loc.gov/thesignal/2026/10/an-interview-with-camilla-crane-librarian-in-residence/",
+    "source": "LOC Signal",
+    "date": "2026-10-28T13:00:37+00:00",
+    "summary": "As a Librarian-in-Residence in the Library of Congress’s Web Archiving Section, Camilla Crane is exploring new ways to improve access to web archives. She discusses her path to web archiving, the challenges and surprises of preserving websites, and some of the internet “rabbit holes” she’s discovered along the way. Can you tell us a little &#8230;",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "056614830d95",
+    "title": "Pairing industrial AI autonomy and human control",
+    "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+    "source": "MIT Tech Review",
+    "date": "2026-10-28T12:00:00+00:00",
+    "summary": "",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ec6b9e654881",
+    "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
+    "url": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
+    "source": "Wired AI",
+    "date": "2026-10-28T10:15:00+00:00",
+    "summary": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f53a8961cc11",
+    "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
+    "url": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
+    "source": "Wired AI",
+    "date": "2026-10-28T08:30:00+00:00",
+    "summary": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "b3d9e88f2ebe",
+    "title": "Should AI Decide Your Court Case? This Judge Says Yes",
+    "url": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
+    "source": "Wired AI",
+    "date": "2026-10-28T06:00:00+00:00",
+    "summary": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4db677d8895a",
+    "title": "RELAY: One Query, Two Roles for Sequential Recommendation",
+    "url": "https://arxiv.org/abs/2610.36000",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-28T04:00:00+00:00",
+    "summary": "arXiv:2610.36000v1 Announce Type: new Abstract: Sequential recommendation must combine semantic preferences with behavioral associations to deliver accurate rankings at low inference cost. Sharing history selection connects preference representation directly to the behavioral evidence used in candidate scoring. We present RELAY, a compact sequential recommender built around one query, two roles: semantic readout and behavioral-memory routing. A single learned query forms a semantic preference re…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "da2eab0b884e",
+    "title": "When Connectivity Misleads: Guiding Agentic Search with Contrastive Evidence Paths",
+    "url": "https://arxiv.org/abs/2610.36134",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-28T04:00:00+00:00",
+    "summary": "arXiv:2610.36134v1 Announce Type: new Abstract: Search agents can use cross-document graphs to discover sources through multi-hop connections and choose subsequent actions based on candidate rankings and relationships within a limited observation window. However, documents may rank highly because their numerous connections make them easier to reach, without necessarily providing more valuable evidence. Graph diffusion methods such as Personalized PageRank (PPR) aggregate propagation contribution…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "768109235a25",
+    "title": "Is the education gap in generative AI use smaller than the internet's was at a similar level of use? Evidence from 16 European countries",
+    "url": "https://arxiv.org/abs/2610.36181",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-28T04:00:00+00:00",
+    "summary": "arXiv:2610.36181v1 Announce Type: new Abstract: New technologies are usually adopted first by people with more formal education. This paper asks whether the education gap in generative AI use in 2025 is smaller or larger than the internet's gap in the same country in the year when overall internet use was at a similar level. It uses public Eurostat survey data on ICT usage by individuals aged 16 to 74. Each country's 2025 rate of generative AI use in the last three months is matched to the inter…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "b8e6d5e19406",
+    "title": "Counterfactual Profile Perturbations for Recommendation Explanations: A Reproducibility Study",
+    "url": "https://arxiv.org/abs/2610.36208",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-28T04:00:00+00:00",
+    "summary": "arXiv:2610.36208v1 Announce Type: new Abstract: This reproducibility paper explores the counterfactual explanation technique known as Learning to eXplain Recommendations (LXR). Prior work has shown that LXR can reliably identify perturbations that, if applied to a user's profile, cause the user's top ranked item to no longer be recommended, thereby explaining the item's recommendation as a function of the user's rating choices. In this paper, we extend this work in multiple ways. We expand the s…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a4691c75639b",
+    "title": "Preserving rare-item recall under a storage budget: quantization, distillation, and the limits of teacher fidelity",
+    "url": "https://arxiv.org/abs/2610.36267",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-28T04:00:00+00:00",
+    "summary": "arXiv:2610.36267v1 Announce Type: new Abstract: Under a fixed embedding-storage budget, recommenders can use a small full-precision model, a distilled student, or a higher-rank low-precision model. We asked which choice preserves rare-item recall and whether teacher fidelity reflects it in seven dataset-backbone cells: matrix factorization on Gowalla, Last.fm, Amazon Video Games, Steam, Goodbooks-10k and MovieLens-20M, and LightGCN on Amazon Video Games. Seven candidates fit in 168 bytes per use…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "8efff5ecb5a6",
+    "title": "Cross-Day Compatibility of Daily Item Embeddings: An Empirical Study of Alignment, Scale Management, and CTR Adaptation",
+    "url": "https://arxiv.org/abs/2610.36408",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-28T04:00:00+00:00",
+    "summary": "arXiv:2610.36408v1 Announce Type: new Abstract: Daily item co-occurrence embeddings are paired with next-day behavior without future-behavior leakage. Multi-day click-through rate (CTR) training therefore mixes versions whose directions and norms may differ for the same item. We compare Word2Vec and an item-graph XSimGCL adaptation across initialization, inheritance, post-processing, training constraints, and downstream augmentation. The inventory contains 48 configurations, including 32 common-…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "04c9f4bd679a",
+    "title": "ACOR: incremental evidence accumulation towards real-time DNA storage reconstruction",
+    "url": "https://arxiv.org/abs/2610.36500",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-28T04:00:00+00:00",
+    "summary": "arXiv:2610.36500v1 Announce Type: new Abstract: DNA offers high-density, durable storage by encoding digital information into synthetic strands and retrieving it through sequencing. Sequence reconstruction combines noisy copies of each strand before downstream decoding. Conventional offline methods typically reconstruct completed read clusters, separating reconstruction from ongoing read collection. Streaming reconstruction offers a way to overlap evidence processing with sequencing and reduce t…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "eeec0296894a",
+    "title": "QESChunker: A Single Objective Unifies Overlapping and Non-Overlapping Chunking for RAG",
+    "url": "https://arxiv.org/abs/2610.36557",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-28T04:00:00+00:00",
+    "summary": "arXiv:2610.36557v1 Announce Type: new Abstract: Chunking is a fundamental preprocessing step in retrieval-augmented generation (RAG), yet most existing chunkers rely primarily on heuristics. We introduce the Question--Evidence-Supervised Chunker (QESChunker), to our knowledge the first method for constructing static chunk indices from question--evidence supervision. QESChunker constructs document-specific chunk indices by optimizing over human-annotated or LLM-generated question--evidence pairs,…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "d573bc1802cd",
+    "title": "CCP-DP: Cross-cluster context-guided phase dynamic programming for DNA storage sequence reconstruction",
+    "url": "https://arxiv.org/abs/2610.36559",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-28T04:00:00+00:00",
+    "summary": "arXiv:2610.36559v1 Announce Type: new Abstract: Motivation: DNA data storage offers high information density and long-term stability, but accurate sequence reconstruction remains challenging under limited sequencing coverage and strong insertion, deletion, and substitution (IDS) noise. Existing reconstruction methods mainly rely on local evidence within individual read clusters. When sequencing coverage is low or indel-induced phase shifts become pronounced, such local evidence may be insufficie…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "33ffe99d033d",
+    "title": "The Vocabulary Is Already Here: Adapting Pretrained Interpretable Features for Generative Recommendation",
+    "url": "https://arxiv.org/abs/2610.36763",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-28T04:00:00+00:00",
+    "summary": "arXiv:2610.36763v1 Announce Type: new Abstract: Generative recommendation (GR) predicts the next item through its semantic ID (SID). Existing methods commonly fit SID vocabularies to pretrained language model (PLM) representations of item descriptions, incurring additional training costs and making vocabulary coverage dependent on the fitting domains. We observe that pretrained sparse autoencoders expose PLM features with human-interpretable semantic annotations, allowing feature indices to serv…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "edc7a193f808",
+    "title": "DuTri: Dual-Branch Modeling with Triadic Factorization for Multimodal Multi-Scenario Recommendation",
+    "url": "https://arxiv.org/abs/2610.36836",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-28T04:00:00+00:00",
+    "summary": "arXiv:2610.36836v1 Announce Type: new Abstract: As recommendation scenarios become increasingly diverse and multimodal information grows more prevalent, effectively modeling cross-scenario user preferences and multimodal semantics has become a critical challenge in recommender systems. When incorporating multimodal information, existing multi-scenario recommendation (MSR) methods typically treat textual and visual representations as generic input features and directly feed them into their origin…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f66ffb4d95c5",
+    "title": "Latent Residual Reasoning for Ranking in Generative Recommendation",
+    "url": "https://arxiv.org/abs/2610.36890",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-28T04:00:00+00:00",
+    "summary": "arXiv:2610.36890v1 Announce Type: new Abstract: Generative recommendation (GR) models for ranking typically adopt a fast-thinking direct prediction paradigm with strong practical efficiency. However, ranking requires fine-grained scoring across multiple candidate items, while existing GR models still mainly rely on one-shot prediction. This raises the question whether additional inference-time computation can further improve ranking quality. Recently, inspired by Chain-of-Thought (CoT) reasoning…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c1c9e6fd1f10",
+    "title": "When Diffusion Recommenders Stop Sampling: Preserving Generative Diversity",
+    "url": "https://arxiv.org/abs/2610.36954",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-28T04:00:00+00:00",
+    "summary": "arXiv:2610.36954v1 Announce Type: new Abstract: A user history can admit multiple plausible next interactions, yet conventional sequential recommenders produce a single deterministic ranking. While diffusion models offer a natural way to sample alternative continuations, we show that existing target-item diffusion recommenders often suffer from severe sampling collapse, producing nearly identical outputs across independent draws. We identify two ubiquitous design choices that promote this collap…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "83f0e3fca0f6",
+    "title": "PailitaoMMSearch2.0 Technical Report: Scaling Generative Retrieval to Unified End-to-End Multimodal Search",
+    "url": "https://arxiv.org/abs/2610.36958",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-28T04:00:00+00:00",
+    "summary": "arXiv:2610.36958v1 Announce Type: new Abstract: Generative retrieval models have been increasingly adopted in search and recommendation systems. However, industrial generative retrieval models are commonly specialized to a fixed online scenario: they learn from scenario-specific interactions, support a narrow set of query forms and retrieval objectives. We study how to remove these couplings and build a unified end-to-end multimodal search system for open-ended image--text queries, heterogeneous…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "80923d41897b",
+    "title": "KL-MOPD: Discrepancy-Aware Multi-Objective On-Policy Distillation for Generative Recommendation",
+    "url": "https://arxiv.org/abs/2610.36973",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-28T04:00:00+00:00",
+    "summary": "arXiv:2610.36973v1 Announce Type: new Abstract: Coordinating multiple recommendation objectives (e.g., click and conversion) is critical for real-world generative recommendation (GR). However, since a positive item in GR can be retrieved only when its tokens are successively selected at every decoding step, traditional item-wise methods lack fine-grained token-wise supervision to guide intermediate steps. Motivated by its success in foundation models, we consider introducing multi-objective on-p…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8ac6e092f6ed",
+    "title": "Tessera: Structure-Completed Evidence Units for Web Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2610.37080",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-28T04:00:00+00:00",
+    "summary": "arXiv:2610.37080v1 Announce Type: new Abstract: Web retrieval-augmented generation (RAG) splits a page into fixed-size text chunks or, in recent visual pipelines, screenshot tiles, and the retrieved item serves at once as the unit of indexing, ranking, and reading. We trace answer evidence from source HTML to reader input over the full English Wikipedia and find that this coupling loses evidence in text and screenshot pipelines alike: evidence present in the source page often fails to reach the …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "80cf21b94dff",
+    "title": "Rethinking Positional Encoding and Interaction Granularity for CTR Prediction",
+    "url": "https://arxiv.org/abs/2610.37140",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-28T04:00:00+00:00",
+    "summary": "arXiv:2610.37140v1 Announce Type: new Abstract: Click-through rate (CTR) prediction relies on historical behaviors and contextual features to estimate clicks on a target item. Existing Transformer-based CTR models often adopt index-based or temporal positional encodings and token-level causal interaction. However, we observe that most existing positional encodings do not outperform NoPE, while relaxing causal constraints within target-relative temporal groups also yields gains. These observation…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "6b78e01d14de",
+    "title": "Coverage Under Contradiction: A Benchmark for Negation-Aware Retrieval",
+    "url": "https://arxiv.org/abs/2610.37162",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-28T04:00:00+00:00",
+    "summary": "arXiv:2610.37162v1 Announce Type: new Abstract: Coverage-evaluation benchmarks quantify whether retrieved evidence covers the different pieces of information needed to satisfy an information need. Existing benchmarks mostly consider factual claims that may already be known to pretrained retrieval components, leaving open whether retrievers find corpus evidence when it contradicts those priors. We study how retrievers behave when their parametric knowledge and the information in a corpus disagree…",
+    "category": "Information Behavior"
+  },
+  {
+    "id": "644b31f8c4d4",
+    "title": "Lossless Compression of Proximity Graph Indexes for Efficient Approximate Nearest Neighbors Search",
+    "url": "https://arxiv.org/abs/2610.37176",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-28T04:00:00+00:00",
+    "summary": "arXiv:2610.37176v1 Announce Type: new Abstract: Graph-based Approximate Nearest Neighbor (ANN) indexes, such as HNSW, are the backbone of modern vector search. However, their massive memory footprint creates a severe infrastructure bottleneck. While vector quantization is widely adopted to reduce the memory required to store data vectors, the graph's edge structure increasingly dominates total memory usage. Compressing these adjacency lists for online search presents a critical system challenge:…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "88d3157d548f",
+    "title": "AutoRSE: Evaluating LLM Agents as Recommendation Engineers for Self-Evolving Recommender Systems",
+    "url": "https://arxiv.org/abs/2610.37228",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-28T04:00:00+00:00",
+    "summary": "arXiv:2610.37228v1 Announce Type: new Abstract: Recommender Systems Engineer Agents (RSE-Agents), which use LLM-based agents to autonomously improve recommendation algorithms, are emerging as a promising paradigm. However, their capabilities and limitations remain poorly understood due to the lack of a unified, standardized evaluation framework and systematic trajectory-level analysis. To address this gap, we introduce AutoRSE, an evaluation framework spanning six representative industrial-grade…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "6e64beb9533e",
+    "title": "TaskBridge: Technical Report for SIGIR 2026 eCommerce Challenge",
+    "url": "https://arxiv.org/abs/2610.37231",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-28T04:00:00+00:00",
+    "summary": "arXiv:2610.37231v1 Announce Type: new Abstract: The SIGIR 2026 eCommerce Challenge Query Reformulation Task evaluates the reformulation of task-oriented queries into expressions suitable for product retrieval, followed by BM25-based retrieval. These queries often imply product needs through activity-level semantics, creating a lexical gap with catalog descriptions. Systems must preserve task intent while adapting the number of reformulations to the Automatic and Interactive protocols. We propose…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "685528191f5b",
+    "title": "Modeling Preference Dependencies with Directed Acyclic Graphs for Narrative-Driven Recommendation",
+    "url": "https://arxiv.org/abs/2610.37280",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-28T04:00:00+00:00",
+    "summary": "arXiv:2610.37280v1 Announce Type: new Abstract: Narrative-driven recommendation allows users to express multifaceted needs through free-form text where stated preferences naturally qualify and condition one another. Existing methods typically treat narratives as flat keyword combinations or unconstrained generative queries, failing to capture how complex preferences hierarchically refine and contextualize each other. We propose the Preference Dependency Graph Framework (PDG-F), a narrative-drive…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2d4f7b038749",
+    "title": "LESSRec: Level-Specific History Modeling for Semantic ID-Based Recommendation",
+    "url": "https://arxiv.org/abs/2610.37286",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-28T04:00:00+00:00",
+    "summary": "arXiv:2610.37286v1 Announce Type: new Abstract: Semantic ID-based recommendation represents each item as a sequence of semantic tokens obtained through residual quantization. This paradigm generates the next item's tokens autoregressively from coarse to fine, entailing each prediction attending to historical tokens at all semantic levels. However, our inference-time analysis reveals that historical tokens at the target-token's semantic level tend to be more informative, whereas other levels can …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "38ade12411fe",
+    "title": "When Is Additional Retrieval Worthwhile? A Cost-Aware Study of Evidence Gain and Answer Reliability in RAG",
+    "url": "https://arxiv.org/abs/2610.37358",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-28T04:00:00+00:00",
+    "summary": "arXiv:2610.37358v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) can benefit from more sophisticated retrieval, but extra retrieval may be unnecessary for many questions and gains in evidence retrieval may not translate into faithful or correct answers. We study a cost-aware, two-action retrieval policy that chooses between a dense-retrieval-plus-reranking baseline and a hybrid lexical--dense retriever. Rather than classifying baseline retrieval as simply successful or unsucc…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "0fe4faa9ba4c",
+    "title": "Can Complementary Signals Bridge Similarity Islands? Manifold-Augmented Graph Embedding for Multimodal Recommendation",
+    "url": "https://arxiv.org/abs/2610.37409",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-10-28T04:00:00+00:00",
+    "summary": "arXiv:2610.37409v1 Announce Type: new Abstract: Multimodal Recommender Systems (MMRS) leverage rich item features to mitigate data sparsity, yet similarity-driven graph construction and propagation can favor semantically similar substitutes over functionally related complements. When behavioral associations connect semantically distant items, complementary signals can remain geometrically isolated, yielding fragmented \"Similarity Islands\" and semantic drift when standard propagation is applied. …",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "c9c801f5b84f",
+    "title": "LitUbik: open-source software for human-led systematic reviews with traceable AI assistance",
+    "url": "https://arxiv.org/abs/2610.37181",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-28T04:00:00+00:00",
+    "summary": "arXiv:2610.37181v1 Announce Type: new Abstract: LitUbik is an open-source, self-hosted tool for conducting systematic reviews, from the registered protocol to the PRISMA 2020 diagram. LitUbik covers calibrated search equations, automated searching, deduplication, blinded multi-reviewer screening, full-text retrieval, snowballing, appraisal, extraction and reporting, on one server or across disconnected instances. At each stage, optional AI assistance from commercial or local language models offe…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "6de1f1e7ffff",
+    "title": "Jaxnasium: Embracing PyTrees For Any-Agent, Cross-Suite Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2610.36075",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-28T04:00:00+00:00",
+    "summary": "arXiv:2610.36075v1 Announce Type: cross Abstract: Hardware-accelerated reinforcement learning in JAX has gained rapid popularity in recent years and has proven to be a successful method of scaling online reinforcement learning. The resulting ecosystem, however, is fragmented: environment suites define their own interfaces, and algorithm implementations are typically written for a single suite, a single type of space, and either JAX-native or host-based environments. Here we present Jaxnasium, a …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "263f547e53cb",
+    "title": "Organizational Structure and the Research of U.S. Library and Information Science Schools",
+    "url": "https://arxiv.org/abs/2601.20806",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-28T04:00:00+00:00",
+    "summary": "arXiv:2601.20806v2 Announce Type: replace Abstract: U.S. Library and Information Science (LIS) schools are organized differently: some are independent, and others share a parent unit with computing, communication, education, or the arts and sciences. We ask whether their research differs accordingly, using 18,048 publications (2013--2026) by 1,602 faculty members at 44 ALA-accredited schools. We grouped the 15,934 publications with abstracts into 15 research themes with document embeddings and h…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "390d5da92e2b",
+    "title": "More of the same? Are scientific papers losing originality?",
+    "url": "https://arxiv.org/abs/2609.32963",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-28T04:00:00+00:00",
+    "summary": "arXiv:2609.32963v2 Announce Type: replace Abstract: Scientific output is growing rapidly, but it is unclear whether the expanding literature remains original or is increasingly repeating itself. Originality has many dimensions. One dimension can now be measured directly: how textually distinct a paper is from the work that came before it. Using semantic language models, we screened more than 26,000 full-text papers across eight fields in the CORE database (2015--2025) for passages resembling rec…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b075e00a0a97",
+    "title": "Streamlining and standardizing software citations with The Software Citation Station",
+    "url": "https://arxiv.org/abs/2406.04405",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-10-28T04:00:00+00:00",
+    "summary": "arXiv:2406.04405v3 Announce Type: replace-cross Abstract: Software is crucial for the advancement of science, especially in the context of rapidly growing datasets that increasingly require algorithm and pipeline development to process data and produce results. However, software has not always been consistently cited, despite the importance of citations in strengthening support for software development. To encourage, streamline, and standardize the process of citing software in academic works, w…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "dbc0d26a70ed",
+    "title": "Bringing Privacy, Safety, and Well-being Together at FPF",
+    "url": "https://fpf.org/blog/bringing-privacy-safety-and-well-being-together-at-fpf/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-10-27T20:21:32+00:00",
+    "summary": "FPF&#8217;s youth policy work is growing. For more than 18 years, FPF has been a recognized leader in youth privacy. Our work and partnerships have helped inform this sector, from guidance on COPPA to advancing global frameworks for responsible data use by schools and platforms. Now we are broadening and deepening that focus. Privacy, safety, [&#8230;]",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "47671cae5a4e",
+    "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
+    "url": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
+    "source": "Wired AI",
+    "date": "2026-10-27T19:39:04+00:00",
+    "summary": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ae72bdec54e1",
+    "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
+    "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
+    "source": "Wired AI",
+    "date": "2026-10-27T15:10:26+00:00",
+    "summary": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "f65e1d863674",
     "title": "Design Tenets for Agent Identity Management Systems",
     "url": "https://www.nist.gov/blogs/cybersecurity-insights/design-tenets-agent-identity-management-systems",
