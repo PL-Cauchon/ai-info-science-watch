@@ -1,5 +1,50 @@
 [
   {
+    "id": "b3bb8a789465",
+    "title": "FPF Submits Comments to Inform Colorado Automated Decision-Making (ADM) Act Rulemaking",
+    "url": "https://fpf.org/blog/fpf-submits-comments-to-inform-colorado-automated-decision-making-adm-act-rulemaking/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-10-29T20:23:48+00:00",
+    "summary": "Co-authored by Michelle Roitgarts, U.S. Legislation Legal Intern On October 26, 2026, the Future of Privacy Forum (FPF) submitted comments in response to the Colorado Department of Law’s (the Department’s) formal rulemaking process for the Colorado Automated Decision-Making Technology Act (SB 26-189). FPF’s comments address the Department’s October 6 interim draft rules, focusing on clarifying [&#8230;]",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "bf3026d4c625",
+    "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+    "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+    "source": "Wired AI",
+    "date": "2026-10-29T18:39:43+00:00",
+    "summary": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d4b68f736cf3",
+    "title": "Back in the Chat: California and New York Take Diverging Paths in Second Wave of Chatbot Regulations",
+    "url": "https://fpf.org/blog/back-in-the-chat-california-and-new-york-take-diverging-paths-in-second-wave-of-chatbot-regulations/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-10-29T18:10:30+00:00",
+    "summary": "Introduction This week, New York Governor Kathy Hochul signed S 9051B into law, establishing sweeping new restrictions on AI companion chatbot features deemed unsafe for minors. The move comes just over a month after California Governor Gavin Newsom signed SB 1119, a comprehensive new chatbot law. California and New York, the first two states to [&#8230;]",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a2aa84b8c0fc",
+    "title": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
+    "url": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
+    "source": "Wired AI",
+    "date": "2026-10-29T15:00:00+00:00",
+    "summary": "A new startup called &amp;Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5955274c3dce",
+    "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
+    "url": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
+    "source": "Wired AI",
+    "date": "2026-10-29T14:00:00+00:00",
+    "summary": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "f863128399a5",
     "title": "We urgently need to monitor AI agents’ actions in real time",
     "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
