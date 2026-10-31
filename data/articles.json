@@ -1,5 +1,41 @@
 [
   {
+    "id": "bc2326c848ae",
+    "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+    "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+    "source": "Wired AI",
+    "date": "2026-10-31T12:00:00+00:00",
+    "summary": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2ec3abacf294",
+    "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+    "url": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+    "source": "Wired AI",
+    "date": "2026-10-31T10:30:00+00:00",
+    "summary": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "44be6d9cd9ec",
+    "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+    "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+    "source": "Wired AI",
+    "date": "2026-10-31T10:00:00+00:00",
+    "summary": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a7904f9e100d",
+    "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
+    "source": "Wired AI",
+    "date": "2026-10-30T21:19:26+00:00",
+    "summary": "This week on Uncanny Valley, we also discuss Anthropic’s IPO filing and the volunteers gearing up to counter ICE at the midterms.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "b3bb8a789465",
     "title": "FPF Submits Comments to Inform Colorado Automated Decision-Making (ADM) Act Rulemaking",
     "url": "https://fpf.org/blog/fpf-submits-comments-to-inform-colorado-automated-decision-making-adm-act-rulemaking/",
