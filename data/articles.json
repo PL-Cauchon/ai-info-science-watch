@@ -1,5 +1,302 @@
 [
   {
+    "id": "728c21b3deeb",
+    "title": "Stop counting tokens, start counting what ships",
+    "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+    "source": "MIT Tech Review",
+    "date": "2026-11-02T13:10:32+00:00",
+    "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b38643a40929",
+    "title": "When You Should—and Shouldn’t—Use AI to Search the Web",
+    "url": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
+    "source": "Wired AI",
+    "date": "2026-11-02T12:00:00+00:00",
+    "summary": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you’ll get better results by typing your query into a good old search engine.",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "865143ca1ce8",
+    "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
+    "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+    "source": "Wired AI",
+    "date": "2026-11-02T10:00:00+00:00",
+    "summary": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let users create violent AI-generated images and video.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e49f46b109f6",
+    "title": "The agentic web is here",
+    "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+    "source": "MIT Tech Review",
+    "date": "2026-11-02T09:35:19+00:00",
+    "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous software agents that could address our every&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "84865784479b",
+    "title": "Explain, Then Forget: Recommendation Unlearning under Asymmetric Access Constraint",
+    "url": "https://arxiv.org/abs/2610.40658",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-02T05:00:00+00:00",
+    "summary": "arXiv:2610.40658v1 Announce Type: new Abstract: Recommendation unlearning aims to remove the influence of specific historical interactions that should no longer affect future recommendations, such as noisy clicks or outdated user preferences. However, performing recommendation unlearning becomes much harder in modern Machine-Learning-as-a-Service (MLaaS) architectures, where the recommendation model is remotely hosted by a model provider (MP) and accessed by service operators (SO) only through A…",
+    "category": "AI Training & Literacy"
+  },
+  {
+    "id": "951145e35c56",
+    "title": "Retrieve-then-Disambiguate: Scalable Reviewer Discovery",
+    "url": "https://arxiv.org/abs/2610.40768",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-02T05:00:00+00:00",
+    "summary": "arXiv:2610.40768v1 Announce Type: new Abstract: The growing number of scientific submissions is straining the peer review process, while a large pool of relevant researchers remains unidentified and is therefore not considered as potential reviewers. We formulate the discovery of these researchers as a retrieval problem: given a submission, we retrieve and rank researchers based on domain similarity. We present retrieve-then-disambiguate, an open-source algorithm that identifies domain relevant …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1a509dccd9f1",
+    "title": "ProdCrawl: A Replayable Test Collection for Focused Crawling",
+    "url": "https://arxiv.org/abs/2610.40855",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-02T05:00:00+00:00",
+    "summary": "arXiv:2610.40855v1 Announce Type: new Abstract: A focused crawler searches for web pages on a specific topic under a constrained download budget. Since it can only fetch a limited number of pages, its success depends on choosing which links to follow. Focused crawlers are usually evaluated on live websites by harvest rate, the fraction of downloaded pages that are relevant. This has two problems: on the one hand, websites change over time, so a crawl cannot be repeated under the same conditions;…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c51548f60455",
+    "title": "Context as Infrastructure: Knowledge Compilation for Retrieval in Agentic Systems with Harnesses",
+    "url": "https://arxiv.org/abs/2610.41172",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-02T05:00:00+00:00",
+    "summary": "arXiv:2610.41172v1 Announce Type: new Abstract: Retrieval-augmented generation is becoming agentic. A search harness writes queries, reads results, reformulates, and decides when to stop. This largely solves accuracy: a harness with only BM25/grep and MiniMax M3 answers 85% of BrowseComp-Plus and 91% on multi-hop FRAMES in our runs, without compiled or vector indexes. It exposes a context problem: an undisciplined loop repeats queries, rereads documents, and fills the window with unused passages…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "5c9b9c66d7ae",
+    "title": "MILES-Rec: Uncovering Implicit Intents from Mobility Behaviors for Cross-Domain POI Recommendation",
+    "url": "https://arxiv.org/abs/2610.41319",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-02T05:00:00+00:00",
+    "summary": "arXiv:2610.41319v1 Announce Type: new Abstract: Map applications bridge everyday mobility with local services, creating opportunities to recommend places by uncovering users' implicit intents. However, utility-driven map interactions provide only indirect and incomplete evidence of consumption demands, making it challenging to infer personalized service needs from observed behaviors. We propose MILES-Rec, a cross-domain POI recommendation framework that infers latent service intents from heterog…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b7bb1e9f65c1",
+    "title": "Pix2Evidence: A Multimodal RAG System for Text and Visual Evidence",
+    "url": "https://arxiv.org/abs/2610.41335",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-02T05:00:00+00:00",
+    "summary": "arXiv:2610.41335v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) over visually rich documents must find both relevant content and the evidence that supports an answer. Screenshot retrieval preserves images and page structure, but written facts within screenshots also need to be searchable. Moreover, topical relevance alone does not identify which retrieved tile contains evidence for the answer. We introduce Pix2Evidence, a multimodal RAG system that encodes each screenshot ti…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "5dc9795e43bf",
+    "title": "Defining Page-Centric Visual Document Retrieval and Evaluating Existing Benchmarks",
+    "url": "https://arxiv.org/abs/2610.41360",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-02T05:00:00+00:00",
+    "summary": "arXiv:2610.41360v1 Announce Type: new Abstract: In modern information retrieval (IR), documents are increasingly encountered as structured sequences of visually rich, paginated units, rather than as flat text. Example documents encountered in our daily life include Word files, PDFs, and slide decks. Free text-centric retrieval systems either ignore this structure entirely or destroy it through arbitrary passage chunking. In this paper, we formulate page-centric Visual Document Retrieval (VDR) wi…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "ea7539652d1d",
+    "title": "BrowseFlow: Sparse Event Flow Matching for Generative User Simulation",
+    "url": "https://arxiv.org/abs/2610.41374",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-02T05:00:00+00:00",
+    "summary": "arXiv:2610.41374v1 Announce Type: new Abstract: User simulation aims to reproduce how users interact with content and products across online platforms. Recent generative approaches have enriched user simulation with behavioral history and contextual information. However, realistic browsing simulation still faces two challenges. (i) Stochastic Responses: Even with the same recommendation feed, the same user may produce different browsing responses, yielding distinct behavioral trajectories. A log…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "82b046602619",
+    "title": "ProSearch: Benchmarking Multi-Constraint Protocol Retrieval in Experimental Science",
+    "url": "https://arxiv.org/abs/2610.41396",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-02T05:00:00+00:00",
+    "summary": "arXiv:2610.41396v1 Announce Type: new Abstract: In AI for Science scenarios, experimental design and method reproduction require retrieving protocols that satisfy multiple interdependent constraints, yet existing benchmarks lack systematic evaluation of this capability. To address this gap, we introduce ProSearch, a benchmark for multi-constraint protocol retrieval in experimental science. ProSearch has three key features: (1) realism, with queries grounded in real experimental records and exper…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "44674816786e",
+    "title": "How BERT-based Cross-Encoders Model Relevance in Information Retrieval?",
+    "url": "https://arxiv.org/abs/2610.41425",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-02T05:00:00+00:00",
+    "summary": "arXiv:2610.41425v1 Announce Type: new Abstract: Cross-encoders are the most effective but also the least efficient models in Information Retrieval. Despite their success, the mechanisms underlying their relevance predictions remain poorly understood, particularly how they process to match queries and documents. This lack of interpretability limits their optimization, can lead to suboptimal retrieval, especially out-of-domain, and raises efficiency concerns for over-parameterized models. To addre…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "72571e6825f6",
+    "title": "KITE: Retrieval as a Decision Procedure for Long-Term Conversational Memory",
+    "url": "https://arxiv.org/abs/2610.41521",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-02T05:00:00+00:00",
+    "summary": "arXiv:2610.41521v1 Announce Type: new Abstract: Many long-term memory systems for LLM agents are built around embedding-based retrieval. Al- though effective for semantic matching, similarity ranking alone does not establish whether re- trieved memories satisfy the conditions implied by a question. In this paper, we introduce KITE (Knowledge-Indexed Temporal Evidence), a vector-free framework that formulates memory re- trieval as an explicit decision procedure. KITE organizes multi-session conve…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "4e4c4e2388e7",
+    "title": "Towards Trustworthy Multi-stakeholder Recommender Systems",
+    "url": "https://arxiv.org/abs/2610.41674",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-02T05:00:00+00:00",
+    "summary": "arXiv:2610.41674v1 Announce Type: new Abstract: Recommender system (RS) nowadays has to reflect, combine, and solve often contrasting requirements and expectations from dozens of stakeholders. In fact, the problem is even more complicated as each of the stakeholders can simultaneously have various objectives creating a diverse and complicated environment with several stakeholders and their objectives in which a RS operates. To address this problems the Multi-objective and Multi-stakeholder RS ha…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "372344f26369",
+    "title": "Search When Needed, Proceed When Reliable: Metacognitive Reliability Supervision for Efficient Agentic Search",
+    "url": "https://arxiv.org/abs/2610.41738",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-02T05:00:00+00:00",
+    "summary": "arXiv:2610.41738v1 Announce Type: new Abstract: Efficient agentic search requires large language models (LLMs) to determine whether they can reliably proceed with their current knowledge or need additional external evidence. Supervision based on final-answer correctness or trajectory-level feedback evaluates realized trajectory performance. However, observed trajectory performance is jointly shaped by stochastic generation, retrieval quality, and downstream reasoning. Such signals therefore prov…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "2791f96bd92e",
+    "title": "Completeness and Cost of Retrieval Structures for Multi-Tool Requests in LLM Agents",
+    "url": "https://arxiv.org/abs/2610.41905",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-02T05:00:00+00:00",
+    "summary": "arXiv:2610.41905v1 Announce Type: new Abstract: An agent that must call several tools to fulfill a request fails when the tool retriever omits any one of them, yet tool retrievers are mostly built and evaluated on queries requiring a single tool. We compare representatives of six retrieval structures (flat lexical and dense retrieval, LLM query decomposition, LLM-navigated hierarchies, server-then-tool matching, dependency graphs, and trained set-level retrievers) across two multi-tool testbeds:…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "6b3727034943",
+    "title": "Recommendation Feedback Loops Shape Urban Income Segregation and Venue Visitation",
+    "url": "https://arxiv.org/abs/2610.41911",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-02T05:00:00+00:00",
+    "summary": "arXiv:2610.41911v1 Announce Type: new Abstract: Location-based recommender systems shape where people go in cities and learn from the visits they steer, forming a human-AI feedback loop. This feedback loop shapes whom people share places with across income groups and which venues keep attracting customers. Yet platforms judge these systems by their offline accuracy on past visits, a test in which the suggestions never change where people go and which therefore cannot capture long-term effects. S…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "57700131f5f9",
+    "title": "Prevented is Not Protected: What Attack Success Rate Hides about RAG",
+    "url": "https://arxiv.org/abs/2610.40742",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-02T05:00:00+00:00",
+    "summary": "arXiv:2610.40742v1 Announce Type: cross Abstract: Retrieval-Augmented Generation (RAG) is vulnerable to knowledge poisoning, where adversaries manipulate retrieved evidence to influence model outputs. Existing defenses are primarily evaluated using attack success rate (ASR), which obscures defense-induced failures and the mechanisms behind apparent attack prevention. To address this issue, this work introduces \\textbf{Aligned RAG Evaluation}, a matched-query protocol that jointly examines clean …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "13b0522c791e",
+    "title": "FieldGuideRAG: Image-Grounded GraphRAG for Fine-Grained Recognition with Vision-Language Models",
+    "url": "https://arxiv.org/abs/2610.40971",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-02T05:00:00+00:00",
+    "summary": "arXiv:2610.40971v1 Announce Type: cross Abstract: We present FieldGuideRAG, a training-free GraphRAG method in which a vision-language model, or VLM, recognizes fine-grained species by comparing the query with real photographs stored on the nodes of a knowledge graph. Multimodal GraphRAG systems describe each entity in text, and text conveys little of the visual detail that separates look-alike species. Our graph stores one photograph on every species node and links each species to its relatives…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "522d635d3427",
+    "title": "WebOverlay: High-Throughput Vision-Only Distillation for Extreme Aspect-Ratio Web Overlay Detection",
+    "url": "https://arxiv.org/abs/2610.41037",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-02T05:00:00+00:00",
+    "summary": "arXiv:2610.41037v1 Announce Type: cross Abstract: Web overlays, such as cookie consent banners, newsletter prompts, and age gates, obstruct automated web crawlers and degrade downstream document representations. While proprietary multimodal Large Language Models (MLLMs) can accurately identify overlays, their latency and inference cost preclude web-scale ingestion. Conversely, lightweight vision models struggle with full-page renderings characterized by extreme vertical aspect ratios, where stan…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "842579e5688b",
+    "title": "Hierarchical Dual-Graph Retrieval for Long-form Audio Reasoning",
+    "url": "https://arxiv.org/abs/2610.41390",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-02T05:00:00+00:00",
+    "summary": "arXiv:2610.41390v1 Announce Type: cross Abstract: Large audio language models (LALMs) struggle with long-form audio reasoning, as processing entire recordings often limits to capture query-relevant content distributed across distant segments while incurring substantial computational cost. We introduce AudioHelix, a hierarchical DualGraph framework tailored for LALMs' retrieval-augmented generation (RAG) systems. Unlike existing text-only or non-graph RAG approaches, AudioHelix connects related t…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "69c81e90abec",
+    "title": "Fidelity Synopses: Pre-Execution Plan Selection for Approximate Vector Search",
+    "url": "https://arxiv.org/abs/2610.41407",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-02T05:00:00+00:00",
+    "summary": "arXiv:2610.41407v1 Announce Type: cross Abstract: Vector search has become a database operator with many physical implementations: different index families, build-time and search-time parameters, and compressed or disk-resident variants. Each trades cost against fidelity, the fraction of a query's exact top-k nearest neighbors that a configuration returns. Deployments nevertheless choose one configuration offline and use it for every query, so they are sized for their hardest queries and overpay…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "db5312774f57",
+    "title": "Enhancing Knowledge Entity Relation Extraction in Abstracts and Full-text Content of Academic Articles Using Large Language Models",
+    "url": "https://arxiv.org/abs/2610.41552",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-02T05:00:00+00:00",
+    "summary": "arXiv:2610.41552v1 Announce Type: cross Abstract: This study investigates the effectiveness of large pre-trained language models (LLMs) for knowledge entity relation extraction (KERE) from academic papers. Existing studies have examined individual types of LLM-based strategies and evaluated model performance using metrics such as precision and recall. To provide a broader evaluation, this study investigates multiple strategies, including closed-source LLM-based CoT prompting, LoRA-adapted open-s…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "3b2842e16871",
+    "title": "Peeling the Matryoshka: Extracting Ontological Structure from Retrieval Embeddings",
+    "url": "https://arxiv.org/abs/2610.41785",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-02T05:00:00+00:00",
+    "summary": "arXiv:2610.41785v1 Announce Type: cross Abstract: Taxonomy construction is essential for knowledge-intensive NLP yet remains costly: clustering-based methods (i) need careful per-corpus tuning and yield unstable hierarchies, while LLM-based pipelines (ii) depend on expensive task-specific training that does not transfer across domains. We report an empirical finding that bears on both: in Matryoshka Representation Learning (MRL) embeddings, where each leading prefix is itself a usable, coarser v…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "2c3bc12efd94",
+    "title": "Time Will Tell: Harness Time to Denoise Collaborative Filtering",
+    "url": "https://arxiv.org/abs/2411.09181",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-02T05:00:00+00:00",
+    "summary": "arXiv:2411.09181v2 Announce Type: replace Abstract: Neural graph collaborative filtering is a powerful tool for recommendation due to its superb capability of capturing the user-item interaction. Despite the substantial progress, the noisy nature of interaction data remains a significant challenge in collaborative filtering, especially for data collected from implicit feedback. Both noisy interactions and interactions crafted by malicious users could greatly degenerate model performance. To puri…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "614ef9851533",
+    "title": "Your Spending Needs Attention: Modeling Financial Habits with Transformers",
+    "url": "https://arxiv.org/abs/2507.23267",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-02T05:00:00+00:00",
+    "summary": "arXiv:2507.23267v3 Announce Type: replace Abstract: Predictive models play a crucial role in the financial industry, enabling risk prediction, fraud detection, and personalized recommendations, where slight changes in core model performance can result in billions of dollars in revenue or losses. While financial institutions have access to enormous amounts of user data (e.g., bank transactions, in-app events, and customer support logs), leveraging this data effectively remains challenging due to …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f117ce2b8e83",
+    "title": "EMAR: Efficient Multi-domain Adaptive Retrieval",
+    "url": "https://arxiv.org/abs/2602.14960",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-02T05:00:00+00:00",
+    "summary": "arXiv:2602.14960v2 Announce Type: replace Abstract: Neural retrieval systems are increasingly deployed in multi-domain settings, where each domain may have its own vocabulary and word distribution. A common approach is to fine-tune separate models for each domain, achieving strong in-domain performance while increasing training costs and storage requirements. In contrast, a single model trained jointly across domains avoids model duplication but weakens robustness under domain shift. This create…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d5feb4a6042f",
+    "title": "What It Costs to Trust a Source: A Reproducible Method for Institutional Assessment of Author Disambiguation",
+    "url": "https://arxiv.org/abs/2610.40745",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-11-02T05:00:00+00:00",
+    "summary": "arXiv:2610.40745v1 Announce Type: new Abstract: Records of research outputs are curated with care by universities, and the effort is shaped by the external sources from which candidate records are drawn. The curation required before the author identities in such sources can be trusted is examined, and a reproducible method for estimating its cost is set out. Four tests are described; two can be run on public data alone, and two are conducted against an institution's own curated record, taken fro…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0efb63c134d6",
+    "title": "Comparative Evaluation of LLM-Based Review Paradigms for Academic Paper Quality Assessment",
+    "url": "https://arxiv.org/abs/2610.41391",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-11-02T05:00:00+00:00",
+    "summary": "arXiv:2610.41391v1 Announce Type: cross Abstract: Growing submission volumes have renewed interest in using large language models (LLMs) to support peer review. It remains unclear how such evaluation should be structured, how much the model matters, and whether LLM scores predict research impact. We evaluate five paradigms across three input representations and three LLMs on 232 stratified ICLR 2025 submissions. Direct absolute rating matches comparative ranking on rank correlation with human sc…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "faa855c20a67",
+    "title": "Observable-Specific Validity Tests for Scientific AI: Controlled Approximations and Intervention Response",
+    "url": "https://arxiv.org/abs/2610.41939",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-11-02T05:00:00+00:00",
+    "summary": "arXiv:2610.41939v1 Announce Type: cross Abstract: An approximation can reproduce an energy while missing its response, or satisfy an error tolerance without being certified by a given bound. We formulate observable-specific validity records for scientific artificial intelligence (AI) that link a reduction to its reference model, error measure, tolerance, parameter domain, and transformations or interventions. Explicit displacement and velocity certificates for a singularly perturbed oscillator r…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "191b6afc0610",
+    "title": "AutoAnalysis: An automated, self-updating meta-analysis of human-AI collaboration",
+    "url": "https://arxiv.org/abs/2610.42001",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-11-02T05:00:00+00:00",
+    "summary": "arXiv:2610.42001v1 Announce Type: cross Abstract: As generative artificial intelligence (AI) becomes more capable and widely used, understanding when and how humans should work with these systems is becoming increasingly important. However, the empirical evidence in this space offers conflicting recommendations, which leaves individuals and organizations without clear guidance on when to combine human and AI capabilities. Existing meta-analyses can help reconcile these findings, but they require…",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "eed9b68d54d4",
     "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
     "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
