@@ -1,5 +1,23 @@
 [
   {
+    "id": "0e45fab4c22b",
+    "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
+    "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
+    "source": "Wired AI",
+    "date": "2026-11-04T13:49:51+00:00",
+    "summary": "The AI minister now concedes the estimated figure is less than a third of that. Researchers blame the country’s slow rate of adoption",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f5f168ec4f0c",
+    "title": "Securing the agentic enterprise with data lineage",
+    "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+    "source": "MIT Tech Review",
+    "date": "2026-11-04T13:00:00+00:00",
+    "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s&#8230;",
+    "category": "Libraries & Archives"
+  },
+  {
     "id": "e93df968a0ea",
     "title": "Here's Why You Shouldn't Use AI to Vote",
     "url": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
