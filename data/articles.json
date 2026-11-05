@@ -1,5 +1,329 @@
 [
   {
+    "id": "7587b1572e75",
+    "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+    "url": "https://www.wired.com/story/aina-smart-ring/",
+    "source": "Wired AI",
+    "date": "2026-11-05T14:00:00+00:00",
+    "summary": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e734c883e54f",
+    "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+    "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
+    "source": "Wired AI",
+    "date": "2026-11-05T13:00:00+00:00",
+    "summary": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b8ffbccf0ff9",
+    "title": "AI’s Next Trick? Speaking Dolphin",
+    "url": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
+    "source": "Wired AI",
+    "date": "2026-11-05T12:00:00+00:00",
+    "summary": "Denise Herzing, the founder and director of the Wild Dolphin Project, is using AI to help understand audio and video footage of the marine mammals.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "398b9af75035",
+    "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
+    "url": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
+    "source": "Wired AI",
+    "date": "2026-11-05T11:45:00+00:00",
+    "summary": "OpenAI, Anthropic, and SpaceXSI have all reached out to Husk, an influencer who regularly goes viral by exposing the shortcomings of chatbots.",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c49ff6737114",
+    "title": "Item Representations Matter: Bridging Hard Semantic IDs and Soft Prototype Mixtures for Generative Retrieval",
+    "url": "https://arxiv.org/abs/2611.05799",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-05T05:00:00+00:00",
+    "summary": "arXiv:2611.05799v1 Announce Type: new Abstract: Modern recommender systems rely on generative retrieval techniques to predict the next item either as discrete codes or as a continuous vector. On the one hand, Semantic IDs (SIDs) give discrete models shared parameters and pretrained semantic structure, but discretizing items into hard codes discards some information from the original content embeddings. On the other hand, continuous models avoid quantization, yet typically use flat item lookup ta…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "9de56ffe41c7",
+    "title": "SciToT: Multimodal Tip-of-the-Tongue Retrieval for Scientific Papers",
+    "url": "https://arxiv.org/abs/2611.05829",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-05T05:00:00+00:00",
+    "summary": "arXiv:2611.05829v1 Announce Type: new Abstract: Researchers frequently encounter difficulties re-finding scientific papers when they remember aspects of the content but cannot recall reliable identifiers, such as titles or author names. This type of re-finding task, known as tip-of-the-tongue (ToT) retrieval, is particularly challenging for scientific documents, where recollections may involve textual information and visual elements, including figures, diagrams, and plots. Existing ToT retrieval…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "106622f3dd17",
+    "title": "Weaver: Weaving Preference Evidence through Incremental Reasoning for Personalized Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2611.05900",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-05T05:00:00+00:00",
+    "summary": "arXiv:2611.05900v1 Announce Type: new Abstract: Personalized retrieval-augmented generation requires extracting and applying user preferences from extended interaction histories. This task is challenging because preference evidence is scattered across past conversations and remains bound to specific temporal and situational contexts. Consequently, isolated fragments rarely provide complete support for a response, while preferences expressed under different conditions are easily conflated. To add…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "713a54f0619e",
+    "title": "Optimal Re-Ranking Depth",
+    "url": "https://arxiv.org/abs/2611.05908",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-05T05:00:00+00:00",
+    "summary": "arXiv:2611.05908v1 Announce Type: new Abstract: Second-stage neural rankers are commonly applied with a fixed re-ranking depth, assuming that retrieval effectiveness saturates as depth increases. Prior research has questioned the assumption that increasing the re-ranking depth yields linear performance gains, further suggesting that optimal re-ranking depth varies considerably from query to query. In the past, studying such phenomena was methodologically difficult given the scale of manual annot…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e134ebdc45f5",
+    "title": "One Basket, Many Experts: Decorrelated Re-ranking for Financial Asset Recommendation",
+    "url": "https://arxiv.org/abs/2611.05952",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-05T05:00:00+00:00",
+    "summary": "arXiv:2611.05952v1 Announce Type: new Abstract: Financial asset recommendation for retail investors is typically optimized for relevance, that is, how well a recommendation matches what each user will buy. From the service provider's point of view, the value of a recommendation also depends on portfolio performance: the risk-adjusted return the recommended assets (the basket) deliver, which drives user engagement and fee revenue. The two goals are rarely achieved jointly, because the recommendat…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5728d74064ca",
+    "title": "Do Search-Augmented Recommenders Use the Latest Search Episode?",
+    "url": "https://arxiv.org/abs/2611.06044",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-05T05:00:00+00:00",
+    "summary": "arXiv:2611.06044v1 Announce Type: new Abstract: Search-augmented recommenders can use the latest search episode and earlier searches. We introduce FocalSwap to test how these inputs contribute to the next recommendation. For each recommendation, it changes the latest search slot or all search inputs while holding the target, candidates, pre-search history, and scorer fixed. It compares neutral masks with matched observed-search replacements, recording rank changes, RR gains relative to each cont…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "de2b833ec6f8",
+    "title": "Generative Retrieval under Real-Time Supply Constraints in Local Commerce",
+    "url": "https://arxiv.org/abs/2611.06323",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-05T05:00:00+00:00",
+    "summary": "arXiv:2611.06323v1 Announce Type: new Abstract: Generative retrieval predicts semantic identifiers for candidate entities. In local retail and food delivery, candidates must also be serviceable for a particular user at a particular time. Location, weather, and traffic reshape merchant and product supply, so a catalog-valid identifier may be infeasible for the current request. Post-generation filtering removes such candidates only after beam capacity and inference computation have been spent. We …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "44459d6fcd44",
+    "title": "PMRecBench: A Benchmark for Personalization in Recommendation Agents under Multimodal Queries",
+    "url": "https://arxiv.org/abs/2611.06349",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-05T05:00:00+00:00",
+    "summary": "arXiv:2611.06349v1 Announce Type: new Abstract: On Web platforms for shopping and entertainment, recommendation agents under multimodal queries aim to deliver personalized recommendations that satisfy users' visually specified requirements and reflect preferences inferred from user histories. However, existing personalized recommendation benchmarks use text-only queries, while multimodal ones assess query matching without evaluating personalization based on real user histories. We introduce the …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c52811de11e6",
+    "title": "Deliberate Latent Reasoning for Sequential Recommendation",
+    "url": "https://arxiv.org/abs/2611.06521",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-05T05:00:00+00:00",
+    "summary": "arXiv:2611.06521v1 Announce Type: new Abstract: Sequential recommenders are widely applied in real-world scenarios to model user preferences and behavior patterns based on user interactions. Recent advances in sequential recommendation enhance transformer-based models with latent reasoning to refine user representations by autoregressively generating intermediate reasoning vectors. However, exploring the optimal reasoning depth for diverse user histories remains challenging: existing methods typ…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "60285d5158f0",
+    "title": "WISE: An Agentic Framework for Whole-page Multimodal Search Experience Attribution",
+    "url": "https://arxiv.org/abs/2611.06777",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-05T05:00:00+00:00",
+    "summary": "arXiv:2611.06777v1 Announce Type: new Abstract: Algorithm-driven services, including search, recommendation, and advertising, rely on multi-stage model pipelines. While research prioritizes model optimization, post-deployment monitoring focuses on operational reliability. Yet operationally healthy systems may still produce poor-quality results, exposing a gap in existing evaluation and monitoring practices. However, a systematic problem formulation and benchmark for this task remain lacking. To …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a6c154756165",
+    "title": "Algorithmic Authority and the Clinical Standard of Care",
+    "url": "https://arxiv.org/abs/2606.00044",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-05T05:00:00+00:00",
+    "summary": "arXiv:2606.00044v1 Announce Type: cross Abstract: The integration of artificial intelligence into clinical medicine creates a fundamental tension between algorithmic probabilistic reasoning and the experiential intuition of expert physicians; applying Lawrence Lessig's \\enquote{Code is Law} framework, I argue that the architecture of clinical AI systems already functions as de facto medical regulation, reshaping liability and the standard of care. Reframing AI \\enquote{hallucination} as structur…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "3ad14615a0b7",
+    "title": "LIBRA: Programmatic Induction of Executable Tool Libraries",
+    "url": "https://arxiv.org/abs/2611.05445",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-05T05:00:00+00:00",
+    "summary": "arXiv:2611.05445v1 Announce Type: cross Abstract: Large language model agents increasingly retrieve tools from large catalogs, yet most retrievers rank each tool independently by request similarity. For multi tool tasks, this recovers the goal matching tool while omitting prerequisite tools required by the workflow.We introduce LIBRA, a framework for Library Induction by Runtime Assembly that turns a flat tool catalog into an executable tool library. An LLM proposes per tool contracts of candida…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "5f493979bd5e",
+    "title": "RAGCompass: Generalizable Retriever Routing via Reranking",
+    "url": "https://arxiv.org/abs/2611.05596",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-05T05:00:00+00:00",
+    "summary": "arXiv:2611.05596v1 Announce Type: cross Abstract: Different retrievers exist for retrieval-augmented generation, yet none performs best for all queries. Therefore, the key question is: given a query and retrieved passages from different retrievers, which one is most suited for that query? Existing routers usually make predictions from query-specific features and a fixed pool of retrievers; such routers have no output for an unseen retriever and are incapable by design on a new corpus. To fill th…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "e30b62e45566",
+    "title": "Data-Efficient Scaling-Law Discovery for Recommendation Systems via Coupled Hyperparameter Scaling",
+    "url": "https://arxiv.org/abs/2611.05643",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-05T05:00:00+00:00",
+    "summary": "arXiv:2611.05643v1 Announce Type: cross Abstract: Large-scale ranking and recommendation models of Web platforms benefit from increased compute much as large language models do, and their scaling behavior is broadly power-law in form. Yet ranking models have heterogeneous architectures which makes their scaling law less straightforward than that of LLMs. We address how to discover the scaling law of an arbitrary ranking model efficiently. We introduce a scaling layer, which groups primitive arch…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "990e36e8d99b",
+    "title": "Combining Relevant Expert Knowledge Using Mixtures of Feedback Fuzzy Cognitive Maps",
+    "url": "https://arxiv.org/abs/2611.05664",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-05T05:00:00+00:00",
+    "summary": "arXiv:2611.05664v1 Announce Type: cross Abstract: A neuro-symbolic system should combine only relevant answers from expert agents or other knowledge sources. Using only relevant experts for a given input query becomes ever more important for accuracy and scalability as the knowledge network grows and connects ever more knowledge sources. We extend the standard definition of relevance from the legal theory of evidence: An answer is relevant if and only if it is both probative and material for the…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0c8e3be8bae1",
+    "title": "Turbocharging PiPNN for Proximity and $k$-NN Graph Building",
+    "url": "https://arxiv.org/abs/2611.05690",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-05T05:00:00+00:00",
+    "summary": "arXiv:2611.05690v1 Announce Type: cross Abstract: Graph-based Approximate Nearest Neighbor Search (ANNS) indexes such as HNSW and Vamana deliver state-of-the-art query performance at the cost of large indexing times. The recently introduced PiPNN method drastically accelerated index construction by way of a partitioning-based algorithm leveraging dense matrix multiplication and top-$K$ aggregation kernels. In this paper, we unlock the full potential of PiPNN's hardware-friendly algorithm design.…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "4e17ddf0967f",
+    "title": "Toward a Compositional Knowledge Architecture for a Shared Organizational Cortex",
+    "url": "https://arxiv.org/abs/2611.05753",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-05T05:00:00+00:00",
+    "summary": "arXiv:2611.05753v1 Announce Type: cross Abstract: Organizations accumulate evidence in conversations, documents, decisions and relationships, but they act on interpretations: judgements assembled from several observations, resting on assumptions, and revised as circumstances change. Existing retrieval, knowledge graphs and agent memory keep the records and lose the interpretation. We propose a four-layer architecture, Signals, Domains, Claims and Dimensions, in which interpretations persist with…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "671010c49cc7",
+    "title": "From Waste to Discovery: Recycling High-Scored Unexposed Candidates in Taobao Feed Recommendation",
+    "url": "https://arxiv.org/abs/2611.05997",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-05T05:00:00+00:00",
+    "summary": "arXiv:2611.05997v1 Announce Type: cross Abstract: Helping users discover new interests is vital to the long-term health of industrial recommender systems, yet the usual remedy, boosting exposure of under-explored (discovery) content, often backfires in production. We report URED (Unexposed Recycling for Efficient Discovery), a training-free recall-stage system serving Taobao feed recommendation at Alibaba for over six months to tens of millions of daily active users. It rests on a production-val…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "382c905ce4a4",
+    "title": "ArcRAG: Agentic Compositional Retrieval over Knowledge Graphs",
+    "url": "https://arxiv.org/abs/2611.06481",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-05T05:00:00+00:00",
+    "summary": "arXiv:2611.06481v1 Announce Type: cross Abstract: Graph-based retrieval-augmented generation (GraphRAG) answers questions by retrieving over a knowledge graph built from a corpus. Yet retrieval strategies are designed around the structure their own construction pipeline produces, and whether they survive a change of construction is rarely tested. We study this cross-construction portability: whether one retrieval procedure, with no construction-specific schema, relation names, or retuning, stays…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "f40d3da07c90",
+    "title": "Signed but Steerable: Measuring and Closing the Text-Vector Integrity Gap in Offline Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2611.06498",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-05T05:00:00+00:00",
+    "summary": "arXiv:2611.06498v1 Announce Type: cross Abstract: Offline retrieval-augmented generation (RAG) on edge devices is updated through signed knowledge packs that carry text and precomputed embedding vectors. A signature proves who published a pack, not that its vectors encode its text. We study this text-vector integrity gap. A verifier that recomputes vectors and accepts them within a cosine tolerance concedes a predictable share of queries to an attacker who controls the vectors: the hijack rate e…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "c4ad59b17a84",
+    "title": "Alternatives to Shallow Autoencoders for Collaborative Filtering",
+    "url": "https://arxiv.org/abs/2611.06610",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-05T05:00:00+00:00",
+    "summary": "arXiv:2611.06610v1 Announce Type: cross Abstract: Collaborative filtering (CF) is a cornerstone of recommender systems and plays a relevant role in many modern applications. CF uses user-item interaction data to discover future preferences. Although deep learning models have shown promise in CF, Embarrassingly Shallow Autoencoders for Sparse Data (EASE) has gained attention for its outstanding ranking accuracy provided by its closed-form solution. EASE relies primarily on relationships among ite…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c370973a0cd7",
+    "title": "Balancing hierarchical representation and quantization: A performance trade-off in text embeddings",
+    "url": "https://arxiv.org/abs/2611.06859",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-05T05:00:00+00:00",
+    "summary": "arXiv:2611.06859v1 Announce Type: cross Abstract: Hierarchical text embedding models offer variable-length representations, while quantization reduces numerical precision; both aim to improve computational efficiency. This work is an empirical benchmark study of how these two orthogonal, already-established techniques interact. We evaluate 38 tasks from the Massive Text Embedding Benchmark (MTEB) using four transformer-based embedding models, covering 1D and 2D hierarchical representations combi…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "d1d58b9870d1",
+    "title": "When Reviews Are Scarce: Structure-Aware Review Imputation for Recommendation in Realistic Sparse Review Settings",
+    "url": "https://arxiv.org/abs/2508.01128",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-05T05:00:00+00:00",
+    "summary": "arXiv:2508.01128v2 Announce Type: replace Abstract: Textual reviews enrich recommender systems with fine-grained preference signals and enhanced explainability. However, in real-world scenarios, users rarely leave reviews, resulting in severe sparsity that undermines the effectiveness of review-aware recommenders under partial observability. A natural remedy is to synthesize the missing reviews to restore the textual signal these recommenders rely on. Yet, conventional imputation techniques, suc…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "44c502b5b8c2",
+    "title": "Can Large Language Models Review the Scientific Literature? A Test Against a 102-Article Benchmark",
+    "url": "https://arxiv.org/abs/2611.05459",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-11-05T05:00:00+00:00",
+    "summary": "arXiv:2611.05459v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly used to support scientific literature reviews, yet evaluations often examine individual tasks rather than the review process as a whole. We assess six AI tools across four stages: finding relevant articles, interpreting them, synthesizing across them, and proposing future research. The benchmark is a published review of the Spanish plume weather pattern and its 102-article corpus. In the initial searc…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "8575a4925707",
+    "title": "U.S. State Guidance on AI in K-12 Education: A Comparative Content and Citation Analysis",
+    "url": "https://arxiv.org/abs/2611.06762",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-11-05T05:00:00+00:00",
+    "summary": "arXiv:2611.06762v1 Announce Type: cross Abstract: In the years following the public release of ChatGPT in late 2022, more than half of U.S. states have published formal guidelines around AI usage in K-12 education, creating a record of largely independent state education departments responding to a shared technological disruption. In this work, we analyze publicly available AI usage guidance documents from 35 states in the U.S. and Puerto Rico. We compare the guidance in these documents across v…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "dfe669542d52",
+    "title": "Light Fidelity in Academic Libraries: A Radiant Journey to Light the Future",
+    "url": "https://arxiv.org/abs/2611.01109",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-11-05T05:00:00+00:00",
+    "summary": "arXiv:2611.01109v2 Announce Type: replace Abstract: Academic contexts have changed due to the fast expansion of communication technology, affecting information access, sharing, and dissemination. Light Fidelity (LiFi) is a new technology that may transform academic library connections in this changing environment. This article examines how LiFi can accelerate data transmission, secure data, and provide a more dynamic and collaborative learning environment to spur creativity. Academic libraries m…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "88d1bdb9c160",
+    "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
+    "url": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
+    "source": "Wired AI",
+    "date": "2026-11-04T23:13:14+00:00",
+    "summary": "After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low Earth orbit.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "375e8d830db9",
+    "title": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
+    "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/",
+    "source": "Wired AI",
+    "date": "2026-11-04T20:41:29+00:00",
+    "summary": "Leading the Future, backed by Silicon Valley’s biggest billionaires, had a war chest of $100 million and an aggressive stance against AI regulation. All of it didn’t add up to much on Tuesday night.",
+    "category": "AI & Information Governance"
+  },
+  {
+    "id": "d6e23a6b838c",
+    "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
+    "url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
+    "source": "Wired AI",
+    "date": "2026-11-04T20:06:21+00:00",
+    "summary": "Google is tying up AI Overviews with traditional search, angering parents and educators who worry that easy, machine-generated answers are leaving kids less capable.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "5c83259af928",
+    "title": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
+    "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+    "source": "Wired AI",
+    "date": "2026-11-04T19:16:25+00:00",
+    "summary": "“Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2550523e2a0e",
+    "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+    "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+    "source": "MIT Tech Review",
+    "date": "2026-11-04T18:50:55+00:00",
+    "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0d2f61a42e62",
+    "title": "The Results Are In: Voters Hate Data Centers",
+    "url": "https://www.wired.com/story/the-results-are-in-voters-hate-data-centers/",
+    "source": "Wired AI",
+    "date": "2026-11-04T16:56:17+00:00",
+    "summary": "From high-profile Senate races to local rezoning initiatives, data centers and their supporters did miserably on the ballot in the 2026 midterms.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "0e45fab4c22b",
     "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
     "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
