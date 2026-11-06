@@ -1,5 +1,230 @@
 [
   {
+    "id": "e804e0e79289",
+    "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+    "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+    "source": "MIT Tech Review",
+    "date": "2026-11-06T10:00:00+00:00",
+    "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ba185b273185",
+    "title": "Reducing Representational Interference in Retrieval Embeddings with Trainable Prefix Tokens",
+    "url": "https://arxiv.org/abs/2611.07298",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-06T05:00:00+00:00",
+    "summary": "arXiv:2611.07298v1 Announce Type: new Abstract: Embedding models compress variable-length text into fixed-size vector representations, but this compression can entangle semantic content with residual token-level information, such as artifacts arising from attention sink behavior. We propose a simple method that prepends trainable [DUMP] tokens to the input during embedding model training. The method keeps the model architecture, pooling strategy, and training loss unchanged, while optimizing the…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "bddfe638305f",
+    "title": "CacheGraft: Enhancing Retrieval-Augmented Generation via Latent-Space Document Enrichment",
+    "url": "https://arxiv.org/abs/2611.07393",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-06T05:00:00+00:00",
+    "summary": "arXiv:2611.07393v1 Announce Type: new Abstract: Recent work in machine learning has demonstrated that transformer-based language model agents can communicate state not only through text, but also directly in latent space via key-value (KV) caches. In this paper, we argue that such cache-to-cache translation can provide utility beyond the original motivating application of real-time agent communication and can instead be utilized for retrieval-augmented generation (RAG). Building on the Cache-to-…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "49c58861301a",
+    "title": "BRIDGE: Bridging the Semantic Quantization Gap for Generative Recommendation",
+    "url": "https://arxiv.org/abs/2611.07425",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-06T05:00:00+00:00",
+    "summary": "arXiv:2611.07425v1 Announce Type: new Abstract: Generative recommendation retrieves items by autoregressively generating Semantic IDs(SIDs), where an RQ-VAE quantizes each item into a hierarchical SID sequence that the decoder generates level by level. We identify an overlooked bottleneck in this paradigm: the Semantic Quantization Gap(SQG). Quantization derives SIDs from rich continuous signals, including codebook centroids, local neighborhood geometry, and level-wise entropy. However, the deco…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "78f72431fcb5",
+    "title": "OptST: Optimizing Semantic Tokenization for LLM-Enhanced Recommendation",
+    "url": "https://arxiv.org/abs/2611.07523",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-06T05:00:00+00:00",
+    "summary": "arXiv:2611.07523v1 Announce Type: new Abstract: Semantic information can enrich the identifiers and structured fields used by recommender systems. Semantic tokenization provides a structured representation of this information by converting LLM-derived user profiles into discrete tokens. In the common two-stage pipeline, the tokenizer is trained before the recommender. Its token assignments are then treated as fixed input features during recommendation training. As a result, the downstream recomm…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "9887d0256455",
+    "title": "What Gets Hacked in a Collaborative Reward for LLM Recommenders: The Part That Does Not Depend on the User",
+    "url": "https://arxiv.org/abs/2611.07588",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-06T05:00:00+00:00",
+    "summary": "arXiv:2611.07588v1 Announce Type: new Abstract: Collaborative-filtering (CF) scores provide graded, personalized rewards for training large language model (LLM) recommenders through reinforcement learning. However, these rewards can cause exposure collapse: even though the CF model itself produces diverse top recommendations across users, an LLM optimized with its rewards concentrates on fewer items. We decompose each score into an item-mean component, the item's average CF score across user his…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "8a5970413e4f",
+    "title": "Beyond Independent Predictions: Learning the Browsing Journey for Sequence-Level Re-ranking",
+    "url": "https://arxiv.org/abs/2611.07591",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-06T05:00:00+00:00",
+    "summary": "arXiv:2611.07591v1 Announce Type: new Abstract: Re-ranking aims to present users with an ordered list that maximizes sequence-level utility. Industrial deployments widely adopt the Generator--Evaluator framework, where the generator proposes candidate sequences, and the evaluator scores them to select the best one for display. The fidelity of the evaluator's utility estimates thus directly governs recommendation quality. However, existing evaluators predominantly follow the \\textbf{Independent B…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "732b99f8b4cd",
+    "title": "MEMOIR: A Training-Free Memory Lifecycle for Long-Horizon LLM Agents",
+    "url": "https://arxiv.org/abs/2611.07631",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-06T05:00:00+00:00",
+    "summary": "arXiv:2611.07631v1 Announce Type: new Abstract: Long-horizon LLM agents require memory systems that preserve useful information across sessions and retrieve it when needed. Existing systems treat these as separate problems: memories are written prospectively with static importance scores that are never revised after use. This creates two coupled failure modes: consolidation can silently destroy evidence that future queries require, while retrieval continues to favor stale memories. We propose ME…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "36b11e456585",
+    "title": "Probabilistic Relevance Decisions for Semantic Retrieval",
+    "url": "https://arxiv.org/abs/2611.08014",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-06T05:00:00+00:00",
+    "summary": "arXiv:2611.08014v1 Announce Type: new Abstract: Dense similarity supplies reusable corpus representations, while probabilistic relevance decisions offer query-dependent document scoring. We compare dense-only BGE-M3 with TypeSafe Jev Noul and OpenAI Decisions Predicate scores on the official BEIR SciFact test benchmark. The study evaluates 300 official test queries using identical positive-enriched 100-document pools and full-corpus dense retrieval followed by reranking at candidate depths of 50…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c2825561427d",
+    "title": "Domain-specific information retrieval",
+    "url": "https://arxiv.org/abs/2611.08228",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-06T05:00:00+00:00",
+    "summary": "arXiv:2611.08228v1 Announce Type: new Abstract: Information Retrieval (IR) is much more than ad hoc web search: a large portion of the information seeking activities takes place in specific domains, often addressing work-related tasks. Examples are lawyers finding relevant prior cases for a legal case and academic researchers studying the background material for a paper. In Chapter 2 we outline the most common domain-specific tasks, datasets and applications. Domain-specific IR has a number of c…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "ac13d35b307f",
+    "title": "GINGER: Spicing Up Graph-Based Vector Search",
+    "url": "https://arxiv.org/abs/2611.08306",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-06T05:00:00+00:00",
+    "summary": "arXiv:2611.08306v1 Announce Type: new Abstract: We present \\textsc{Ginger}, a state-of-the-art open-source C++ library for graph-based approximate nearest neighbor search (ANNS). We developed \\textsc{Ginger} at Google to push the speed and memory efficiency of graph search on large and high-dimensional embedding datasets. \\textsc{Ginger} surpasses existing ANNS libraries with regards to query throughput and indexing time while matching the memory footprint of the most space-efficient competitors…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "dd8a4c4efbfc",
+    "title": "MapHub: Daily Relevance Heatmaps of New arXiv Preprints for a Research Community",
+    "url": "https://arxiv.org/abs/2611.07174",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-06T05:00:00+00:00",
+    "summary": "arXiv:2611.07174v1 Announce Type: cross Abstract: MapHub, the MIDAS arXiv Preprint Hub, assesses each day's new arXiv submissions for every participant in a research community, with a large language model reading each paper against portfolios built for the participants. It publishes the relevance scores, from 0 to 100, as a heatmap that shows whose work each paper touches. In the authors' blind ratings, the top 10\\% of papers by MapHub's scores held about 70\\% of the raters' own top 5\\%, pooled,…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "83c6293972f6",
+    "title": "MEvince: Knowledge-Constrained LLM Reasoning for Technique Identification from Malware Reports",
+    "url": "https://arxiv.org/abs/2611.07486",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-06T05:00:00+00:00",
+    "summary": "arXiv:2611.07486v1 Announce Type: cross Abstract: Mapping behavioral intelligence in malware analysis reports to ATT&amp;CK techniques supports threat analysis and defense, but reliable identification remains challenging. Supporting evidence is often scattered across long, heterogeneous reports, while closely related techniques share behavioral cues and differ only in subtle but decisive details. While large language models (LLMs) can use external knowledge to interpret reports, they may assign …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "f990b6ffd70b",
+    "title": "Tasteply: Externalizing Stable and Situational Preference as Manipulable Spatial Objects",
+    "url": "https://arxiv.org/abs/2611.07851",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-06T05:00:00+00:00",
+    "summary": "arXiv:2611.07851v1 Announce Type: cross Abstract: Most recommender systems treat user preferences as a single signal to infer and optimize, yet human preferences are a mix of a stable preference and situational preferences that turn on and off depending on context. Through Tasteply, we externalize this preference structure as manipulable spatial objects. Tasteply represents each situational preference as an attractor and the stable preference as an underlying global field. Users can adjust their…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a7077c8043e8",
+    "title": "CORE: Coarse-to-Fine Search with Context Management for Deep Research",
+    "url": "https://arxiv.org/abs/2611.07859",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-06T05:00:00+00:00",
+    "summary": "arXiv:2611.07859v1 Announce Type: cross Abstract: Deep research agents answer complex questions through repeated search. They rely on a harness that runs their tool calls and returns evidence to their context. This creates a trade-off: Search works best over long passages, which give enough context for reliable semantic matching. But the returned evidence should be short, because every observation stays in the agent's context for the rest of the trajectory. We introduce CORE, a training-free har…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "6cba663257c6",
+    "title": "Persistent Retrieval for Conversational Agents: A Study of Retrieval Efficiency",
+    "url": "https://arxiv.org/abs/2611.07899",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-06T05:00:00+00:00",
+    "summary": "arXiv:2611.07899v1 Announce Type: cross Abstract: Conversational agents can retrieve information directly or delegate retrieval to a subagent. This design choice affects how retrieval history is maintained, what context each model call receives, and what information must be re-retrieved in follow-up questions. We compare three designs: skill-based retrieval in the main agent, a non-persistent retrieval subagent that generates a findings response, and our persistent retrieval subagent, which main…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f2d1947babb3",
+    "title": "ZeroRAG: Adaptive Semantic Peer Routing for Decentralized Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2611.07928",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-06T05:00:00+00:00",
+    "summary": "arXiv:2611.07928v1 Announce Type: cross Abstract: Retrieval-augmented generation (RAG) is a standard approach to enhance the reliability of large language model (LLM) outputs by retrieving documents relevant to a query and supplying them in the LLM prompt. Today's RAG systems collect, index, and serve these documents from centralized stores. In practice, however, documents are owned by organizations, devices, and individuals who cannot or will not surrender custody of them to a central party, e.…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "55834a51225b",
+    "title": "ArcadeDB in Python: An In-Process Multi-Model Database",
+    "url": "https://arxiv.org/abs/2611.07971",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-06T05:00:00+00:00",
+    "summary": "arXiv:2611.07971v1 Announce Type: cross Abstract: Some Python workflows need transactional reads and writes over documents, traversals over a graph, and similarity search over vector embeddings. In practice these are split across separate systems (a document store, a graph engine, and a vector index), and the data is copied between them and kept consistent by application code. ArcadeDB is an open-source multi-model database engine, written in Java, that supports all three access patterns and can…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "96214a43bf67",
+    "title": "Decision Models as Retrieval Gates Against Injection and Pollution",
+    "url": "https://arxiv.org/abs/2611.08325",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-06T05:00:00+00:00",
+    "summary": "arXiv:2611.08325v1 Announce Type: cross Abstract: Retrieved web text can carry instructions aimed at the language model, or synthetic pages written to mislead. We test whether released open-weight decision models, which answer typed questions about a text without generating tokens, can screen retrieved passages against both threats. On a benchmark of 1,000 questions over forum-style web pages with hidden injected instructions, a Kev-4B gate reads each passage's HTML. Attack success, measured aut…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "cd56adeff24f",
+    "title": "FloodSQL-Bench: A Retrieval-Augmented Benchmark for Geospatially-Grounded Text-to-SQL",
+    "url": "https://arxiv.org/abs/2512.12084",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-06T05:00:00+00:00",
+    "summary": "arXiv:2512.12084v3 Announce Type: replace Abstract: Existing Text-to-SQL benchmarks primarily focus on single-table queries or limited joins in general-purpose domains, and thus fail to reflect the complexity of domain-specific, multi-table and geospatial reasoning, To address this limitation, we introduce FLOODSQL-BENCH, a geospatially grounded benchmark for the flood management domain that integrates heterogeneous datasets through key-based, spatial, and hybrid joins. The benchmark captures re…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "968a437958d2",
+    "title": "OneRanker: Unified Generation and Ranking with One Model in Industrial Advertising Recommendation",
+    "url": "https://arxiv.org/abs/2603.02999",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-06T05:00:00+00:00",
+    "summary": "arXiv:2603.02999v4 Announce Type: replace Abstract: The end-to-end generative paradigm is revolutionizing advertising recommendation systems, driving a shift from traditional cascaded architectures towards unified modeling. However, practical deployment faces three core challenges: the misalignment between interest objectives and business value, the target-agnostic limitation of generative processes, and the disconnection between generation and ranking stages. Existing solutions often fall into …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "400952d8b651",
+    "title": "Multimodal Graph RAG for Long-range Visually Rich Document Understanding",
+    "url": "https://arxiv.org/abs/2606.28780",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-06T05:00:00+00:00",
+    "summary": "arXiv:2606.28780v2 Announce Type: replace Abstract: Multimodal large language models (MLLMs) are widely applied to visual document understanding. However, comprehending long documents remains an issue by the limited context window. Though recent multimodal retrieval-augmented generation (MMRAG) can address this challenge by retrieving relevant pages. It still struggles with the visual question answering (VQA) requiring holistic comprehension of a document. To cope with this, knowledge graph (KG)…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "46ecc313668e",
+    "title": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
+    "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
+    "source": "Wired AI",
+    "date": "2026-11-05T21:37:18+00:00",
+    "summary": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "df8c7d856220",
+    "title": "Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’",
+    "url": "https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/",
+    "source": "Wired AI",
+    "date": "2026-11-05T16:26:57+00:00",
+    "summary": "Alexis Ohanian is trying to figure out what’s next for user-generated content now that so much of the internet is “compromised.”",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b1bc50b07b6a",
+    "title": "Bridging State Aging Plans and AgeTech Development",
+    "url": "https://fpf.org/blog/bridging-state-aging-plans-and-agetech-development/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-11-05T15:24:16+00:00",
+    "summary": "As the U.S. population ages, technology developers, health care providers, and policymakers are increasingly interested in &#8220;AgeTech&#8221;—consumer technologies designed to support older adults and their caregivers. However, building effective, privacy-preserving technology for older adults requires more than technical innovation; it requires alignment with public policy structures. State Aging Plans, federally mandated comprehensive blueprints under the [&#8230;]",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "7587b1572e75",
     "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
     "url": "https://www.wired.com/story/aina-smart-ring/",
