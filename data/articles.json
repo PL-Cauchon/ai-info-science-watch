@@ -1,5 +1,32 @@
 [
   {
+    "id": "f5ca85f34e51",
+    "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
+    "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
+    "source": "Wired AI",
+    "date": "2026-11-07T11:00:00+00:00",
+    "summary": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "938e42643530",
+    "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+    "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+    "source": "Wired AI",
+    "date": "2026-11-06T18:43:43+00:00",
+    "summary": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "0667fe3d9844",
+    "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
+    "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+    "source": "Wired AI",
+    "date": "2026-11-06T16:00:00+00:00",
+    "summary": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "e804e0e79289",
     "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
     "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
