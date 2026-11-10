@@ -1,5 +1,113 @@
 [
   {
+    "id": "dfd6684379dd",
+    "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
+    "url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
+    "source": "Wired AI",
+    "date": "2026-11-10T14:00:00+00:00",
+    "summary": "Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d7b8cbead96b",
+    "title": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
+    "url": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
+    "source": "Wired AI",
+    "date": "2026-11-10T11:00:00+00:00",
+    "summary": "The “abliterators” are flooding the internet with AI models that never say no, making it easier for people to improve their cyberdefenses—or build a bomb.",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "df8566683e35",
+    "title": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
+    "url": "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/",
+    "source": "Wired AI",
+    "date": "2026-11-10T11:00:00+00:00",
+    "summary": "The risk of nuclear catastrophe is real, as is the fallout of the China–US domination game (hi there, spies). But no need to panic about Skynet.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2eff05fe6c16",
+    "title": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
+    "url": "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/",
+    "source": "Wired AI",
+    "date": "2026-11-10T07:00:00+00:00",
+    "summary": "A researcher’s trawl through publicly available code found private information was at risk across multiple departments.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c98e24de8e30",
+    "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
+    "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
+    "source": "Wired AI",
+    "date": "2026-11-10T05:01:00+00:00",
+    "summary": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal? Do the same for “all the software of the world.”",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ab14eb7e6ad1",
+    "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
+    "url": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
+    "source": "Wired AI",
+    "date": "2026-11-10T00:18:19+00:00",
+    "summary": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "3ec2e278915e",
+    "title": "The backlash about data centers might really just be about electricity",
+    "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+    "source": "MIT Tech Review",
+    "date": "2026-11-09T19:35:33+00:00",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "50d303e5bf84",
+    "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+    "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+    "source": "MIT Tech Review",
+    "date": "2026-11-09T17:05:43+00:00",
+    "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.&#160; I spoke with Wiener on Friday, only a&#8230;",
+    "category": "AI & Information Governance"
+  },
+  {
+    "id": "b60218929c21",
+    "title": "Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year",
+    "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/",
+    "source": "Wired AI",
+    "date": "2026-11-09T14:30:56+00:00",
+    "summary": "The Nvidia CEO began working with consultants from Heller as early as October 2025, around the same time he was first linked to a suspected Chinese spy.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b044ec790c18",
+    "title": "Innovating with AI in the special chemicals industry",
+    "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+    "source": "MIT Tech Review",
+    "date": "2026-11-09T13:00:00+00:00",
+    "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, make better-informed&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "bc2d9bf8826b",
+    "title": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
+    "url": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
+    "source": "Wired AI",
+    "date": "2026-11-09T11:00:00+00:00",
+    "summary": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e2ef60ab4c4b",
+    "title": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
+    "url": "https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/",
+    "source": "Wired AI",
+    "date": "2026-11-09T08:00:00+00:00",
+    "summary": "As data center protests break out across Europe, a mismatched band of campaigners is trying to block Google from building a sprawling new facility east of London.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "3b57d3e3ef87",
     "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
     "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
