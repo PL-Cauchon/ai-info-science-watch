@@ -1,5 +1,77 @@
 [
   {
+    "id": "e28bd745fc51",
+    "title": "Meet Colette Kress, Nvidia’s New Interim CEO",
+    "url": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/",
+    "source": "Wired AI",
+    "date": "2026-11-12T14:14:33+00:00",
+    "summary": "Nvidia’s longtime chief financial officer helped transform the company into an AI powerhouse. Now she’s taking the reins following Jensen Huang’s resignation on Thursday.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "550d6b582c32",
+    "title": "Jensen Huang Resigns as Nvidia CEO",
+    "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/",
+    "source": "Wired AI",
+    "date": "2026-11-12T13:58:06+00:00",
+    "summary": "Nvidia’s cofounder and chief executive resigned on Thursday after the company opened an investigation into his affair with an alleged Chinese intelligence asset.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "64107def8a2b",
+    "title": "Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently",
+    "url": "https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/",
+    "source": "Wired AI",
+    "date": "2026-11-12T10:30:00+00:00",
+    "summary": "The Palantir CEO touted his “progressive” worldview in a recent interview. Let’s see how that lines up with his comments during the company’s earnings call two weeks ago.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "9e1b97f74eba",
+    "title": "Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out",
+    "url": "https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out/",
+    "source": "Wired AI",
+    "date": "2026-11-12T10:15:00+00:00",
+    "summary": "The union representing flight attendants for the defunct airline struck a deal with Google to scrub sensitive employee records from a $10 million data sale.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "6876cf9cc9e3",
+    "title": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+    "url": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
+    "source": "Wired AI",
+    "date": "2026-11-11T19:55:54+00:00",
+    "summary": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c1e65afe955f",
+    "title": "A Startup Wants to Fight AI Bioweapons With AI",
+    "url": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
+    "source": "Wired AI",
+    "date": "2026-11-11T17:00:00+00:00",
+    "summary": "Radical Numerics has developed a model that it says can identify natural and AI-engineered pathogens without an internet connection.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "052fdbefc1b3",
+    "title": "The AO3 Shutdown Is Pitting Fanfic Readers Against Authors",
+    "url": "https://www.wired.com/story/the-ao3-shutdown-is-pitting-fanfic-readers-against-authors/",
+    "source": "Wired AI",
+    "date": "2026-11-11T16:13:03+00:00",
+    "summary": "“It has left a sour taste in my mouth,” says a Heated Rivalry fanfic author who found her work uploaded to AO3 mirror sites without her consent.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "68811e0d8b6b",
+    "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
+    "url": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
+    "source": "Wired AI",
+    "date": "2026-11-11T15:30:00+00:00",
+    "summary": "China’s use of sexpionage is a well-established intelligence tactic with recent, high-profile examples. So how did the world’s most powerful AI executive fall for it?",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "75e855ee589e",
     "title": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks",
     "url": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
