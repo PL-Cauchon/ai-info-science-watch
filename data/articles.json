@@ -1,5 +1,86 @@
 [
   {
+    "id": "41eafb7e6a89",
+    "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
+    "url": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
+    "source": "Wired AI",
+    "date": "2026-11-13T11:45:00+00:00",
+    "summary": "Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c39c6000d880",
+    "title": "Silicon Valley Is Still Defending Jensen Huang",
+    "url": "https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/",
+    "source": "Wired AI",
+    "date": "2026-11-12T22:29:43+00:00",
+    "summary": "Nvidia employees and tech insiders never thought the chip king would lose his job. Despite his sudden resignation, many of them are still in denial.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "4fe809fcc4df",
+    "title": "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/",
+    "source": "Wired AI",
+    "date": "2026-11-12T22:14:41+00:00",
+    "summary": "In a special episode of “Uncanny Valley,” we break down Jensen Huang’s resignation from Nvidia, what comes next for the company, and where the AI industry goes from here.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "dfd22f5d04a6",
+    "title": "Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women",
+    "url": "https://www.wired.com/story/jensen-huang-colette-kress-replacement-powerful-women-in-tech/",
+    "source": "Wired AI",
+    "date": "2026-11-12T20:35:11+00:00",
+    "summary": "A recent WIRED investigation explored the complicated definition of “power” for women in the industry. Jensen Huang’s answers now appear to show his blind spots.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "07356858caea",
+    "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+    "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+    "source": "MIT Tech Review",
+    "date": "2026-11-12T20:16:24+00:00",
+    "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.” Foster, a Democrat who serves on the Committee on&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1e7e5b56f417",
+    "title": "FPF Launches Roundtable Series on Agentic AI, Privacy, and PETs",
+    "url": "https://fpf.org/blog/fpf-launches-roundtable-series-on-agentic-ai-privacy-and-pets/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-11-12T20:02:55+00:00",
+    "summary": "On October 19, 2026, the FPF Center for Artificial Intelligence launched a four-part virtual roundtable series on Agentic AI. In the first roundtable, Agentic Data Flows: Privacy, Data Minimization, and PETs in Agentic Deployment, guest experts explored a taxonomy of agentic AI privacy harms, and discussed implementation challenges and enterprise risks across the AI value [&#8230;]",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "0d616058aa94",
+    "title": "Jensen Huang’s $470 Billion Affair",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/",
+    "source": "Wired AI",
+    "date": "2026-11-12T18:59:58+00:00",
+    "summary": "This week on “Uncanny Valley,” the team unpacks the Nvidia CEO’s affair with an alleged Chinese spy and what that means for the AI industry.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e1acab05b268",
+    "title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
+    "url": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
+    "source": "Wired AI",
+    "date": "2026-11-12T18:05:41+00:00",
+    "summary": "After initial talks stalled, workers at Google DeepMind are trying to bypass company management in their bid to unionize.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1ddbc0fb4982",
+    "title": "Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month",
+    "url": "https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/",
+    "source": "Wired AI",
+    "date": "2026-11-12T17:59:15+00:00",
+    "summary": "Since the scandal involving an alleged Chinese spy began, Nvidia has lost an eye-watering sum from its market value.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "e28bd745fc51",
     "title": "Meet Colette Kress, Nvidia’s New Interim CEO",
     "url": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/",
