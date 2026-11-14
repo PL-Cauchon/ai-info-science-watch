@@ -1,5 +1,41 @@
 [
   {
+    "id": "82ab3d6d0794",
+    "title": "Beware the New AI-Fueled Ransomware Boom",
+    "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+    "source": "Wired AI",
+    "date": "2026-11-14T13:00:00+00:00",
+    "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b84b4c49c41d",
+    "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+    "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
+    "source": "Wired AI",
+    "date": "2026-11-14T11:00:00+00:00",
+    "summary": "Normally, aviation is slow to embrace new technology—but AI has come for the skies.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "1876ce8bb4f4",
+    "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+    "url": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
+    "source": "Wired AI",
+    "date": "2026-11-13T19:08:57+00:00",
+    "summary": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "6cf396048e28",
+    "title": "Jensen Huang and the End of the Founder Fairy Tale",
+    "url": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
+    "source": "Wired AI",
+    "date": "2026-11-13T16:00:00+00:00",
+    "summary": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "41eafb7e6a89",
     "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
     "url": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
