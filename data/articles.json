@@ -1,5 +1,149 @@
 [
   {
+    "id": "1ffad9936947",
+    "title": "Jensen Huang Is Gone. Now What?",
+    "url": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
+    "source": "Wired AI",
+    "date": "2026-11-16T16:12:51+00:00",
+    "summary": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "adba844aff17",
+    "title": "Building trustworthy AI by fencing it in, not predicting it",
+    "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+    "source": "MIT Tech Review",
+    "date": "2026-11-16T16:04:28+00:00",
+    "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had told the agents to do&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "e6b37f5da94e",
+    "title": "Building AI that can work across the enterprise",
+    "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+    "source": "MIT Tech Review",
+    "date": "2026-11-16T13:00:00+00:00",
+    "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: rethinking how data, business processes, governance,&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "242d49a88f8c",
+    "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
+    "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+    "source": "Wired AI",
+    "date": "2026-11-16T11:00:00+00:00",
+    "summary": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "fd3065a28771",
+    "title": "Towards High-Performance Multimodal Discovery: Evaluating Retrieval Efficacy and Operational Scalability in Digital Libraries",
+    "url": "https://arxiv.org/abs/2611.17726",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-16T05:00:00+00:00",
+    "summary": "arXiv:2611.17726v1 Announce Type: new Abstract: Large-scale digital repositories with million plus digitized volumes serve as vital engines for scientific and scholarly discovery. However, as collections grow, finding specific research or educational material remains a significant challenge. This difficulty is compounded by the multimodal nature of texts, that is, texts which combine dense narrative content with essential illustrative charts, annotated diagrams, and complex layouts. Historically…",
+    "category": "Libraries & Archives"
+  },
+  {
+    "id": "2553d84b48e9",
+    "title": "Who Counts as Exposed? Measurement Choices in an Open, Re-estimable Index of Occupational AI Exposure",
+    "url": "https://arxiv.org/abs/2611.18168",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-16T05:00:00+00:00",
+    "summary": "arXiv:2611.18168v1 Announce Type: new Abstract: Occupational AI exposure indices are used as inputs to economic analysis, workforce planning, and policy, and the choices built into them decide which workers are described as exposed. We build an open, re-estimable task-level index and vary its two main design decisions, context and calibration, to show how much the answer depends on them. For each of the 18,796 occupation--task pairs in \\onet, seven open-weight reasoning models rate exposure unde…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "e4aafba38c05",
+    "title": "Explanations that Transfer: Interpreting Medical Retrieval with Sparse AutoEncoders",
+    "url": "https://arxiv.org/abs/2611.18179",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-16T05:00:00+00:00",
+    "summary": "arXiv:2611.18179v1 Announce Type: new Abstract: Medical AI systems that answer users' queries rely on retrieving medical knowledge from large document collections. In this context, finetuning general models on medical datasets can improve retrieval relevance. Yet the dense embeddings underlying modern retrieval systems remain largely opaque, making it difficult to understand the mechanics behind their results. Moreover, adapting to a specific medical dataset risks losing transferability to new c…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "f1bd70109da8",
+    "title": "RACE: Ranking-Uncertainty Aware Capacity-Adaptive Customization for Efficient Sequential Recommendation",
+    "url": "https://arxiv.org/abs/2611.18244",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-16T05:00:00+00:00",
+    "summary": "arXiv:2611.18244v1 Announce Type: new Abstract: Efficient sequential recommendation has emerged as a promising paradigm for providing real-time personalized service. To deploy models under resource-constrained environment, model compression becomes a necessity, yet existing methods typically apply uniform compression ratios, overlooking the heterogeneity in user intent complexity. This \"one-size-fits-all\" approach leads to a fundamental Capacity-Complexity Mismatch, where computational resources…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8eb3cc0e9119",
+    "title": "MeReader: An Offline, Privacy-Preserving, Progress-Aware AI Assistant for Narrative eBook Reading",
+    "url": "https://arxiv.org/abs/2611.18513",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-16T05:00:00+00:00",
+    "summary": "arXiv:2611.18513v1 Announce Type: new Abstract: This paper introduces MeReader, a privacy-preserving, offline and progress-aware AI assistant designed to function as a contextual companion for narrative reading on consumer hardware. Unlike conventional Large Language Model (LLM)-based systems that process documents/books online in an all-texts-at-once type of way, thereby risking narrative spoilers, MeReader confines both retrieval and generation to the reader's distinct position in the text. Th…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "fff7d19619b8",
+    "title": "RecMem: Recurrent Memory Compression for Long-Sequence Generative Recommendation",
+    "url": "https://arxiv.org/abs/2611.17921",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-16T05:00:00+00:00",
+    "summary": "arXiv:2611.17921v1 Announce Type: cross Abstract: Generative recommendation benefits from long interaction histories, but the cost of processing them directly grows with history length. We propose RecMem, a recurrent memory compression framework guided by three desiderata: space invariance, semantic fidelity, and lifelong evolvability. RecMem compresses historical segments into a fixed set of memory slots using a bifurcated encoder-decoder with shared lower layers and slot-wise forget-gated upda…",
+    "category": "Records Management & AI"
+  },
+  {
+    "id": "448dd8c68f68",
+    "title": "StreamEmbed: Real-Time Indexing from Pixels for Screenshot Retrieval",
+    "url": "https://arxiv.org/abs/2611.18516",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-16T05:00:00+00:00",
+    "summary": "arXiv:2611.18516v1 Announce Type: cross Abstract: Screen history can serve as searchable visual memory for people and agents, but unlike an offline corpus, it must be encoded and indexed as each screenshot arrives. OCR-based indexing is fast but loses visual information; visual encoding takes over two seconds. Yet screens change incrementally: most pixels repeat within and across screenshots. This raises a question: do visual encoders need to recompute their representations from scratch for ever…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "7f5250b68ff1",
+    "title": "Federated User Behavior Modeling for Privacy-Preserving LLM Recommendation",
+    "url": "https://arxiv.org/abs/2604.14833",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-16T05:00:00+00:00",
+    "summary": "arXiv:2604.14833v2 Announce Type: replace Abstract: Large Language Models have shown great success in recommender systems. However, the limited and sparse nature of user data often restricts the LLM's ability to effectively model behavior patterns. To address this, existing studies have explored cross-domain solutions by conducting Cross-Domain Recommendation tasks. But previous methods typically assume domains are overlapped and can be accessed readily. None of the LLM methods address the priva…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "9bbe3312a84b",
+    "title": "LEGIT: Live Eligibility Gating over Identifier Tries for Constrained Decoding of Heterogeneous Pages",
+    "url": "https://arxiv.org/abs/2611.10357",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-16T05:00:00+00:00",
+    "summary": "arXiv:2611.10357v2 Announce Type: replace Abstract: A generative recommender names each candidate with a short token sequence, a Semantic ID, and recommends by generating those tokens. Some generative recommenders, including the Uber Eats search engine we are building, write a whole results page, stores with their menu items, in one decoding pass. Every Semantic ID on such a page must name a real store or item that is eligible for the search, such as a store that delivers to the user's location,…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "25142c38211a",
+    "title": "Chi-Square Wavelet Graph Neural Networks for Heterogeneous Graph Anomaly Detection",
+    "url": "https://arxiv.org/abs/2505.18934",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-16T05:00:00+00:00",
+    "summary": "arXiv:2505.18934v3 Announce Type: replace-cross Abstract: Graph Anomaly Detection (GAD) in heterogeneous networks presents unique challenges due to node and edge heterogeneity. Existing Graph Neural Network (GNN) methods primarily focus on homogeneous GAD and thus fail to address three key issues: (C1) Capturing abnormal signal and rich semantics across diverse meta-paths; (C2) Retaining high-frequency content in HIN dimension alignment; and (C3) Learning effectively from difficult anomaly sampl…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ef5720ac7b8d",
+    "title": "Evaluating Chain-of-Thought Reasoning through Reusability and Verifiability",
+    "url": "https://arxiv.org/abs/2602.17544",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-16T05:00:00+00:00",
+    "summary": "arXiv:2602.17544v2 Announce Type: replace-cross Abstract: AI applications increasingly compose multiple models, where one model acts on the output produced by another model. The transferred text can also carry the reasoning of the sender model. Chain-of-thought is our experimental instance of such text. We ask three questions about such inter-model reasoning transfer. Is the reasoning transmitted reliably? Is it useful to the receiver? Is it safe? We study these three questions with a Sender-Rec…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c50f2d3e3cb9",
+    "title": "Federated Vector Retrieval across Heterogeneous VectorDBs",
+    "url": "https://arxiv.org/abs/2611.01514",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-16T05:00:00+00:00",
+    "summary": "arXiv:2611.01514v2 Announce Type: replace-cross Abstract: Vector databases are now core infrastructure for AI retrieval systems, yet many real deployments must serve queries over multiple independently constructed vectorDBs built with different embedding models. This creates a systems problem of federated retrieval over heterogeneous vectorDBs: vectors and similarity scores are not directly comparable across embedding spaces, while fully resolving this incompatibility through corpus-wide re-embe…",
+    "category": "Information Retrieval & Search"
+  },
+  {
     "id": "0a0eb0d9ab0e",
     "title": "AI DJs Completely Kill My Groove",
     "url": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
