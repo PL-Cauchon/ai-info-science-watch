@@ -1,5 +1,50 @@
 [
   {
+    "id": "86f07be892b0",
+    "title": "Research Reports",
+    "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+    "source": "MIT Tech Review",
+    "date": "2026-11-17T14:39:46+00:00",
+    "summary": "To access a report, click on the corresponding image below.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b79f0ac15dde",
+    "title": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
+    "url": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
+    "source": "Wired AI",
+    "date": "2026-11-17T11:00:00+00:00",
+    "summary": "Live Rewind and Siri Recap can transcribe missed moments and summarize your day—if you don’t mind a little social clumsiness.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "6203f8f06a55",
+    "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
+    "url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
+    "source": "Wired AI",
+    "date": "2026-11-17T11:00:00+00:00",
+    "summary": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ba3cf84247ee",
+    "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
+    "url": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
+    "source": "Wired AI",
+    "date": "2026-11-17T10:47:45+00:00",
+    "summary": "Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running software companies and designing iPhones to manufacturing lethal munitions.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "9c493a96e3fa",
+    "title": "The open-source movement wants Jensen Huang back",
+    "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+    "source": "MIT Tech Review",
+    "date": "2026-11-16T18:38:47+00:00",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "1ffad9936947",
     "title": "Jensen Huang Is Gone. Now What?",
     "url": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
