@@ -1,5 +1,239 @@
 [
   {
+    "id": "1b11d2c31e28",
+    "title": "‘Just Ridiculous’: A Famed Philosopher Takes on AI Consciousness",
+    "url": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
+    "source": "Wired AI",
+    "date": "2026-11-18T15:02:40+00:00",
+    "summary": "Thomas Nagel has done landmark work on consciousness in nonhumans; this week, he won the million-dollar Berggruen Prize for his contributions to the field. And he has a lot of thoughts on AI.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "bb3ee1cf50e2",
+    "title": "The AI Hype Index: AI is everywhere",
+    "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+    "source": "MIT Tech Review",
+    "date": "2026-11-18T14:42:44+00:00",
+    "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to the supermarket, and&#8230;",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "d1dd49b4f83d",
+    "title": "This smell startup says its AI nose is as good as a human’s",
+    "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+    "source": "MIT Tech Review",
+    "date": "2026-11-18T10:20:30+00:00",
+    "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world’s first foundation&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a426f6b90b1d",
+    "title": "Lovable Wants You to Vibe Code Your Dream Job",
+    "url": "https://www.wired.com/story/lovable-wants-you-to-vibe-code-a-living/",
+    "source": "Wired AI",
+    "date": "2026-11-18T10:00:00+00:00",
+    "summary": "This Swedish startup dominated the vibe-coded app boom. Two years after launch, Lovable is shifting gears to help users run vibe-coded businesses.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "bc658e73acce",
+    "title": "Over a Third of Gen Z-ers Rely on AI for Friendship",
+    "url": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/",
+    "source": "Wired AI",
+    "date": "2026-11-18T05:01:00+00:00",
+    "summary": "Young people who have online-only friends or use AI as a social companion face higher odds of loneliness than those who do not, a new Gallup report reveals.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "df06c1668844",
+    "title": "Beyond Bitwidth: Deployment-Constrained Mixed-Precision Quantization for Multilingual LLM Inference on NVIDIA Blackwell",
+    "url": "https://arxiv.org/abs/2611.21974",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-18T05:00:00+00:00",
+    "summary": "arXiv:2611.21974v1 Announce Type: new Abstract: Low-bit LLM quantization is useful only if a model preserves service-relevant accuracy, executes through supported GPU kernels, and meets measured memory and latency limits. We study Qwen3-8B on NVIDIA B200 with vLLM, including INT2/INT3, GPTQ, NVFP4, and mixed-precision configurations. We verify native packed execution and precision on all 144 fused linear modules and evaluate Korean, English, numerical, and reasoning quality under preregistered g…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "a31d67975422",
+    "title": "SIMQ: A Single Graph-based Index for Multi-Vector Query",
+    "url": "https://arxiv.org/abs/2611.22079",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-18T05:00:00+00:00",
+    "summary": "arXiv:2611.22079v1 Announce Type: new Abstract: Multi-vector retrieval models such as ColBERT achieve state-of-the-art effectiveness by representing documents as sets of token-level vectors and scoring via MaxSim, but their high computational cost limits scalability to large corpora. Existing approximate methods face fundamental bottlenecks: centroid interaction matrix approaches require computing a full matrix at every query and rely on GPU-accelerated clustering, while data-oblivious compressi…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "6dabdd160bfd",
+    "title": "Cluster-Guided Decoding with Trust-Region Constraints for Personalized Recommendation",
+    "url": "https://arxiv.org/abs/2611.22163",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-18T05:00:00+00:00",
+    "summary": "arXiv:2611.22163v1 Announce Type: new Abstract: Most recommenders score each item in the catalog separately, and do not explicitly model which semantic region of the catalog a recommendation belongs to. Models expressive enough to offer that control are often too slow to run over a full catalog for online inference. In this paper, we present Cluster-Guided Generative Reconstruction (CG2R), which learns a hierarchy of semantic clusters and uses a cluster-level prior to steer item ranking for pers…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2f1730e0b9a2",
+    "title": "Teaching Language Models to Narrow Boolean Patent Searches from Search Feedback",
+    "url": "https://arxiv.org/abs/2611.22270",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-18T05:00:00+00:00",
+    "summary": "arXiv:2611.22270v1 Announce Type: new Abstract: Patent prior-art searchers issue Boolean queries line by line, broadening to find relevant documents and narrowing until candidates can be screened. We distill 38,397 Japan Patent Office search reports into executable expert strategies, re-execute them, and evaluate generated strategies by citation recall and the smallest set containing each citation. Prompted models write valid, high-recall strategies but leave citations in sets too large to scree…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "3ee84a29160e",
+    "title": "GuardAgent: A Memory-Augmented Agentic Framework for Adaptive Detection of Adversarial Promotions in LLM-Based Recommendation",
+    "url": "https://arxiv.org/abs/2611.22274",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-18T05:00:00+00:00",
+    "summary": "arXiv:2611.22274v1 Announce Type: new Abstract: In traditional recommender systems (RSs), textual information typically serves as auxiliary signals for representation learning. In contrast, in LLM-based RSs, textual information becomes the primary medium for recommendation generation through semantic understanding and reasoning. This shift fundamentally changes the attack surface, making promotion-driven manipulations more feasible, effective, and harder to detect. However, effectively detecting…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "3601db73ff47",
+    "title": "NONSENSE: Non-Semantic Strings Expose Semanticity Gaps in Dense Retrieval",
+    "url": "https://arxiv.org/abs/2611.22353",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-18T05:00:00+00:00",
+    "summary": "arXiv:2611.22353v1 Announce Type: new Abstract: Dense retrieval is central to modern search, question answering, and retrieval-augmented generation, where high similarity is often treated as evidence of semantic relevance. We examine how far this assumption can be stressed. NONSENSE is a black-box sparse-edit probe that constructs visibly non-semantic strings while forbidding query-term copying, optimizing only the dense similarity between a query and the string. Across five BEIR-style datasets …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "10aab69a567e",
+    "title": "Deal With It: On Better Schedules for Listwise Reranking",
+    "url": "https://arxiv.org/abs/2611.22392",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-18T05:00:00+00:00",
+    "summary": "arXiv:2611.22392v1 Announce Type: new Abstract: Listwise LLM rerankers cannot reliably rank hundreds of documents in a single call, and rely on schedules to orchestrate their calls. Parallel schedules split candidates into groups and advance a fixed quota from each. When a group holds more of the top passages than its quota, some are cut, and expensive repair calls become required. We show that the way candidates are split matters where such a quota can bind, and that, in expected cuts, the best…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "284b22c378db",
+    "title": "More Than a Score: Reinforcement Learning with Verbalized Feedback for Generative Recommendation",
+    "url": "https://arxiv.org/abs/2611.22410",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-18T05:00:00+00:00",
+    "summary": "arXiv:2611.22410v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used for generative recommendation, where recommended items are generated directly from users' interaction histories. To further improve recommendation quality, reinforcement learning (RL) has been applied to align these models with recommendation objectives. However, existing RL methods rely on scalar rewards to implicitly guide exploration. These rewards do not specify which aspects of a candidate con…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "efdf459d81a7",
+    "title": "From Relevance to Utility: Rubric Alignment in Yuanbao Search",
+    "url": "https://arxiv.org/abs/2611.22503",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-18T05:00:00+00:00",
+    "summary": "arXiv:2611.22503v1 Announce Type: new Abstract: Agentic search demands that a search engine move beyond per document relevance ranking to assemble document sets optimized for downstream LLM reasoning. Prior work addresses this either by improving individual pipeline stages in isolation or by applying RL based selection on top of relevance trained upstream modules, leaving the full stack unaligned to utility for reasoning. We propose rubric aligned search, a framework that unifies the traditional…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "84fd5f987aca",
+    "title": "MIPR: A Benchmark for Reasoning-Intensive Multimodal Intent-to-Product Retrieval with Multi-Category Solutions",
+    "url": "https://arxiv.org/abs/2611.22509",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-18T05:00:00+00:00",
+    "summary": "arXiv:2611.22509v1 Announce Type: new Abstract: Real-world e-commerce queries often express user intent without naming a target product, and a single intent may be fulfilled by products from multiple categories. However, existing multimodal retrieval benchmarks typically assume a relatively well-defined target, leaving retrieval for intents with multi-category solutions less explored. To fill this gap, we introduce MIPR, a benchmark for Multimodal Intent-to-Product Retrieval comprising 3,522 mul…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d962c9b05d56",
+    "title": "Evaluating AST-Derived Knowledge Graph Retrieval for AIOps Incident Diagnosis in Apache Kafka",
+    "url": "https://arxiv.org/abs/2611.21625",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-18T05:00:00+00:00",
+    "summary": "arXiv:2611.21625v1 Announce Type: cross Abstract: Incident diagnosis requires retrieving source-linked operational evidence from large codebases. We evaluate graph-augmented retrieval for Apache Kafka using an abstract-syntax-tree (AST)-derived ownership graph over 1,600 source-linked log records and an audited benchmark of 315 incident-style queries covering 103 unique targets. Vector-only retrieval is a strong baseline at Recall@20 of 0.956, and neither static nor confidence-guided staged AST …",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "5d8cab2c2af1",
+    "title": "Urban Representation Learning for Identifying Potential Disparities in Crime Reporting",
+    "url": "https://arxiv.org/abs/2611.21825",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-18T05:00:00+00:00",
+    "summary": "arXiv:2611.21825v1 Announce Type: cross Abstract: Open crime data support urban safety analysis but reflect reported incidents rather than the complete distribution of criminal activity, potentially introducing spatial distortions in downstream analysis. We propose a self-supervised urban representation learning framework for identifying unusual reporting patterns relative to representation-similar peers using only georeferenced crime records. The method constructs complementary hourly, weekly, …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "f92af07b730b",
+    "title": "Complexity and precision in quantum associative retrieval",
+    "url": "https://arxiv.org/abs/2611.21941",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-18T05:00:00+00:00",
+    "summary": "arXiv:2611.21941v1 Announce Type: cross Abstract: We show that efficient and high-precision quantum associative retrieval is possible with an exponential complexity advantage with respect to the classical brute force approach and with a polynomial capacity advantage with respect to classical neural network implementations for any number of patterns scaling polynomially in the number of qubits. Both classical neural and quantum associative memories store the patterns in a Hamiltonian; in the clas…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "9499b87e092a",
+    "title": "RICoT: Recurrent Interleaved Chain-of-Thought for Page Stream Segmentation",
+    "url": "https://arxiv.org/abs/2611.22382",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-18T05:00:00+00:00",
+    "summary": "arXiv:2611.22382v1 Announce Type: cross Abstract: Large language models (LLMs) have renewed interest in Page Stream Segmentation (PSS), splitting a multi-page file into its constituent documents. Yet published LLM methods still frame the task as boundary classification over one or a few neighboring pages, and commercial document-splitting APIs do not disclose their methods. We reimagine PSS for LLMs as a sequential process over the whole stream and propose RICoT (Recurrent Interleaved Chain-of-T…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "5511e70b3e4d",
+    "title": "NewsReX: An Open-Source Multi-Framework for Neural News Recommendation",
+    "url": "https://arxiv.org/abs/2508.21572",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-18T05:00:00+00:00",
+    "summary": "arXiv:2508.21572v2 Announce Type: replace Abstract: Reproducing and comparing results in neural news recommendation research remains difficult due to fragmented codebases, inconsistent preprocessing pipelines, and tight coupling between models and deep learning frameworks. We present NewsReX, an open-source framework that unifies multiple neural news recommendation models across two ML backends (PyTorch and JAX/Flax). Models are defined through a structured YAML specification that captures archi…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "31df613c6413",
+    "title": "Retrieving Complementary Evidence for Multi-Hop RAG with Semantic Gain Graphs",
+    "url": "https://arxiv.org/abs/2610.15285",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-18T05:00:00+00:00",
+    "summary": "arXiv:2610.15285v2 Announce Type: replace Abstract: Multi-hop retrieval-augmented generation (RAG) requires finding documents whose evidence is useful in combination. Query relevance and graph connectivity help locate related content, but neither directly measures the additional information one document contributes given another. We introduce SG$^2$RAG, a framework that represents this complementarity through semantic gain. Offline, a large language model assesses the relevant and nonredundant i…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "eafebcfc1840",
+    "title": "REGER: Modeling inter-item Relations with Semantic IDs for Generative Recommendation",
+    "url": "https://arxiv.org/abs/2610.37584",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-18T05:00:00+00:00",
+    "summary": "arXiv:2610.37584v4 Announce Type: replace Abstract: Personalized recommendation depends on learning semantic and collaborative relations among items from online content and user interactions. Generative recommendation (GR) offers a promising paradigm by autoregressively generating discrete semantic IDs (SIDs) of items. However, randomly initialized SID token embeddings and GR models trained from scratch do not directly inherit the semantic relations inherent in items, while inter-item collaborat…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "7403f00ccae9",
+    "title": "Enhancing Stock Market Information Retrieval with Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2611.03747",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-18T05:00:00+00:00",
+    "summary": "arXiv:2611.03747v2 Announce Type: replace Abstract: Natural Language Processing (NLP) has been widely applied in financial domains, enabling automated analysis and retrieval of stock market information. However, traditional NLP-based systems often struggle with maintaining contextual accuracy and generating relevant responses in dynamic financial environments. To address these challenges, Retrieval-Augmented Generation (RAG) models have emerged as a powerful solution, combining retrieval-based m…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "ea6184f1cddb",
+    "title": "Where Do Highly Cited Scientists Stand? A Multi-Dimensional Analysis of Positional Distribution in the Top 2% Ranking",
+    "url": "https://arxiv.org/abs/2611.22817",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-11-18T05:00:00+00:00",
+    "summary": "arXiv:2611.22817v1 Announce Type: new Abstract: The Top 2% Scientists list is widely used. Yet current applications either only count the number of scientists in different units or criticize the list's validity as a measure of individual impact. We introduce positional enrichment, a scale-free framework that compares observed to expected counts across percentile bins on the list, revealing where a unit's scientists tend to sit along the list rather than how many it contributes. Applying position…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "88de20243cdf",
+    "title": "Embedding or bridging? AI4Science teams differ more in knowledge recombination than in problem novelty",
+    "url": "https://arxiv.org/abs/2611.22366",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-11-18T05:00:00+00:00",
+    "summary": "arXiv:2611.22366v1 Announce Type: cross Abstract: AI for Science (AI4Science) is reshaping scientific research, yet how the organization of AI-related and domain-scientific work relates to different dimensions of research performance remains poorly understood. We analyze 489,409 AI4Science articles published between 1990 and 2025, identifying seven affiliation-based organizational configurations comprising three forms of embedding and four forms of cross-unit bridging. Focusing on 2006-2025, we …",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "6a740dd42e07",
+    "title": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
+    "url": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
+    "source": "Wired AI",
+    "date": "2026-11-17T22:19:19+00:00",
+    "summary": "Despite pressure from President Trump, Elon Musk, and Silicon Valley executives, Nvidia’s board says it “does not intend” to reinstate the company’s ousted CEO.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "86f07be892b0",
     "title": "Research Reports",
     "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
