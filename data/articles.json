@@ -1,5 +1,212 @@
 [
   {
+    "id": "cafd31ea08c1",
+    "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
+    "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+    "source": "Wired AI",
+    "date": "2026-11-19T12:00:00+00:00",
+    "summary": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger towards data centers could impact its growth.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "24673aeae097",
+    "title": "PGPO: Prototype-Guided Progressive Obfuscation for Privacy-Preserving LLM-Enhanced Recommendation",
+    "url": "https://arxiv.org/abs/2611.23236",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2611.23236v1 Announce Type: new Abstract: LLM-enhanced recommender systems encode item side information into semantic embeddings, but these embeddings may leak sensitive textual attributes through inversion attacks. Existing input-side defenses rely on trusted collection or local token perturbation, often disrupting the inter-item semantic topology needed for recommendation. To address it, we introduce relational fidelity as the key objective, requiring semantic shift for privacy while pre…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "e129bfdf21ef",
+    "title": "From Docket Minutes to Case Trajectories: Building Analysis-Ready Criminal Court Data",
+    "url": "https://arxiv.org/abs/2611.23537",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2611.23537v1 Announce Type: new Abstract: Criminal court records are often fragmented, noisy, and siloed, making it challenging for both legal experts and community stakeholders to access and analyze court data to identify trends and provide public oversight. In this paper, we introduce a system for data ingestion, harmonization, and dashboard visualization designed for New Orleans criminal court proceedings data, aimed at both expert and lay audiences. Our system collects and harmonizes d…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "09e8e129c6ef",
+    "title": "CONCORD-Rec: Catalog-Conditioned Modality Utility for Semantic-ID Diffusion Recommendation",
+    "url": "https://arxiv.org/abs/2611.23710",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2611.23710v1 Announce Type: new Abstract: Multimodal generative recommendation with discrete semantic identifiers (SIDs) requires distinguishing historical modalities that merely alter token predictions from those that genuinely reduce catalog-level ambiguity. When audiovisual, visual, or textual streams are missing, degraded, or semantically conflicting, uniform fusion and unconstrained token gates can propagate misleading content across iterative denoising steps. We propose CONCORD-Rec, …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "dd47eef7052c",
+    "title": "MARS Technical Report",
+    "url": "https://arxiv.org/abs/2611.24006",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2611.24006v1 Announce Type: new Abstract: Modern industrial recommender systems use multi-stage cascades--retrieval, pre-ranking, ranking, and re-ranking--to narrow millions of candidates to a personalized list. While each stage deploys sophisticated models, pipeline-level decisions on channel activation, quotas, model selection, and score fusion remain engineer-tuned and user-agnostic within each scenario. This report presents MARS (Multi-stage Agentic Recommendation System), extending pe…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "6e42bb8e6cce",
+    "title": "X-split Argus: Learning Reusable History Tokens for Efficient CTR Prediction",
+    "url": "https://arxiv.org/abs/2611.24283",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2611.24283v1 Announce Type: new Abstract: Accurate click-through rate (CTR) prediction depends on user representations that capture both persistent preferences and recent intent, yet processing extensive behavioral histories for every ranking request is costly under production compute and latency constraints. We present X-split ARGUS, a framework for ad ranking whose history compressor and online ranker are trained end to end. The compressor encodes past interactions into a compact set of …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "673dfdbd8e4d",
+    "title": "Can Programs Replace LLM Judges? Executable Program Judges for Scalable and Efficient Relevance Labeling",
+    "url": "https://arxiv.org/abs/2611.24849",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2611.24849v1 Announce Type: new Abstract: Large language model (LLM) judges have become a common way to create large-scale relevance judgments for retrieval evaluation. However, each judgment requires a potentially expensive call to a frontier model, and the judgments are hard to interpret and may not be reproducible. In this paper, we ask whether an LLM can write a readable program for each topic that replaces its per-document judgments. To address these issues, we propose ExecJudges, a m…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "de69ffab7316",
+    "title": "Prioritize, Don't Decide: What We Learned Auditing a Deployed Human-in-the-Loop CV Sorter",
+    "url": "https://arxiv.org/abs/2611.23359",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2611.23359v1 Announce Type: cross Abstract: A single academic vacancy can draw hundreds of applications, and the first screening round consumes most of a committee's time. We describe a CV Priority Sorter deployed at a national platform for academic vacancies and integrated with its vacancy database. It proposes a reading order for a pile of CVs and leaves every decision to the committee, pairing a frozen multilingual transformer encoder with a per-session linear model that retrains after …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "bccfb7687311",
+    "title": "LusoClin: A Synthetic Clinical Note Dataset for Medical Information Retrieval in European Portuguese",
+    "url": "https://arxiv.org/abs/2611.23454",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2611.23454v1 Announce Type: cross Abstract: Access to large-scale clinical text collections is crucial for advancing medical information retrieval research, including clinical note search, patient cohort identification, and domain-adapted retrieval models. However, real clinical notes are rarely available due to privacy regulations, which particularly limits progress for low-resource languages such as European Portuguese. We present LusoClin, a publicly released dataset of synthetic clinic…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "0e61df0e485c",
+    "title": "VIBRA: Backward-Compatible Cross-Modal Retrieval with Consensus Barycenters",
+    "url": "https://arxiv.org/abs/2611.23606",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2611.23606v1 Announce Type: cross Abstract: Backward-compatible retrieval enables a new encoder to query the gallery that an old model has already encoded, so that a cross-modal retrieval system can be upgraded without re-encoding billions of items. Existing compatible methods either fit the old query and stay near the accuracy of the old model, or run the old and the new encoder for every query. We propose VIBRA, which matches relevance on the old gallery, corrects the errors of a single …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "64c2a355e957",
+    "title": "KnowMe Paper Radar: Lightweight Discovery of Promising Papers in the Age of Autoresearch",
+    "url": "https://arxiv.org/abs/2611.23702",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2611.23702v1 Announce Type: cross Abstract: The growing volume of topically similar papers makes it difficult to identify new work that can offer useful research insights or methodological guidance. We present KnowMe Paper Radar, a lightweight discovery tool that combines multiple sources of evidence into personalized reading priorities. Users specify topics, priorities, exclusions and dates; the system brings together topical relevance, recency, author research histories, collaboration pa…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "66a4e386632a",
+    "title": "ReflectRec: Cycle-Consistency Preference Verification for LLM-based Recommendation",
+    "url": "https://arxiv.org/abs/2611.23969",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2611.23969v1 Announce Type: cross Abstract: CoT-style LLM recommenders generate a natural-language preference note as a chain-of-thought prefix to ranking, but the note is trusted without verification, and the ranker never consults behaviorally similar users. We propose ReflectRec, organized around a preference-to-history round-trip verifier whose recall score serves as an operational signal of preference-to-history recoverability, enabling conditional regeneration for low-recoverability p…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "e1bedd3241f6",
+    "title": "Task-Oriented Network Ranging via Joint Graph and Schedule Design",
+    "url": "https://arxiv.org/abs/2611.24702",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2611.24702v1 Announce Type: cross Abstract: Measuring inter-node distances is the basis for network localization, whereas acquiring node positions does not require a fully connected graph of distances. Existing complete-ranging protocols for network localization require every node pair to exchange signals, which prolongs the ranging cycle. In this paper, we propose sparse signal-multiplexing network ranging (S-SM-NR), a task-oriented framework that adapts the transmit-listen schedule to th…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "824c48884e16",
+    "title": "Variance-Optimal Counterfactual Policy Design for Sample-Efficient Online A/B Testing",
+    "url": "https://arxiv.org/abs/2611.24757",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2611.24757v1 Announce Type: cross Abstract: Online A/B testing is the standard approach for evaluating changes to user-facing systems, such as a new recommendation or ranking policy, before deployment. While the difference-in-means estimator of a standard A/B test is unbiased, it often suffers from high variance. When the treatment and production policies choose the same actions with similar probabilities, the resulting observations can add noise while providing little information about th…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "271dfa74e585",
+    "title": "Know Before You Fetch: When Does Confidence-Based Retrieval-Budget Allocation Pay Off?",
+    "url": "https://arxiv.org/abs/2606.29959",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2606.29959v2 Announce Type: replace Abstract: Adaptive retrieval-augmented generation uses a signal from the reader, such as its confidence when answering without retrieval (closed-book), to decide whether and how much to retrieve. We compare such methods not with always retrieving many passages but with the best simple policy under the same cap on average passages per query: a fixed depth or a random mixture of fixed depths. Policies allocate zero, one or five passages and are scored on h…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "0d5ea1ef95b2",
+    "title": "PEARL: Personalized Streaming Video Understanding with Runtime-Defined Concepts",
+    "url": "https://arxiv.org/abs/2603.20422",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2603.20422v2 Announce Type: replace-cross Abstract: Unlike humans, who learn new concepts from a continuous visual stream, existing personalized vision-language models (VLMs) internalize a predefined concept set during training and operate on static images or offline videos. They cannot register a concept that a user defines in the middle of a stream, nor recall the earlier moments in which it appeared. We formalize this task as Personalized Streaming Video Understanding (PSVU) and introdu…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "7f56ab6256de",
+    "title": "Toward Agentic Retrieval-Augmented Generation for Enterprise Retail Workflows over Heterogeneous Data Sources",
+    "url": "https://arxiv.org/abs/2610.25096",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2610.25096v3 Announce Type: replace-cross Abstract: Enterprise retail workflows require agents to chain evidence across heterogeneous sources, from structured product and order records to unstructured inquiries and reviews, yet existing agentic RAG benchmarks rarely capture this challenge. To enable controlled evaluation of such workflows, we introduce RetailBridge, a compositional retail benchmark built from persona-driven simulations. Its questions are constructed by linking entities and…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "3c1bf493b68e",
+    "title": "Theses by publication in Spain: output, authorship and integrity concerns",
+    "url": "https://arxiv.org/abs/2611.24350",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2611.24350v1 Announce Type: new Abstract: Theses by publication are accepted in most Spanish universities, yet there is little empirical evidence on the scientific output that supports them or on the role doctoral candidates play in that output, and it is not even possible to determine what share of all theses defended in the country follow this format. To address this gap, we analysed a sample of 338 theses by publication defended in Spain in 2025 and 2026, identified in the Teseo databas…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "25e810fd0ee0",
+    "title": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
+    "url": "https://www.wired.com/story/guys-really-we-got-this/",
+    "source": "Wired AI",
+    "date": "2026-11-18T22:16:23+00:00",
+    "summary": "WIRED is tallying up how many times Nvidia’s interim CEO has assured everyone that the company has everything under control.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "66a7c55dd51c",
+    "title": "Even His Own Officials Don’t Think Trump’s China Trip Will Lead to Progress on AI",
+    "url": "https://www.wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit/",
+    "source": "Wired AI",
+    "date": "2026-11-18T22:00:00+00:00",
+    "summary": "Fallout from the Nvidia scandal has made any negotiations around AI difficult, officials say.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "d1d45343ebee",
+    "title": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways",
+    "url": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/",
+    "source": "Wired AI",
+    "date": "2026-11-18T21:15:00+00:00",
+    "summary": "The Trump administration announced plans to clamp down on China’s access to AI chips. Apparently, the cheating scandal of the century was the motivation they were missing.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "30748ff8ddfb",
+    "title": "Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity",
+    "url": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/",
+    "source": "Wired AI",
+    "date": "2026-11-18T17:33:07+00:00",
+    "summary": "Interim CEO Colette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "c0bdf578bee4",
+    "title": "Artex Is Criminals’ New Favorite ‘Point-and-Shoot’ AI Hacking Tool",
+    "url": "https://www.wired.com/story/artex-ai-hacking-tools/",
+    "source": "Wired AI",
+    "date": "2026-11-18T16:35:24+00:00",
+    "summary": "Artex and similar penetration testing tools allow newbie hackers to scan targeted systems for vulnerabilities and successfully wage attacks using prompts fed to chatbots.",
+    "category": "AI & Knowledge Management"
+  },
+  {
     "id": "1b11d2c31e28",
     "title": "‘Just Ridiculous’: A Famed Philosopher Takes on AI Consciousness",
     "url": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
