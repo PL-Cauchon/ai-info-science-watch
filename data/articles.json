@@ -1,5 +1,149 @@
 [
   {
+    "id": "308136ff0a79",
+    "title": "New FPF Infographic Examines Key Privacy Concerns and Barriers to AgeTech Adoption Among Older Adults",
+    "url": "https://fpf.org/press-releases/new-fpf-infographic-examines-key-privacy-concerns-and-barriers-to-agetech-adoption-among-older-adults/",
+    "source": "Future of Privacy Forum",
+    "date": "2026-11-20T13:10:00+00:00",
+    "summary": "WASHINGTON, D.C. – The Future of Privacy Forum (FPF), a global non-profit focused on data protection, AI, and emerging technologies, today released a new infographic analyzing key privacy and data governance considerations surrounding the rapidly growing ‘AgeTech’ sector. FPF Senior Technologist Jordan Wrigley led the development of the infographic, entitled “Aging at Home: Caregiving, Privacy, [&#8230;]",
+    "category": "AI & Information Governance"
+  },
+  {
+    "id": "a64a68044c39",
+    "title": "Muse Is Unleashing a World of Pettiness on Instagram",
+    "url": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
+    "source": "Wired AI",
+    "date": "2026-11-20T12:00:00+00:00",
+    "summary": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "8fbc77318659",
+    "title": "Regular Tech Bros Are Worried About Honeypots",
+    "url": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/",
+    "source": "Wired AI",
+    "date": "2026-11-20T11:00:00+00:00",
+    "summary": "The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a7839ae95aff",
+    "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
+    "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+    "source": "Wired AI",
+    "date": "2026-11-20T07:00:00+00:00",
+    "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "ec0292143378",
+    "title": "LSP-RAG: Latent Scoring Perspectives for Knowledge Graph Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2611.25229",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-20T05:00:00+00:00",
+    "summary": "arXiv:2611.25229v1 Announce Type: new Abstract: Large Language Models (LLMs) have demonstrated strong capabilities in open-domain question answering, but often struggle with factual accuracy and multi-hop reasoning due to the incompleteness of the training corpora. A promising solution is Knowledge Graph Retrieval-Augmented Generation (KG-RAG), which supplements LLMs with structured knowledge retrieved from external knowledge graphs (KGs). However, existing KG-RAG methods either rely on large-sc…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "4bda4a764b3b",
+    "title": "Retrieving Patristic References and Modelling Topics in Bullinger's Reformation Correspondence",
+    "url": "https://arxiv.org/abs/2611.25247",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-20T05:00:00+00:00",
+    "summary": "arXiv:2611.25247v1 Announce Type: new Abstract: The correspondence of Heinrich Bullinger (1504-1575), Swiss Reformer and Antistes of Zurich, documents the political and religious debates of the Reformation, including extensive appeals to the Church Fathers as authoritative sources. Detecting such references computationally remains largely unexplored. We investigate dense and sparse retrieval for patristic reference detection, and metadata-informed topic modelling as a proxy for the topics and id…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "d049297291be",
+    "title": "LQ-Rec: Late Quantization for Sequential Recommendation",
+    "url": "https://arxiv.org/abs/2611.25256",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-20T05:00:00+00:00",
+    "summary": "arXiv:2611.25256v1 Announce Type: new Abstract: Generative retrieval (GR) for sequential recommendation compresses each item into a short semantic ID and trains an autoregressive decoder to generate next-item codes from a user history. While appealing for cold-start handling and storage, au- toregressive GR suffers a structural scaling limit: typically, longer semantic IDs reduce quantization error in principle but degrade ranking quality and quadratic memory usage against semantic ID length. We…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "def63a3cd0e6",
+    "title": "FinVeriQA: Financial Research Agents for Question Answering: Routing, Retrieval, MCP Tool Use, and Provenance-Aware Evidence Verification",
+    "url": "https://arxiv.org/abs/2611.25071",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-20T05:00:00+00:00",
+    "summary": "arXiv:2611.25071v1 Announce Type: cross Abstract: Large language models (LLMs) write fluent financial analyses but miscompute ratios, recall stale prices, and route questions to the wrong tool with high confidence. We ask which component should do each job in a financial question-answering assistant, and study it with FinVeriQA, an open-source multi-agent research prototype over SEC filings and live market data: a compact typed-decision model (Laya) routes each question and screens out advice re…",
+    "category": "AI & Knowledge Management"
+  },
+  {
+    "id": "08c396a74c27",
+    "title": "Can Explanations Improve Recommendations? Evidence from Prediction-Informed Explanations",
+    "url": "https://arxiv.org/abs/2502.16759",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-20T05:00:00+00:00",
+    "summary": "arXiv:2502.16759v4 Announce Type: replace Abstract: Recommender systems are central to digital platforms, yet they face a fundamental trade-off between accuracy and explainability: Black-box models achieve strong performance but lack interpretability needed for trust and adoption, while existing explainable AI approaches often generate explanations post hoc or sacrifice accuracy. We challenge this view, proposing that explanations, when designed as an integral component of the system and aligned…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "b5d827b4f015",
+    "title": "Beyond Dimensionality: Domain Shift and Catastrophic Forgetting in Single- vs. Multi-Vector Retrieval",
+    "url": "https://arxiv.org/abs/2603.29519",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-20T05:00:00+00:00",
+    "summary": "arXiv:2603.29519v2 Announce Type: replace Abstract: Recent work by Weller et al. introduced the naturalistic benchmark LIMIT and showed that widely used single-vector embedding models suffer substantial degradation in retrieval quality, attributing this primarily to limited embedding dimensionality. In our work, we revisit this explanation and argue that dimensionality alone is unlikely to account for the observed failures; in fact, results of Alon et al. imply that $2k+1$ dimensions suffice for…",
+    "category": "Information Retrieval & Search"
+  },
+  {
+    "id": "297d3d3b4904",
+    "title": "Keep it Simple! A Multiple-Choice Task can Benefit Generative Recommendation",
+    "url": "https://arxiv.org/abs/2611.19320",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-20T05:00:00+00:00",
+    "summary": "arXiv:2611.19320v2 Announce Type: replace Abstract: Sequential recommendation has recently witnessed growing interest in generative retrieval. One of the most popular approaches is to autoregressively generate the semantic identifiers (SIDs) of items as recommendations. Existing efforts mainly rely on semantic alignment, sophisticated architectural designs, and extensive hyperparameter tuning. However, the conventional learning framework for generative models could have foundational limitations.…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "48c33f1c2a6a",
+    "title": "MMIntentFlow: An Intent-Driven Real-Time Multimodal Search System with Image-Text Queries at Xiaohongshu",
+    "url": "https://arxiv.org/abs/2611.20448",
+    "source": "arXiv: Information Retrieval",
+    "date": "2026-11-20T05:00:00+00:00",
+    "summary": "arXiv:2611.20448v2 Announce Type: replace Abstract: Multimodal search with image-text queries helps users find notes in user-generated content (UGC) communities and serves as a key search tool for multimodal search agents. For such queries, query-note relevance depends on the user's retrieval intent and cannot be determined by visual or topical similarity alone. Simply reranking visual search results cannot fully address this challenge, as notes relevant to the user's intent may be missing from …",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "977e1b2d9cbf",
+    "title": "Uncontrolled source titles: When Nature, Science, and PNAS meet Scopus",
+    "url": "https://arxiv.org/abs/2611.25627",
+    "source": "arXiv: Digital Libraries",
+    "date": "2026-11-20T05:00:00+00:00",
+    "summary": "arXiv:2611.25627v1 Announce Type: new Abstract: Bibliographic databases such as Scopus and Web of Science play a critical role in literature discovery, systematic reviews, bibliometric analyses, and research evaluation, yet their reliability depends on effective control of the quality of the bibliographic data. This study examines the problem of uncontrolled source titles in Scopus by comparing five possibly adopted journal-level retrieval strategies across three flagship journals-Nature, Scienc…",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "bb79788fc6f4",
+    "title": "What’s With All These Outages?",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
+    "source": "Wired AI",
+    "date": "2026-11-19T21:57:01+00:00",
+    "summary": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "394e8021d9a9",
+    "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
+    "url": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
+    "source": "Wired AI",
+    "date": "2026-11-19T20:34:17+00:00",
+    "summary": "In Taiwan, some food vendors are distancing themselves from Nvidia’s former CEO. Others stand by him. “It’s not as if he killed someone or set something on fire,” says one shop owner.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "2a01bbcb107b",
+    "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
+    "url": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
+    "source": "Wired AI",
+    "date": "2026-11-19T17:00:00+00:00",
+    "summary": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "cafd31ea08c1",
     "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
     "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
