@@ -1,5 +1,41 @@
 [
   {
+    "id": "9dd04be51f1d",
+    "title": "The Outages Are Just Getting Started",
+    "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+    "source": "Wired AI",
+    "date": "2026-11-21T13:00:00+00:00",
+    "summary": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "a7d20c80270e",
+    "title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
+    "url": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
+    "source": "Wired AI",
+    "date": "2026-11-20T23:24:02+00:00",
+    "summary": "The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn’t get the memo.",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "cd728ceea767",
+    "title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
+    "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+    "source": "Wired AI",
+    "date": "2026-11-20T19:52:21+00:00",
+    "summary": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”",
+    "category": "AI & Information Sciences"
+  },
+  {
+    "id": "01449c61c8b8",
+    "title": "The most misunderstood graph in AI just got a major update",
+    "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+    "source": "MIT Tech Review",
+    "date": "2026-11-20T18:15:15+00:00",
+    "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely&#8230;",
+    "category": "AI & Information Sciences"
+  },
+  {
     "id": "308136ff0a79",
     "title": "New FPF Infographic Examines Key Privacy Concerns and Barriers to AgeTech Adoption Among Older Adults",
     "url": "https://fpf.org/press-releases/new-fpf-infographic-examines-key-privacy-concerns-and-barriers-to-agetech-adoption-among-older-adults/",
